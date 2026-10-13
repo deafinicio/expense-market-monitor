@@ -1,7 +1,7 @@
 import{useEffect,useMemo,useState}from'react';
 import ReactECharts from'echarts-for-react';
 import{motion}from'motion/react';
-import{Activity,ArrowDown,ArrowUp,ArrowUpDown,CalendarDays,CheckCircle2,ChevronDown,ChevronUp,Download,ExternalLink,Filter,Globe2,MessageSquareText,Search,Smartphone,TriangleAlert,X}from'lucide-react';
+import{Activity,ArrowDown,ArrowUp,ArrowUpDown,CalendarDays,CheckCircle2,ChevronDown,Download,ExternalLink,Filter,Globe2,MessageSquareText,Search,Smartphone,TriangleAlert,X}from'lucide-react';
 import * as Dialog from'@radix-ui/react-dialog';
 import{Button}from'./components/ui/button';
 type Platform='google_play'|'app_store';
