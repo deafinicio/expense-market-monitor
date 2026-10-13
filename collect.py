@@ -54,7 +54,14 @@ def relevant(item):
 
 def google_search(query, lang="en", country="us"):
     from google_play_scraper import search
-    results = search(query, lang=lang, country=country, n_hits=100)
+    try:
+        results = search(query, lang=lang, country=country, n_hits=100)
+    except (TypeError, KeyError, IndexError):
+        # Some localized store responses are incompatible with the unofficial parser.
+        # Retry with an English interface but preserve the localized query and country.
+        if lang == "en":
+            raise
+        results = search(query, lang="en", country=country, n_hits=100)
     if not isinstance(results, list):
         raise RuntimeError("Unexpected Google Play response")
     return [
