@@ -1,4 +1,5142 @@
 {
-  "google_play": {"day": null, "apps": []},
-  "app_store": {"day": null, "apps": []}
+  "google_play": {
+    "day": "2026-10-13",
+    "apps": [
+      {
+        "id": "org.pixelrush.moneyiq",
+        "name": "1Money: expense tracker budget",
+        "url": "https://play.google.com/store/apps/details?id=org.pixelrush.moneyiq"
+      },
+      {
+        "id": "com.money.manager.ex.android",
+        "name": "Android Money Manager Ex",
+        "url": "https://play.google.com/store/apps/details?id=com.money.manager.ex.android"
+      },
+      {
+        "id": "com.beyondbudget",
+        "name": "Beyond Budget: Budget Planner",
+        "url": "https://play.google.com/store/apps/details?id=com.beyondbudget"
+      },
+      {
+        "id": "app.monee",
+        "name": "Budget & Expense Tracker Monee",
+        "url": "https://play.google.com/store/apps/details?id=app.monee"
+      },
+      {
+        "id": "com.pocketguard.android.app",
+        "name": "Budget App — PocketGuard",
+        "url": "https://play.google.com/store/apps/details?id=com.pocketguard.android.app"
+      },
+      {
+        "id": "com.budgeting365.app",
+        "name": "Budget Lock: Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.budgeting365.app"
+      },
+      {
+        "id": "com.cleevio.spendee",
+        "name": "Budget Planner & App: Spendee",
+        "url": "https://play.google.com/store/apps/details?id=com.cleevio.spendee"
+      },
+      {
+        "id": "com.nightowl.spendsmart",
+        "name": "Budget Planner - Offline",
+        "url": "https://play.google.com/store/apps/details?id=com.nightowl.spendsmart"
+      },
+      {
+        "id": "com.colpit.diamondcoming.isavemoney",
+        "name": "Budget planner—Expense tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.colpit.diamondcoming.isavemoney"
+      },
+      {
+        "id": "com.budgetgoal.mobile",
+        "name": "BudgetGoal: Budget Planner",
+        "url": "https://play.google.com/store/apps/details?id=com.budgetgoal.mobile"
+      },
+      {
+        "id": "com.thebudgetingapp.thebudgetingapp",
+        "name": "Budgeting App - Spend Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.thebudgetingapp.thebudgetingapp"
+      },
+      {
+        "id": "com.danruddev.budgetum",
+        "name": "Budgetum: Budget Planner",
+        "url": "https://play.google.com/store/apps/details?id=com.danruddev.budgetum"
+      },
+      {
+        "id": "com.fin.plan",
+        "name": "Budge・Savings & Budget Planner",
+        "url": "https://play.google.com/store/apps/details?id=com.fin.plan"
+      },
+      {
+        "id": "cashbook.cashbook",
+        "name": "Cash Book- daily expenses",
+        "url": "https://play.google.com/store/apps/details?id=cashbook.cashbook"
+      },
+      {
+        "id": "com.budget.tracker_app",
+        "name": "Cashew—Expense Budget Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.budget.tracker_app"
+      },
+      {
+        "id": "com.benoitletondor.easybudgetapp",
+        "name": "EasyBudget - Budget planning",
+        "url": "https://play.google.com/store/apps/details?id=com.benoitletondor.easybudgetapp"
+      },
+      {
+        "id": "com.emmaprod",
+        "name": "Emma - Budget Planner Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.emmaprod"
+      },
+      {
+        "id": "com.everydollar.android",
+        "name": "EveryDollar: Budget Management",
+        "url": "https://play.google.com/store/apps/details?id=com.everydollar.android"
+      },
+      {
+        "id": "com.finance.expanager",
+        "name": "Expanager : Expense Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.finance.expanager"
+      },
+      {
+        "id": "ai.myexpense.app",
+        "name": "Expense AI - Budget Tracker",
+        "url": "https://play.google.com/store/apps/details?id=ai.myexpense.app"
+      },
+      {
+        "id": "com.neslit.budgettrackerapp",
+        "name": "Expense Budget Planner",
+        "url": "https://play.google.com/store/apps/details?id=com.neslit.budgettrackerapp"
+      },
+      {
+        "id": "com.tariq.expenseeasy",
+        "name": "Expense Easy: AI Money Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.tariq.expenseeasy"
+      },
+      {
+        "id": "com.handyapps.expenseiq",
+        "name": "Expense IQ: Money Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.handyapps.expenseiq"
+      },
+      {
+        "id": "com.expensemanager",
+        "name": "Expense Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.expensemanager"
+      },
+      {
+        "id": "at.markushi.expensemanager",
+        "name": "Expense Manager",
+        "url": "https://play.google.com/store/apps/details?id=at.markushi.expensemanager"
+      },
+      {
+        "id": "vsolutions.expenses",
+        "name": "Expense Manager",
+        "url": "https://play.google.com/store/apps/details?id=vsolutions.expenses"
+      },
+      {
+        "id": "com.naveenapps.expensemanager",
+        "name": "Expense Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.naveenapps.expensemanager"
+      },
+      {
+        "id": "com.expensemanager.pro",
+        "name": "Expense Manager Pro",
+        "url": "https://play.google.com/store/apps/details?id=com.expensemanager.pro"
+      },
+      {
+        "id": "com.creamsoft.whereismymoney",
+        "name": "Expense Tracker & Budget App",
+        "url": "https://play.google.com/store/apps/details?id=com.creamsoft.whereismymoney"
+      },
+      {
+        "id": "com.pankaj.TrackMyExpense",
+        "name": "Expense Tracker AI Budget",
+        "url": "https://play.google.com/store/apps/details?id=com.pankaj.TrackMyExpense"
+      },
+      {
+        "id": "com.jtnrdev.expensetrackerapp",
+        "name": "Expense Tracker and Budget",
+        "url": "https://play.google.com/store/apps/details?id=com.jtnrdev.expensetrackerapp"
+      },
+      {
+        "id": "app.vinztech.budgetit",
+        "name": "Expense Tracker App - BudgetIt",
+        "url": "https://play.google.com/store/apps/details?id=app.vinztech.budgetit"
+      },
+      {
+        "id": "com.helferleinsoftware.expenses",
+        "name": "Expense Tracker Money Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.helferleinsoftware.expenses"
+      },
+      {
+        "id": "org.me.mobiexpensifyg",
+        "name": "Expensify - Travel & Expense",
+        "url": "https://play.google.com/store/apps/details?id=org.me.mobiexpensifyg"
+      },
+      {
+        "id": "com.colpit.diamondcoming.isavemoneygo",
+        "name": "Family budget—Spending tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.colpit.diamondcoming.isavemoneygo"
+      },
+      {
+        "id": "com.blodhgard.easybudget",
+        "name": "Fast Budget - Expense Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.blodhgard.easybudget"
+      },
+      {
+        "id": "com.finart",
+        "name": "FinArt: AI Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.finart"
+      },
+      {
+        "id": "ajl.budget.finzee",
+        "name": "Finzee - Budget planner",
+        "url": "https://play.google.com/store/apps/details?id=ajl.budget.finzee"
+      },
+      {
+        "id": "money.fold.marble",
+        "name": "Fold: Expense Tracker & Budget",
+        "url": "https://play.google.com/store/apps/details?id=money.fold.marble"
+      },
+      {
+        "id": "com.amitm29.am.dailyexpensesmanager",
+        "name": "Gist Money: Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.amitm29.am.dailyexpensesmanager"
+      },
+      {
+        "id": "com.dayspringtech.envelopes",
+        "name": "Goodbudget: Budget & Finance",
+        "url": "https://play.google.com/store/apps/details?id=com.dayspringtech.envelopes"
+      },
+      {
+        "id": "incomeexpense.incomeexpense",
+        "name": "Income Expense- daily expenses",
+        "url": "https://play.google.com/store/apps/details?id=incomeexpense.incomeexpense"
+      },
+      {
+        "id": "com.intuit.quickbooks",
+        "name": "Intuit QuickBooks for Business",
+        "url": "https://play.google.com/store/apps/details?id=com.intuit.quickbooks"
+      },
+      {
+        "id": "com.ivy.wallet",
+        "name": "Ivy Wallet: money manager",
+        "url": "https://play.google.com/store/apps/details?id=com.ivy.wallet"
+      },
+      {
+        "id": "com.glgjing.money.manager.bookkeeping.meow",
+        "name": "Meow Money Manager & Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.glgjing.money.manager.bookkeeping.meow"
+      },
+      {
+        "id": "br.com.gerenciadorfinanceiro.controller",
+        "name": "Mobills: Budget Planner",
+        "url": "https://play.google.com/store/apps/details?id=br.com.gerenciadorfinanceiro.controller"
+      },
+      {
+        "id": "com.monarchmoney.mobile",
+        "name": "Monarch: Budget & Track Money",
+        "url": "https://play.google.com/store/apps/details?id=com.monarchmoney.mobile"
+      },
+      {
+        "id": "com.monefy.app.lite",
+        "name": "Monefy: Money & Budget App",
+        "url": "https://play.google.com/store/apps/details?id=com.monefy.app.lite"
+      },
+      {
+        "id": "com.bookmark.money",
+        "name": "Money Lover - Money Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.bookmark.money"
+      },
+      {
+        "id": "com.wildducklabs.moneymanager",
+        "name": "Money Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.wildducklabs.moneymanager"
+      },
+      {
+        "id": "ru.innim.my_finance",
+        "name": "Money manager & expenses",
+        "url": "https://play.google.com/store/apps/details?id=ru.innim.my_finance"
+      },
+      {
+        "id": "com.realbyteapps.moneya",
+        "name": "Money Manager (Remove Ads)",
+        "url": "https://play.google.com/store/apps/details?id=com.realbyteapps.moneya"
+      },
+      {
+        "id": "money.budget.planner.tracker",
+        "name": "Money Manager - Budget App",
+        "url": "https://play.google.com/store/apps/details?id=money.budget.planner.tracker"
+      },
+      {
+        "id": "com.hastik.money_manager",
+        "name": "Money Manager Budget Planner",
+        "url": "https://play.google.com/store/apps/details?id=com.hastik.money_manager"
+      },
+      {
+        "id": "com.realbyteapps.moneymanagerfree",
+        "name": "Money Manager Expense & Budget",
+        "url": "https://play.google.com/store/apps/details?id=com.realbyteapps.moneymanagerfree"
+      },
+      {
+        "id": "com.frmobile.moneymanager",
+        "name": "Money Manager Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.frmobile.moneymanager"
+      },
+      {
+        "id": "com.dong.money.manager",
+        "name": "Money Manager Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.dong.money.manager"
+      },
+      {
+        "id": "com.happy.money_manager",
+        "name": "Money Manager ：Bills & Budget",
+        "url": "https://play.google.com/store/apps/details?id=com.happy.money_manager"
+      },
+      {
+        "id": "com.ktwapps.walletmanager",
+        "name": "Money Manager: Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.ktwapps.walletmanager"
+      },
+      {
+        "id": "com.officialbrain.money_manager",
+        "name": "Money Manager: Expense tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.officialbrain.money_manager"
+      },
+      {
+        "id": "com.moneytrack.android",
+        "name": "Money Manager: Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.moneytrack.android"
+      },
+      {
+        "id": "com.microappdigital.moneymanager",
+        "name": "Money Manager: Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.microappdigital.moneymanager"
+      },
+      {
+        "id": "moneytracker.expensetracker.budgetplanner.spendingtracker",
+        "name": "Money Tracker Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=moneytracker.expensetracker.budgetplanner.spendingtracker"
+      },
+      {
+        "id": "com.freeman.moneymanager",
+        "name": "Money Tracker-Expense & Budget",
+        "url": "https://play.google.com/store/apps/details?id=com.freeman.moneymanager"
+      },
+      {
+        "id": "com.zotiger.accountbook",
+        "name": "Money+ Cute Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.zotiger.accountbook"
+      },
+      {
+        "id": "com.raha.app.mymoney.free",
+        "name": "MyMoney—Track Expense & Budget",
+        "url": "https://play.google.com/store/apps/details?id=com.raha.app.mymoney.free"
+      },
+      {
+        "id": "com.mobilecreditcards",
+        "name": "NerdWallet: Smart Money App",
+        "url": "https://play.google.com/store/apps/details?id=com.mobilecreditcards"
+      },
+      {
+        "id": "com.quicken.acme",
+        "name": "Quicken: Budget & Track Money",
+        "url": "https://play.google.com/store/apps/details?id=com.quicken.acme"
+      },
+      {
+        "id": "com.easyexpense",
+        "name": "Receipt Scanner: Easy Expense",
+        "url": "https://play.google.com/store/apps/details?id=com.easyexpense"
+      },
+      {
+        "id": "com.truebill",
+        "name": "Rocket Money - Bills & Budgets",
+        "url": "https://play.google.com/store/apps/details?id=com.truebill"
+      },
+      {
+        "id": "com.jc.rollymoneytracker",
+        "name": "Rolly: AI Budget Money Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.jc.rollymoneytracker"
+      },
+      {
+        "id": "balance.money.manager.flivion",
+        "name": "Simple Money Manager - Expense",
+        "url": "https://play.google.com/store/apps/details?id=balance.money.manager.flivion"
+      },
+      {
+        "id": "com.simplywise.mobile",
+        "name": "SimplyWise: Receipts, Expenses",
+        "url": "https://play.google.com/store/apps/details?id=com.simplywise.mobile"
+      },
+      {
+        "id": "com.mhriley.spendingtracker",
+        "name": "Spending Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.mhriley.spendingtracker"
+      },
+      {
+        "id": "easy.spending.tracker.budget",
+        "name": "Spending Tracker",
+        "url": "https://play.google.com/store/apps/details?id=easy.spending.tracker.budget"
+      },
+      {
+        "id": "dev.hemanths.paisa",
+        "name": "Spending Tracker - Paisa",
+        "url": "https://play.google.com/store/apps/details?id=dev.hemanths.paisa"
+      },
+      {
+        "id": "com.Splitwise.SplitwiseMobile",
+        "name": "Splitwise",
+        "url": "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile"
+      },
+      {
+        "id": "pw.ninthfi.myincome",
+        "name": "Trackwallet: Budget & Expenses",
+        "url": "https://play.google.com/store/apps/details?id=pw.ninthfi.myincome"
+      },
+      {
+        "id": "money.vento.expense.tracker",
+        "name": "Vento Expense & Budget Tracker",
+        "url": "https://play.google.com/store/apps/details?id=money.vento.expense.tracker"
+      },
+      {
+        "id": "com.droid4you.application.wallet",
+        "name": "Wallet: Budget Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.droid4you.application.wallet"
+      },
+      {
+        "id": "com.youneedabudget.evergreen.app",
+        "name": "YNAB",
+        "url": "https://play.google.com/store/apps/details?id=com.youneedabudget.evergreen.app"
+      },
+      {
+        "id": "com.zoho.expense",
+        "name": "Zoho Expense - Expense Reports",
+        "url": "https://play.google.com/store/apps/details?id=com.zoho.expense"
+      }
+    ]
+  },
+  "app_store": {
+    "day": "2026-10-13",
+    "apps": [
+      {
+        "id": "6801922573",
+        "name": "1099Tracks",
+        "url": "https://apps.apple.com/us/app/1099tracks/id6801922573?uo=4"
+      },
+      {
+        "id": "1092491157",
+        "name": "1tap receipts: Tax & Expenses",
+        "url": "https://apps.apple.com/us/app/1tap-receipts-tax-expenses/id1092491157?uo=4"
+      },
+      {
+        "id": "370662888",
+        "name": "ABUKAI Expense Reports Receipt",
+        "url": "https://apps.apple.com/us/app/abukai-expense-reports-receipt/id370662888?uo=4"
+      },
+      {
+        "id": "1596113242",
+        "name": "Account & Expense Manager",
+        "url": "https://apps.apple.com/us/app/account-expense-manager/id1596113242?uo=4"
+      },
+      {
+        "id": "880944538",
+        "name": "Account Book - Money Manager",
+        "url": "https://apps.apple.com/us/app/account-book-money-manager/id880944538?uo=4"
+      },
+      {
+        "id": "1609755155",
+        "name": "Account Manager Expense Track",
+        "url": "https://apps.apple.com/us/app/account-manager-expense-track/id1609755155?uo=4"
+      },
+      {
+        "id": "325834957",
+        "name": "Account Tracker",
+        "url": "https://apps.apple.com/us/app/account-tracker/id325834957?uo=4"
+      },
+      {
+        "id": "1071399705",
+        "name": "Account Tracker Pro",
+        "url": "https://apps.apple.com/us/app/account-tracker-pro/id1071399705?uo=4"
+      },
+      {
+        "id": "814048454",
+        "name": "Accounting・Bookkeeping Taxnote",
+        "url": "https://apps.apple.com/us/app/accounting-bookkeeping-taxnote/id814048454?uo=4"
+      },
+      {
+        "id": "494333145",
+        "name": "Accounts 2 Checkbook",
+        "url": "https://apps.apple.com/us/app/accounts-2-checkbook/id494333145?uo=4"
+      },
+      {
+        "id": "1269587378",
+        "name": "Acubiz",
+        "url": "https://apps.apple.com/us/app/acubiz/id1269587378?uo=4"
+      },
+      {
+        "id": "6535683637",
+        "name": "AdsBan ExpenseTrack",
+        "url": "https://apps.apple.com/us/app/adsban-expensetrack/id6535683637?uo=4"
+      },
+      {
+        "id": "6765464814",
+        "name": "Agila: Finance Coach",
+        "url": "https://apps.apple.com/us/app/agila-finance-coach/id6765464814?uo=4"
+      },
+      {
+        "id": "6740215854",
+        "name": "AI Budget Planner: Penny",
+        "url": "https://apps.apple.com/us/app/ai-budget-planner-penny/id6740215854?uo=4"
+      },
+      {
+        "id": "6758518297",
+        "name": "AI Expense Notebook & Tracker",
+        "url": "https://apps.apple.com/us/app/ai-expense-notebook-tracker/id6758518297?uo=4"
+      },
+      {
+        "id": "1506783728",
+        "name": "AI Expense Tracker & Budget",
+        "url": "https://apps.apple.com/us/app/ai-expense-tracker-budget/id1506783728?uo=4"
+      },
+      {
+        "id": "6793491471",
+        "name": "AI Personal Finance Tracker",
+        "url": "https://apps.apple.com/us/app/ai-personal-finance-tracker/id6793491471?uo=4"
+      },
+      {
+        "id": "6754592062",
+        "name": "AI Weekly Spend Tracker - Pace",
+        "url": "https://apps.apple.com/us/app/ai-weekly-spend-tracker-pace/id6754592062?uo=4"
+      },
+      {
+        "id": "6504374831",
+        "name": "AIExpense -Track your expenses",
+        "url": "https://apps.apple.com/us/app/aiexpense-track-your-expenses/id6504374831?uo=4"
+      },
+      {
+        "id": "1057771088",
+        "name": "Albert: Budgeting and Banking",
+        "url": "https://apps.apple.com/us/app/albert-budgeting-and-banking/id1057771088?uo=4"
+      },
+      {
+        "id": "6804398517",
+        "name": "Allocated: Budget Planner",
+        "url": "https://apps.apple.com/us/app/allocated-budget-planner/id6804398517?uo=4"
+      },
+      {
+        "id": "6782104791",
+        "name": "Alto - Budget by Paycheck",
+        "url": "https://apps.apple.com/us/app/alto-budget-by-paycheck/id6782104791?uo=4"
+      },
+      {
+        "id": "738654899",
+        "name": "Amounts Budget Expense Tracker",
+        "url": "https://apps.apple.com/us/app/amounts-budget-expense-tracker/id738654899?uo=4"
+      },
+      {
+        "id": "6757243898",
+        "name": "APSense: Expense Reports",
+        "url": "https://apps.apple.com/us/app/apsense-expense-reports/id6757243898?uo=4"
+      },
+      {
+        "id": "6759633725",
+        "name": "Artha Link : Money Manager",
+        "url": "https://apps.apple.com/us/app/artha-link-money-manager/id6759633725?uo=4"
+      },
+      {
+        "id": "6805487039",
+        "name": "ATLAS MONEY TRACKER",
+        "url": "https://apps.apple.com/us/app/atlas-money-tracker/id6805487039?uo=4"
+      },
+      {
+        "id": "6751443432",
+        "name": "AVA Receipt Scanner, Organizer",
+        "url": "https://apps.apple.com/us/app/ava-receipt-scanner-organizer/id6751443432?uo=4"
+      },
+      {
+        "id": "1537213226",
+        "name": "Balance Pro: Money & Budget",
+        "url": "https://apps.apple.com/us/app/balance-pro-money-budget/id1537213226?uo=4"
+      },
+      {
+        "id": "1606536498",
+        "name": "Balance – Personal Finance",
+        "url": "https://apps.apple.com/us/app/balance-personal-finance/id1606536498?uo=4"
+      },
+      {
+        "id": "6752376267",
+        "name": "BananaSplit: Track Expenses",
+        "url": "https://apps.apple.com/us/app/bananasplit-track-expenses/id6752376267?uo=4"
+      },
+      {
+        "id": "597568624",
+        "name": "Banck (Cloud Expense Tracker)",
+        "url": "https://apps.apple.com/us/app/banck-cloud-expense-tracker/id597568624?uo=4"
+      },
+      {
+        "id": "6766186438",
+        "name": "Bank AI: AI Money Manager",
+        "url": "https://apps.apple.com/us/app/bank-ai-ai-money-manager/id6766186438?uo=4"
+      },
+      {
+        "id": "1644294113",
+        "name": "Basic Expense Tracker",
+        "url": "https://apps.apple.com/us/app/basic-expense-tracker/id1644294113?uo=4"
+      },
+      {
+        "id": "6759287628",
+        "name": "Baxak",
+        "url": "https://apps.apple.com/us/app/baxak/id6759287628?uo=4"
+      },
+      {
+        "id": "1554488878",
+        "name": "Beacon Budget: Money Manager",
+        "url": "https://apps.apple.com/us/app/beacon-budget-money-manager/id1554488878?uo=4"
+      },
+      {
+        "id": "6739036460",
+        "name": "BeanLedger: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/beanledger-expense-tracker/id6739036460?uo=4"
+      },
+      {
+        "id": "6444814563",
+        "name": "Bekke - Budget Planner Tracker",
+        "url": "https://apps.apple.com/us/app/bekke-budget-planner-tracker/id6444814563?uo=4"
+      },
+      {
+        "id": "915126748",
+        "name": "Belco Money Manager",
+        "url": "https://apps.apple.com/us/app/belco-money-manager/id915126748?uo=4"
+      },
+      {
+        "id": "492359166",
+        "name": "Best Budget",
+        "url": "https://apps.apple.com/us/app/best-budget/id492359166?uo=4"
+      },
+      {
+        "id": "489819235",
+        "name": "Best Budget Pro",
+        "url": "https://apps.apple.com/us/app/best-budget-pro/id489819235?uo=4"
+      },
+      {
+        "id": "1340956733",
+        "name": "Best Money Manager",
+        "url": "https://apps.apple.com/us/app/best-money-manager/id1340956733?uo=4"
+      },
+      {
+        "id": "6504831143",
+        "name": "BetterBudgets: Budget Planner",
+        "url": "https://apps.apple.com/us/app/betterbudgets-budget-planner/id6504831143?uo=4"
+      },
+      {
+        "id": "6739944668",
+        "name": "Bill Organizer -Budget Planner",
+        "url": "https://apps.apple.com/us/app/bill-organizer-budget-planner/id6739944668?uo=4"
+      },
+      {
+        "id": "1454624499",
+        "name": "Bill Organizer Budget Planner",
+        "url": "https://apps.apple.com/us/app/bill-organizer-budget-planner/id1454624499?uo=4"
+      },
+      {
+        "id": "1451776066",
+        "name": "Bill Organizer Reminder: NEKO",
+        "url": "https://apps.apple.com/us/app/bill-organizer-reminder-neko/id1451776066?uo=4"
+      },
+      {
+        "id": "1114962353",
+        "name": "BILL Spend & Expense (Divvy)",
+        "url": "https://apps.apple.com/us/app/bill-spend-expense-divvy/id1114962353?uo=4"
+      },
+      {
+        "id": "1059461492",
+        "name": "Bill Tracker Pro: Budget Saver",
+        "url": "https://apps.apple.com/us/app/bill-tracker-pro-budget-saver/id1059461492?uo=4"
+      },
+      {
+        "id": "6755892881",
+        "name": "Bill.Dock - AI Expense Manager",
+        "url": "https://apps.apple.com/us/app/bill-dock-ai-expense-manager/id6755892881?uo=4"
+      },
+      {
+        "id": "6505145688",
+        "name": "Bills Organizer Budget Planner",
+        "url": "https://apps.apple.com/us/app/bills-organizer-budget-planner/id6505145688?uo=4"
+      },
+      {
+        "id": "353431586",
+        "name": "BizXpenseTracker",
+        "url": "https://apps.apple.com/us/app/bizxpensetracker/id353431586?uo=4"
+      },
+      {
+        "id": "1564157925",
+        "name": "BlueMount - Money manager",
+        "url": "https://apps.apple.com/us/app/bluemount-money-manager/id1564157925?uo=4"
+      },
+      {
+        "id": "1059152023",
+        "name": "Bobby - Track subscriptions",
+        "url": "https://apps.apple.com/us/app/bobby-track-subscriptions/id1059152023?uo=4"
+      },
+      {
+        "id": "6745309794",
+        "name": "Bountisphere: Budget Planner",
+        "url": "https://apps.apple.com/us/app/bountisphere-budget-planner/id6745309794?uo=4"
+      },
+      {
+        "id": "1498462113",
+        "name": "Box Office Tycoon - Idle Game",
+        "url": "https://apps.apple.com/us/app/box-office-tycoon-idle-game/id1498462113?uo=4"
+      },
+      {
+        "id": "1472905508",
+        "name": "Brex",
+        "url": "https://apps.apple.com/us/app/brex/id1472905508?uo=4"
+      },
+      {
+        "id": "936422955",
+        "name": "Buddy: Budget Planner App",
+        "url": "https://apps.apple.com/us/app/buddy-budget-planner-app/id936422955?uo=4"
+      },
+      {
+        "id": "1515197978",
+        "name": "Budget & Bill Organizer: Rake",
+        "url": "https://apps.apple.com/us/app/budget-bill-organizer-rake/id1515197978?uo=4"
+      },
+      {
+        "id": "1628068322",
+        "name": "Budget & Expense manager : 24",
+        "url": "https://apps.apple.com/us/app/budget-expense-manager-24/id1628068322?uo=4"
+      },
+      {
+        "id": "6760475262",
+        "name": "Budget & Expense Planner・Orrin",
+        "url": "https://apps.apple.com/us/app/budget-expense-planner-orrin/id6760475262?uo=4"
+      },
+      {
+        "id": "625887028",
+        "name": "Budget & Expense: Moneyboard",
+        "url": "https://apps.apple.com/us/app/budget-expense-moneyboard/id625887028?uo=4"
+      },
+      {
+        "id": "6741738414",
+        "name": "Budget & Money Manager AI",
+        "url": "https://apps.apple.com/us/app/budget-money-manager-ai/id6741738414?uo=4"
+      },
+      {
+        "id": "6746949168",
+        "name": "Budget & Spending Tracker",
+        "url": "https://apps.apple.com/us/app/budget-spending-tracker/id6746949168?uo=4"
+      },
+      {
+        "id": "1495927649",
+        "name": "Budget - Easy Money Saving App",
+        "url": "https://apps.apple.com/us/app/budget-easy-money-saving-app/id1495927649?uo=4"
+      },
+      {
+        "id": "6743985223",
+        "name": "Budget and Money Manager",
+        "url": "https://apps.apple.com/us/app/budget-and-money-manager/id6743985223?uo=4"
+      },
+      {
+        "id": "1448335613",
+        "name": "Budget App & Expense Tracker",
+        "url": "https://apps.apple.com/us/app/budget-app-expense-tracker/id1448335613?uo=4"
+      },
+      {
+        "id": "6745808332",
+        "name": "Budget App - Financial Planner",
+        "url": "https://apps.apple.com/us/app/budget-app-financial-planner/id6745808332?uo=4"
+      },
+      {
+        "id": "6804068903",
+        "name": "Budget app - GoodMoney",
+        "url": "https://apps.apple.com/us/app/budget-app-goodmoney/id6804068903?uo=4"
+      },
+      {
+        "id": "1525179720",
+        "name": "Budget app - spending tracker",
+        "url": "https://apps.apple.com/us/app/budget-app-spending-tracker/id1525179720?uo=4"
+      },
+      {
+        "id": "1498172833",
+        "name": "Budget App : Budget planner",
+        "url": "https://apps.apple.com/us/app/budget-app-budget-planner/id1498172833?uo=4"
+      },
+      {
+        "id": "6467496544",
+        "name": "Budget App : Spending Tracker",
+        "url": "https://apps.apple.com/us/app/budget-app-spending-tracker/id6467496544?uo=4"
+      },
+      {
+        "id": "6754530724",
+        "name": "Budget app – Expense Tracker",
+        "url": "https://apps.apple.com/us/app/budget-app-expense-tracker/id6754530724?uo=4"
+      },
+      {
+        "id": "6764815619",
+        "name": "Budget App: AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/budget-app-ai-expense-tracker/id6764815619?uo=4"
+      },
+      {
+        "id": "1562877905",
+        "name": "Budget App: Expense Tracker.",
+        "url": "https://apps.apple.com/us/app/budget-app-expense-tracker/id1562877905?uo=4"
+      },
+      {
+        "id": "6460258044",
+        "name": "Budget Bestie",
+        "url": "https://apps.apple.com/us/app/budget-bestie/id6460258044?uo=4"
+      },
+      {
+        "id": "6472225117",
+        "name": "Budget Boss:Money Manager",
+        "url": "https://apps.apple.com/us/app/budget-boss-money-manager/id6472225117?uo=4"
+      },
+      {
+        "id": "6739982145",
+        "name": "Budget Buckets Pro",
+        "url": "https://apps.apple.com/us/app/budget-buckets-pro/id6739982145?uo=4"
+      },
+      {
+        "id": "6761186818",
+        "name": "Budget Buddy - AI Expense Log",
+        "url": "https://apps.apple.com/us/app/budget-buddy-ai-expense-log/id6761186818?uo=4"
+      },
+      {
+        "id": "1584798027",
+        "name": "Budget Buddy: Track expenses",
+        "url": "https://apps.apple.com/us/app/budget-buddy-track-expenses/id1584798027?uo=4"
+      },
+      {
+        "id": "1159345509",
+        "name": "Budget Calendar - Monelyze",
+        "url": "https://apps.apple.com/us/app/budget-calendar-monelyze/id1159345509?uo=4"
+      },
+      {
+        "id": "1186679692",
+        "name": "Budget Expense Tracker|Manager",
+        "url": "https://apps.apple.com/us/app/budget-expense-tracker-manager/id1186679692?uo=4"
+      },
+      {
+        "id": "1640091876",
+        "name": "Budget Flow | Expense Tracker",
+        "url": "https://apps.apple.com/us/app/budget-flow-expense-tracker/id1640091876?uo=4"
+      },
+      {
+        "id": "1533403452",
+        "name": "Budget Hound: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/budget-hound-expense-tracker/id1533403452?uo=4"
+      },
+      {
+        "id": "6772826692",
+        "name": "Budget iQ: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/budget-iq-expense-tracker/id6772826692?uo=4"
+      },
+      {
+        "id": "6698874676",
+        "name": "Budget Planner & Expense Log",
+        "url": "https://apps.apple.com/us/app/budget-planner-expense-log/id6698874676?uo=4"
+      },
+      {
+        "id": "1626153876",
+        "name": "Budget Planner & Subscriptions",
+        "url": "https://apps.apple.com/us/app/budget-planner-subscriptions/id1626153876?uo=4"
+      },
+      {
+        "id": "6477321959",
+        "name": "Budget Planner & Tracker: HeDa",
+        "url": "https://apps.apple.com/us/app/budget-planner-tracker-heda/id6477321959?uo=4"
+      },
+      {
+        "id": "6748381854",
+        "name": "Budget Planner & Trackerㅤ",
+        "url": "https://apps.apple.com/us/app/budget-planner-tracker%E3%85%A4/id6748381854?uo=4"
+      },
+      {
+        "id": "6742319730",
+        "name": "Budget Planner + Money Manager",
+        "url": "https://apps.apple.com/us/app/budget-planner-money-manager/id6742319730?uo=4"
+      },
+      {
+        "id": "6768290042",
+        "name": "Budget Planner - Bloomly",
+        "url": "https://apps.apple.com/us/app/budget-planner-bloomly/id6768290042?uo=4"
+      },
+      {
+        "id": "6769314187",
+        "name": "Budget planner - Home-Funds",
+        "url": "https://apps.apple.com/us/app/budget-planner-home-funds/id6769314187?uo=4"
+      },
+      {
+        "id": "6759975949",
+        "name": "Budget Planner - Kakeibo",
+        "url": "https://apps.apple.com/us/app/budget-planner-kakeibo/id6759975949?uo=4"
+      },
+      {
+        "id": "1332401340",
+        "name": "Budget Planner - Mellow",
+        "url": "https://apps.apple.com/us/app/budget-planner-mellow/id1332401340?uo=4"
+      },
+      {
+        "id": "900890647",
+        "name": "Budget Planner - Money Flow",
+        "url": "https://apps.apple.com/us/app/budget-planner-money-flow/id900890647?uo=4"
+      },
+      {
+        "id": "1427115026",
+        "name": "Budget Planner - Money Manager",
+        "url": "https://apps.apple.com/us/app/budget-planner-money-manager/id1427115026?uo=4"
+      },
+      {
+        "id": "6751259839",
+        "name": "Budget Planner - Money Tracker",
+        "url": "https://apps.apple.com/us/app/budget-planner-money-tracker/id6751259839?uo=4"
+      },
+      {
+        "id": "6505064206",
+        "name": "Budget Planner - Piedget",
+        "url": "https://apps.apple.com/us/app/budget-planner-piedget/id6505064206?uo=4"
+      },
+      {
+        "id": "6756803830",
+        "name": "Budget Planner - PocketWealth",
+        "url": "https://apps.apple.com/us/app/budget-planner-pocketwealth/id6756803830?uo=4"
+      },
+      {
+        "id": "1620205013",
+        "name": "Budget Planner - Track Expense",
+        "url": "https://apps.apple.com/us/app/budget-planner-track-expense/id1620205013?uo=4"
+      },
+      {
+        "id": "6468988006",
+        "name": "Budget Planner : Accounts",
+        "url": "https://apps.apple.com/us/app/budget-planner-accounts/id6468988006?uo=4"
+      },
+      {
+        "id": "6751191066",
+        "name": "Budget Planner : Budget 365",
+        "url": "https://apps.apple.com/us/app/budget-planner-budget-365/id6751191066?uo=4"
+      },
+      {
+        "id": "6748604085",
+        "name": "Budget Planner and Tracker",
+        "url": "https://apps.apple.com/us/app/budget-planner-and-tracker/id6748604085?uo=4"
+      },
+      {
+        "id": "6765706351",
+        "name": "Budget Planner App - FloosYo",
+        "url": "https://apps.apple.com/us/app/budget-planner-app-floosyo/id6765706351?uo=4"
+      },
+      {
+        "id": "6784336147",
+        "name": "Budget Planner App - Stash",
+        "url": "https://apps.apple.com/us/app/budget-planner-app-stash/id6784336147?uo=4"
+      },
+      {
+        "id": "6748555069",
+        "name": "Budget Planner App - Tally",
+        "url": "https://apps.apple.com/us/app/budget-planner-app-tally/id6748555069?uo=4"
+      },
+      {
+        "id": "6749040657",
+        "name": "Budget Planner App - Zero",
+        "url": "https://apps.apple.com/us/app/budget-planner-app-zero/id6749040657?uo=4"
+      },
+      {
+        "id": "6763668131",
+        "name": "Budget Planner App AI",
+        "url": "https://apps.apple.com/us/app/budget-planner-app-ai/id6763668131?uo=4"
+      },
+      {
+        "id": "1462555165",
+        "name": "Budget Planner App・50/30/20",
+        "url": "https://apps.apple.com/us/app/budget-planner-app-50-30-20/id1462555165?uo=4"
+      },
+      {
+        "id": "6642640022",
+        "name": "Budget planner by Bottomline",
+        "url": "https://apps.apple.com/us/app/budget-planner-by-bottomline/id6642640022?uo=4"
+      },
+      {
+        "id": "1169353587",
+        "name": "Budget Planner Expense Manager",
+        "url": "https://apps.apple.com/us/app/budget-planner-expense-manager/id1169353587?uo=4"
+      },
+      {
+        "id": "6747787688",
+        "name": "Budget Planner · WealthFlow",
+        "url": "https://apps.apple.com/us/app/budget-planner-wealthflow/id6747787688?uo=4"
+      },
+      {
+        "id": "1613883157",
+        "name": "Budget Planner, Money Manager",
+        "url": "https://apps.apple.com/us/app/budget-planner-money-manager/id1613883157?uo=4"
+      },
+      {
+        "id": "6762440048",
+        "name": "Budget planner-Expense tracker",
+        "url": "https://apps.apple.com/us/app/budget-planner-expense-tracker/id6762440048?uo=4"
+      },
+      {
+        "id": "6759819425",
+        "name": "Budget Planner: Budget & Bills",
+        "url": "https://apps.apple.com/us/app/budget-planner-budget-bills/id6759819425?uo=4"
+      },
+      {
+        "id": "1300458193",
+        "name": "Budget Planner: Budget, Bills",
+        "url": "https://apps.apple.com/us/app/budget-planner-budget-bills/id1300458193?uo=4"
+      },
+      {
+        "id": "1476439405",
+        "name": "Budget Planner: Expense Track",
+        "url": "https://apps.apple.com/us/app/budget-planner-expense-track/id1476439405?uo=4"
+      },
+      {
+        "id": "6503230525",
+        "name": "Budget Planner: Expense Trend",
+        "url": "https://apps.apple.com/us/app/budget-planner-expense-trend/id6503230525?uo=4"
+      },
+      {
+        "id": "6759105003",
+        "name": "Budget Planner: Expenses",
+        "url": "https://apps.apple.com/us/app/budget-planner-expenses/id6759105003?uo=4"
+      },
+      {
+        "id": "6762476761",
+        "name": "Budget Planner: Planner",
+        "url": "https://apps.apple.com/us/app/budget-planner-planner/id6762476761?uo=4"
+      },
+      {
+        "id": "1477982881",
+        "name": "Budget Planner・Money Manager",
+        "url": "https://apps.apple.com/us/app/budget-planner-money-manager/id1477982881?uo=4"
+      },
+      {
+        "id": "425604994",
+        "name": "Budget Saved - Personal Finance and Money Management Mobile Bank Account Saving App",
+        "url": "https://apps.apple.com/us/app/budget-saved-personal-finance-and-money-management/id425604994?uo=4"
+      },
+      {
+        "id": "6478839267",
+        "name": "Budget Spreadsheet Calculator",
+        "url": "https://apps.apple.com/us/app/budget-spreadsheet-calculator/id6478839267?uo=4"
+      },
+      {
+        "id": "6772783580",
+        "name": "Budget Tracker: SpendLog",
+        "url": "https://apps.apple.com/us/app/budget-tracker-spendlog/id6772783580?uo=4"
+      },
+      {
+        "id": "1584657093",
+        "name": "Budget: expense tracker, money",
+        "url": "https://apps.apple.com/us/app/budget-expense-tracker-money/id1584657093?uo=4"
+      },
+      {
+        "id": "6499044750",
+        "name": "Budget: Finance Tracker",
+        "url": "https://apps.apple.com/us/app/budget-finance-tracker/id6499044750?uo=4"
+      },
+      {
+        "id": "6756784151",
+        "name": "Budget: Spend Tracker",
+        "url": "https://apps.apple.com/us/app/budget-spend-tracker/id6756784151?uo=4"
+      },
+      {
+        "id": "6757230858",
+        "name": "BudgetAlly: Budget Planner",
+        "url": "https://apps.apple.com/us/app/budgetally-budget-planner/id6757230858?uo=4"
+      },
+      {
+        "id": "6757654153",
+        "name": "Budgeteer: Money Manager",
+        "url": "https://apps.apple.com/us/app/budgeteer-money-manager/id6757654153?uo=4"
+      },
+      {
+        "id": "1622234823",
+        "name": "Budgetfy - Expense Tracking",
+        "url": "https://apps.apple.com/us/app/budgetfy-expense-tracking/id1622234823?uo=4"
+      },
+      {
+        "id": "6762633939",
+        "name": "BudgetGoal: Budget Planner",
+        "url": "https://apps.apple.com/us/app/budgetgoal-budget-planner/id6762633939?uo=4"
+      },
+      {
+        "id": "1598308116",
+        "name": "Budgetim: expense tracking",
+        "url": "https://apps.apple.com/us/app/budgetim-expense-tracking/id1598308116?uo=4"
+      },
+      {
+        "id": "1636460435",
+        "name": "Budgeting App - Spend Tracker",
+        "url": "https://apps.apple.com/us/app/budgeting-app-spend-tracker/id1636460435?uo=4"
+      },
+      {
+        "id": "1018141098",
+        "name": "Budgeting Monitor - Best Personal Budget Planner for Expenditure and Money Control",
+        "url": "https://apps.apple.com/us/app/budgeting-monitor-best-personal-budget-planner-for/id1018141098?uo=4"
+      },
+      {
+        "id": "6760269103",
+        "name": "BudgetLog – Expense Tracker",
+        "url": "https://apps.apple.com/us/app/budgetlog-expense-tracker/id6760269103?uo=4"
+      },
+      {
+        "id": "6452912760",
+        "name": "BudgetMinder: Money Manager",
+        "url": "https://apps.apple.com/us/app/budgetminder-money-manager/id6452912760?uo=4"
+      },
+      {
+        "id": "6737688797",
+        "name": "Budgetum: Budget Planner",
+        "url": "https://apps.apple.com/us/app/budgetum-budget-planner/id6737688797?uo=4"
+      },
+      {
+        "id": "6757731476",
+        "name": "Budgi - Money Manager",
+        "url": "https://apps.apple.com/us/app/budgi-money-manager/id6757731476?uo=4"
+      },
+      {
+        "id": "6748864450",
+        "name": "Budgii: Budget Planner",
+        "url": "https://apps.apple.com/us/app/budgii-budget-planner/id6748864450?uo=4"
+      },
+      {
+        "id": "580812126",
+        "name": "BUDGT Personal Finance Tracker",
+        "url": "https://apps.apple.com/us/app/budgt-personal-finance-tracker/id580812126?uo=4"
+      },
+      {
+        "id": "6805892518",
+        "name": "Bujji: Cozy Budget Tracker",
+        "url": "https://apps.apple.com/us/app/bujji-cozy-budget-tracker/id6805892518?uo=4"
+      },
+      {
+        "id": "6759767290",
+        "name": "Cadence Money: Budget Tracker",
+        "url": "https://apps.apple.com/us/app/cadence-money-budget-tracker/id6759767290?uo=4"
+      },
+      {
+        "id": "6746171413",
+        "name": "Cagni: Money Manager & Expense",
+        "url": "https://apps.apple.com/us/app/cagni-money-manager-expense/id6746171413?uo=4"
+      },
+      {
+        "id": "6736371248",
+        "name": "CakeClub: Personal Finance App",
+        "url": "https://apps.apple.com/us/app/cakeclub-personal-finance-app/id6736371248?uo=4"
+      },
+      {
+        "id": "6793121680",
+        "name": "Cash & Expense Management",
+        "url": "https://apps.apple.com/us/app/cash-expense-management/id6793121680?uo=4"
+      },
+      {
+        "id": "1632006509",
+        "name": "Cash Book - Balance & Expense",
+        "url": "https://apps.apple.com/us/app/cash-book-balance-expense/id1632006509?uo=4"
+      },
+      {
+        "id": "1436749337",
+        "name": "Cash Flow Planner",
+        "url": "https://apps.apple.com/us/app/cash-flow-planner/id1436749337?uo=4"
+      },
+      {
+        "id": "1483762315",
+        "name": "Cash Out: Simple Expense Track",
+        "url": "https://apps.apple.com/us/app/cash-out-simple-expense-track/id1483762315?uo=4"
+      },
+      {
+        "id": "1351647656",
+        "name": "Cash Tracker: Spending, Budget",
+        "url": "https://apps.apple.com/us/app/cash-tracker-spending-budget/id1351647656?uo=4"
+      },
+      {
+        "id": "6747142245",
+        "name": "CashBook , Money Manager",
+        "url": "https://apps.apple.com/us/app/cashbook-money-manager/id6747142245?uo=4"
+      },
+      {
+        "id": "6787127683",
+        "name": "Cashcaded, your money manager",
+        "url": "https://apps.apple.com/us/app/cashcaded-your-money-manager/id6787127683?uo=4"
+      },
+      {
+        "id": "6788484318",
+        "name": "Cashera: AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/cashera-ai-expense-tracker/id6788484318?uo=4"
+      },
+      {
+        "id": "1582436070",
+        "name": "Cashews",
+        "url": "https://apps.apple.com/us/app/cashews/id1582436070?uo=4"
+      },
+      {
+        "id": "6463662930",
+        "name": "Cashew—Expense Budget Tracker",
+        "url": "https://apps.apple.com/us/app/cashew-expense-budget-tracker/id6463662930?uo=4"
+      },
+      {
+        "id": "6544791461",
+        "name": "CashJot: Daily Expense Tracker",
+        "url": "https://apps.apple.com/us/app/cashjot-daily-expense-tracker/id6544791461?uo=4"
+      },
+      {
+        "id": "6743153951",
+        "name": "CashLens: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/cashlens-expense-tracker/id6743153951?uo=4"
+      },
+      {
+        "id": "594801784",
+        "name": "CashSync+PRO: Expense tracking",
+        "url": "https://apps.apple.com/us/app/cashsync-pro-expense-tracking/id594801784?uo=4"
+      },
+      {
+        "id": "617849961",
+        "name": "CashSync: Expense tracking",
+        "url": "https://apps.apple.com/us/app/cashsync-expense-tracking/id617849961?uo=4"
+      },
+      {
+        "id": "6778774809",
+        "name": "Cashtra -  Budget Tracker",
+        "url": "https://apps.apple.com/us/app/cashtra-budget-tracker/id6778774809?uo=4"
+      },
+      {
+        "id": "1507393814",
+        "name": "CashTrace: Checkbook Ledger",
+        "url": "https://apps.apple.com/us/app/cashtrace-checkbook-ledger/id1507393814?uo=4"
+      },
+      {
+        "id": "305418178",
+        "name": "CashTrails+: Personal Finance",
+        "url": "https://apps.apple.com/us/app/cashtrails-personal-finance/id305418178?uo=4"
+      },
+      {
+        "id": "6761026590",
+        "name": "CashWise: Money Manager",
+        "url": "https://apps.apple.com/us/app/cashwise-money-manager/id6761026590?uo=4"
+      },
+      {
+        "id": "6755680087",
+        "name": "Catatku: Money Manager, Budget",
+        "url": "https://apps.apple.com/us/app/catatku-money-manager-budget/id6755680087?uo=4"
+      },
+      {
+        "id": "6760214754",
+        "name": "Cenno: Offline Expense Tracker",
+        "url": "https://apps.apple.com/us/app/cenno-offline-expense-tracker/id6760214754?uo=4"
+      },
+      {
+        "id": "6772868579",
+        "name": "Centee: AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/centee-ai-expense-tracker/id6772868579?uo=4"
+      },
+      {
+        "id": "1609692064",
+        "name": "Centsible: Budget & Finance",
+        "url": "https://apps.apple.com/us/app/centsible-budget-finance/id1609692064?uo=4"
+      },
+      {
+        "id": "944871129",
+        "name": "Change - simple budget app for expense tracking",
+        "url": "https://apps.apple.com/us/app/change-simple-budget-app-for-expense-tracking/id944871129?uo=4"
+      },
+      {
+        "id": "484000695",
+        "name": "Checkbook - Account Tracker",
+        "url": "https://apps.apple.com/us/app/checkbook-account-tracker/id484000695?uo=4"
+      },
+      {
+        "id": "1636872963",
+        "name": "Checkbook - Bills to Budget",
+        "url": "https://apps.apple.com/us/app/checkbook-bills-to-budget/id1636872963?uo=4"
+      },
+      {
+        "id": "1565109843",
+        "name": "Checkbook Register & Ledger",
+        "url": "https://apps.apple.com/us/app/checkbook-register-ledger/id1565109843?uo=4"
+      },
+      {
+        "id": "1484450618",
+        "name": "Christmas Budget Planner",
+        "url": "https://apps.apple.com/us/app/christmas-budget-planner/id1484450618?uo=4"
+      },
+      {
+        "id": "1273137131",
+        "name": "Circula",
+        "url": "https://apps.apple.com/us/app/circula/id1273137131?uo=4"
+      },
+      {
+        "id": "6774651673",
+        "name": "ClearBudget: Personal Finance",
+        "url": "https://apps.apple.com/us/app/clearbudget-personal-finance/id6774651673?uo=4"
+      },
+      {
+        "id": "1447274646",
+        "name": "Cleo AI: Cash Advance & Budget",
+        "url": "https://apps.apple.com/us/app/cleo-ai-cash-advance-budget/id1447274646?uo=4"
+      },
+      {
+        "id": "1376841843",
+        "name": "ClickTime - Time and Expenses",
+        "url": "https://apps.apple.com/us/app/clicktime-time-and-expenses/id1376841843?uo=4"
+      },
+      {
+        "id": "6792030791",
+        "name": "Coffer: Money Tracker",
+        "url": "https://apps.apple.com/us/app/coffer-money-tracker/id6792030791?uo=4"
+      },
+      {
+        "id": "1525126979",
+        "name": "Coin Flow: Expense Manager",
+        "url": "https://apps.apple.com/us/app/coin-flow-expense-manager/id1525126979?uo=4"
+      },
+      {
+        "id": "6751852727",
+        "name": "CoinBox: AI Expense Budget App",
+        "url": "https://apps.apple.com/us/app/coinbox-ai-expense-budget-app/id6751852727?uo=4"
+      },
+      {
+        "id": "1335547405",
+        "name": "CoinKeeper 3 - money manager",
+        "url": "https://apps.apple.com/us/app/coinkeeper-3-money-manager/id1335547405?uo=4"
+      },
+      {
+        "id": "849747345",
+        "name": "CoinKeeper: money manager",
+        "url": "https://apps.apple.com/us/app/coinkeeper-money-manager/id849747345?uo=4"
+      },
+      {
+        "id": "572886919",
+        "name": "Coins - Spending Tracker",
+        "url": "https://apps.apple.com/us/app/coins-spending-tracker/id572886919?uo=4"
+      },
+      {
+        "id": "1438446236",
+        "name": "Commons: Budget & Track Money",
+        "url": "https://apps.apple.com/us/app/commons-budget-track-money/id1438446236?uo=4"
+      },
+      {
+        "id": "6471288957",
+        "name": "Construction Expense Manager",
+        "url": "https://apps.apple.com/us/app/construction-expense-manager/id6471288957?uo=4"
+      },
+      {
+        "id": "6785693206",
+        "name": "Contexa: Business Expense Log",
+        "url": "https://apps.apple.com/us/app/contexa-business-expense-log/id6785693206?uo=4"
+      },
+      {
+        "id": "6759602182",
+        "name": "Control: Budget Tracker",
+        "url": "https://apps.apple.com/us/app/control-budget-tracker/id6759602182?uo=4"
+      },
+      {
+        "id": "1559943673",
+        "name": "Cookie - Budget & Expense",
+        "url": "https://apps.apple.com/us/app/cookie-budget-expense/id1559943673?uo=4"
+      },
+      {
+        "id": "1447330651",
+        "name": "Copilot: Track & Budget Money",
+        "url": "https://apps.apple.com/us/app/copilot-track-budget-money/id1447330651?uo=4"
+      },
+      {
+        "id": "6761130045",
+        "name": "Coppr – AI Budgeting Planner",
+        "url": "https://apps.apple.com/us/app/coppr-ai-budgeting-planner/id6761130045?uo=4"
+      },
+      {
+        "id": "1087908947",
+        "name": "Corpay Expense Track",
+        "url": "https://apps.apple.com/us/app/corpay-expense-track/id1087908947?uo=4"
+      },
+      {
+        "id": "797459670",
+        "name": "Cost Track: your Money Tracker",
+        "url": "https://apps.apple.com/us/app/cost-track-your-money-tracker/id797459670?uo=4"
+      },
+      {
+        "id": "6751731345",
+        "name": "Costify: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/costify-expense-tracker/id6751731345?uo=4"
+      },
+      {
+        "id": "1458128677",
+        "name": "Costpoint Time and Expense",
+        "url": "https://apps.apple.com/us/app/costpoint-time-and-expense/id1458128677?uo=4"
+      },
+      {
+        "id": "599455669",
+        "name": "Coupa Mobile",
+        "url": "https://apps.apple.com/us/app/coupa-mobile/id599455669?uo=4"
+      },
+      {
+        "id": "6744974888",
+        "name": "CoupleCents: Money Manager",
+        "url": "https://apps.apple.com/us/app/couplecents-money-manager/id6744974888?uo=4"
+      },
+      {
+        "id": "6785460708",
+        "name": "Crane Budget Rooms",
+        "url": "https://apps.apple.com/us/app/crane-budget-rooms/id6785460708?uo=4"
+      },
+      {
+        "id": "1643709686",
+        "name": "Cumo Expense Tracker",
+        "url": "https://apps.apple.com/us/app/cumo-expense-tracker/id1643709686?uo=4"
+      },
+      {
+        "id": "6792125182",
+        "name": "CustodyBook: Parenting Log",
+        "url": "https://apps.apple.com/us/app/custodybook-parenting-log/id6792125182?uo=4"
+      },
+      {
+        "id": "6758901361",
+        "name": "CustomWorth: Net Worth",
+        "url": "https://apps.apple.com/us/app/customworth-net-worth/id6758901361?uo=4"
+      },
+      {
+        "id": "1505160194",
+        "name": "Daak - Budget & Money Tracker",
+        "url": "https://apps.apple.com/us/app/daak-budget-money-tracker/id1505160194?uo=4"
+      },
+      {
+        "id": "651896614",
+        "name": "Daily Budget Original",
+        "url": "https://apps.apple.com/us/app/daily-budget-original/id651896614?uo=4"
+      },
+      {
+        "id": "6784723743",
+        "name": "Daily Cost: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/daily-cost-expense-tracker/id6784723743?uo=4"
+      },
+      {
+        "id": "6455259428",
+        "name": "Daily Expense - Easy Tracker",
+        "url": "https://apps.apple.com/us/app/daily-expense-easy-tracker/id6455259428?uo=4"
+      },
+      {
+        "id": "1455752044",
+        "name": "Daily Expense Tracker",
+        "url": "https://apps.apple.com/us/app/daily-expense-tracker/id1455752044?uo=4"
+      },
+      {
+        "id": "1453876415",
+        "name": "Daily Expense Tracker App",
+        "url": "https://apps.apple.com/us/app/daily-expense-tracker-app/id1453876415?uo=4"
+      },
+      {
+        "id": "1496943875",
+        "name": "Daily Expense Tracker Manager",
+        "url": "https://apps.apple.com/us/app/daily-expense-tracker-manager/id1496943875?uo=4"
+      },
+      {
+        "id": "6791506301",
+        "name": "Daily Expense Tracker: Budget",
+        "url": "https://apps.apple.com/us/app/daily-expense-tracker-budget/id6791506301?uo=4"
+      },
+      {
+        "id": "1414523287",
+        "name": "Daily Expenses: Finance",
+        "url": "https://apps.apple.com/us/app/daily-expenses-finance/id1414523287?uo=4"
+      },
+      {
+        "id": "1525136581",
+        "name": "Daily Money Tracker",
+        "url": "https://apps.apple.com/us/app/daily-money-tracker/id1525136581?uo=4"
+      },
+      {
+        "id": "1494517202",
+        "name": "Daily Spend - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/daily-spend-expense-tracker/id1494517202?uo=4"
+      },
+      {
+        "id": "306026134",
+        "name": "Daily Tracker Journal & Diary",
+        "url": "https://apps.apple.com/us/app/daily-tracker-journal-diary/id306026134?uo=4"
+      },
+      {
+        "id": "566587079",
+        "name": "DailyCost － Expense Tracker",
+        "url": "https://apps.apple.com/us/app/dailycost-expense-tracker/id566587079?uo=4"
+      },
+      {
+        "id": "6744398350",
+        "name": "Day-to-day Expenses",
+        "url": "https://apps.apple.com/us/app/day-to-day-expenses/id6744398350?uo=4"
+      },
+      {
+        "id": "1554982279",
+        "name": "Day-to-day Expenses Tracker",
+        "url": "https://apps.apple.com/us/app/day-to-day-expenses-tracker/id1554982279?uo=4"
+      },
+      {
+        "id": "6772795697",
+        "name": "Daycap — Daily Budget Planner",
+        "url": "https://apps.apple.com/us/app/daycap-daily-budget-planner/id6772795697?uo=4"
+      },
+      {
+        "id": "931188326",
+        "name": "DayCost Pro - Personal Finance",
+        "url": "https://apps.apple.com/us/app/daycost-pro-personal-finance/id931188326?uo=4"
+      },
+      {
+        "id": "882637543",
+        "name": "Debit & Credit",
+        "url": "https://apps.apple.com/us/app/debit-credit/id882637543?uo=4"
+      },
+      {
+        "id": "6773695696",
+        "name": "Debit Mark: Expense Log",
+        "url": "https://apps.apple.com/us/app/debit-mark-expense-log/id6773695696?uo=4"
+      },
+      {
+        "id": "6477390791",
+        "name": "Debtr - Track Debts & Expenses",
+        "url": "https://apps.apple.com/us/app/debtr-track-debts-expenses/id6477390791?uo=4"
+      },
+      {
+        "id": "6447892484",
+        "name": "Despezzas: Money Manager",
+        "url": "https://apps.apple.com/us/app/despezzas-money-manager/id6447892484?uo=4"
+      },
+      {
+        "id": "418327708",
+        "name": "Dext: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/dext-expense-tracker/id418327708?uo=4"
+      },
+      {
+        "id": "1635280255",
+        "name": "Dime: Budget & Expense Tracker",
+        "url": "https://apps.apple.com/us/app/dime-budget-expense-tracker/id1635280255?uo=4"
+      },
+      {
+        "id": "6759814312",
+        "name": "Dinero - Money Manager",
+        "url": "https://apps.apple.com/us/app/dinero-money-manager/id6759814312?uo=4"
+      },
+      {
+        "id": "1214299218",
+        "name": "Dollarbird - Budget Calendar",
+        "url": "https://apps.apple.com/us/app/dollarbird-budget-calendar/id1214299218?uo=4"
+      },
+      {
+        "id": "6762331893",
+        "name": "DrakeAI - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/drakeai-expense-tracker/id6762331893?uo=4"
+      },
+      {
+        "id": "1206041425",
+        "name": "Drivvo - Car Expense Tracker",
+        "url": "https://apps.apple.com/us/app/drivvo-car-expense-tracker/id1206041425?uo=4"
+      },
+      {
+        "id": "6473720210",
+        "name": "Droplet - Easy Expense Log",
+        "url": "https://apps.apple.com/us/app/droplet-easy-expense-log/id6473720210?uo=4"
+      },
+      {
+        "id": "6808303805",
+        "name": "DueBy Budget Planner & Bills",
+        "url": "https://apps.apple.com/us/app/dueby-budget-planner-bills/id6808303805?uo=4"
+      },
+      {
+        "id": "6795190862",
+        "name": "Dutch: Track Shared Expenses",
+        "url": "https://apps.apple.com/us/app/dutch-track-shared-expenses/id6795190862?uo=4"
+      },
+      {
+        "id": "862914097",
+        "name": "Easy Budget Money Tracker Zeny",
+        "url": "https://apps.apple.com/us/app/easy-budget-money-tracker-zeny/id862914097?uo=4"
+      },
+      {
+        "id": "6503602908",
+        "name": "Easy Budget: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/easy-budget-spending-tracker/id6503602908?uo=4"
+      },
+      {
+        "id": "632513433",
+        "name": "Easy Family Budget Planner",
+        "url": "https://apps.apple.com/us/app/easy-family-budget-planner/id632513433?uo=4"
+      },
+      {
+        "id": "1449795457",
+        "name": "Easy Money Manager",
+        "url": "https://apps.apple.com/us/app/easy-money-manager/id1449795457?uo=4"
+      },
+      {
+        "id": "437238261",
+        "name": "Easy Spending Budget",
+        "url": "https://apps.apple.com/us/app/easy-spending-budget/id437238261?uo=4"
+      },
+      {
+        "id": "459019300",
+        "name": "Easy Spending Budget.",
+        "url": "https://apps.apple.com/us/app/easy-spending-budget/id459019300?uo=4"
+      },
+      {
+        "id": "1543668921",
+        "name": "EleCash - Money Manager",
+        "url": "https://apps.apple.com/us/app/elecash-money-manager/id1543668921?uo=4"
+      },
+      {
+        "id": "6443392352",
+        "name": "Emburse Enterprise",
+        "url": "https://apps.apple.com/us/app/emburse-enterprise/id6443392352?uo=4"
+      },
+      {
+        "id": "518112027",
+        "name": "Emburse Professional",
+        "url": "https://apps.apple.com/us/app/emburse-professional/id518112027?uo=4"
+      },
+      {
+        "id": "575756462",
+        "name": "eMeals - Healthy Meal Plans",
+        "url": "https://apps.apple.com/us/app/emeals-healthy-meal-plans/id575756462?uo=4"
+      },
+      {
+        "id": "1270062373",
+        "name": "Emma - Budget Planner Tracker",
+        "url": "https://apps.apple.com/us/app/emma-budget-planner-tracker/id1270062373?uo=4"
+      },
+      {
+        "id": "1001257338",
+        "name": "Empower ®",
+        "url": "https://apps.apple.com/us/app/empower/id1001257338?uo=4"
+      },
+      {
+        "id": "6466455367",
+        "name": "Envelope Budget - Kualia",
+        "url": "https://apps.apple.com/us/app/envelope-budget-kualia/id6466455367?uo=4"
+      },
+      {
+        "id": "804726909",
+        "name": "Envelopes: Budget Manager",
+        "url": "https://apps.apple.com/us/app/envelopes-budget-manager/id804726909?uo=4"
+      },
+      {
+        "id": "1569230951",
+        "name": "Envy: Envelope Budget Planner",
+        "url": "https://apps.apple.com/us/app/envy-envelope-budget-planner/id1569230951?uo=4"
+      },
+      {
+        "id": "1445390400",
+        "name": "Epicor Expense Management",
+        "url": "https://apps.apple.com/us/app/epicor-expense-management/id1445390400?uo=4"
+      },
+      {
+        "id": "6751917268",
+        "name": "Event Budget Planner",
+        "url": "https://apps.apple.com/us/app/event-budget-planner/id6751917268?uo=4"
+      },
+      {
+        "id": "942571931",
+        "name": "EveryDollar: Budget Management",
+        "url": "https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=4"
+      },
+      {
+        "id": "6755925451",
+        "name": "EveryPeso - Money Manager",
+        "url": "https://apps.apple.com/us/app/everypeso-money-manager/id6755925451?uo=4"
+      },
+      {
+        "id": "1455259057",
+        "name": "EXCEED by Money Network",
+        "url": "https://apps.apple.com/us/app/exceed-by-money-network/id1455259057?uo=4"
+      },
+      {
+        "id": "1247126257",
+        "name": "Expanse Tracker Track Spending",
+        "url": "https://apps.apple.com/us/app/expanse-tracker-track-spending/id1247126257?uo=4"
+      },
+      {
+        "id": "6758392205",
+        "name": "Expensa: AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/expensa-ai-expense-tracker/id6758392205?uo=4"
+      },
+      {
+        "id": "635861140",
+        "name": "Expense & Budget App: Spendee",
+        "url": "https://apps.apple.com/us/app/expense-budget-app-spendee/id635861140?uo=4"
+      },
+      {
+        "id": "1205436912",
+        "name": "Expense & Income Money Manager",
+        "url": "https://apps.apple.com/us/app/expense-income-money-manager/id1205436912?uo=4"
+      },
+      {
+        "id": "1634164149",
+        "name": "Expense - budget manager",
+        "url": "https://apps.apple.com/us/app/expense-budget-manager/id1634164149?uo=4"
+      },
+      {
+        "id": "1020335225",
+        "name": "Expense - Spending Tracking",
+        "url": "https://apps.apple.com/us/app/expense-spending-tracking/id1020335225?uo=4"
+      },
+      {
+        "id": "6498994436",
+        "name": "Expense - Trackers",
+        "url": "https://apps.apple.com/us/app/expense-trackers/id6498994436?uo=4"
+      },
+      {
+        "id": "6476767834",
+        "name": "Expense : Money Manager",
+        "url": "https://apps.apple.com/us/app/expense-money-manager/id6476767834?uo=4"
+      },
+      {
+        "id": "6756038849",
+        "name": "Expense AI – Receipt Scanner",
+        "url": "https://apps.apple.com/us/app/expense-ai-receipt-scanner/id6756038849?uo=4"
+      },
+      {
+        "id": "1608575997",
+        "name": "Expense Air - Spending Tracker",
+        "url": "https://apps.apple.com/us/app/expense-air-spending-tracker/id1608575997?uo=4"
+      },
+      {
+        "id": "1568074679",
+        "name": "Expense Buddy Expense Manager",
+        "url": "https://apps.apple.com/us/app/expense-buddy-expense-manager/id1568074679?uo=4"
+      },
+      {
+        "id": "6505103992",
+        "name": "Expense Budget: Money Manager",
+        "url": "https://apps.apple.com/us/app/expense-budget-money-manager/id6505103992?uo=4"
+      },
+      {
+        "id": "601885495",
+        "name": "Expense Keep: Envelope Budget",
+        "url": "https://apps.apple.com/us/app/expense-keep-envelope-budget/id601885495?uo=4"
+      },
+      {
+        "id": "6444852805",
+        "name": "Expense Log Recorder",
+        "url": "https://apps.apple.com/us/app/expense-log-recorder/id6444852805?uo=4"
+      },
+      {
+        "id": "6773756894",
+        "name": "Expense Log: Receipt Keeper",
+        "url": "https://apps.apple.com/us/app/expense-log-receipt-keeper/id6773756894?uo=4"
+      },
+      {
+        "id": "6739586692",
+        "name": "Expense Manager & Budget App",
+        "url": "https://apps.apple.com/us/app/expense-manager-budget-app/id6739586692?uo=4"
+      },
+      {
+        "id": "6760899356",
+        "name": "Expense Manager & Money Pro",
+        "url": "https://apps.apple.com/us/app/expense-manager-money-pro/id6760899356?uo=4"
+      },
+      {
+        "id": "6744145641",
+        "name": "Expense Manager - Budget App",
+        "url": "https://apps.apple.com/us/app/expense-manager-budget-app/id6744145641?uo=4"
+      },
+      {
+        "id": "1470583361",
+        "name": "Expense Manager - Daily Budget",
+        "url": "https://apps.apple.com/us/app/expense-manager-daily-budget/id1470583361?uo=4"
+      },
+      {
+        "id": "1619363580",
+        "name": "Expense manager - Moneta",
+        "url": "https://apps.apple.com/us/app/expense-manager-moneta/id1619363580?uo=4"
+      },
+      {
+        "id": "966805232",
+        "name": "Expense Manager - Pocket Edition",
+        "url": "https://apps.apple.com/us/app/expense-manager-pocket-edition/id966805232?uo=4"
+      },
+      {
+        "id": "1491747665",
+        "name": "Expense Manager - Tracker",
+        "url": "https://apps.apple.com/us/app/expense-manager-tracker/id1491747665?uo=4"
+      },
+      {
+        "id": "1104167285",
+        "name": "Expense manager -Money tracker",
+        "url": "https://apps.apple.com/us/app/expense-manager-money-tracker/id1104167285?uo=4"
+      },
+      {
+        "id": "1554466334",
+        "name": "Expense Manager : Daily Budget",
+        "url": "https://apps.apple.com/us/app/expense-manager-daily-budget/id1554466334?uo=4"
+      },
+      {
+        "id": "1460457337",
+        "name": "Expense Manager Application",
+        "url": "https://apps.apple.com/us/app/expense-manager-application/id1460457337?uo=4"
+      },
+      {
+        "id": "6755108958",
+        "name": "Expense Manager – Money App",
+        "url": "https://apps.apple.com/us/app/expense-manager-money-app/id6755108958?uo=4"
+      },
+      {
+        "id": "1470211125",
+        "name": "Expense Manager, Money Manager",
+        "url": "https://apps.apple.com/us/app/expense-manager-money-manager/id1470211125?uo=4"
+      },
+      {
+        "id": "1204316311",
+        "name": "Expense Manager, Money Tracker",
+        "url": "https://apps.apple.com/us/app/expense-manager-money-tracker/id1204316311?uo=4"
+      },
+      {
+        "id": "6758811319",
+        "name": "Expense Manager: Money Tracker",
+        "url": "https://apps.apple.com/us/app/expense-manager-money-tracker/id6758811319?uo=4"
+      },
+      {
+        "id": "1247753395",
+        "name": "Expense Manager: Penny",
+        "url": "https://apps.apple.com/us/app/expense-manager-penny/id1247753395?uo=4"
+      },
+      {
+        "id": "6766097123",
+        "name": "Expense Manager: SpendSync",
+        "url": "https://apps.apple.com/us/app/expense-manager-spendsync/id6766097123?uo=4"
+      },
+      {
+        "id": "1334572431",
+        "name": "Expense Spending Tracker",
+        "url": "https://apps.apple.com/us/app/expense-spending-tracker/id1334572431?uo=4"
+      },
+      {
+        "id": "1041478586",
+        "name": "Expense Split - Track & Settle",
+        "url": "https://apps.apple.com/us/app/expense-split-track-settle/id1041478586?uo=4"
+      },
+      {
+        "id": "6475721961",
+        "name": "Expense Track: AIxpense",
+        "url": "https://apps.apple.com/us/app/expense-track-aixpense/id6475721961?uo=4"
+      },
+      {
+        "id": "1445995357",
+        "name": "Expense Tracker & Bill Manager",
+        "url": "https://apps.apple.com/us/app/expense-tracker-bill-manager/id1445995357?uo=4"
+      },
+      {
+        "id": "6749812351",
+        "name": "Expense Tracker & Budget - Gli",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-gli/id6749812351?uo=4"
+      },
+      {
+        "id": "1626975151",
+        "name": "Expense Tracker & Budget App",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-app/id1626975151?uo=4"
+      },
+      {
+        "id": "1127767681",
+        "name": "Expense Tracker & Manager",
+        "url": "https://apps.apple.com/us/app/expense-tracker-manager/id1127767681?uo=4"
+      },
+      {
+        "id": "6757673131",
+        "name": "Expense Tracker & Spending Log",
+        "url": "https://apps.apple.com/us/app/expense-tracker-spending-log/id6757673131?uo=4"
+      },
+      {
+        "id": "1534568993",
+        "name": "Expense Tracker + Manager",
+        "url": "https://apps.apple.com/us/app/expense-tracker-manager/id1534568993?uo=4"
+      },
+      {
+        "id": "6762640176",
+        "name": "Expense Tracker - Boink",
+        "url": "https://apps.apple.com/us/app/expense-tracker-boink/id6762640176?uo=4"
+      },
+      {
+        "id": "6759282016",
+        "name": "Expense Tracker - BudgetPal",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budgetpal/id6759282016?uo=4"
+      },
+      {
+        "id": "6772283748",
+        "name": "Expense tracker - Cashly",
+        "url": "https://apps.apple.com/us/app/expense-tracker-cashly/id6772283748?uo=4"
+      },
+      {
+        "id": "6772555703",
+        "name": "Expense Tracker - Daily Log",
+        "url": "https://apps.apple.com/us/app/expense-tracker-daily-log/id6772555703?uo=4"
+      },
+      {
+        "id": "6451148342",
+        "name": "Expense Tracker - Daily Spend",
+        "url": "https://apps.apple.com/us/app/expense-tracker-daily-spend/id6451148342?uo=4"
+      },
+      {
+        "id": "6760328162",
+        "name": "Expense Tracker - DaTrack",
+        "url": "https://apps.apple.com/us/app/expense-tracker-datrack/id6760328162?uo=4"
+      },
+      {
+        "id": "6758142981",
+        "name": "Expense Tracker - Digits AI",
+        "url": "https://apps.apple.com/us/app/expense-tracker-digits-ai/id6758142981?uo=4"
+      },
+      {
+        "id": "6780517529",
+        "name": "Expense Tracker - FinziAI",
+        "url": "https://apps.apple.com/us/app/expense-tracker-finziai/id6780517529?uo=4"
+      },
+      {
+        "id": "6790511454",
+        "name": "Expense Tracker - Left",
+        "url": "https://apps.apple.com/us/app/expense-tracker-left/id6790511454?uo=4"
+      },
+      {
+        "id": "6764654142",
+        "name": "Expense Tracker - Luca",
+        "url": "https://apps.apple.com/us/app/expense-tracker-luca/id6764654142?uo=4"
+      },
+      {
+        "id": "6746187757",
+        "name": "Expense Tracker - manage money",
+        "url": "https://apps.apple.com/us/app/expense-tracker-manage-money/id6746187757?uo=4"
+      },
+      {
+        "id": "6741199384",
+        "name": "Expense Tracker - Mobile",
+        "url": "https://apps.apple.com/us/app/expense-tracker-mobile/id6741199384?uo=4"
+      },
+      {
+        "id": "6739469411",
+        "name": "Expense tracker - Mocy",
+        "url": "https://apps.apple.com/us/app/expense-tracker-mocy/id6739469411?uo=4"
+      },
+      {
+        "id": "6447112647",
+        "name": "Expense Tracker - MonAi",
+        "url": "https://apps.apple.com/us/app/expense-tracker-monai/id6447112647?uo=4"
+      },
+      {
+        "id": "1320730220",
+        "name": "Expense Tracker - Money Note",
+        "url": "https://apps.apple.com/us/app/expense-tracker-money-note/id1320730220?uo=4"
+      },
+      {
+        "id": "6769458156",
+        "name": "Expense Tracker - Monveo",
+        "url": "https://apps.apple.com/us/app/expense-tracker-monveo/id6769458156?uo=4"
+      },
+      {
+        "id": "6739777905",
+        "name": "Expense Tracker - Soldi",
+        "url": "https://apps.apple.com/us/app/expense-tracker-soldi/id6739777905?uo=4"
+      },
+      {
+        "id": "6811825338",
+        "name": "Expense Tracker - Spendy",
+        "url": "https://apps.apple.com/us/app/expense-tracker-spendy/id6811825338?uo=4"
+      },
+      {
+        "id": "6790796524",
+        "name": "Expense Tracker - Sumora",
+        "url": "https://apps.apple.com/us/app/expense-tracker-sumora/id6790796524?uo=4"
+      },
+      {
+        "id": "6743250788",
+        "name": "Expense Tracker - The Easy Way",
+        "url": "https://apps.apple.com/us/app/expense-tracker-the-easy-way/id6743250788?uo=4"
+      },
+      {
+        "id": "6790082958",
+        "name": "Expense Tracker - TrackDad",
+        "url": "https://apps.apple.com/us/app/expense-tracker-trackdad/id6790082958?uo=4"
+      },
+      {
+        "id": "6762070174",
+        "name": "Expense Tracker - WriteOff AI",
+        "url": "https://apps.apple.com/us/app/expense-tracker-writeoff-ai/id6762070174?uo=4"
+      },
+      {
+        "id": "6742431318",
+        "name": "Expense Tracker AI Budget",
+        "url": "https://apps.apple.com/us/app/expense-tracker-ai-budget/id6742431318?uo=4"
+      },
+      {
+        "id": "6760190294",
+        "name": "Expense Tracker Genius",
+        "url": "https://apps.apple.com/us/app/expense-tracker-genius/id6760190294?uo=4"
+      },
+      {
+        "id": "760168900",
+        "name": "Expense tracker HomeMoney",
+        "url": "https://apps.apple.com/us/app/expense-tracker-homemoney/id760168900?uo=4"
+      },
+      {
+        "id": "6760648601",
+        "name": "Expense Tracker Minimalist",
+        "url": "https://apps.apple.com/us/app/expense-tracker-minimalist/id6760648601?uo=4"
+      },
+      {
+        "id": "6756966167",
+        "name": "Expense tracker Money manager",
+        "url": "https://apps.apple.com/us/app/expense-tracker-money-manager/id6756966167?uo=4"
+      },
+      {
+        "id": "6796002310",
+        "name": "Expense Tracker Pro: Budget",
+        "url": "https://apps.apple.com/us/app/expense-tracker-pro-budget/id6796002310?uo=4"
+      },
+      {
+        "id": "6761222460",
+        "name": "Expense Tracker Simple",
+        "url": "https://apps.apple.com/us/app/expense-tracker-simple/id6761222460?uo=4"
+      },
+      {
+        "id": "6806526991",
+        "name": "Expense Tracker Spending",
+        "url": "https://apps.apple.com/us/app/expense-tracker-spending/id6806526991?uo=4"
+      },
+      {
+        "id": "1567197275",
+        "name": "Expense Tracker — Budget App",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-app/id1567197275?uo=4"
+      },
+      {
+        "id": "6477726438",
+        "name": "Expense tracker, Money tracker",
+        "url": "https://apps.apple.com/us/app/expense-tracker-money-tracker/id6477726438?uo=4"
+      },
+      {
+        "id": "1670620468",
+        "name": "Expense tracker-budget planner",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-planner/id1670620468?uo=4"
+      },
+      {
+        "id": "6670725585",
+        "name": "Expense Tracker. Money Manager",
+        "url": "https://apps.apple.com/us/app/expense-tracker-money-manager/id6670725585?uo=4"
+      },
+      {
+        "id": "6478887161",
+        "name": "Expense Tracker: Better Track",
+        "url": "https://apps.apple.com/us/app/expense-tracker-better-track/id6478887161?uo=4"
+      },
+      {
+        "id": "6797290644",
+        "name": "Expense Tracker: Budget & Save",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-save/id6797290644?uo=4"
+      },
+      {
+        "id": "6756522502",
+        "name": "Expense Tracker: Budget AI",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-ai/id6756522502?uo=4"
+      },
+      {
+        "id": "6781517172",
+        "name": "Expense Tracker: Budget App",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-app/id6781517172?uo=4"
+      },
+      {
+        "id": "6740166799",
+        "name": "Expense Tracker: Budget Bills",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-bills/id6740166799?uo=4"
+      },
+      {
+        "id": "6762165253",
+        "name": "Expense Tracker: Budget Book",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-book/id6762165253?uo=4"
+      },
+      {
+        "id": "6790497218",
+        "name": "Expense Tracker: Budget Log",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-log/id6790497218?uo=4"
+      },
+      {
+        "id": "6763346207",
+        "name": "Expense Tracker: Budgeting",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budgeting/id6763346207?uo=4"
+      },
+      {
+        "id": "6743357457",
+        "name": "Expense Tracker: Cashflow",
+        "url": "https://apps.apple.com/us/app/expense-tracker-cashflow/id6743357457?uo=4"
+      },
+      {
+        "id": "6446326708",
+        "name": "Expense Tracker: Color Money",
+        "url": "https://apps.apple.com/us/app/expense-tracker-color-money/id6446326708?uo=4"
+      },
+      {
+        "id": "6572301026",
+        "name": "Expense Tracker: Debt & Loans",
+        "url": "https://apps.apple.com/us/app/expense-tracker-debt-loans/id6572301026?uo=4"
+      },
+      {
+        "id": "1561516009",
+        "name": "Expense Tracker: EasyBudget",
+        "url": "https://apps.apple.com/us/app/expense-tracker-easybudget/id1561516009?uo=4"
+      },
+      {
+        "id": "6756433597",
+        "name": "Expense Tracker: Expenly",
+        "url": "https://apps.apple.com/us/app/expense-tracker-expenly/id6756433597?uo=4"
+      },
+      {
+        "id": "6756549357",
+        "name": "Expense Tracker: Money Track",
+        "url": "https://apps.apple.com/us/app/expense-tracker-money-track/id6756549357?uo=4"
+      },
+      {
+        "id": "6780178701",
+        "name": "Expense Tracker: Receipt Scan",
+        "url": "https://apps.apple.com/us/app/expense-tracker-receipt-scan/id6780178701?uo=4"
+      },
+      {
+        "id": "6497716781",
+        "name": "Expense Tracker: Save Money",
+        "url": "https://apps.apple.com/us/app/expense-tracker-save-money/id6497716781?uo=4"
+      },
+      {
+        "id": "589432235",
+        "name": "Expense Tracker: Smart Receipt",
+        "url": "https://apps.apple.com/us/app/expense-tracker-smart-receipt/id589432235?uo=4"
+      },
+      {
+        "id": "6806614497",
+        "name": "Expense Tracker: SMS & Voice",
+        "url": "https://apps.apple.com/us/app/expense-tracker-sms-voice/id6806614497?uo=4"
+      },
+      {
+        "id": "6779437134",
+        "name": "Expense Tracker: SpendSense",
+        "url": "https://apps.apple.com/us/app/expense-tracker-spendsense/id6779437134?uo=4"
+      },
+      {
+        "id": "6760256014",
+        "name": "Expense Tracker: SpendVoice",
+        "url": "https://apps.apple.com/us/app/expense-tracker-spendvoice/id6760256014?uo=4"
+      },
+      {
+        "id": "6758930966",
+        "name": "Expense Tracker: Split Bills",
+        "url": "https://apps.apple.com/us/app/expense-tracker-split-bills/id6758930966?uo=4"
+      },
+      {
+        "id": "6760839670",
+        "name": "Expense Tracker: TodayExpenses",
+        "url": "https://apps.apple.com/us/app/expense-tracker-todayexpenses/id6760839670?uo=4"
+      },
+      {
+        "id": "944934437",
+        "name": "Expense Tracker:Budget Planner",
+        "url": "https://apps.apple.com/us/app/expense-tracker-budget-planner/id944934437?uo=4"
+      },
+      {
+        "id": "6758017840",
+        "name": "Expense+ Budget Money Tracker",
+        "url": "https://apps.apple.com/us/app/expense-budget-money-tracker/id6758017840?uo=4"
+      },
+      {
+        "id": "1669548999",
+        "name": "Expense: Budget Tracker",
+        "url": "https://apps.apple.com/us/app/expense-budget-tracker/id1669548999?uo=4"
+      },
+      {
+        "id": "6759637729",
+        "name": "ExpenseIQ - Budget Planner",
+        "url": "https://apps.apple.com/us/app/expenseiq-budget-planner/id6759637729?uo=4"
+      },
+      {
+        "id": "6480349194",
+        "name": "ExpenseLog",
+        "url": "https://apps.apple.com/us/app/expenselog/id6480349194?uo=4"
+      },
+      {
+        "id": "6479941177",
+        "name": "ExpenseMonkey",
+        "url": "https://apps.apple.com/us/app/expensemonkey/id6479941177?uo=4"
+      },
+      {
+        "id": "6445958439",
+        "name": "Expenser: Track, Plan & Budget",
+        "url": "https://apps.apple.com/us/app/expenser-track-plan-budget/id6445958439?uo=4"
+      },
+      {
+        "id": "1437749432",
+        "name": "Expenses for Business",
+        "url": "https://apps.apple.com/us/app/expenses-for-business/id1437749432?uo=4"
+      },
+      {
+        "id": "932322041",
+        "name": "Expenses OK - expenses tracker",
+        "url": "https://apps.apple.com/us/app/expenses-ok-expenses-tracker/id932322041?uo=4"
+      },
+      {
+        "id": "1492055171",
+        "name": "Expenses: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/expenses-spending-tracker/id1492055171?uo=4"
+      },
+      {
+        "id": "6443568436",
+        "name": "ExpenseTracker: Track Expenses",
+        "url": "https://apps.apple.com/us/app/expensetracker-track-expenses/id6443568436?uo=4"
+      },
+      {
+        "id": "6497714175",
+        "name": "ExpenseTracking - Very simple",
+        "url": "https://apps.apple.com/us/app/expensetracking-very-simple/id6497714175?uo=4"
+      },
+      {
+        "id": "6504284908",
+        "name": "Expensey",
+        "url": "https://apps.apple.com/us/app/expensey/id6504284908?uo=4"
+      },
+      {
+        "id": "471713959",
+        "name": "Expensify - Travel & Expense",
+        "url": "https://apps.apple.com/us/app/expensify-travel-expense/id471713959?uo=4"
+      },
+      {
+        "id": "6753914432",
+        "name": "Expentrac: Expense Tracker Log",
+        "url": "https://apps.apple.com/us/app/expentrac-expense-tracker-log/id6753914432?uo=4"
+      },
+      {
+        "id": "6773878182",
+        "name": "Expeny: Budget & Expense",
+        "url": "https://apps.apple.com/us/app/expeny-budget-expense/id6773878182?uo=4"
+      },
+      {
+        "id": "6670337467",
+        "name": "Expenzio - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/expenzio-expense-tracker/id6670337467?uo=4"
+      },
+      {
+        "id": "6755037426",
+        "name": "EyeCash: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/eyecash-spending-tracker/id6755037426?uo=4"
+      },
+      {
+        "id": "6785680913",
+        "name": "Ez Expense Log",
+        "url": "https://apps.apple.com/us/app/ez-expense-log/id6785680913?uo=4"
+      },
+      {
+        "id": "866932213",
+        "name": "EZ Expense Manager",
+        "url": "https://apps.apple.com/us/app/ez-expense-manager/id866932213?uo=4"
+      },
+      {
+        "id": "6787061356",
+        "name": "F-Cube: Daily Expense Tracker",
+        "url": "https://apps.apple.com/us/app/f-cube-daily-expense-tracker/id6787061356?uo=4"
+      },
+      {
+        "id": "6477822507",
+        "name": "Family Home Budget Planner",
+        "url": "https://apps.apple.com/us/app/family-home-budget-planner/id6477822507?uo=4"
+      },
+      {
+        "id": "6737207448",
+        "name": "Faranga – Fast Mobile Money",
+        "url": "https://apps.apple.com/us/app/faranga-fast-mobile-money/id6737207448?uo=4"
+      },
+      {
+        "id": "1178825025",
+        "name": "Fast Budget - Expense Manager",
+        "url": "https://apps.apple.com/us/app/fast-budget-expense-manager/id1178825025?uo=4"
+      },
+      {
+        "id": "1481245050",
+        "name": "Fidoo Expense Management",
+        "url": "https://apps.apple.com/us/app/fidoo-expense-management/id1481245050?uo=4"
+      },
+      {
+        "id": "6781084347",
+        "name": "FiHaven: Budget Planner",
+        "url": "https://apps.apple.com/us/app/fihaven-budget-planner/id6781084347?uo=4"
+      },
+      {
+        "id": "488541859",
+        "name": "Filki - Expenses and Income",
+        "url": "https://apps.apple.com/us/app/filki-expenses-and-income/id488541859?uo=4"
+      },
+      {
+        "id": "1489698531",
+        "name": "Fin: Budget Planner App",
+        "url": "https://apps.apple.com/us/app/fin-budget-planner-app/id1489698531?uo=4"
+      },
+      {
+        "id": "1558983444",
+        "name": "Finance Assist: Money Tracker",
+        "url": "https://apps.apple.com/us/app/finance-assist-money-tracker/id1558983444?uo=4"
+      },
+      {
+        "id": "6450063745",
+        "name": "Finance Monthly Budget Planner",
+        "url": "https://apps.apple.com/us/app/finance-monthly-budget-planner/id6450063745?uo=4"
+      },
+      {
+        "id": "1628575766",
+        "name": "Finance OK - finance tracker",
+        "url": "https://apps.apple.com/us/app/finance-ok-finance-tracker/id1628575766?uo=4"
+      },
+      {
+        "id": "1559425430",
+        "name": "Finance Tracker - Accountit",
+        "url": "https://apps.apple.com/us/app/finance-tracker-accountit/id1559425430?uo=4"
+      },
+      {
+        "id": "6446217609",
+        "name": "Finance: MyMoneyManager",
+        "url": "https://apps.apple.com/us/app/finance-mymoneymanager/id6446217609?uo=4"
+      },
+      {
+        "id": "6740288138",
+        "name": "Finans: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/finans-expense-tracker/id6740288138?uo=4"
+      },
+      {
+        "id": "1629321162",
+        "name": "FINATEKA",
+        "url": "https://apps.apple.com/us/app/finateka/id1629321162?uo=4"
+      },
+      {
+        "id": "6761130204",
+        "name": "FinBuddy - Spending Tracker",
+        "url": "https://apps.apple.com/us/app/finbuddy-spending-tracker/id6761130204?uo=4"
+      },
+      {
+        "id": "1663166940",
+        "name": "Fineyo: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/fineyo-expense-tracker/id1663166940?uo=4"
+      },
+      {
+        "id": "6766040054",
+        "name": "Finio: Personal Finance",
+        "url": "https://apps.apple.com/us/app/finio-personal-finance/id6766040054?uo=4"
+      },
+      {
+        "id": "1587320325",
+        "name": "Finku: Budget & Money Manager",
+        "url": "https://apps.apple.com/us/app/finku-budget-money-manager/id1587320325?uo=4"
+      },
+      {
+        "id": "6758222599",
+        "name": "Finly: Budget Expense Tracker",
+        "url": "https://apps.apple.com/us/app/finly-budget-expense-tracker/id6758222599?uo=4"
+      },
+      {
+        "id": "1605388450",
+        "name": "Finmap: Business Finance",
+        "url": "https://apps.apple.com/us/app/finmap-business-finance/id1605388450?uo=4"
+      },
+      {
+        "id": "6761145701",
+        "name": "Finolid: Budget by Paycheck",
+        "url": "https://apps.apple.com/us/app/finolid-budget-by-paycheck/id6761145701?uo=4"
+      },
+      {
+        "id": "1627326815",
+        "name": "FinTrack: Expenses Tracker",
+        "url": "https://apps.apple.com/us/app/fintrack-expenses-tracker/id1627326815?uo=4"
+      },
+      {
+        "id": "6752241583",
+        "name": "Finty - Money Manager",
+        "url": "https://apps.apple.com/us/app/finty-money-manager/id6752241583?uo=4"
+      },
+      {
+        "id": "6759948368",
+        "name": "Finwatch: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/finwatch-spending-tracker/id6759948368?uo=4"
+      },
+      {
+        "id": "6743862740",
+        "name": "Finzee - envelope budget",
+        "url": "https://apps.apple.com/us/app/finzee-envelope-budget/id6743862740?uo=4"
+      },
+      {
+        "id": "6746050314",
+        "name": "FitBudget: Budget Planner",
+        "url": "https://apps.apple.com/us/app/fitbudget-budget-planner/id6746050314?uo=4"
+      },
+      {
+        "id": "1456232229",
+        "name": "Flash Ledger - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/flash-ledger-expense-tracker/id1456232229?uo=4"
+      },
+      {
+        "id": "6810429342",
+        "name": "FlashLog: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/flashlog-expense-tracker/id6810429342?uo=4"
+      },
+      {
+        "id": "1621020173",
+        "name": "Fleur - Budget Planner App",
+        "url": "https://apps.apple.com/us/app/fleur-budget-planner-app/id1621020173?uo=4"
+      },
+      {
+        "id": "6462989500",
+        "name": "Floney– Shared Expense Tracker",
+        "url": "https://apps.apple.com/us/app/floney-shared-expense-tracker/id6462989500?uo=4"
+      },
+      {
+        "id": "6768168368",
+        "name": "Florine: Budget Planner",
+        "url": "https://apps.apple.com/us/app/florine-budget-planner/id6768168368?uo=4"
+      },
+      {
+        "id": "6477741670",
+        "name": "Flow: Expense tracker",
+        "url": "https://apps.apple.com/us/app/flow-expense-tracker/id6477741670?uo=4"
+      },
+      {
+        "id": "6752684781",
+        "name": "Fluxx Finance",
+        "url": "https://apps.apple.com/us/app/fluxx-finance/id6752684781?uo=4"
+      },
+      {
+        "id": "1154002772",
+        "name": "Fly Cash - Expense Tracking",
+        "url": "https://apps.apple.com/us/app/fly-cash-expense-tracking/id1154002772?uo=4"
+      },
+      {
+        "id": "721048897",
+        "name": "Foreceipt Receipt Tracker App",
+        "url": "https://apps.apple.com/us/app/foreceipt-receipt-tracker-app/id721048897?uo=4"
+      },
+      {
+        "id": "1172713884",
+        "name": "Fortune City: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/fortune-city-expense-tracker/id1172713884?uo=4"
+      },
+      {
+        "id": "1052884030",
+        "name": "FreshBooks Invoicing App",
+        "url": "https://apps.apple.com/us/app/freshbooks-invoicing-app/id1052884030?uo=4"
+      },
+      {
+        "id": "1664719450",
+        "name": "Fudget: Monthly Budget Planner",
+        "url": "https://apps.apple.com/us/app/fudget-monthly-budget-planner/id1664719450?uo=4"
+      },
+      {
+        "id": "600375778",
+        "name": "Fuel Monitor Pro",
+        "url": "https://apps.apple.com/us/app/fuel-monitor-pro/id600375778?uo=4"
+      },
+      {
+        "id": "963578886",
+        "name": "Fuel MPG & Vehicle Expense Log",
+        "url": "https://apps.apple.com/us/app/fuel-mpg-vehicle-expense-log/id963578886?uo=4"
+      },
+      {
+        "id": "6740245156",
+        "name": "Fuku - money manager",
+        "url": "https://apps.apple.com/us/app/fuku-money-manager/id6740245156?uo=4"
+      },
+      {
+        "id": "6758909977",
+        "name": "FundFlow: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/fundflow-spending-tracker/id6758909977?uo=4"
+      },
+      {
+        "id": "6761234337",
+        "name": "Gastos Spending Tracker",
+        "url": "https://apps.apple.com/us/app/gastos-spending-tracker/id6761234337?uo=4"
+      },
+      {
+        "id": "6448845392",
+        "name": "Gde Money - On Trips",
+        "url": "https://apps.apple.com/us/app/gde-money-on-trips/id6448845392?uo=4"
+      },
+      {
+        "id": "1513629447",
+        "name": "getquin - Portfolio Tracker",
+        "url": "https://apps.apple.com/us/app/getquin-portfolio-tracker/id1513629447?uo=4"
+      },
+      {
+        "id": "1590852070",
+        "name": "Gist Money: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/gist-money-expense-tracker/id1590852070?uo=4"
+      },
+      {
+        "id": "6752494937",
+        "name": "Good Envelope: Budget Planner",
+        "url": "https://apps.apple.com/us/app/good-envelope-budget-planner/id6752494937?uo=4"
+      },
+      {
+        "id": "471112395",
+        "name": "Goodbudget Budget Planner",
+        "url": "https://apps.apple.com/us/app/goodbudget-budget-planner/id471112395?uo=4"
+      },
+      {
+        "id": "6762549542",
+        "name": "Goose: Manual Expense Tracker",
+        "url": "https://apps.apple.com/us/app/goose-manual-expense-tracker/id6762549542?uo=4"
+      },
+      {
+        "id": "825393310",
+        "name": "Gorilla Expense Pro",
+        "url": "https://apps.apple.com/us/app/gorilla-expense-pro/id825393310?uo=4"
+      },
+      {
+        "id": "590020000",
+        "name": "GreenBooks: Money Manager",
+        "url": "https://apps.apple.com/us/app/greenbooks-money-manager/id590020000?uo=4"
+      },
+      {
+        "id": "944136569",
+        "name": "HandyBill - 2-Sec Expense Log",
+        "url": "https://apps.apple.com/us/app/handybill-2-sec-expense-log/id944136569?uo=4"
+      },
+      {
+        "id": "6479841065",
+        "name": "Happy Money: Expense Manager",
+        "url": "https://apps.apple.com/us/app/happy-money-expense-manager/id6479841065?uo=4"
+      },
+      {
+        "id": "355395846",
+        "name": "Harvest: Track Time & Invoice",
+        "url": "https://apps.apple.com/us/app/harvest-track-time-invoice/id355395846?uo=4"
+      },
+      {
+        "id": "6802426542",
+        "name": "Hey Spencer - Spending Tracker",
+        "url": "https://apps.apple.com/us/app/hey-spencer-spending-tracker/id6802426542?uo=4"
+      },
+      {
+        "id": "564479269",
+        "name": "Hinakko: Expense Manager",
+        "url": "https://apps.apple.com/us/app/hinakko-expense-manager/id564479269?uo=4"
+      },
+      {
+        "id": "6761379268",
+        "name": "Hisab - Track Expense & Budget",
+        "url": "https://apps.apple.com/us/app/hisab-track-expense-budget/id6761379268?uo=4"
+      },
+      {
+        "id": "896515327",
+        "name": "Home Budget Manager Lite",
+        "url": "https://apps.apple.com/us/app/home-budget-manager-lite/id896515327?uo=4"
+      },
+      {
+        "id": "6757624949",
+        "name": "HSA Monster: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/hsa-monster-expense-tracker/id6757624949?uo=4"
+      },
+      {
+        "id": "951737201",
+        "name": "Hurdlr Mileage, Expenses & Tax",
+        "url": "https://apps.apple.com/us/app/hurdlr-mileage-expenses-tax/id951737201?uo=4"
+      },
+      {
+        "id": "6747823784",
+        "name": "iBudgetAll: Budget Planner",
+        "url": "https://apps.apple.com/us/app/ibudgetall-budget-planner/id6747823784?uo=4"
+      },
+      {
+        "id": "1403777594",
+        "name": "iMoney : Money Manager",
+        "url": "https://apps.apple.com/us/app/imoney-money-manager/id1403777594?uo=4"
+      },
+      {
+        "id": "1225559794",
+        "name": "Income and Expense Tracker",
+        "url": "https://apps.apple.com/us/app/income-and-expense-tracker/id1225559794?uo=4"
+      },
+      {
+        "id": "961048437",
+        "name": "Income OK - income & expenses",
+        "url": "https://apps.apple.com/us/app/income-ok-income-expenses/id961048437?uo=4"
+      },
+      {
+        "id": "1523109868",
+        "name": "Indigo Money",
+        "url": "https://apps.apple.com/us/app/indigo-money/id1523109868?uo=4"
+      },
+      {
+        "id": "1401347288",
+        "name": "Infor Expense",
+        "url": "https://apps.apple.com/us/app/infor-expense/id1401347288?uo=4"
+      },
+      {
+        "id": "519817714",
+        "name": "Intuit Credit Karma",
+        "url": "https://apps.apple.com/us/app/intuit-credit-karma/id519817714?uo=4"
+      },
+      {
+        "id": "584606479",
+        "name": "Intuit QuickBooks for Business",
+        "url": "https://apps.apple.com/us/app/intuit-quickbooks-for-business/id584606479?uo=4"
+      },
+      {
+        "id": "1618762983",
+        "name": "InvestMates: AI Money Manager",
+        "url": "https://apps.apple.com/us/app/investmates-ai-money-manager/id1618762983?uo=4"
+      },
+      {
+        "id": "6502092491",
+        "name": "Iris Firm Management Mobile",
+        "url": "https://apps.apple.com/us/app/iris-firm-management-mobile/id6502092491?uo=4"
+      },
+      {
+        "id": "1518393601",
+        "name": "iSave - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/isave-expense-tracker/id1518393601?uo=4"
+      },
+      {
+        "id": "1227088361",
+        "name": "iSaveMoneyGo – Budget Tracker",
+        "url": "https://apps.apple.com/us/app/isavemoneygo-budget-tracker/id1227088361?uo=4"
+      },
+      {
+        "id": "6754285869",
+        "name": "iSpend: AI Money Manager",
+        "url": "https://apps.apple.com/us/app/ispend-ai-money-manager/id6754285869?uo=4"
+      },
+      {
+        "id": "484100875",
+        "name": "iSpending - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/ispending-expense-tracker/id484100875?uo=4"
+      },
+      {
+        "id": "516943923",
+        "name": "iSpendTracker",
+        "url": "https://apps.apple.com/us/app/ispendtracker/id516943923?uo=4"
+      },
+      {
+        "id": "435350676",
+        "name": "iSum",
+        "url": "https://apps.apple.com/us/app/isum/id435350676?uo=4"
+      },
+      {
+        "id": "284947174",
+        "name": "iXpenseIt Pro: Manage Finance",
+        "url": "https://apps.apple.com/us/app/ixpenseit-pro-manage-finance/id284947174?uo=4"
+      },
+      {
+        "id": "296426075",
+        "name": "iXpenseIt: Manage Finance",
+        "url": "https://apps.apple.com/us/app/ixpenseit-manage-finance/id296426075?uo=4"
+      },
+      {
+        "id": "6769432656",
+        "name": "JangoLog — Expense Tracker",
+        "url": "https://apps.apple.com/us/app/jangolog-expense-tracker/id6769432656?uo=4"
+      },
+      {
+        "id": "6762029631",
+        "name": "Jotfi - Quick Expense Tracker",
+        "url": "https://apps.apple.com/us/app/jotfi-quick-expense-tracker/id6762029631?uo=4"
+      },
+      {
+        "id": "650858896",
+        "name": "Just Money Expense Diary",
+        "url": "https://apps.apple.com/us/app/just-money-expense-diary/id650858896?uo=4"
+      },
+      {
+        "id": "6502332854",
+        "name": "KACHNG: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/kachng-spending-tracker/id6502332854?uo=4"
+      },
+      {
+        "id": "6756763478",
+        "name": "Kakeibo: Goal & Budget Planner",
+        "url": "https://apps.apple.com/us/app/kakeibo-goal-budget-planner/id6756763478?uo=4"
+      },
+      {
+        "id": "6742430536",
+        "name": "Kebo: Budget & Expense Tracker",
+        "url": "https://apps.apple.com/us/app/kebo-budget-expense-tracker/id6742430536?uo=4"
+      },
+      {
+        "id": "6747142533",
+        "name": "KeenSpend - Money Manager",
+        "url": "https://apps.apple.com/us/app/keenspend-money-manager/id6747142533?uo=4"
+      },
+      {
+        "id": "6744532763",
+        "name": "Kelo: Expense Tracker & Budget",
+        "url": "https://apps.apple.com/us/app/kelo-expense-tracker-budget/id6744532763?uo=4"
+      },
+      {
+        "id": "6758053806",
+        "name": "Kesef: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/kesef-expense-tracker/id6758053806?uo=4"
+      },
+      {
+        "id": "1608360032",
+        "name": "Kharcha Book - Expense Manager",
+        "url": "https://apps.apple.com/us/app/kharcha-book-expense-manager/id1608360032?uo=4"
+      },
+      {
+        "id": "6762249045",
+        "name": "Klarr: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/klarr-expense-tracker/id6762249045?uo=4"
+      },
+      {
+        "id": "1671150976",
+        "name": "Knock It Pro - Route Planner",
+        "url": "https://apps.apple.com/us/app/knock-it-pro-route-planner/id1671150976?uo=4"
+      },
+      {
+        "id": "6757344281",
+        "name": "Konnach: Debt & Expense Track",
+        "url": "https://apps.apple.com/us/app/konnach-debt-expense-track/id6757344281?uo=4"
+      },
+      {
+        "id": "6443548838",
+        "name": "Kudos: Put Your Wallet to Work",
+        "url": "https://apps.apple.com/us/app/kudos-put-your-wallet-to-work/id6443548838?uo=4"
+      },
+      {
+        "id": "445850671",
+        "name": "Kufu Zaim - Money Tracker",
+        "url": "https://apps.apple.com/us/app/kufu-zaim-money-tracker/id445850671?uo=4"
+      },
+      {
+        "id": "1624646468",
+        "name": "Label Ledger - Expense Manager",
+        "url": "https://apps.apple.com/us/app/label-ledger-expense-manager/id1624646468?uo=4"
+      },
+      {
+        "id": "975031084",
+        "name": "Landlordy Property Management",
+        "url": "https://apps.apple.com/us/app/landlordy-property-management/id975031084?uo=4"
+      },
+      {
+        "id": "6781833961",
+        "name": "Larder:Paycheck Budget Planner",
+        "url": "https://apps.apple.com/us/app/larder-paycheck-budget-planner/id6781833961?uo=4"
+      },
+      {
+        "id": "1592293414",
+        "name": "Ledger Book: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/ledger-book-expense-tracker/id1592293414?uo=4"
+      },
+      {
+        "id": "6762180254",
+        "name": "Ledgera: Expense Log",
+        "url": "https://apps.apple.com/us/app/ledgera-expense-log/id6762180254?uo=4"
+      },
+      {
+        "id": "6443951831",
+        "name": "Listok: To Do list & Planner",
+        "url": "https://apps.apple.com/us/app/listok-to-do-list-planner/id6443951831?uo=4"
+      },
+      {
+        "id": "486195690",
+        "name": "Live Expenses",
+        "url": "https://apps.apple.com/us/app/live-expenses/id486195690?uo=4"
+      },
+      {
+        "id": "6807228635",
+        "name": "Log with Ledger",
+        "url": "https://apps.apple.com/us/app/log-with-ledger/id6807228635?uo=4"
+      },
+      {
+        "id": "6749335179",
+        "name": "Lucky Friday: Budget Planner",
+        "url": "https://apps.apple.com/us/app/lucky-friday-budget-planner/id6749335179?uo=4"
+      },
+      {
+        "id": "6754805457",
+        "name": "Lumi: Budget & Expense Tracker",
+        "url": "https://apps.apple.com/us/app/lumi-budget-expense-tracker/id6754805457?uo=4"
+      },
+      {
+        "id": "6780538389",
+        "name": "M Budget: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/m-budget-expense-tracker/id6780538389?uo=4"
+      },
+      {
+        "id": "6746782746",
+        "name": "Manage Receipt:Expense Tracker",
+        "url": "https://apps.apple.com/us/app/manage-receipt-expense-tracker/id6746782746?uo=4"
+      },
+      {
+        "id": "6761738170",
+        "name": "Manilo: AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/manilo-ai-expense-tracker/id6761738170?uo=4"
+      },
+      {
+        "id": "1591968342",
+        "name": "many - track expenses & budget",
+        "url": "https://apps.apple.com/us/app/many-track-expenses-budget/id1591968342?uo=4"
+      },
+      {
+        "id": "1671038987",
+        "name": "Medical Expenses Log",
+        "url": "https://apps.apple.com/us/app/medical-expenses-log/id1671038987?uo=4"
+      },
+      {
+        "id": "958950806",
+        "name": "Medius: Expense Management",
+        "url": "https://apps.apple.com/us/app/medius-expense-management/id958950806?uo=4"
+      },
+      {
+        "id": "520749207",
+        "name": "MEL PRO: Mileage & Expense Log",
+        "url": "https://apps.apple.com/us/app/mel-pro-mileage-expense-log/id520749207?uo=4"
+      },
+      {
+        "id": "1528852284",
+        "name": "Meow Money manager",
+        "url": "https://apps.apple.com/us/app/meow-money-manager/id1528852284?uo=4"
+      },
+      {
+        "id": "6768896004",
+        "name": "Meteora Expense Tracker",
+        "url": "https://apps.apple.com/us/app/meteora-expense-tracker/id6768896004?uo=4"
+      },
+      {
+        "id": "1572443695",
+        "name": "MetLife Personal Finance App",
+        "url": "https://apps.apple.com/us/app/metlife-personal-finance-app/id1572443695?uo=4"
+      },
+      {
+        "id": "586683407",
+        "name": "Microsoft Excel",
+        "url": "https://apps.apple.com/us/app/microsoft-excel/id586683407?uo=4"
+      },
+      {
+        "id": "1131297736",
+        "name": "Mileage AutoTrack: Swift Miles",
+        "url": "https://apps.apple.com/us/app/mileage-autotrack-swift-miles/id1131297736?uo=4"
+      },
+      {
+        "id": "528944663",
+        "name": "Mileage Expense Log & Tracker",
+        "url": "https://apps.apple.com/us/app/mileage-expense-log-tracker/id528944663?uo=4"
+      },
+      {
+        "id": "6744014373",
+        "name": "Mileage IQ",
+        "url": "https://apps.apple.com/us/app/mileage-iq/id6744014373?uo=4"
+      },
+      {
+        "id": "723129092",
+        "name": "Mileage Log+  Trip Log Tracker",
+        "url": "https://apps.apple.com/us/app/mileage-log-trip-log-tracker/id723129092?uo=4"
+      },
+      {
+        "id": "924418916",
+        "name": "Mileage Tracker by Driversnote",
+        "url": "https://apps.apple.com/us/app/mileage-tracker-by-driversnote/id924418916?uo=4"
+      },
+      {
+        "id": "985378916",
+        "name": "Mileage Tracker by Everlance",
+        "url": "https://apps.apple.com/us/app/mileage-tracker-by-everlance/id985378916?uo=4"
+      },
+      {
+        "id": "1451962963",
+        "name": "Mileage Tracker by MyCarTracks",
+        "url": "https://apps.apple.com/us/app/mileage-tracker-by-mycartracks/id1451962963?uo=4"
+      },
+      {
+        "id": "871087584",
+        "name": "Mileage Tracker by Psngr",
+        "url": "https://apps.apple.com/us/app/mileage-tracker-by-psngr/id871087584?uo=4"
+      },
+      {
+        "id": "578830929",
+        "name": "MileIQ: Mileage Tracker & Log",
+        "url": "https://apps.apple.com/us/app/mileiq-mileage-tracker-log/id578830929?uo=4"
+      },
+      {
+        "id": "1516472234",
+        "name": "MinExp - Mini Expense Tracker",
+        "url": "https://apps.apple.com/us/app/minexp-mini-expense-tracker/id1516472234?uo=4"
+      },
+      {
+        "id": "6787432326",
+        "name": "Mint: Budget & Expense Manager",
+        "url": "https://apps.apple.com/us/app/mint-budget-expense-manager/id6787432326?uo=4"
+      },
+      {
+        "id": "1587548217",
+        "name": "Minus - Simple Money Manager",
+        "url": "https://apps.apple.com/us/app/minus-simple-money-manager/id1587548217?uo=4"
+      },
+      {
+        "id": "6777471316",
+        "name": "mise - meal planner",
+        "url": "https://apps.apple.com/us/app/mise-meal-planner/id6777471316?uo=4"
+      },
+      {
+        "id": "1591759228",
+        "name": "Miza: Budget & Expense Tracker",
+        "url": "https://apps.apple.com/us/app/miza-budget-expense-tracker/id1591759228?uo=4"
+      },
+      {
+        "id": "1487547383",
+        "name": "mLog Mileage Tracker - mBurse",
+        "url": "https://apps.apple.com/us/app/mlog-mileage-tracker-mburse/id1487547383?uo=4"
+      },
+      {
+        "id": "921838244",
+        "name": "Mobills - Budget Planner",
+        "url": "https://apps.apple.com/us/app/mobills-budget-planner/id921838244?uo=4"
+      },
+      {
+        "id": "6758336671",
+        "name": "Modo: The Expense Tracker",
+        "url": "https://apps.apple.com/us/app/modo-the-expense-tracker/id6758336671?uo=4"
+      },
+      {
+        "id": "6751553582",
+        "name": "Monacker - Money Tracker",
+        "url": "https://apps.apple.com/us/app/monacker-money-tracker/id6751553582?uo=4"
+      },
+      {
+        "id": "1459319842",
+        "name": "Monarch: Budget & Track Money",
+        "url": "https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4"
+      },
+      {
+        "id": "6777478123",
+        "name": "Monbark: Budget & Money Track",
+        "url": "https://apps.apple.com/us/app/monbark-budget-money-track/id6777478123?uo=4"
+      },
+      {
+        "id": "1594071748",
+        "name": "Monecate: Money Manager",
+        "url": "https://apps.apple.com/us/app/monecate-money-manager/id1594071748?uo=4"
+      },
+      {
+        "id": "1617877213",
+        "name": "Monee - Budget Planner App",
+        "url": "https://apps.apple.com/us/app/monee-budget-planner-app/id1617877213?uo=4"
+      },
+      {
+        "id": "6760763870",
+        "name": "Monee: Bill Organizer & Budget",
+        "url": "https://apps.apple.com/us/app/monee-bill-organizer-budget/id6760763870?uo=4"
+      },
+      {
+        "id": "1212024409",
+        "name": "Monefy: Bills & Money Tracker",
+        "url": "https://apps.apple.com/us/app/monefy-bills-money-tracker/id1212024409?uo=4"
+      },
+      {
+        "id": "6753925279",
+        "name": "Moneko AI: Track & Budget",
+        "url": "https://apps.apple.com/us/app/moneko-ai-track-budget/id6753925279?uo=4"
+      },
+      {
+        "id": "6757703531",
+        "name": "Monely: Money Manager",
+        "url": "https://apps.apple.com/us/app/monely-money-manager/id6757703531?uo=4"
+      },
+      {
+        "id": "906363437",
+        "name": "Moneon – Budget & Expenses",
+        "url": "https://apps.apple.com/us/app/moneon-budget-expenses/id906363437?uo=4"
+      },
+      {
+        "id": "6758405166",
+        "name": "Moneta: Money Tracker & Budget",
+        "url": "https://apps.apple.com/us/app/moneta-money-tracker-budget/id6758405166?uo=4"
+      },
+      {
+        "id": "1302304930",
+        "name": "Monetal - SMS Expense Tracker",
+        "url": "https://apps.apple.com/us/app/monetal-sms-expense-tracker/id1302304930?uo=4"
+      },
+      {
+        "id": "6504194845",
+        "name": "Monety: Daily budget planner",
+        "url": "https://apps.apple.com/us/app/monety-daily-budget-planner/id6504194845?uo=4"
+      },
+      {
+        "id": "6773329338",
+        "name": "Money & Expense Tracker: Lichy",
+        "url": "https://apps.apple.com/us/app/money-expense-tracker-lichy/id6773329338?uo=4"
+      },
+      {
+        "id": "883179733",
+        "name": "Money - Track easily",
+        "url": "https://apps.apple.com/us/app/money-track-easily/id883179733?uo=4"
+      },
+      {
+        "id": "1289504900",
+        "name": "Money Easy - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/money-easy-expense-tracker/id1289504900?uo=4"
+      },
+      {
+        "id": "6757338384",
+        "name": "Money Envelope: Budget Tracker",
+        "url": "https://apps.apple.com/us/app/money-envelope-budget-tracker/id6757338384?uo=4"
+      },
+      {
+        "id": "1103655858",
+        "name": "Money Expense Manager",
+        "url": "https://apps.apple.com/us/app/money-expense-manager/id1103655858?uo=4"
+      },
+      {
+        "id": "1190195502",
+        "name": "Money Focus",
+        "url": "https://apps.apple.com/us/app/money-focus/id1190195502?uo=4"
+      },
+      {
+        "id": "6755965245",
+        "name": "Money Log: Expense & Budget",
+        "url": "https://apps.apple.com/us/app/money-log-expense-budget/id6755965245?uo=4"
+      },
+      {
+        "id": "486312413",
+        "name": "Money Lover: Money Manager",
+        "url": "https://apps.apple.com/us/app/money-lover-money-manager/id486312413?uo=4"
+      },
+      {
+        "id": "1666043372",
+        "name": "Money Manager",
+        "url": "https://apps.apple.com/us/app/money-manager/id1666043372?uo=4"
+      },
+      {
+        "id": "6800429828",
+        "name": "Money Manager & Budget Expense",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-expense/id6800429828?uo=4"
+      },
+      {
+        "id": "6761413928",
+        "name": "Money Manager & Expense: Penny",
+        "url": "https://apps.apple.com/us/app/money-manager-expense-penny/id6761413928?uo=4"
+      },
+      {
+        "id": "6758572076",
+        "name": "Money manager & tracker - Mani",
+        "url": "https://apps.apple.com/us/app/money-manager-tracker-mani/id6758572076?uo=4"
+      },
+      {
+        "id": "564730202",
+        "name": "Money Manager (Remove Ads)",
+        "url": "https://apps.apple.com/us/app/money-manager-remove-ads/id564730202?uo=4"
+      },
+      {
+        "id": "6475640141",
+        "name": "Money Manager - Budget & Track",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-track/id6475640141?uo=4"
+      },
+      {
+        "id": "6749898777",
+        "name": "Money Manager - Budget Coach",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-coach/id6749898777?uo=4"
+      },
+      {
+        "id": "6737123184",
+        "name": "Money Manager - My Budget App",
+        "url": "https://apps.apple.com/us/app/money-manager-my-budget-app/id6737123184?uo=4"
+      },
+      {
+        "id": "6748090323",
+        "name": "Money Manager - SpendBoard",
+        "url": "https://apps.apple.com/us/app/money-manager-spendboard/id6748090323?uo=4"
+      },
+      {
+        "id": "6445914512",
+        "name": "Money Manager 23",
+        "url": "https://apps.apple.com/us/app/money-manager-23/id6445914512?uo=4"
+      },
+      {
+        "id": "6753622962",
+        "name": "Money manager : BudgetEASE",
+        "url": "https://apps.apple.com/us/app/money-manager-budgetease/id6753622962?uo=4"
+      },
+      {
+        "id": "6742776450",
+        "name": "Money Manager Budget & Expense",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-expense/id6742776450?uo=4"
+      },
+      {
+        "id": "395153197",
+        "name": "Money Manager Classic",
+        "url": "https://apps.apple.com/us/app/money-manager-classic/id395153197?uo=4"
+      },
+      {
+        "id": "465646699",
+        "name": "Money Manager Classic Lite",
+        "url": "https://apps.apple.com/us/app/money-manager-classic-lite/id465646699?uo=4"
+      },
+      {
+        "id": "560481810",
+        "name": "Money Manager Expense & Budget",
+        "url": "https://apps.apple.com/us/app/money-manager-expense-budget/id560481810?uo=4"
+      },
+      {
+        "id": "6444326758",
+        "name": "Money Manager Go",
+        "url": "https://apps.apple.com/us/app/money-manager-go/id6444326758?uo=4"
+      },
+      {
+        "id": "6468482628",
+        "name": "Money Manager Personal Finance",
+        "url": "https://apps.apple.com/us/app/money-manager-personal-finance/id6468482628?uo=4"
+      },
+      {
+        "id": "500650880",
+        "name": "Money Manager Pro",
+        "url": "https://apps.apple.com/us/app/money-manager-pro/id500650880?uo=4"
+      },
+      {
+        "id": "1642555317",
+        "name": "Money Manager Team's Budget",
+        "url": "https://apps.apple.com/us/app/money-manager-teams-budget/id1642555317?uo=4"
+      },
+      {
+        "id": "1501005551",
+        "name": "Money Manager+",
+        "url": "https://apps.apple.com/us/app/money-manager/id1501005551?uo=4"
+      },
+      {
+        "id": "1510997753",
+        "name": "Money manager, expense tracker",
+        "url": "https://apps.apple.com/us/app/money-manager-expense-tracker/id1510997753?uo=4"
+      },
+      {
+        "id": "6751838822",
+        "name": "Money Manager, Planner: Savemo",
+        "url": "https://apps.apple.com/us/app/money-manager-planner-savemo/id6751838822?uo=4"
+      },
+      {
+        "id": "897334683",
+        "name": "Money Manager-Spending Tracker",
+        "url": "https://apps.apple.com/us/app/money-manager-spending-tracker/id897334683?uo=4"
+      },
+      {
+        "id": "6448206280",
+        "name": "Money Manager: Bills & Budgets",
+        "url": "https://apps.apple.com/us/app/money-manager-bills-budgets/id6448206280?uo=4"
+      },
+      {
+        "id": "1604307505",
+        "name": "Money Manager: Budget Expense",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-expense/id1604307505?uo=4"
+      },
+      {
+        "id": "6753874126",
+        "name": "Money Manager: Budget Planner!",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-planner/id6753874126?uo=4"
+      },
+      {
+        "id": "6444595808",
+        "name": "Money Manager: Budget Tracking",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-tracking/id6444595808?uo=4"
+      },
+      {
+        "id": "6754877313",
+        "name": "Money Manager: Budget, Expense",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-expense/id6754877313?uo=4"
+      },
+      {
+        "id": "6753577383",
+        "name": "Money Manager: Daily Expenses",
+        "url": "https://apps.apple.com/us/app/money-manager-daily-expenses/id6753577383?uo=4"
+      },
+      {
+        "id": "6476505074",
+        "name": "Money Manager: Expense Manager",
+        "url": "https://apps.apple.com/us/app/money-manager-expense-manager/id6476505074?uo=4"
+      },
+      {
+        "id": "6459790014",
+        "name": "Money Manager: Expense Planner",
+        "url": "https://apps.apple.com/us/app/money-manager-expense-planner/id6459790014?uo=4"
+      },
+      {
+        "id": "1632230854",
+        "name": "Money Manager: expense, budget",
+        "url": "https://apps.apple.com/us/app/money-manager-expense-budget/id1632230854?uo=4"
+      },
+      {
+        "id": "6478655723",
+        "name": "Money Manager: Finance Tracker",
+        "url": "https://apps.apple.com/us/app/money-manager-finance-tracker/id6478655723?uo=4"
+      },
+      {
+        "id": "6759394656",
+        "name": "Money Manager: MyFuturePlan",
+        "url": "https://apps.apple.com/us/app/money-manager-myfutureplan/id6759394656?uo=4"
+      },
+      {
+        "id": "6799369020",
+        "name": "Money manager: OneWorth",
+        "url": "https://apps.apple.com/us/app/money-manager-oneworth/id6799369020?uo=4"
+      },
+      {
+        "id": "6746440646",
+        "name": "Money Manager:- Budget & Bills",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-bills/id6746440646?uo=4"
+      },
+      {
+        "id": "533054060",
+        "name": "Money Monitor Pro",
+        "url": "https://apps.apple.com/us/app/money-monitor-pro/id533054060?uo=4"
+      },
+      {
+        "id": "537916781",
+        "name": "Money Monitor: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/money-monitor-expense-tracker/id537916781?uo=4"
+      },
+      {
+        "id": "616090626",
+        "name": "Money Network Mobile App",
+        "url": "https://apps.apple.com/us/app/money-network-mobile-app/id616090626?uo=4"
+      },
+      {
+        "id": "606031670",
+        "name": "Money OK - personal finance",
+        "url": "https://apps.apple.com/us/app/money-ok-personal-finance/id606031670?uo=4"
+      },
+      {
+        "id": "6478460400",
+        "name": "Money Planner: RainyDay",
+        "url": "https://apps.apple.com/us/app/money-planner-rainyday/id6478460400?uo=4"
+      },
+      {
+        "id": "918609651",
+        "name": "Money Pro: Personal Finance AR",
+        "url": "https://apps.apple.com/us/app/money-pro-personal-finance-ar/id918609651?uo=4"
+      },
+      {
+        "id": "6753856530",
+        "name": "Money Talks - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/money-talks-expense-tracker/id6753856530?uo=4"
+      },
+      {
+        "id": "975565929",
+        "name": "Money Tracker - A weekly budget planner",
+        "url": "https://apps.apple.com/us/app/money-tracker-a-weekly-budget-planner/id975565929?uo=4"
+      },
+      {
+        "id": "1644049074",
+        "name": "Money Tracker - Money Manager",
+        "url": "https://apps.apple.com/us/app/money-tracker-money-manager/id1644049074?uo=4"
+      },
+      {
+        "id": "1616626622",
+        "name": "Money Tracker Budget & Expense",
+        "url": "https://apps.apple.com/us/app/money-tracker-budget-expense/id1616626622?uo=4"
+      },
+      {
+        "id": "1643407103",
+        "name": "Money Tracker Infinite",
+        "url": "https://apps.apple.com/us/app/money-tracker-infinite/id1643407103?uo=4"
+      },
+      {
+        "id": "712791004",
+        "name": "Money Tracker+ Expense Manager",
+        "url": "https://apps.apple.com/us/app/money-tracker-expense-manager/id712791004?uo=4"
+      },
+      {
+        "id": "6761291672",
+        "name": "Money Tracker: Budget Planner",
+        "url": "https://apps.apple.com/us/app/money-tracker-budget-planner/id6761291672?uo=4"
+      },
+      {
+        "id": "6761251964",
+        "name": "Money Tracker: Budget, Planner",
+        "url": "https://apps.apple.com/us/app/money-tracker-budget-planner/id6761251964?uo=4"
+      },
+      {
+        "id": "6444122615",
+        "name": "Money Tracker:Expense & Budget",
+        "url": "https://apps.apple.com/us/app/money-tracker-expense-budget/id6444122615?uo=4"
+      },
+      {
+        "id": "6759955347",
+        "name": "Money Vault: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/money-vault-expense-tracker/id6759955347?uo=4"
+      },
+      {
+        "id": "683952336",
+        "name": "Money Zen: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/money-zen-expense-tracker/id683952336?uo=4"
+      },
+      {
+        "id": "1510760825",
+        "name": "Money+ Cute Expense Tracker",
+        "url": "https://apps.apple.com/us/app/money-cute-expense-tracker/id1510760825?uo=4"
+      },
+      {
+        "id": "6752508823",
+        "name": "Money, Expense Tracker:Eddy AI",
+        "url": "https://apps.apple.com/us/app/money-expense-tracker-eddy-ai/id6752508823?uo=4"
+      },
+      {
+        "id": "1570010557",
+        "name": "Money-Wise",
+        "url": "https://apps.apple.com/us/app/money-wise/id1570010557?uo=4"
+      },
+      {
+        "id": "6760418898",
+        "name": "Money2Time: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/money2time-expense-tracker/id6760418898?uo=4"
+      },
+      {
+        "id": "1185488696",
+        "name": "Money: Budget, Expense Tracker",
+        "url": "https://apps.apple.com/us/app/money-budget-expense-tracker/id1185488696?uo=4"
+      },
+      {
+        "id": "1661652256",
+        "name": "MoneyAll: Budget Planner",
+        "url": "https://apps.apple.com/us/app/moneyall-budget-planner/id1661652256?uo=4"
+      },
+      {
+        "id": "6743991545",
+        "name": "MoneyCanva: Easy Money Manager",
+        "url": "https://apps.apple.com/us/app/moneycanva-easy-money-manager/id6743991545?uo=4"
+      },
+      {
+        "id": "6770877286",
+        "name": "MoneyCloud: Budget Tracker",
+        "url": "https://apps.apple.com/us/app/moneycloud-budget-tracker/id6770877286?uo=4"
+      },
+      {
+        "id": "989642198",
+        "name": "MoneyCoach AI Budget Planner",
+        "url": "https://apps.apple.com/us/app/moneycoach-ai-budget-planner/id989642198?uo=4"
+      },
+      {
+        "id": "465909912",
+        "name": "MoneyControl Spending Tracker",
+        "url": "https://apps.apple.com/us/app/moneycontrol-spending-tracker/id465909912?uo=4"
+      },
+      {
+        "id": "6751406202",
+        "name": "MoneyLog - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/moneylog-expense-tracker/id6751406202?uo=4"
+      },
+      {
+        "id": "6743646049",
+        "name": "MoneyLog: Easy Expense Tracker",
+        "url": "https://apps.apple.com/us/app/moneylog-easy-expense-tracker/id6743646049?uo=4"
+      },
+      {
+        "id": "6449163346",
+        "name": "Moneymate - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/moneymate-expense-tracker/id6449163346?uo=4"
+      },
+      {
+        "id": "6764004012",
+        "name": "MoneyMinder: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/moneyminder-expense-tracker/id6764004012?uo=4"
+      },
+      {
+        "id": "6755315416",
+        "name": "MoneyPOP :Beauty Money Manager",
+        "url": "https://apps.apple.com/us/app/moneypop-beauty-money-manager/id6755315416?uo=4"
+      },
+      {
+        "id": "6745814519",
+        "name": "MoneySaver: Budget Planner",
+        "url": "https://apps.apple.com/us/app/moneysaver-budget-planner/id6745814519?uo=4"
+      },
+      {
+        "id": "6743448263",
+        "name": "MoneySaver: Budget Planner App",
+        "url": "https://apps.apple.com/us/app/moneysaver-budget-planner-app/id6743448263?uo=4"
+      },
+      {
+        "id": "6762051553",
+        "name": "MoneySee: Money Manager",
+        "url": "https://apps.apple.com/us/app/moneysee-money-manager/id6762051553?uo=4"
+      },
+      {
+        "id": "1249678565",
+        "name": "MoneyStats - Budget Planner",
+        "url": "https://apps.apple.com/us/app/moneystats-budget-planner/id1249678565?uo=4"
+      },
+      {
+        "id": "1333174950",
+        "name": "MoneyStats - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/moneystats-expense-tracker/id1333174950?uo=4"
+      },
+      {
+        "id": "6757993685",
+        "name": "MoneyT: AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/moneyt-ai-expense-tracker/id6757993685?uo=4"
+      },
+      {
+        "id": "1549694221",
+        "name": "MoneyThings - Finance Tracker",
+        "url": "https://apps.apple.com/us/app/moneythings-finance-tracker/id1549694221?uo=4"
+      },
+      {
+        "id": "1534255777",
+        "name": "MoneyTide - Expense tracker",
+        "url": "https://apps.apple.com/us/app/moneytide-expense-tracker/id1534255777?uo=4"
+      },
+      {
+        "id": "1473785373",
+        "name": "MoneyTrack: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/moneytrack-expense-tracker/id1473785373?uo=4"
+      },
+      {
+        "id": "6801254830",
+        "name": "Moni AI - Smart Money Manager",
+        "url": "https://apps.apple.com/us/app/moni-ai-smart-money-manager/id6801254830?uo=4"
+      },
+      {
+        "id": "1626029996",
+        "name": "Moni Note • Expense Tracker",
+        "url": "https://apps.apple.com/us/app/moni-note-expense-tracker/id1626029996?uo=4"
+      },
+      {
+        "id": "1639349518",
+        "name": "MONIAC: Track expense & income",
+        "url": "https://apps.apple.com/us/app/moniac-track-expense-income/id1639349518?uo=4"
+      },
+      {
+        "id": "1637367459",
+        "name": "Monies Expense Tracker",
+        "url": "https://apps.apple.com/us/app/monies-expense-tracker/id1637367459?uo=4"
+      },
+      {
+        "id": "6738291817",
+        "name": "Monit - Money Manager App",
+        "url": "https://apps.apple.com/us/app/monit-money-manager-app/id6738291817?uo=4"
+      },
+      {
+        "id": "6670716062",
+        "name": "MONO - AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/mono-ai-expense-tracker/id6670716062?uo=4"
+      },
+      {
+        "id": "6785726269",
+        "name": "Mono: Offline Money Manager",
+        "url": "https://apps.apple.com/us/app/mono-offline-money-manager/id6785726269?uo=4"
+      },
+      {
+        "id": "1491162880",
+        "name": "monobudget — personal finance",
+        "url": "https://apps.apple.com/us/app/monobudget-personal-finance/id1491162880?uo=4"
+      },
+      {
+        "id": "6766069218",
+        "name": "Monthly Budget & Bill Planner",
+        "url": "https://apps.apple.com/us/app/monthly-budget-bill-planner/id6766069218?uo=4"
+      },
+      {
+        "id": "6745846513",
+        "name": "Monthly Budget - Budgeting",
+        "url": "https://apps.apple.com/us/app/monthly-budget-budgeting/id6745846513?uo=4"
+      },
+      {
+        "id": "6760174378",
+        "name": "Monthly Budget Planner - Easy",
+        "url": "https://apps.apple.com/us/app/monthly-budget-planner-easy/id6760174378?uo=4"
+      },
+      {
+        "id": "6767810863",
+        "name": "Monthly Budget Planner - Fynlo",
+        "url": "https://apps.apple.com/us/app/monthly-budget-planner-fynlo/id6767810863?uo=4"
+      },
+      {
+        "id": "6478205894",
+        "name": "Monthly Budget Planner – BASE",
+        "url": "https://apps.apple.com/us/app/monthly-budget-planner-base/id6478205894?uo=4"
+      },
+      {
+        "id": "6752525789",
+        "name": "Monthly Budget Planner: Budget",
+        "url": "https://apps.apple.com/us/app/monthly-budget-planner-budget/id6752525789?uo=4"
+      },
+      {
+        "id": "455028239",
+        "name": "Monthly Expenses Lite: Tracker",
+        "url": "https://apps.apple.com/us/app/monthly-expenses-lite-tracker/id455028239?uo=4"
+      },
+      {
+        "id": "1498487255",
+        "name": "Monthly Spending Tracker",
+        "url": "https://apps.apple.com/us/app/monthly-spending-tracker/id1498487255?uo=4"
+      },
+      {
+        "id": "6760183749",
+        "name": "Monthly: Budget Planner",
+        "url": "https://apps.apple.com/us/app/monthly-budget-planner/id6760183749?uo=4"
+      },
+      {
+        "id": "6759723815",
+        "name": "Mouth Ledger - AI Expense Log",
+        "url": "https://apps.apple.com/us/app/mouth-ledger-ai-expense-log/id6759723815?uo=4"
+      },
+      {
+        "id": "482361839",
+        "name": "MT - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/mt-expense-tracker/id482361839?uo=4"
+      },
+      {
+        "id": "6762485074",
+        "name": "Mudal: Money Manager",
+        "url": "https://apps.apple.com/us/app/mudal-money-manager/id6762485074?uo=4"
+      },
+      {
+        "id": "579913972",
+        "name": "My Budget - Expense tracker",
+        "url": "https://apps.apple.com/us/app/my-budget-expense-tracker/id579913972?uo=4"
+      },
+      {
+        "id": "1610403157",
+        "name": "My Budget Planner (DSIK)",
+        "url": "https://apps.apple.com/us/app/my-budget-planner-dsik/id1610403157?uo=4"
+      },
+      {
+        "id": "995661933",
+        "name": "My Budget – Expense Tracker",
+        "url": "https://apps.apple.com/us/app/my-budget-expense-tracker/id995661933?uo=4"
+      },
+      {
+        "id": "606998063",
+        "name": "My Budgets",
+        "url": "https://apps.apple.com/us/app/my-budgets/id606998063?uo=4"
+      },
+      {
+        "id": "1507625362",
+        "name": "My Financial Tracker",
+        "url": "https://apps.apple.com/us/app/my-financial-tracker/id1507625362?uo=4"
+      },
+      {
+        "id": "1363776139",
+        "name": "My Home Bills: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/my-home-bills-expense-tracker/id1363776139?uo=4"
+      },
+      {
+        "id": "6761819145",
+        "name": "My Money - Track Expenses",
+        "url": "https://apps.apple.com/us/app/my-money-track-expenses/id6761819145?uo=4"
+      },
+      {
+        "id": "6747077164",
+        "name": "My Money Manager",
+        "url": "https://apps.apple.com/us/app/my-money-manager/id6747077164?uo=4"
+      },
+      {
+        "id": "1662231856",
+        "name": "My Sente: Modern Money Manager",
+        "url": "https://apps.apple.com/us/app/my-sente-modern-money-manager/id1662231856?uo=4"
+      },
+      {
+        "id": "1276038930",
+        "name": "My Spending",
+        "url": "https://apps.apple.com/us/app/my-spending/id1276038930?uo=4"
+      },
+      {
+        "id": "6789937723",
+        "name": "MyAuto: car expense tracker",
+        "url": "https://apps.apple.com/us/app/myauto-car-expense-tracker/id6789937723?uo=4"
+      },
+      {
+        "id": "6780133783",
+        "name": "MyBudget - Daily Spending",
+        "url": "https://apps.apple.com/us/app/mybudget-daily-spending/id6780133783?uo=4"
+      },
+      {
+        "id": "1386377748",
+        "name": "myCarLog: Car & Fuel Tracker",
+        "url": "https://apps.apple.com/us/app/mycarlog-car-fuel-tracker/id1386377748?uo=4"
+      },
+      {
+        "id": "6768036641",
+        "name": "MyKonnash: Money Manager",
+        "url": "https://apps.apple.com/us/app/mykonnash-money-manager/id6768036641?uo=4"
+      },
+      {
+        "id": "1565739275",
+        "name": "MyLife: budget app & planner",
+        "url": "https://apps.apple.com/us/app/mylife-budget-app-planner/id1565739275?uo=4"
+      },
+      {
+        "id": "6751051280",
+        "name": "MyMoney Personal Finance",
+        "url": "https://apps.apple.com/us/app/mymoney-personal-finance/id6751051280?uo=4"
+      },
+      {
+        "id": "6760680631",
+        "name": "myMoney — AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/mymoney-ai-expense-tracker/id6760680631?uo=4"
+      },
+      {
+        "id": "6762124861",
+        "name": "Mynk - Split & Track Expenses",
+        "url": "https://apps.apple.com/us/app/mynk-split-track-expenses/id6762124861?uo=4"
+      },
+      {
+        "id": "6446052184",
+        "name": "MySpend: Shared Budget Tracker",
+        "url": "https://apps.apple.com/us/app/myspend-shared-budget-tracker/id6446052184?uo=4"
+      },
+      {
+        "id": "6757509490",
+        "name": "MyTruv - AI Money Manager",
+        "url": "https://apps.apple.com/us/app/mytruv-ai-money-manager/id6757509490?uo=4"
+      },
+      {
+        "id": "1628278500",
+        "name": "MyWallet Voice Expense Tracker",
+        "url": "https://apps.apple.com/us/app/mywallet-voice-expense-tracker/id1628278500?uo=4"
+      },
+      {
+        "id": "1414541649",
+        "name": "Narvata: Sales Tracker",
+        "url": "https://apps.apple.com/us/app/narvata-sales-tracker/id1414541649?uo=4"
+      },
+      {
+        "id": "1448087128",
+        "name": "NAWGJ Expense Tracking",
+        "url": "https://apps.apple.com/us/app/nawgj-expense-tracking/id1448087128?uo=4"
+      },
+      {
+        "id": "1174471607",
+        "name": "NerdWallet: Smart Money App",
+        "url": "https://apps.apple.com/us/app/nerdwallet-smart-money-app/id1174471607?uo=4"
+      },
+      {
+        "id": "1476048552",
+        "name": "Net Worth by BalanceViewer",
+        "url": "https://apps.apple.com/us/app/net-worth-by-balanceviewer/id1476048552?uo=4"
+      },
+      {
+        "id": "6742973362",
+        "name": "Net Worth Tracker - NetTrack",
+        "url": "https://apps.apple.com/us/app/net-worth-tracker-nettrack/id6742973362?uo=4"
+      },
+      {
+        "id": "6767111942",
+        "name": "Net Worth Tracker - Wealth Up",
+        "url": "https://apps.apple.com/us/app/net-worth-tracker-wealth-up/id6767111942?uo=4"
+      },
+      {
+        "id": "6737015950",
+        "name": "Net Worth Tracker: Mintly",
+        "url": "https://apps.apple.com/us/app/net-worth-tracker-mintly/id6737015950?uo=4"
+      },
+      {
+        "id": "307099493",
+        "name": "NetSuite SuiteProjects Pro",
+        "url": "https://apps.apple.com/us/app/netsuite-suiteprojects-pro/id307099493?uo=4"
+      },
+      {
+        "id": "6759304601",
+        "name": "Node Expense: Track Together",
+        "url": "https://apps.apple.com/us/app/node-expense-track-together/id6759304601?uo=4"
+      },
+      {
+        "id": "1517339257",
+        "name": "Nudget: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/nudget-spending-tracker/id1517339257?uo=4"
+      },
+      {
+        "id": "547660162",
+        "name": "Numero: Personal Finance",
+        "url": "https://apps.apple.com/us/app/numero-personal-finance/id547660162?uo=4"
+      },
+      {
+        "id": "1552840181",
+        "name": "Numilo - Personal Finance",
+        "url": "https://apps.apple.com/us/app/numilo-personal-finance/id1552840181?uo=4"
+      },
+      {
+        "id": "6788265518",
+        "name": "Obolos: AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/obolos-ai-expense-tracker/id6788265518?uo=4"
+      },
+      {
+        "id": "431473484",
+        "name": "OfficeTime Time Keeper Pro",
+        "url": "https://apps.apple.com/us/app/officetime-time-keeper-pro/id431473484?uo=4"
+      },
+      {
+        "id": "6695761026",
+        "name": "Okanemochi - Money Manager",
+        "url": "https://apps.apple.com/us/app/okanemochi-money-manager/id6695761026?uo=4"
+      },
+      {
+        "id": "6763578754",
+        "name": "Ollie Expense Tracker",
+        "url": "https://apps.apple.com/us/app/ollie-expense-tracker/id6763578754?uo=4"
+      },
+      {
+        "id": "6763823803",
+        "name": "Ollo - Budget & Money Manager",
+        "url": "https://apps.apple.com/us/app/ollo-budget-money-manager/id6763823803?uo=4"
+      },
+      {
+        "id": "6757170795",
+        "name": "Olo: Money Manager",
+        "url": "https://apps.apple.com/us/app/olo-money-manager/id6757170795?uo=4"
+      },
+      {
+        "id": "6757169237",
+        "name": "ONALA: Track Expense & Budget",
+        "url": "https://apps.apple.com/us/app/onala-track-expense-budget/id6757169237?uo=4"
+      },
+      {
+        "id": "6749649580",
+        "name": "One Click Spending Tracker",
+        "url": "https://apps.apple.com/us/app/one-click-spending-tracker/id6749649580?uo=4"
+      },
+      {
+        "id": "1593466495",
+        "name": "Oops­",
+        "url": "https://apps.apple.com/us/app/oops/id1593466495?uo=4"
+      },
+      {
+        "id": "1526973735",
+        "name": "OpenBudget - Budget and Save",
+        "url": "https://apps.apple.com/us/app/openbudget-budget-and-save/id1526973735?uo=4"
+      },
+      {
+        "id": "1011935076",
+        "name": "Oportun: Savings & Loans",
+        "url": "https://apps.apple.com/us/app/oportun-savings-loans/id1011935076?uo=4"
+      },
+      {
+        "id": "677699286",
+        "name": "Organizze Budget Planner",
+        "url": "https://apps.apple.com/us/app/organizze-budget-planner/id677699286?uo=4"
+      },
+      {
+        "id": "1637693312",
+        "name": "Origin: AI Budget and Track",
+        "url": "https://apps.apple.com/us/app/origin-ai-budget-and-track/id1637693312?uo=4"
+      },
+      {
+        "id": "1503878877",
+        "name": "Otaku - track hobby expenses",
+        "url": "https://apps.apple.com/us/app/otaku-track-hobby-expenses/id1503878877?uo=4"
+      },
+      {
+        "id": "1161255926",
+        "name": "Our Expenses: Household Budget",
+        "url": "https://apps.apple.com/us/app/our-expenses-household-budget/id1161255926?uo=4"
+      },
+      {
+        "id": "6754390515",
+        "name": "Owl Budget: Budget Planner App",
+        "url": "https://apps.apple.com/us/app/owl-budget-budget-planner-app/id6754390515?uo=4"
+      },
+      {
+        "id": "1611643341",
+        "name": "Pare Manager | پارە",
+        "url": "https://apps.apple.com/us/app/pare-manager-%D9%BE%D8%A7%D8%B1%DB%95/id1611643341?uo=4"
+      },
+      {
+        "id": "6754345637",
+        "name": "Parker: Expense Tracker Budget",
+        "url": "https://apps.apple.com/us/app/parker-expense-tracker-budget/id6754345637?uo=4"
+      },
+      {
+        "id": "1591926848",
+        "name": "ParmisaK PFM",
+        "url": "https://apps.apple.com/us/app/parmisak-pfm/id1591926848?uo=4"
+      },
+      {
+        "id": "6772960597",
+        "name": "Pave - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/pave-expense-tracker/id6772960597?uo=4"
+      },
+      {
+        "id": "6760873815",
+        "name": "Payday Budget Planner",
+        "url": "https://apps.apple.com/us/app/payday-budget-planner/id6760873815?uo=4"
+      },
+      {
+        "id": "916741290",
+        "name": "Pennies: Budget & Bill Tracker",
+        "url": "https://apps.apple.com/us/app/pennies-budget-bill-tracker/id916741290?uo=4"
+      },
+      {
+        "id": "6807528869",
+        "name": "Pennli: Budget Planner",
+        "url": "https://apps.apple.com/us/app/pennli-budget-planner/id6807528869?uo=4"
+      },
+      {
+        "id": "6790263376",
+        "name": "Pennygrove — No Spend Tracker",
+        "url": "https://apps.apple.com/us/app/pennygrove-no-spend-tracker/id6790263376?uo=4"
+      },
+      {
+        "id": "6753977437",
+        "name": "PennySaved: Track Expenses",
+        "url": "https://apps.apple.com/us/app/pennysaved-track-expenses/id6753977437?uo=4"
+      },
+      {
+        "id": "6793073167",
+        "name": "PennyWise AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/pennywise-ai-expense-tracker/id6793073167?uo=4"
+      },
+      {
+        "id": "954944283",
+        "name": "Pennyworth Expense Tracker App",
+        "url": "https://apps.apple.com/us/app/pennyworth-expense-tracker-app/id954944283?uo=4"
+      },
+      {
+        "id": "6739447552",
+        "name": "PenPoke: Cute Expense Tracker",
+        "url": "https://apps.apple.com/us/app/penpoke-cute-expense-tracker/id6739447552?uo=4"
+      },
+      {
+        "id": "6756527097",
+        "name": "Pensi: Money Manager",
+        "url": "https://apps.apple.com/us/app/pensi-money-manager/id6756527097?uo=4"
+      },
+      {
+        "id": "6766038118",
+        "name": "Penvo - AI Voice Expense Log",
+        "url": "https://apps.apple.com/us/app/penvo-ai-voice-expense-log/id6766038118?uo=4"
+      },
+      {
+        "id": "503782694",
+        "name": "Personal Expense Log",
+        "url": "https://apps.apple.com/us/app/personal-expense-log/id503782694?uo=4"
+      },
+      {
+        "id": "915760961",
+        "name": "Personal Finance - Tracker",
+        "url": "https://apps.apple.com/us/app/personal-finance-tracker/id915760961?uo=4"
+      },
+      {
+        "id": "6752817138",
+        "name": "Personal Finance Tracker",
+        "url": "https://apps.apple.com/us/app/personal-finance-tracker/id6752817138?uo=4"
+      },
+      {
+        "id": "1559440394",
+        "name": "PetrolCalc-Track Fuel Expenses",
+        "url": "https://apps.apple.com/us/app/petrolcalc-track-fuel-expenses/id1559440394?uo=4"
+      },
+      {
+        "id": "481729161",
+        "name": "Pico Spend - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/pico-spend-expense-tracker/id481729161?uo=4"
+      },
+      {
+        "id": "6747552555",
+        "name": "Piggy Bank - Expense Manager",
+        "url": "https://apps.apple.com/us/app/piggy-bank-expense-manager/id6747552555?uo=4"
+      },
+      {
+        "id": "6762029826",
+        "name": "Pigi: Monthly Budget Planner",
+        "url": "https://apps.apple.com/us/app/pigi-monthly-budget-planner/id6762029826?uo=4"
+      },
+      {
+        "id": "6789808273",
+        "name": "Plannd: Day & Budget",
+        "url": "https://apps.apple.com/us/app/plannd-day-budget/id6789808273?uo=4"
+      },
+      {
+        "id": "1618522214",
+        "name": "Ploutos Budget: Money Manager",
+        "url": "https://apps.apple.com/us/app/ploutos-budget-money-manager/id1618522214?uo=4"
+      },
+      {
+        "id": "6757503402",
+        "name": "Pocket Clear: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/pocket-clear-expense-tracker/id6757503402?uo=4"
+      },
+      {
+        "id": "424575621",
+        "name": "Pocket Expense 6",
+        "url": "https://apps.apple.com/us/app/pocket-expense-6/id424575621?uo=4"
+      },
+      {
+        "id": "1099695455",
+        "name": "Pocket Money Daily Expense Log",
+        "url": "https://apps.apple.com/us/app/pocket-money-daily-expense-log/id1099695455?uo=4"
+      },
+      {
+        "id": "826474819",
+        "name": "Pocket Money Manager",
+        "url": "https://apps.apple.com/us/app/pocket-money-manager/id826474819?uo=4"
+      },
+      {
+        "id": "6745982820",
+        "name": "Pocket: Budget & Expense Track",
+        "url": "https://apps.apple.com/us/app/pocket-budget-expense-track/id6745982820?uo=4"
+      },
+      {
+        "id": "6747596366",
+        "name": "Pocket: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/pocket-spending-tracker/id6747596366?uo=4"
+      },
+      {
+        "id": "1532676793",
+        "name": "PocketApp: Send & Manage Money",
+        "url": "https://apps.apple.com/us/app/pocketapp-send-manage-money/id1532676793?uo=4"
+      },
+      {
+        "id": "949414211",
+        "name": "PocketGuard - Budget App",
+        "url": "https://apps.apple.com/us/app/pocketguard-budget-app/id949414211?uo=4"
+      },
+      {
+        "id": "6760869973",
+        "name": "PocketLedger: Track Expenses",
+        "url": "https://apps.apple.com/us/app/pocketledger-track-expenses/id6760869973?uo=4"
+      },
+      {
+        "id": "6759306661",
+        "name": "Pocketra: Budget & Expense Log",
+        "url": "https://apps.apple.com/us/app/pocketra-budget-expense-log/id6759306661?uo=4"
+      },
+      {
+        "id": "6765694444",
+        "name": "Pockets family expense manager",
+        "url": "https://apps.apple.com/us/app/pockets-family-expense-manager/id6765694444?uo=4"
+      },
+      {
+        "id": "6804290643",
+        "name": "PocketTracker: Expense Log",
+        "url": "https://apps.apple.com/us/app/pockettracker-expense-log/id6804290643?uo=4"
+      },
+      {
+        "id": "6463721292",
+        "name": "Poketto - Money Tracker",
+        "url": "https://apps.apple.com/us/app/poketto-money-tracker/id6463721292?uo=4"
+      },
+      {
+        "id": "6759301099",
+        "name": "Pulse - Financial Tracker",
+        "url": "https://apps.apple.com/us/app/pulse-financial-tracker/id6759301099?uo=4"
+      },
+      {
+        "id": "6764638553",
+        "name": "Qaizo — AI Personal Finance",
+        "url": "https://apps.apple.com/us/app/qaizo-ai-personal-finance/id6764638553?uo=4"
+      },
+      {
+        "id": "6756010294",
+        "name": "Qalta: Budget, Expense Tracker",
+        "url": "https://apps.apple.com/us/app/qalta-budget-expense-tracker/id6756010294?uo=4"
+      },
+      {
+        "id": "6749017099",
+        "name": "Quanto: Budget Expense Tracker",
+        "url": "https://apps.apple.com/us/app/quanto-budget-expense-tracker/id6749017099?uo=4"
+      },
+      {
+        "id": "982890842",
+        "name": "Quick & Easy Expense Manager! PayReco",
+        "url": "https://apps.apple.com/us/app/quick-easy-expense-manager-payreco/id982890842?uo=4"
+      },
+      {
+        "id": "589372357",
+        "name": "Quick Checkbook",
+        "url": "https://apps.apple.com/us/app/quick-checkbook/id589372357?uo=4"
+      },
+      {
+        "id": "6797532130",
+        "name": "Quick Expense Tracker: Private",
+        "url": "https://apps.apple.com/us/app/quick-expense-tracker-private/id6797532130?uo=4"
+      },
+      {
+        "id": "1449777194",
+        "name": "Quicken: Budget & Track Money",
+        "url": "https://apps.apple.com/us/app/quicken-budget-track-money/id1449777194?uo=4"
+      },
+      {
+        "id": "6785651690",
+        "name": "QuickKakeibo: Expense Log",
+        "url": "https://apps.apple.com/us/app/quickkakeibo-expense-log/id6785651690?uo=4"
+      },
+      {
+        "id": "6775256525",
+        "name": "QuickSpend: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/quickspend-expense-tracker/id6775256525?uo=4"
+      },
+      {
+        "id": "6755434653",
+        "name": "QuickTap: Money Manager",
+        "url": "https://apps.apple.com/us/app/quicktap-money-manager/id6755434653?uo=4"
+      },
+      {
+        "id": "6762468868",
+        "name": "Quidly: AI Money Manager",
+        "url": "https://apps.apple.com/us/app/quidly-ai-money-manager/id6762468868?uo=4"
+      },
+      {
+        "id": "6776480678",
+        "name": "QuietLedger: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/quietledger-expense-tracker/id6776480678?uo=4"
+      },
+      {
+        "id": "6737245758",
+        "name": "QuikStash Budget Tracker",
+        "url": "https://apps.apple.com/us/app/quikstash-budget-tracker/id6737245758?uo=4"
+      },
+      {
+        "id": "1628197245",
+        "name": "Ramp",
+        "url": "https://apps.apple.com/us/app/ramp/id1628197245?uo=4"
+      },
+      {
+        "id": "1488285484",
+        "name": "RapidReceipt: Scan & Manage",
+        "url": "https://apps.apple.com/us/app/rapidreceipt-scan-manage/id1488285484?uo=4"
+      },
+      {
+        "id": "627878792",
+        "name": "Receipt Box - Spending Tracker",
+        "url": "https://apps.apple.com/us/app/receipt-box-spending-tracker/id627878792?uo=4"
+      },
+      {
+        "id": "6787879287",
+        "name": "Receipt Keeper - Expense Track",
+        "url": "https://apps.apple.com/us/app/receipt-keeper-expense-track/id6787879287?uo=4"
+      },
+      {
+        "id": "1424280764",
+        "name": "Receipt Lens - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/receipt-lens-expense-tracker/id1424280764?uo=4"
+      },
+      {
+        "id": "6789563930",
+        "name": "Receipt Rabbit Expense Tracker",
+        "url": "https://apps.apple.com/us/app/receipt-rabbit-expense-tracker/id6789563930?uo=4"
+      },
+      {
+        "id": "1545815944",
+        "name": "Receipt Scanner- Easy Manager",
+        "url": "https://apps.apple.com/us/app/receipt-scanner-easy-manager/id1545815944?uo=4"
+      },
+      {
+        "id": "6752840912",
+        "name": "Receipt Scanner-Expense Track",
+        "url": "https://apps.apple.com/us/app/receipt-scanner-expense-track/id6752840912?uo=4"
+      },
+      {
+        "id": "1528787066",
+        "name": "Receipt Scanner: Easy Expense",
+        "url": "https://apps.apple.com/us/app/receipt-scanner-easy-expense/id1528787066?uo=4"
+      },
+      {
+        "id": "1550270774",
+        "name": "Receipt Scanner・Track Expenses",
+        "url": "https://apps.apple.com/us/app/receipt-scanner-track-expenses/id1550270774?uo=4"
+      },
+      {
+        "id": "1594825425",
+        "name": "Receipt Tracker - Tax Return",
+        "url": "https://apps.apple.com/us/app/receipt-tracker-tax-return/id1594825425?uo=4"
+      },
+      {
+        "id": "6761967113",
+        "name": "ReceiptLog: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/receiptlog-expense-tracker/id6761967113?uo=4"
+      },
+      {
+        "id": "6755740822",
+        "name": "ReceiptOne: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/receiptone-expense-tracker/id6755740822?uo=4"
+      },
+      {
+        "id": "708280039",
+        "name": "Receipts - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/receipts-expense-tracker/id708280039?uo=4"
+      },
+      {
+        "id": "6761636359",
+        "name": "Receipts and Expense Manager",
+        "url": "https://apps.apple.com/us/app/receipts-and-expense-manager/id6761636359?uo=4"
+      },
+      {
+        "id": "1636226982",
+        "name": "Refuel - Fuel Expense Tracker",
+        "url": "https://apps.apple.com/us/app/refuel-fuel-expense-tracker/id1636226982?uo=4"
+      },
+      {
+        "id": "6760743385",
+        "name": "Reign: Budget & Expense Log",
+        "url": "https://apps.apple.com/us/app/reign-budget-expense-log/id6760743385?uo=4"
+      },
+      {
+        "id": "1536477529",
+        "name": "Rental Expense Manager/Tracker",
+        "url": "https://apps.apple.com/us/app/rental-expense-manager-tracker/id1536477529?uo=4"
+      },
+      {
+        "id": "6760676097",
+        "name": "Rental Log: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/rental-log-expense-tracker/id6760676097?uo=4"
+      },
+      {
+        "id": "6758280423",
+        "name": "Rental Manager: Rent & Taxes",
+        "url": "https://apps.apple.com/us/app/rental-manager-rent-taxes/id6758280423?uo=4"
+      },
+      {
+        "id": "6761083476",
+        "name": "RentLedger: Rental Expense Log",
+        "url": "https://apps.apple.com/us/app/rentledger-rental-expense-log/id6761083476?uo=4"
+      },
+      {
+        "id": "6670757429",
+        "name": "Repair Budget Planner",
+        "url": "https://apps.apple.com/us/app/repair-budget-planner/id6670757429?uo=4"
+      },
+      {
+        "id": "6795912129",
+        "name": "Revius - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/revius-expense-tracker/id6795912129?uo=4"
+      },
+      {
+        "id": "932493382",
+        "name": "Revolut: send, spend, and save",
+        "url": "https://apps.apple.com/us/app/revolut-send-spend-and-save/id932493382?uo=4"
+      },
+      {
+        "id": "6752465398",
+        "name": "Richmee-Expense&Budget Tracker",
+        "url": "https://apps.apple.com/us/app/richmee-expense-budget-tracker/id6752465398?uo=4"
+      },
+      {
+        "id": "6761194879",
+        "name": "RIGLOG: Trucking Expense Log",
+        "url": "https://apps.apple.com/us/app/riglog-trucking-expense-log/id6761194879?uo=4"
+      },
+      {
+        "id": "1231325957",
+        "name": "Rippling - HR, IT & Finance",
+        "url": "https://apps.apple.com/us/app/rippling-hr-it-finance/id1231325957?uo=4"
+      },
+      {
+        "id": "298398207",
+        "name": "Road Trip MPG",
+        "url": "https://apps.apple.com/us/app/road-trip-mpg/id298398207?uo=4"
+      },
+      {
+        "id": "299392794",
+        "name": "Road Trip MPG Lite",
+        "url": "https://apps.apple.com/us/app/road-trip-mpg-lite/id299392794?uo=4"
+      },
+      {
+        "id": "1130616675",
+        "name": "Rocket Money - Bills & Budgets",
+        "url": "https://apps.apple.com/us/app/rocket-money-bills-budgets/id1130616675?uo=4"
+      },
+      {
+        "id": "1660919199",
+        "name": "Rocky App - Money Manager",
+        "url": "https://apps.apple.com/us/app/rocky-app-money-manager/id1660919199?uo=4"
+      },
+      {
+        "id": "6784409632",
+        "name": "Rosy: Budget Planner",
+        "url": "https://apps.apple.com/us/app/rosy-budget-planner/id6784409632?uo=4"
+      },
+      {
+        "id": "6759430395",
+        "name": "RunSheet - Trip & Expense Logs",
+        "url": "https://apps.apple.com/us/app/runsheet-trip-expense-logs/id6759430395?uo=4"
+      },
+      {
+        "id": "512207629",
+        "name": "Rydoo",
+        "url": "https://apps.apple.com/us/app/rydoo/id512207629?uo=4"
+      },
+      {
+        "id": "1137906166",
+        "name": "Sage Expense Management",
+        "url": "https://apps.apple.com/us/app/sage-expense-management/id1137906166?uo=4"
+      },
+      {
+        "id": "6780082898",
+        "name": "Salo: Money Manager",
+        "url": "https://apps.apple.com/us/app/salo-money-manager/id6780082898?uo=4"
+      },
+      {
+        "id": "335023774",
+        "name": "SAP Concur",
+        "url": "https://apps.apple.com/us/app/sap-concur/id335023774?uo=4"
+      },
+      {
+        "id": "6752724964",
+        "name": "Savi: Budget Planner App",
+        "url": "https://apps.apple.com/us/app/savi-budget-planner-app/id6752724964?uo=4"
+      },
+      {
+        "id": "6464059456",
+        "name": "Saving Diary - Money Manager",
+        "url": "https://apps.apple.com/us/app/saving-diary-money-manager/id6464059456?uo=4"
+      },
+      {
+        "id": "6758266243",
+        "name": "Savvy Book - Money Manager",
+        "url": "https://apps.apple.com/us/app/savvy-book-money-manager/id6758266243?uo=4"
+      },
+      {
+        "id": "454155575",
+        "name": "ScanTicket: Receipt & Expense",
+        "url": "https://apps.apple.com/us/app/scanticket-receipt-expense/id454155575?uo=4"
+      },
+      {
+        "id": "6774101041",
+        "name": "Scrooge: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/scrooge-expense-tracker/id6774101041?uo=4"
+      },
+      {
+        "id": "6776518360",
+        "name": "Self Employed－Accounting & Tax",
+        "url": "https://apps.apple.com/us/app/self-employed-accounting-tax/id6776518360?uo=4"
+      },
+      {
+        "id": "6757471408",
+        "name": "Sentinel - Budget Planner",
+        "url": "https://apps.apple.com/us/app/sentinel-budget-planner/id6757471408?uo=4"
+      },
+      {
+        "id": "1457307379",
+        "name": "Sepran: Expense Manager",
+        "url": "https://apps.apple.com/us/app/sepran-expense-manager/id1457307379?uo=4"
+      },
+      {
+        "id": "6806383716",
+        "name": "Set Aside - Budget Planner",
+        "url": "https://apps.apple.com/us/app/set-aside-budget-planner/id6806383716?uo=4"
+      },
+      {
+        "id": "6759623578",
+        "name": "Shelter: Payday Budget Planner",
+        "url": "https://apps.apple.com/us/app/shelter-payday-budget-planner/id6759623578?uo=4"
+      },
+      {
+        "id": "322143854",
+        "name": "Shoeboxed: Mileage Tracker",
+        "url": "https://apps.apple.com/us/app/shoeboxed-mileage-tracker/id322143854?uo=4"
+      },
+      {
+        "id": "6776341469",
+        "name": "SiBalance: Budget Planner",
+        "url": "https://apps.apple.com/us/app/sibalance-budget-planner/id6776341469?uo=4"
+      },
+      {
+        "id": "6478123174",
+        "name": "SILOSS-Expense Tracker",
+        "url": "https://apps.apple.com/us/app/siloss-expense-tracker/id6478123174?uo=4"
+      },
+      {
+        "id": "1370056290",
+        "name": "Simple Budget Planner",
+        "url": "https://apps.apple.com/us/app/simple-budget-planner/id1370056290?uo=4"
+      },
+      {
+        "id": "6746043320",
+        "name": "Simple Budget: Expense Manager",
+        "url": "https://apps.apple.com/us/app/simple-budget-expense-manager/id6746043320?uo=4"
+      },
+      {
+        "id": "1560574926",
+        "name": "Simple Budget: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/simple-budget-expense-tracker/id1560574926?uo=4"
+      },
+      {
+        "id": "6742050506",
+        "name": "Simple Income Expense Log App",
+        "url": "https://apps.apple.com/us/app/simple-income-expense-log-app/id6742050506?uo=4"
+      },
+      {
+        "id": "1538521095",
+        "name": "SimplyWise: Receipts, Expenses",
+        "url": "https://apps.apple.com/us/app/simplywise-receipts-expenses/id1538521095?uo=4"
+      },
+      {
+        "id": "1507248426",
+        "name": "Skaffer - Track subscriptions",
+        "url": "https://apps.apple.com/us/app/skaffer-track-subscriptions/id1507248426?uo=4"
+      },
+      {
+        "id": "6446384233",
+        "name": "Slog: Budget&Portfolio Tracker",
+        "url": "https://apps.apple.com/us/app/slog-budget-portfolio-tracker/id6446384233?uo=4"
+      },
+      {
+        "id": "6743310475",
+        "name": "Smart Khata & Expense Manager",
+        "url": "https://apps.apple.com/us/app/smart-khata-expense-manager/id6743310475?uo=4"
+      },
+      {
+        "id": "905698613",
+        "name": "Smart Receipts: Expenses & Tax",
+        "url": "https://apps.apple.com/us/app/smart-receipts-expenses-tax/id905698613?uo=4"
+      },
+      {
+        "id": "1464471112",
+        "name": "Smart Spend: Cost Analyzer",
+        "url": "https://apps.apple.com/us/app/smart-spend-cost-analyzer/id1464471112?uo=4"
+      },
+      {
+        "id": "1494348424",
+        "name": "SmartMoney - Budget Planner",
+        "url": "https://apps.apple.com/us/app/smartmoney-budget-planner/id1494348424?uo=4"
+      },
+      {
+        "id": "6447756224",
+        "name": "SmileBudget - Spending Tracker",
+        "url": "https://apps.apple.com/us/app/smilebudget-spending-tracker/id6447756224?uo=4"
+      },
+      {
+        "id": "6742044212",
+        "name": "SnapKoin - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/snapkoin-expense-tracker/id6742044212?uo=4"
+      },
+      {
+        "id": "6756229152",
+        "name": "Snapto: Photo Expense Tracker",
+        "url": "https://apps.apple.com/us/app/snapto-photo-expense-tracker/id6756229152?uo=4"
+      },
+      {
+        "id": "6759395420",
+        "name": "SnapTrack Expenses",
+        "url": "https://apps.apple.com/us/app/snaptrack-expenses/id6759395420?uo=4"
+      },
+      {
+        "id": "6803731256",
+        "name": "Sonem: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/sonem-expense-tracker/id6803731256?uo=4"
+      },
+      {
+        "id": "1660447131",
+        "name": "SparkReceipt: Receipt Scanner",
+        "url": "https://apps.apple.com/us/app/sparkreceipt-receipt-scanner/id1660447131?uo=4"
+      },
+      {
+        "id": "1208128587",
+        "name": "SPEND - Split & Track Expenses",
+        "url": "https://apps.apple.com/us/app/spend-split-track-expenses/id1208128587?uo=4"
+      },
+      {
+        "id": "1245312662",
+        "name": "Spend Clarity Enterprise",
+        "url": "https://apps.apple.com/us/app/spend-clarity-enterprise/id1245312662?uo=4"
+      },
+      {
+        "id": "6753306760",
+        "name": "Spend Note - Money Manager",
+        "url": "https://apps.apple.com/us/app/spend-note-money-manager/id6753306760?uo=4"
+      },
+      {
+        "id": "6446032459",
+        "name": "Spend Wisely - Expense Manager",
+        "url": "https://apps.apple.com/us/app/spend-wisely-expense-manager/id6446032459?uo=4"
+      },
+      {
+        "id": "6806731154",
+        "name": "Spend — Simple Expense Log",
+        "url": "https://apps.apple.com/us/app/spend-simple-expense-log/id6806731154?uo=4"
+      },
+      {
+        "id": "1528115172",
+        "name": "Spend-Trend: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/spend-trend-spending-tracker/id1528115172?uo=4"
+      },
+      {
+        "id": "6760961137",
+        "name": "Spendaq: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendaq-expense-tracker/id6760961137?uo=4"
+      },
+      {
+        "id": "1639150541",
+        "name": "Spendar - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendar-expense-tracker/id1639150541?uo=4"
+      },
+      {
+        "id": "6763279576",
+        "name": "Spendback: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendback-expense-tracker/id6763279576?uo=4"
+      },
+      {
+        "id": "6742356962",
+        "name": "SpendBalance: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendbalance-expense-tracker/id6742356962?uo=4"
+      },
+      {
+        "id": "1334052637",
+        "name": "SpendCatcher by Mobilexpense",
+        "url": "https://apps.apple.com/us/app/spendcatcher-by-mobilexpense/id1334052637?uo=4"
+      },
+      {
+        "id": "6787849347",
+        "name": "SpendCheck: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendcheck-expense-tracker/id6787849347?uo=4"
+      },
+      {
+        "id": "6748306495",
+        "name": "Spendcheck: Money Manager",
+        "url": "https://apps.apple.com/us/app/spendcheck-money-manager/id6748306495?uo=4"
+      },
+      {
+        "id": "6754823712",
+        "name": "Spender - Smart Money Tracker",
+        "url": "https://apps.apple.com/us/app/spender-smart-money-tracker/id6754823712?uo=4"
+      },
+      {
+        "id": "6805529173",
+        "name": "Spendimo: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendimo-expense-tracker/id6805529173?uo=4"
+      },
+      {
+        "id": "6740085856",
+        "name": "Spending & Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spending-expense-tracker/id6740085856?uo=4"
+      },
+      {
+        "id": "717831365",
+        "name": "Spending 2",
+        "url": "https://apps.apple.com/us/app/spending-2/id717831365?uo=4"
+      },
+      {
+        "id": "6502236817",
+        "name": "Spending App - Budget Tracker",
+        "url": "https://apps.apple.com/us/app/spending-app-budget-tracker/id6502236817?uo=4"
+      },
+      {
+        "id": "1118395662",
+        "name": "Spending Log",
+        "url": "https://apps.apple.com/us/app/spending-log/id1118395662?uo=4"
+      },
+      {
+        "id": "6504086653",
+        "name": "Spending Log - Money Manager",
+        "url": "https://apps.apple.com/us/app/spending-log-money-manager/id6504086653?uo=4"
+      },
+      {
+        "id": "548615579",
+        "name": "Spending Tracker",
+        "url": "https://apps.apple.com/us/app/spending-tracker/id548615579?uo=4"
+      },
+      {
+        "id": "6751024288",
+        "name": "Spending Tracker & Budget",
+        "url": "https://apps.apple.com/us/app/spending-tracker-budget/id6751024288?uo=4"
+      },
+      {
+        "id": "6739544357",
+        "name": "Spending Tracker - Budget Ally",
+        "url": "https://apps.apple.com/us/app/spending-tracker-budget-ally/id6739544357?uo=4"
+      },
+      {
+        "id": "6801745539",
+        "name": "Spending tracker - Budget app",
+        "url": "https://apps.apple.com/us/app/spending-tracker-budget-app/id6801745539?uo=4"
+      },
+      {
+        "id": "6739849182",
+        "name": "Spending Tracker - Budgeting",
+        "url": "https://apps.apple.com/us/app/spending-tracker-budgeting/id6739849182?uo=4"
+      },
+      {
+        "id": "6743163740",
+        "name": "Spending Tracker - Bunny Money",
+        "url": "https://apps.apple.com/us/app/spending-tracker-bunny-money/id6743163740?uo=4"
+      },
+      {
+        "id": "6758917375",
+        "name": "Spending Tracker - MochiMoney",
+        "url": "https://apps.apple.com/us/app/spending-tracker-mochimoney/id6758917375?uo=4"
+      },
+      {
+        "id": "6474729130",
+        "name": "Spending Tracker - Paisa",
+        "url": "https://apps.apple.com/us/app/spending-tracker-paisa/id6474729130?uo=4"
+      },
+      {
+        "id": "6797351835",
+        "name": "Spending Tracker - Private",
+        "url": "https://apps.apple.com/us/app/spending-tracker-private/id6797351835?uo=4"
+      },
+      {
+        "id": "6772575807",
+        "name": "Spending Tracker - SpendKit",
+        "url": "https://apps.apple.com/us/app/spending-tracker-spendkit/id6772575807?uo=4"
+      },
+      {
+        "id": "6758154555",
+        "name": "Spending Tracker App",
+        "url": "https://apps.apple.com/us/app/spending-tracker-app/id6758154555?uo=4"
+      },
+      {
+        "id": "6751465442",
+        "name": "Spending Tracker Hue by IJW",
+        "url": "https://apps.apple.com/us/app/spending-tracker-hue-by-ijw/id6751465442?uo=4"
+      },
+      {
+        "id": "1119886207",
+        "name": "Spending Tracker MoneyKeep",
+        "url": "https://apps.apple.com/us/app/spending-tracker-moneykeep/id1119886207?uo=4"
+      },
+      {
+        "id": "6746102667",
+        "name": "Spending Tracker – Bux",
+        "url": "https://apps.apple.com/us/app/spending-tracker-bux/id6746102667?uo=4"
+      },
+      {
+        "id": "865818973",
+        "name": "Spending Tracker-Money Manager",
+        "url": "https://apps.apple.com/us/app/spending-tracker-money-manager/id865818973?uo=4"
+      },
+      {
+        "id": "6762517856",
+        "name": "Spending Tracker: Budget Pro",
+        "url": "https://apps.apple.com/us/app/spending-tracker-budget-pro/id6762517856?uo=4"
+      },
+      {
+        "id": "6760102114",
+        "name": "Spending Tracker: KeepyCash",
+        "url": "https://apps.apple.com/us/app/spending-tracker-keepycash/id6760102114?uo=4"
+      },
+      {
+        "id": "6758535249",
+        "name": "Spending Tracker: Stash Flow",
+        "url": "https://apps.apple.com/us/app/spending-tracker-stash-flow/id6758535249?uo=4"
+      },
+      {
+        "id": "6746091712",
+        "name": "Spending Tracker: Tomi",
+        "url": "https://apps.apple.com/us/app/spending-tracker-tomi/id6746091712?uo=4"
+      },
+      {
+        "id": "6757122478",
+        "name": "Spending Tracker: Zoe",
+        "url": "https://apps.apple.com/us/app/spending-tracker-zoe/id6757122478?uo=4"
+      },
+      {
+        "id": "1461655771",
+        "name": "Spendings Tracker",
+        "url": "https://apps.apple.com/us/app/spendings-tracker/id1461655771?uo=4"
+      },
+      {
+        "id": "981295504",
+        "name": "Spendio - Spending Tracker for iPhone & Apple Watch",
+        "url": "https://apps.apple.com/us/app/spendio-spending-tracker-for-iphone-apple-watch/id981295504?uo=4"
+      },
+      {
+        "id": "1586167920",
+        "name": "Spendipity 2.0 - Track Expense",
+        "url": "https://apps.apple.com/us/app/spendipity-2-0-track-expense/id1586167920?uo=4"
+      },
+      {
+        "id": "6787101923",
+        "name": "Spendjar: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendjar-expense-tracker/id6787101923?uo=4"
+      },
+      {
+        "id": "6746072531",
+        "name": "Spendle - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendle-expense-tracker/id6746072531?uo=4"
+      },
+      {
+        "id": "1495276397",
+        "name": "SpendLists: Income Tracker",
+        "url": "https://apps.apple.com/us/app/spendlists-income-tracker/id1495276397?uo=4"
+      },
+      {
+        "id": "6778739634",
+        "name": "SpendLog: Easy Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendlog-easy-expense-tracker/id6778739634?uo=4"
+      },
+      {
+        "id": "6760717618",
+        "name": "Spendly: Smart Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendly-smart-expense-tracker/id6760717618?uo=4"
+      },
+      {
+        "id": "6765463097",
+        "name": "Spendly: Track Your Expenses",
+        "url": "https://apps.apple.com/us/app/spendly-track-your-expenses/id6765463097?uo=4"
+      },
+      {
+        "id": "6787908462",
+        "name": "Spendly: Visual Expense Log",
+        "url": "https://apps.apple.com/us/app/spendly-visual-expense-log/id6787908462?uo=4"
+      },
+      {
+        "id": "1401126213",
+        "name": "SpendMon - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendmon-expense-tracker/id1401126213?uo=4"
+      },
+      {
+        "id": "1505752740",
+        "name": "SpendNotes - Budget Tracker",
+        "url": "https://apps.apple.com/us/app/spendnotes-budget-tracker/id1505752740?uo=4"
+      },
+      {
+        "id": "6769786164",
+        "name": "Spendora: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendora-expense-tracker/id6769786164?uo=4"
+      },
+      {
+        "id": "6756796302",
+        "name": "SpendSnap - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendsnap-expense-tracker/id6756796302?uo=4"
+      },
+      {
+        "id": "6463366735",
+        "name": "SpendWave Expense tracker App",
+        "url": "https://apps.apple.com/us/app/spendwave-expense-tracker-app/id6463366735?uo=4"
+      },
+      {
+        "id": "6757985671",
+        "name": "SpendWidget: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendwidget-expense-tracker/id6757985671?uo=4"
+      },
+      {
+        "id": "6443419421",
+        "name": "Spendy - Expense Tracker Diary",
+        "url": "https://apps.apple.com/us/app/spendy-expense-tracker-diary/id6443419421?uo=4"
+      },
+      {
+        "id": "1524435907",
+        "name": "Spendy - Spendings reimagined",
+        "url": "https://apps.apple.com/us/app/spendy-spendings-reimagined/id1524435907?uo=4"
+      },
+      {
+        "id": "6791770566",
+        "name": "Spendy: Budget & Money Manager",
+        "url": "https://apps.apple.com/us/app/spendy-budget-money-manager/id6791770566?uo=4"
+      },
+      {
+        "id": "6758355322",
+        "name": "Spendy: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spendy-expense-tracker/id6758355322?uo=4"
+      },
+      {
+        "id": "6448874070",
+        "name": "Spendıng Tracker - BudgetPad",
+        "url": "https://apps.apple.com/us/app/spend%C4%B1ng-tracker-budgetpad/id6448874070?uo=4"
+      },
+      {
+        "id": "6760473784",
+        "name": "Spengo: Split & Track Expenses",
+        "url": "https://apps.apple.com/us/app/spengo-split-track-expenses/id6760473784?uo=4"
+      },
+      {
+        "id": "6809634306",
+        "name": "Spent Today: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spent-today-expense-tracker/id6809634306?uo=4"
+      },
+      {
+        "id": "1439556350",
+        "name": "Spentify: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/spentify-expense-tracker/id1439556350?uo=4"
+      },
+      {
+        "id": "6743405186",
+        "name": "Splitz: Track & Split Expenses",
+        "url": "https://apps.apple.com/us/app/splitz-track-split-expenses/id6743405186?uo=4"
+      },
+      {
+        "id": "6477331498",
+        "name": "Squirrel - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/squirrel-expense-tracker/id6477331498?uo=4"
+      },
+      {
+        "id": "6760672345",
+        "name": "Squirrlo - Budget Planner",
+        "url": "https://apps.apple.com/us/app/squirrlo-budget-planner/id6760672345?uo=4"
+      },
+      {
+        "id": "1542637665",
+        "name": "Sribuu: Budget & Money Manager",
+        "url": "https://apps.apple.com/us/app/sribuu-budget-money-manager/id1542637665?uo=4"
+      },
+      {
+        "id": "1374556096",
+        "name": "Stessa: Smart Rental Manager",
+        "url": "https://apps.apple.com/us/app/stessa-smart-rental-manager/id1374556096?uo=4"
+      },
+      {
+        "id": "1041591359",
+        "name": "Stride: Mileage & Tax Tracker",
+        "url": "https://apps.apple.com/us/app/stride-mileage-tax-tracker/id1041591359?uo=4"
+      },
+      {
+        "id": "1577082754",
+        "name": "Subscriptions - Track Expenses",
+        "url": "https://apps.apple.com/us/app/subscriptions-track-expenses/id1577082754?uo=4"
+      },
+      {
+        "id": "1499253615",
+        "name": "Subsee - Track Subscriptions",
+        "url": "https://apps.apple.com/us/app/subsee-track-subscriptions/id1499253615?uo=4"
+      },
+      {
+        "id": "6738668365",
+        "name": "Sumlio: Expense & Budget",
+        "url": "https://apps.apple.com/us/app/sumlio-expense-budget/id6738668365?uo=4"
+      },
+      {
+        "id": "6746765324",
+        "name": "Summa: Budget, Expense Tracker",
+        "url": "https://apps.apple.com/us/app/summa-budget-expense-tracker/id6746765324?uo=4"
+      },
+      {
+        "id": "6788836198",
+        "name": "Sumova - Money Manager",
+        "url": "https://apps.apple.com/us/app/sumova-money-manager/id6788836198?uo=4"
+      },
+      {
+        "id": "1578612881",
+        "name": "Surplus: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/surplus-expense-tracker/id1578612881?uo=4"
+      },
+      {
+        "id": "562877498",
+        "name": "SutiExpense",
+        "url": "https://apps.apple.com/us/app/sutiexpense/id562877498?uo=4"
+      },
+      {
+        "id": "6754246549",
+        "name": "Swipe Budget: Money Manager",
+        "url": "https://apps.apple.com/us/app/swipe-budget-money-manager/id6754246549?uo=4"
+      },
+      {
+        "id": "6759112033",
+        "name": "SyncSpend",
+        "url": "https://apps.apple.com/us/app/syncspend/id6759112033?uo=4"
+      },
+      {
+        "id": "6791755763",
+        "name": "Tablu - Track Expenses & Cards",
+        "url": "https://apps.apple.com/us/app/tablu-track-expenses-cards/id6791755763?uo=4"
+      },
+      {
+        "id": "6800013881",
+        "name": "Tael - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/tael-expense-tracker/id6800013881?uo=4"
+      },
+      {
+        "id": "6775130376",
+        "name": "Talea - Budget Planner",
+        "url": "https://apps.apple.com/us/app/talea-budget-planner/id6775130376?uo=4"
+      },
+      {
+        "id": "6783171759",
+        "name": "Tally - Budget Planner",
+        "url": "https://apps.apple.com/us/app/tally-budget-planner/id6783171759?uo=4"
+      },
+      {
+        "id": "6755501884",
+        "name": "Tally AI Expense Tracker & Log",
+        "url": "https://apps.apple.com/us/app/tally-ai-expense-tracker-log/id6755501884?uo=4"
+      },
+      {
+        "id": "6762628840",
+        "name": "Tally: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/tally-expense-tracker/id6762628840?uo=4"
+      },
+      {
+        "id": "6760926142",
+        "name": "Tally: Money & Budget Planner",
+        "url": "https://apps.apple.com/us/app/tally-money-budget-planner/id6760926142?uo=4"
+      },
+      {
+        "id": "6789790479",
+        "name": "TallyFi: Personal Finance",
+        "url": "https://apps.apple.com/us/app/tallyfi-personal-finance/id6789790479?uo=4"
+      },
+      {
+        "id": "1636705869",
+        "name": "Tandem - Living Together",
+        "url": "https://apps.apple.com/us/app/tandem-living-together/id1636705869?uo=4"
+      },
+      {
+        "id": "6758963552",
+        "name": "TapBestie: Budget Planner App",
+        "url": "https://apps.apple.com/us/app/tapbestie-budget-planner-app/id6758963552?uo=4"
+      },
+      {
+        "id": "6769601354",
+        "name": "TapCook: Budget Meal Plans",
+        "url": "https://apps.apple.com/us/app/tapcook-budget-meal-plans/id6769601354?uo=4"
+      },
+      {
+        "id": "6796815600",
+        "name": "TapExpense: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/tapexpense-expense-tracker/id6796815600?uo=4"
+      },
+      {
+        "id": "6779922633",
+        "name": "Tappel — Private Expense Log",
+        "url": "https://apps.apple.com/us/app/tappel-private-expense-log/id6779922633?uo=4"
+      },
+      {
+        "id": "6777520962",
+        "name": "Tappy - Daily Expense Tracker",
+        "url": "https://apps.apple.com/us/app/tappy-daily-expense-tracker/id6777520962?uo=4"
+      },
+      {
+        "id": "490053329",
+        "name": "TapToTrack App",
+        "url": "https://apps.apple.com/us/app/taptotrack-app/id490053329?uo=4"
+      },
+      {
+        "id": "6760278399",
+        "name": "Tarsi - Budget Tracker",
+        "url": "https://apps.apple.com/us/app/tarsi-budget-tracker/id6760278399?uo=4"
+      },
+      {
+        "id": "290803600",
+        "name": "TDF Tracker",
+        "url": "https://apps.apple.com/us/app/tdf-tracker/id290803600?uo=4"
+      },
+      {
+        "id": "6476141161",
+        "name": "The Budget: Manage Expenses",
+        "url": "https://apps.apple.com/us/app/the-budget-manage-expenses/id6476141161?uo=4"
+      },
+      {
+        "id": "1372692219",
+        "name": "The Expense Manager",
+        "url": "https://apps.apple.com/us/app/the-expense-manager/id1372692219?uo=4"
+      },
+      {
+        "id": "6797650593",
+        "name": "The Reserve: Budget Planner",
+        "url": "https://apps.apple.com/us/app/the-reserve-budget-planner/id6797650593?uo=4"
+      },
+      {
+        "id": "6747331955",
+        "name": "Thrive: Budget Planner",
+        "url": "https://apps.apple.com/us/app/thrive-budget-planner/id6747331955?uo=4"
+      },
+      {
+        "id": "6757976821",
+        "name": "Thrust: Money Manager",
+        "url": "https://apps.apple.com/us/app/thrust-money-manager/id6757976821?uo=4"
+      },
+      {
+        "id": "6806886421",
+        "name": "Tick: Offline Expense Tracker",
+        "url": "https://apps.apple.com/us/app/tick-offline-expense-tracker/id6806886421?uo=4"
+      },
+      {
+        "id": "6443700019",
+        "name": "Tofu Expense: Receipt Tracker",
+        "url": "https://apps.apple.com/us/app/tofu-expense-receipt-tracker/id6443700019?uo=4"
+      },
+      {
+        "id": "6444800065",
+        "name": "Tofu: Accounting & Bookkeeping",
+        "url": "https://apps.apple.com/us/app/tofu-accounting-bookkeeping/id6444800065?uo=4"
+      },
+      {
+        "id": "921590251",
+        "name": "Toshl Finance - Best Budget",
+        "url": "https://apps.apple.com/us/app/toshl-finance-best-budget/id921590251?uo=4"
+      },
+      {
+        "id": "6795131112",
+        "name": "Totals - Personal Finance",
+        "url": "https://apps.apple.com/us/app/totals-personal-finance/id6795131112?uo=4"
+      },
+      {
+        "id": "449465584",
+        "name": "Track My Mileage",
+        "url": "https://apps.apple.com/us/app/track-my-mileage/id449465584?uo=4"
+      },
+      {
+        "id": "6444917344",
+        "name": "Track Spending : Wise Budget",
+        "url": "https://apps.apple.com/us/app/track-spending-wise-budget/id6444917344?uo=4"
+      },
+      {
+        "id": "1465336706",
+        "name": "Tracken: Budget Planner",
+        "url": "https://apps.apple.com/us/app/tracken-budget-planner/id1465336706?uo=4"
+      },
+      {
+        "id": "1617258561",
+        "name": "TrackMyMoney - expense tracker",
+        "url": "https://apps.apple.com/us/app/trackmymoney-expense-tracker/id1617258561?uo=4"
+      },
+      {
+        "id": "1067991762",
+        "name": "TravelBank Expenses and Travel",
+        "url": "https://apps.apple.com/us/app/travelbank-expenses-and-travel/id1067991762?uo=4"
+      },
+      {
+        "id": "1434284824",
+        "name": "TravelSpend: Travel Budget App",
+        "url": "https://apps.apple.com/us/app/travelspend-travel-budget-app/id1434284824?uo=4"
+      },
+      {
+        "id": "6582750445",
+        "name": "Traverse Expense Tracking",
+        "url": "https://apps.apple.com/us/app/traverse-expense-tracking/id6582750445?uo=4"
+      },
+      {
+        "id": "6462230497",
+        "name": "TrenteVingt - Budget Tracker",
+        "url": "https://apps.apple.com/us/app/trentevingt-budget-tracker/id6462230497?uo=4"
+      },
+      {
+        "id": "349866256",
+        "name": "tricount: Split & Settle Bills",
+        "url": "https://apps.apple.com/us/app/tricount-split-settle-bills/id349866256?uo=4"
+      },
+      {
+        "id": "966762641",
+        "name": "TriNet Expense",
+        "url": "https://apps.apple.com/us/app/trinet-expense/id966762641?uo=4"
+      },
+      {
+        "id": "6447760823",
+        "name": "Trip Log & Driving by Tripbook",
+        "url": "https://apps.apple.com/us/app/trip-log-driving-by-tripbook/id6447760823?uo=4"
+      },
+      {
+        "id": "6468997195",
+        "name": "Truvio Expense Management",
+        "url": "https://apps.apple.com/us/app/truvio-expense-management/id6468997195?uo=4"
+      },
+      {
+        "id": "6749025520",
+        "name": "Trya - Budget Planner App",
+        "url": "https://apps.apple.com/us/app/trya-budget-planner-app/id6749025520?uo=4"
+      },
+      {
+        "id": "1464366693",
+        "name": "uBudget: Finance Planner",
+        "url": "https://apps.apple.com/us/app/ubudget-finance-planner/id1464366693?uo=4"
+      },
+      {
+        "id": "6762006872",
+        "name": "Ultra Simple Expense Log",
+        "url": "https://apps.apple.com/us/app/ultra-simple-expense-log/id6762006872?uo=4"
+      },
+      {
+        "id": "1135857899",
+        "name": "uSpend - Spending Tracker,Free Expense manager app",
+        "url": "https://apps.apple.com/us/app/uspend-spending-tracker-free-expense-manager-app/id1135857899?uo=4"
+      },
+      {
+        "id": "1140864080",
+        "name": "V-Soft Expense Tracker",
+        "url": "https://apps.apple.com/us/app/v-soft-expense-tracker/id1140864080?uo=4"
+      },
+      {
+        "id": "611120440",
+        "name": "Vault22",
+        "url": "https://apps.apple.com/us/app/vault22/id611120440?uo=4"
+      },
+      {
+        "id": "6760249932",
+        "name": "VehiCost: Fuel & Expense Log",
+        "url": "https://apps.apple.com/us/app/vehicost-fuel-expense-log/id6760249932?uo=4"
+      },
+      {
+        "id": "6758285970",
+        "name": "Vel: Personal Finance Tracker",
+        "url": "https://apps.apple.com/us/app/vel-personal-finance-tracker/id6758285970?uo=4"
+      },
+      {
+        "id": "804152735",
+        "name": "Veryfi Receipts OCR & Expenses",
+        "url": "https://apps.apple.com/us/app/veryfi-receipts-ocr-expenses/id804152735?uo=4"
+      },
+      {
+        "id": "1435763477",
+        "name": "Virgin Money Credit Card",
+        "url": "https://apps.apple.com/us/app/virgin-money-credit-card/id1435763477?uo=4"
+      },
+      {
+        "id": "1482269155",
+        "name": "Virgin Money Mobile Banking",
+        "url": "https://apps.apple.com/us/app/virgin-money-mobile-banking/id1482269155?uo=4"
+      },
+      {
+        "id": "458571562",
+        "name": "Visual Budget - Finances",
+        "url": "https://apps.apple.com/us/app/visual-budget-finances/id458571562?uo=4"
+      },
+      {
+        "id": "6761558119",
+        "name": "VoiceSpend AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/voicespend-ai-expense-tracker/id6761558119?uo=4"
+      },
+      {
+        "id": "6745766286",
+        "name": "Vyay - AI Expense Tracker",
+        "url": "https://apps.apple.com/us/app/vyay-ai-expense-tracker/id6745766286?uo=4"
+      },
+      {
+        "id": "1032467659",
+        "name": "Wallet - Daily Budget & Profit",
+        "url": "https://apps.apple.com/us/app/wallet-daily-budget-profit/id1032467659?uo=4"
+      },
+      {
+        "id": "1482496559",
+        "name": "Wallet Story - Expense Manager",
+        "url": "https://apps.apple.com/us/app/wallet-story-expense-manager/id1482496559?uo=4"
+      },
+      {
+        "id": "6504926654",
+        "name": "Wallet: Finance bill organizer",
+        "url": "https://apps.apple.com/us/app/wallet-finance-bill-organizer/id6504926654?uo=4"
+      },
+      {
+        "id": "6499039011",
+        "name": "Wallet: Income & Expense Track",
+        "url": "https://apps.apple.com/us/app/wallet-income-expense-track/id6499039011?uo=4"
+      },
+      {
+        "id": "6814272695",
+        "name": "Wallet: Spending Tracker",
+        "url": "https://apps.apple.com/us/app/wallet-spending-tracker/id6814272695?uo=4"
+      },
+      {
+        "id": "6756544234",
+        "name": "Wallet:Money Manager & Budget",
+        "url": "https://apps.apple.com/us/app/wallet-money-manager-budget/id6756544234?uo=4"
+      },
+      {
+        "id": "6806298730",
+        "name": "Walti: Budget Expense Tracker",
+        "url": "https://apps.apple.com/us/app/walti-budget-expense-tracker/id6806298730?uo=4"
+      },
+      {
+        "id": "1478363344",
+        "name": "Waste of money tracker",
+        "url": "https://apps.apple.com/us/app/waste-of-money-tracker/id1478363344?uo=4"
+      },
+      {
+        "id": "6756025236",
+        "name": "WealthJars: Money Manager",
+        "url": "https://apps.apple.com/us/app/wealthjars-money-manager/id6756025236?uo=4"
+      },
+      {
+        "id": "6748625363",
+        "name": "WealthTrunk: Net Worth Tracker",
+        "url": "https://apps.apple.com/us/app/wealthtrunk-net-worth-tracker/id6748625363?uo=4"
+      },
+      {
+        "id": "964717877",
+        "name": "Webexpenses",
+        "url": "https://apps.apple.com/us/app/webexpenses/id964717877?uo=4"
+      },
+      {
+        "id": "1460038809",
+        "name": "Weekly: Budget Planner & Bills",
+        "url": "https://apps.apple.com/us/app/weekly-budget-planner-bills/id1460038809?uo=4"
+      },
+      {
+        "id": "441683476",
+        "name": "Weple Money Pro",
+        "url": "https://apps.apple.com/us/app/weple-money-pro/id441683476?uo=4"
+      },
+      {
+        "id": "467936485",
+        "name": "Weple Money: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/weple-money-expense-tracker/id467936485?uo=4"
+      },
+      {
+        "id": "6470998669",
+        "name": "WeTally: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/wetally-expense-tracker/id6470998669?uo=4"
+      },
+      {
+        "id": "1150902475",
+        "name": "WeXpense - Split Bills",
+        "url": "https://apps.apple.com/us/app/wexpense-split-bills/id1150902475?uo=4"
+      },
+      {
+        "id": "6479275107",
+        "name": "Windfall - Expense Tracker",
+        "url": "https://apps.apple.com/us/app/windfall-expense-tracker/id6479275107?uo=4"
+      },
+      {
+        "id": "6757329490",
+        "name": "Wise money manager - Spendwise",
+        "url": "https://apps.apple.com/us/app/wise-money-manager-spendwise/id6757329490?uo=4"
+      },
+      {
+        "id": "6754208020",
+        "name": "WiseTrack: Expense Tracker",
+        "url": "https://apps.apple.com/us/app/wisetrack-expense-tracker/id6754208020?uo=4"
+      },
+      {
+        "id": "6791091049",
+        "name": "WorthBook: Money Manager",
+        "url": "https://apps.apple.com/us/app/worthbook-money-manager/id6791091049?uo=4"
+      },
+      {
+        "id": "6670318981",
+        "name": "X-Money: All Your Money Moves",
+        "url": "https://apps.apple.com/us/app/x-money-all-your-money-moves/id6670318981?uo=4"
+      },
+      {
+        "id": "290874373",
+        "name": "XpenseTracker",
+        "url": "https://apps.apple.com/us/app/xpensetracker/id290874373?uo=4"
+      },
+      {
+        "id": "6752844312",
+        "name": "Xpenzo - Expense Manager",
+        "url": "https://apps.apple.com/us/app/xpenzo-expense-manager/id6752844312?uo=4"
+      },
+      {
+        "id": "6816498040",
+        "name": "yabidi: AI Money Manager",
+        "url": "https://apps.apple.com/us/app/yabidi-ai-money-manager/id6816498040?uo=4"
+      },
+      {
+        "id": "6797014022",
+        "name": "Yearn: Paycheck Budget Planner",
+        "url": "https://apps.apple.com/us/app/yearn-paycheck-budget-planner/id6797014022?uo=4"
+      },
+      {
+        "id": "1010865877",
+        "name": "YNAB",
+        "url": "https://apps.apple.com/us/app/ynab/id1010865877?uo=4"
+      },
+      {
+        "id": "6757447181",
+        "name": "Yomio Budget & Expense Tracker",
+        "url": "https://apps.apple.com/us/app/yomio-budget-expense-tracker/id6757447181?uo=4"
+      },
+      {
+        "id": "6748863539",
+        "name": "Zelvo: Budget Planner",
+        "url": "https://apps.apple.com/us/app/zelvo-budget-planner/id6748863539?uo=4"
+      },
+      {
+        "id": "905934786",
+        "name": "Zenmoney: expense tracker",
+        "url": "https://apps.apple.com/us/app/zenmoney-expense-tracker/id905934786?uo=4"
+      },
+      {
+        "id": "6818018555",
+        "name": "Zero - Finance Tracker",
+        "url": "https://apps.apple.com/us/app/zero-finance-tracker/id6818018555?uo=4"
+      },
+      {
+        "id": "6761318306",
+        "name": "Zerobased: Budget Planner",
+        "url": "https://apps.apple.com/us/app/zerobased-budget-planner/id6761318306?uo=4"
+      },
+      {
+        "id": "1184196693",
+        "name": "Zoho Billing Management App",
+        "url": "https://apps.apple.com/us/app/zoho-billing-management-app/id1184196693?uo=4"
+      },
+      {
+        "id": "966094166",
+        "name": "Zoho Expense: Travel & Expense",
+        "url": "https://apps.apple.com/us/app/zoho-expense-travel-expense/id966094166?uo=4"
+      },
+      {
+        "id": "960001850",
+        "name": "مصاريفي - Budget Planner",
+        "url": "https://apps.apple.com/us/app/%D9%85%D8%B5%D8%A7%D8%B1%D9%8A%D9%81%D9%8A-budget-planner/id960001850?uo=4"
+      }
+    ]
+  }
 }
