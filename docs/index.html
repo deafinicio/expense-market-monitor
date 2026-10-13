@@ -53,14 +53,14 @@ th{color:#65758c}a{color:#285fcb}.note{padding:18px;background:#fff8e9;border:1p
 <a class="btn" href="./history.csv" download><span data-i18n="download">↓ Експорт CSV</span></a></div></div><div class="chart"><canvas id="chart"></canvas></div></section>
 <div class="note" data-i18n="method">Методологія. Показано кількість унікальних застосунків, знайдених фіксованими пошуковими запитами й визначених за назвою та описом. Це не повна кількість таких застосунків у магазинах. Історія до початку спостережень реконструйована за датами випуску застосунків, знайдених зараз. Неповні сканування виключені.</div>
 <section class="panel"><div class="top"><h2><span data-i18n="appsTitle">Перелік застосунків</span></h2><select id="platform" aria-label="Магазин"><option value="google_play">Google Play</option><option value="app_store">Apple App Store</option></select></div>
-<p id="appsdate" class="muted"></p><div class="scroll"><table><thead><tr><th>Назва</th><th>ID</th><th>Посилання</th></tr></thead><tbody id="apps"></tbody></table></div></section>
+<p id="appsdate" class="muted"></p><div class="scroll"><table><thead><tr><th>Назва</th><th>ID</th><th data-i18n="price">Вартість</th><th data-i18n="worstReviews">Найнижчі відгуки (до 3)</th><th>Посилання</th></tr></thead><tbody id="apps"></tbody></table></div></section>
 <section class="panel"><h2><span data-i18n="logTitle">Журнал перевірок</span></h2><div class="scroll"><table><thead><tr><th>Дата</th><th>Магазин</th><th>Статус</th><th>Запити</th><th>Помилки</th></tr></thead><tbody id="runs"></tbody></table></div></section>
 <p class="muted"><span data-i18n="footer">Вихідний код відкритий. Історія починається з першого успішного збору; минулі значення не відновлюються заднім числом.</span> <a href="https://github.com/deafinicio/expense-market-monitor">GitHub</a></p>
 </main><script>
-let data,chart,estimated={history:[]};
+let data,chart,estimated={history:[]},details={};
 const dict={
- uk:{title:'Трекер трекерів витрат',intro:'Пошуковий моніторинг застосунків для обліку витрат · США · англійська мова',found:'Виявлено релевантних застосунків',lastUpdate:'ОСТАННЄ ОНОВЛЕННЯ',dateHint:'Дата останнього повного сканування',chartTitle:'Динаміка виявлених застосунків',days30:'30 днів',days90:'90 днів',days365:'365 днів',all:'Весь період',download:'↓ Експорт CSV',appsTitle:'Перелік застосунків',logTitle:'Журнал перевірок',method:'Методологія. Показано кількість унікальних застосунків, знайдених фіксованими пошуковими запитами й визначених за назвою та описом. Це не повна кількість таких застосунків у магазинах. Зміни алгоритмів пошуку можуть впливати на графік. Неповні сканування виключені.',footer:'Вихідний код відкритий. Історія починається з першого успішного збору; минулі значення не відновлюються заднім числом.',loading:'Завантаження даних…',ready:'Опубліковані результати',waiting:'Очікування першого сканування',failed:'Не вдалося завантажити дані',noData:'Дані відсутні',noRuns:'Поки немає записів',date:'Дата',store:'Магазин',status:'Статус',queries:'Запити',errors:'Помилки',name:'Назва',link:'Посилання',open:'Відкрити ↗',notScanned:'Поки немає успішних вимірювань'},
- en:{title:'Expense Tracker Tracker',intro:'Search-based monitoring of expense-tracking apps · US market · English',found:'Relevant apps discovered',lastUpdate:'LAST UPDATE',dateHint:'Date of latest complete scan',chartTitle:'Discovered apps over time',days30:'30 days',days90:'90 days',days365:'365 days',all:'All time',download:'↓ Export CSV',appsTitle:'Discovered apps',logTitle:'Scan history',method:'Methodology. We count unique apps discovered using a fixed set of search queries and classified by their titles and descriptions. This is not the complete number of such apps in either store. Earlier dates are reconstructed from the release dates of apps discovered now. Incomplete scans are excluded.',footer:'The source code is open. History begins with the first successful scan; past values are not backfilled.',loading:'Loading data…',ready:'Published observations',waiting:'Awaiting first scan',failed:'Could not load data',noData:'No data available',noRuns:'No entries yet',date:'Date',store:'Store',status:'Status',queries:'Queries',errors:'Errors',name:'Name',link:'Link',open:'Open ↗',notScanned:'No successful observations yet'}
+ uk:{title:'Трекер трекерів витрат',intro:'Пошуковий моніторинг застосунків для обліку витрат · США · англійська мова',found:'Виявлено релевантних застосунків',lastUpdate:'ОСТАННЄ ОНОВЛЕННЯ',dateHint:'Дата останнього повного сканування',chartTitle:'Динаміка виявлених застосунків',days30:'30 днів',days90:'90 днів',days365:'365 днів',all:'Весь період',download:'↓ Експорт CSV',price:'Вартість',worstReviews:'Найнижчі відгуки (до 3)',noReviews:'Немає доступних текстових відгуків',loadingDetails:'Ще не завантажено',appsTitle:'Перелік застосунків',logTitle:'Журнал перевірок',method:'Методологія. Показано кількість унікальних застосунків, знайдених фіксованими пошуковими запитами й визначених за назвою та описом. Це не повна кількість таких застосунків у магазинах. Зміни алгоритмів пошуку можуть впливати на графік. Неповні сканування виключені.',footer:'Вихідний код відкритий. Історія починається з першого успішного збору; минулі значення не відновлюються заднім числом.',loading:'Завантаження даних…',ready:'Опубліковані результати',waiting:'Очікування першого сканування',failed:'Не вдалося завантажити дані',noData:'Дані відсутні',noRuns:'Поки немає записів',date:'Дата',store:'Магазин',status:'Статус',queries:'Запити',errors:'Помилки',name:'Назва',link:'Посилання',open:'Відкрити ↗',notScanned:'Поки немає успішних вимірювань'},
+ en:{title:'Expense Tracker Tracker',intro:'Search-based monitoring of expense-tracking apps · US market · English',found:'Relevant apps discovered',lastUpdate:'LAST UPDATE',dateHint:'Date of latest complete scan',chartTitle:'Discovered apps over time',days30:'30 days',days90:'90 days',days365:'365 days',all:'All time',download:'↓ Export CSV',price:'Price',worstReviews:'Lowest-rated reviews (up to 3)',noReviews:'No written reviews available',loadingDetails:'Not fetched yet',appsTitle:'Discovered apps',logTitle:'Scan history',method:'Methodology. We count unique apps discovered using a fixed set of search queries and classified by their titles and descriptions. This is not the complete number of such apps in either store. Earlier dates are reconstructed from the release dates of apps discovered now. Incomplete scans are excluded.',footer:'The source code is open. History begins with the first successful scan; past values are not backfilled.',loading:'Loading data…',ready:'Published observations',waiting:'Awaiting first scan',failed:'Could not load data',noData:'No data available',noRuns:'No entries yet',date:'Date',store:'Store',status:'Status',queries:'Queries',errors:'Errors',name:'Name',link:'Link',open:'Open ↗',notScanned:'No successful observations yet'}
 };
 let language='uk';
 function tr(k){return dict[language][k]||k}
@@ -102,13 +102,24 @@ function renderChart(){
 function renderApps(){
   const p=el('platform').value,v=window.appLists[p]||{apps:[],day:null};
   el('appsdate').textContent=v.day?tr('date')+': '+v.day:tr('notScanned');
-  el('apps').innerHTML=(v.apps||[]).map(a=>'<tr><td>'+safe(a.name)+'</td><td>'+safe(a.id)+'</td><td>'+(/^https:\/\//.test(a.url||'')?'<a href="'+safe(a.url)+'" target="_blank" rel="noopener noreferrer">'+tr('open')+'</a>':'—')+'</td></tr>').join('')||'<tr><td colspan="3">'+tr('noData')+'</td></tr>';
+  el('apps').innerHTML=(v.apps||[]).map(a=>{
+    const d=details[p+':'+a.id];
+    const price=d?.price||tr('loadingDetails');
+    const reviews=d?.reviews?.length?d.reviews.slice().sort((x,y)=>x.rating-y.rating).slice(0,3).map(r=>
+      '<div style="margin-bottom:10px;max-width:390px"><strong style="color:#ab6320">'+
+      '★'.repeat(Math.max(1,Math.min(5,Number(r.rating))))+'☆'.repeat(5-Math.max(1,Math.min(5,Number(r.rating))))+
+      '</strong> <span class="muted">'+safe(r.date||'')+'</span><div>'+safe(r.text)+'</div></div>'
+    ).join(''):(d?tr('noReviews'):tr('loadingDetails'));
+    const link=/^https:\/\//.test(a.url||'')?'<a href="'+safe(a.url)+'" target="_blank" rel="noopener noreferrer">'+tr('open')+'</a>':'—';
+    return '<tr><td>'+safe(a.name)+'</td><td>'+safe(a.id)+'</td><td>'+safe(price)+'</td><td>'+reviews+'</td><td>'+link+'</td></tr>';
+  }).join('')||'<tr><td colspan="5">'+tr('noData')+'</td></tr>';
 }
+
 async function load(){
   try{
-    const [h,a,e]=await Promise.all([fetch('./history.json?'+Date.now()),fetch('./apps.json?'+Date.now()),fetch('./historical_estimate.json?'+Date.now())]);
+    const [h,a,e,d]=await Promise.all([fetch('./history.json?'+Date.now()),fetch('./apps.json?'+Date.now()),fetch('./historical_estimate.json?'+Date.now()),fetch('./details.json?'+Date.now())]);
     if(!h.ok||!a.ok)throw Error('HTTP '+h.status+'/'+a.status);
-    data=await h.json();window.appLists=await a.json();estimated=e.ok?await e.json():{history:[]};
+    data=await h.json();window.appLists=await a.json();estimated=e.ok?await e.json():{history:[]};details=d.ok?await d.json():{};
     renderChart();renderApps();
     const latest=p=>data.history.filter(x=>x.platform===p).at(-1);
     const g=latest('google_play'),ap=latest('app_store');
@@ -122,7 +133,7 @@ async function load(){
 function renderRuns(){
  el('runs').innerHTML=(data.runs||[]).slice(0,40).map(r=>'<tr><td>'+safe(r.day)+'</td><td>'+safe(r.platform)+'</td><td>'+safe(r.status)+'</td><td>'+safe(r.queries_ok)+'/'+safe(r.queries_total)+'</td><td>'+safe((r.error||'—').slice(0,200))+'</td></tr>').join('')||'<tr><td colspan="5">'+tr('noRuns')+'</td></tr>';
 }
-document.querySelectorAll('th').forEach((th,i)=>{const k=['name','', 'link','date','store','status','queries','errors'][i];if(k)th.dataset.i18n=k});
+document.querySelectorAll('th').forEach((th,i)=>{const k=['name','','price','worstReviews','link','date','store','status','queries','errors'][i];if(k)th.dataset.i18n=k});
 el('days').addEventListener('change',()=>data&&renderChart());
 el('platform').addEventListener('change',renderApps);
 setLanguage((new URLSearchParams(location.search).get('lang')||((navigator.language||'').toLowerCase().startsWith('uk')?'uk':'en'))==='uk'?'uk':'en');load();setInterval(load,300000);
