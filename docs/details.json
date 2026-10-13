@@ -1298,5 +1298,569 @@
       }
     ],
     "updated_at": "2026-10-13T18:50:04.785969+00:00"
+  },
+  "google_play:com.moneytrack.android": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "no access denied by me. if i want to back up it shows storage permission required.i love this app when i back up copy the data it shows always storage permission request. I give permission already plz solve it",
+        "date": "2024-04-10"
+      },
+      {
+        "rating": 1,
+        "text": "after update, app is not opening and lost data as well",
+        "date": "2025-03-27"
+      },
+      {
+        "rating": 1,
+        "text": "Crashing After today Update (02/May/2025)",
+        "date": "2025-05-02"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:12.936025+00:00"
+  },
+  "google_play:com.microappdigital.moneymanager": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "widgets are not working. fix them pls",
+        "date": "2026-05-02"
+      },
+      {
+        "rating": 4,
+        "text": "Interface is nice. But I didn't try much because I needed the function to export my data and I didn't see it. So I deleted it instead.",
+        "date": "2025-11-09"
+      },
+      {
+        "rating": 4,
+        "text": "i love to use this app but can u make a setting that i can reset everything, coz i used to reset budget every month, so i dont need to clear app datas anymore, thank you",
+        "date": "2026-08-17"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:15.391163+00:00"
+  },
+  "google_play:moneytracker.expensetracker.budgetplanner.spendingtracker": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "not a good experience",
+        "date": "2025-03-26"
+      },
+      {
+        "rating": 1,
+        "text": "total waste of money very disappointed",
+        "date": "2025-03-26"
+      },
+      {
+        "rating": 1,
+        "text": "am single and job less I want to huck money",
+        "date": "2025-04-01"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:16.623263+00:00"
+  },
+  "google_play:com.freeman.moneymanager": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Very bad",
+        "date": "2026-03-03"
+      },
+      {
+        "rating": 1,
+        "text": "when opened the app, it always redirects to google play.",
+        "date": "2026-03-07"
+      },
+      {
+        "rating": 1,
+        "text": "idk why it keeps getting me to \"update\" or \"download\" through Google play when that's literally what I've done",
+        "date": "2026-03-09"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:18.029811+00:00"
+  },
+  "google_play:com.zotiger.accountbook": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Stupid app, I cannot add any information or add new accounts. I fill in all the info and when I want to save it says enter amount. What damn amount is to be filled??? The only field that requires that is the balance field and that I've already entered an amount in!!!!!!!",
+        "date": "2025-08-31"
+      },
+      {
+        "rating": 1,
+        "text": "saves the information even after deleting the app and installing back the data is still there i am unable to start from scratch also the balance doesn't get carry forward to next month plz work on it",
+        "date": "2025-09-03"
+      },
+      {
+        "rating": 1,
+        "text": "good",
+        "date": "2025-09-04"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:19.648347+00:00"
+  },
+  "google_play:com.raha.app.mymoney.free": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Very useful",
+        "date": "2026-02-10"
+      },
+      {
+        "rating": 1,
+        "text": "Why is there no GBP (Great British Pound?) Please fix this then I can actually use it!",
+        "date": "2026-02-14"
+      },
+      {
+        "rating": 1,
+        "text": "disappointed",
+        "date": "2026-02-15"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:21.329837+00:00"
+  },
+  "google_play:com.mobilecreditcards": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "doesn't work",
+        "date": "2026-03-19"
+      },
+      {
+        "rating": 1,
+        "text": "garbage app",
+        "date": "2026-03-23"
+      },
+      {
+        "rating": 1,
+        "text": "app is ok except for all the ads, however some accounts won't link. upset because I got this as a tracker for my elderly mom who only uses PC. I researched which apps had strong UX on both android and windows 11, but found after linking most of her accounts that nerdwallet is actively removing PC capabilities to focus on app only. this makes it unusable, so i have wasted my time due to misinformation and cheapening of their software.",
+        "date": "2026-04-07"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:22.750480+00:00"
+  },
+  "google_play:com.quicken.acme": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "crashes when taking photo",
+        "date": "2026-04-29"
+      },
+      {
+        "rating": 1,
+        "text": "Set rules, but app still doesn’t do as told. App thinks HEB is a pharmacy. HEB is a grocery store. So my budget shows a lot of pharmacy purchases...and I never buy groceries!? I want my money back.",
+        "date": "2026-05-01"
+      },
+      {
+        "rating": 1,
+        "text": "Removed the ability to create a rule while correcting the category of a transaction. A small feature that was fundamental to the app actually being usable, given that transactions are categorized incorrectly about 50% of the time. Instead they expect you to manually fix them all every time, possibly hundreds of (often repeating) transactions. I will be requesting a refund and closing my account, unacceptable given the price of this subscription.",
+        "date": "2026-05-03"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:24.061951+00:00"
+  },
+  "google_play:com.easyexpense": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "doesn't allow me to sign in via Google sign in. I tried 5 times, each time taking the same point,where I started.",
+        "date": "2025-12-25"
+      },
+      {
+        "rating": 1,
+        "text": "App couldn't recognise my receipts? That's the whole point.",
+        "date": "2026-01-16"
+      },
+      {
+        "rating": 1,
+        "text": "forces you to create a business account then login crashes repeatedly then app crashes, life is too short to use a terrible app like this, hire some real devs",
+        "date": "2026-01-18"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:25.322110+00:00"
+  },
+  "google_play:com.truebill": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "will not open I've reinstalled it several times and it keeps cracking",
+        "date": "2026-10-03"
+      },
+      {
+        "rating": 1,
+        "text": "didn't let me create an account",
+        "date": "2026-10-03"
+      },
+      {
+        "rating": 1,
+        "text": "Attn Dev Team: Without the Rowan Ai Assistant the app is difficult to use & overly technical, tedious and annoying... I think that getting rid of Rowan will lead to a significant portion of your customer base turning & walking away from your platform, and going back to credit karma, or nerdwallet... cuz that's what I'm likely going to do if that happens.. Plz Keep Rowan.. the tedious nature of the UserFi Data Input, was solved with Rowan, it works better this way please keep it 🙏",
+        "date": "2026-10-04"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:26.769271+00:00"
+  },
+  "google_play:com.jc.rollymoneytracker": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Glitchy",
+        "date": "2024-11-24"
+      },
+      {
+        "rating": 1,
+        "text": "Too expensive",
+        "date": "2024-12-01"
+      },
+      {
+        "rating": 1,
+        "text": "Boring app. I quit after 5 minutes experiment, but can not refund. Be careful before buying it. I already requested refund right on Google payment on the day I purchased the app, and you rejected the refund.",
+        "date": "2024-12-02"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:28.050243+00:00"
+  },
+  "google_play:balance.money.manager.flivion": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "For google backup u hv to pay?",
+        "date": "2025-10-11"
+      },
+      {
+        "rating": 1,
+        "text": "No accounts section",
+        "date": "2026-03-14"
+      },
+      {
+        "rating": 1,
+        "text": "now this app reduce it facilities. now it cannot backup export Excel or PDF",
+        "date": "2026-04-24"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:29.359478+00:00"
+  },
+  "google_play:com.simplywise.mobile": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "one of the worst android apps ive ever used. forced account creation, intrusive, buggy",
+        "date": "2025-10-13"
+      },
+      {
+        "rating": 1,
+        "text": "Setup is too long and requires phone number. Uninstalling...",
+        "date": "2025-10-15"
+      },
+      {
+        "rating": 1,
+        "text": "I didn't authorize the payments from you there are 5 payments altogether please refund my payments",
+        "date": "2025-10-15"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:30.614815+00:00"
+  },
+  "google_play:com.mhriley.spendingtracker": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "When changing to a new phone, spending tracker saved on the old phone cannot be transferred. All info is deleted when changing to a new phone and have to start afresh.",
+        "date": "2025-01-23"
+      },
+      {
+        "rating": 1,
+        "text": "👍🏼",
+        "date": "2025-02-09"
+      },
+      {
+        "rating": 1,
+        "text": "I didn't even know this was on my phone, I use a physical notebook",
+        "date": "2025-02-26"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:31.971370+00:00"
+  },
+  "google_play:easy.spending.tracker.budget": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-10-13T18:54:34.590499+00:00"
+  },
+  "google_play:dev.hemanths.paisa": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "This app pretty good but after the update it messed up all the data and asking me to enter details as a new user. Now how can I able to check all my old expenses and balances.",
+        "date": "2024-11-23"
+      },
+      {
+        "rating": 1,
+        "text": "My entire data of past 5 months have been lost. Please don't use this app ever. My entire expense history has been lost overnight after update and I am not able to restore it. I regret ever using this app.",
+        "date": "2024-11-24"
+      },
+      {
+        "rating": 1,
+        "text": "There is a bug in balance of the account always",
+        "date": "2024-12-06"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:36.116602+00:00"
+  },
+  "google_play:com.Splitwise.SplitwiseMobile": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "total piece of trash website that forces you to install the app.",
+        "date": "2026-09-18"
+      },
+      {
+        "rating": 1,
+        "text": "Free version is practically unusable, you get 4 entries per day",
+        "date": "2026-09-18"
+      },
+      {
+        "rating": 1,
+        "text": "too complicated. not recommended.",
+        "date": "2026-09-19"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:37.200751+00:00"
+  },
+  "google_play:pw.ninthfi.myincome": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Bad",
+        "date": "2024-01-30"
+      },
+      {
+        "rating": 1,
+        "text": "Premium for backup.",
+        "date": "2024-02-07"
+      },
+      {
+        "rating": 1,
+        "text": "You have to pay to use any features, no trial. I downloaded, to try out & couldn't add my bank or put in any numbers without subscription",
+        "date": "2024-02-27"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:38.424870+00:00"
+  },
+  "google_play:money.vento.expense.tracker": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "One of the best expense tracker apps with a clean, modern UI and smooth performance. My only request is to add subcategory support for Budgets. For example, under Vehicle, I should be able to create separate budgets for Fuel, Car Loan, and Maintenance instead of combining everything into one budget. This would make budgeting much more accurate and useful. Keep up the great work! Waiting for this update.",
+        "date": "2026-07-09"
+      },
+      {
+        "rating": 5,
+        "text": "I used the Cashew app earlier, but the level of customization sometimes felt overwhelming and made the UI look cluttered. Vento strikes a nice balance — clean UI with plenty of genuinely useful features.",
+        "date": "2026-05-18"
+      },
+      {
+        "rating": 5,
+        "text": "I love everything about this app - how the ui looks, how the application feels and how it does everything. Definitely consider buying premium if you can.....",
+        "date": "2026-05-19"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:41.208681+00:00"
+  },
+  "google_play:com.droid4you.application.wallet": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "The bank keeps disconnecting and lost my history of transactions for the last 2 years and half. I don't recommend",
+        "date": "2026-09-08"
+      },
+      {
+        "rating": 1,
+        "text": "This has to be a joke, i faced bank connectivity issue for almost an year and it seemed to have worked last week only for the issue to popup again. i got logged out and now i am again stuck with bank sync",
+        "date": "2026-09-09"
+      },
+      {
+        "rating": 1,
+        "text": "not even an hour since I installed it, and can't find/sync to 3 of 4 banks I have accounts with. waste of time and money - please delete my account and return the money I paid. How does one connect to your \"support team\"???",
+        "date": "2026-09-10"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:42.389117+00:00"
+  },
+  "google_play:com.youneedabudget.evergreen.app": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "UI is constantly changing and getting worse. Seems like they have fired most of their UX team because the UX is becoming horrendous. Customer service has also gone downhill. They fired most of their frontend staff.",
+        "date": "2026-07-14"
+      },
+      {
+        "rating": 1,
+        "text": "Perfect product ruined by recent UX changes. Everything now takes one or more taps more than it did a year ago. Basically changes for the sake of changes which don't improve anything nut rather make things worse and make using the app frustrating. At the same time the web version hasn't received any love in a long time. Particularly it is very slow to load. But YNAB prioritises moving commonly used functionality behind a \"show more\" button rsther than fixing things like that.",
+        "date": "2026-07-15"
+      },
+      {
+        "rating": 1,
+        "text": "INSANE learning curve!!! Their idea of giving you support is telling you to watch videos that only vaguely touch on the issue you're having!! I can't even articulate the issues I'm having because I don't even understand why the app isn't doing the thing I want to do!!! crazy complicated!!!",
+        "date": "2026-07-21"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:43.581798+00:00"
+  },
+  "google_play:com.zoho.expense": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "actually my colleague wrote a mistake in my profile details like my surname is there any edit option.that please how can I update.",
+        "date": "2025-09-29"
+      },
+      {
+        "rating": 1,
+        "text": "very irritating login process. Asks again & again otp. each & every time sends otp asks to reset password. frustrated & uninstalled.",
+        "date": "2025-09-30"
+      },
+      {
+        "rating": 1,
+        "text": "who the hell is the developer? u r really developed to use this app or not? useless app. For signing in, im trying more than 15 mins, Otp verification, email verification, how many times. irritating process, Don't spoil company name. Develop fully and then launch or give adds.",
+        "date": "2025-10-02"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:44.823132+00:00"
+  },
+  "app_store:6478484455": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-10-13T18:54:46.295694+00:00"
+  },
+  "app_store:6759410461": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-10-13T18:54:47.904741+00:00"
+  },
+  "app_store:6759871691": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Благодарю за обратную связь по добавлению языка! Теперь я смогу пользоваться приложением",
+        "date": "2026-06-22"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:49.378415+00:00"
+  },
+  "app_store:6781699829": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-10-13T18:54:51.218164+00:00"
+  },
+  "app_store:6792322828": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-10-13T18:54:52.728226+00:00"
+  },
+  "app_store:6471968098": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-10-13T18:54:54.300321+00:00"
+  },
+  "app_store:6745705364": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Все очень удонбо! Нравится что счета в разных валютах поддерживаются. И ежемесячные отчеты смотреть хорошо",
+        "date": "2026-10-10"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:55.852359+00:00"
+  },
+  "app_store:1168960905": {
+    "price": "$2.99",
+    "price_value": 2.99,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "I just this app bi-weekly and this morning it no longer works. Please update ASAP.",
+        "date": "2021-05-06"
+      }
+    ],
+    "updated_at": "2026-10-13T18:54:57.396985+00:00"
   }
 }

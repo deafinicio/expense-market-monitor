@@ -23,7 +23,7 @@
       "queries_ok": 24,
       "queries_total": 34,
       "error": "es-es / control de gastos: TypeError: 'NoneType' object is not subscriptable; es-es / presupuesto personal: TypeError: 'NoneType' object is not subscriptable; fr-fr / suivi des dépenses: TypeError: 'NoneType' object is not subscriptable; fr-fr / gestion budget: TypeError: 'NoneType' object is not subscriptable; de-de / ausgaben tracker: TypeError: 'NoneType' object is not subscriptable; de-de / haushaltsbuch: TypeError: 'NoneType' object is not subscriptable; it-it / gestione spese: TypeError: 'NoneType' object is not subscriptable; it-it / bilancio familiare: TypeError: 'NoneType' object is not subscriptable; pl-pl / kontrola wydatków: TypeError: 'NoneType' object is not subscriptable; pl-pl / budżet domowy: TypeError: 'NoneType' object is not subscriptable",
-      "checked_at": "2026-10-13T18:48:55.776214+00:00"
+      "checked_at": "2026-10-13T18:54:11.742794+00:00"
     },
     {
       "day": "2026-10-13",
