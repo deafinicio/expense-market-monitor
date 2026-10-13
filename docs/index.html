@@ -51,16 +51,16 @@ th{color:#65758c}a{color:#285fcb}.note{padding:18px;background:#fff8e9;border:1p
 <section class="panel"><div class="top"><h2><span data-i18n="chartTitle">Динаміка виявлених застосунків</span></h2><div class="controls">
 <select id="days" aria-label="Період"><option value="30"><span data-i18n="days30">30 днів</span></option><option value="90"><span data-i18n="days90">90 днів</span></option><option value="365"><span data-i18n="days365">365 днів</span></option><option value="0"><span data-i18n="all">Весь період</span></option></select>
 <a class="btn" href="./history.csv" download><span data-i18n="download">↓ Експорт CSV</span></a></div></div><div class="chart"><canvas id="chart"></canvas></div></section>
-<div class="note" data-i18n="method">Методологія. Показано кількість унікальних застосунків, знайдених фіксованими пошуковими запитами й визначених за назвою та описом. Це не повна кількість таких застосунків у магазинах. Зміни алгоритмів пошуку можуть впливати на графік. Неповні сканування виключені.</div>
+<div class="note" data-i18n="method">Методологія. Показано кількість унікальних застосунків, знайдених фіксованими пошуковими запитами й визначених за назвою та описом. Це не повна кількість таких застосунків у магазинах. Історія до початку спостережень реконструйована за датами випуску застосунків, знайдених зараз. Неповні сканування виключені.</div>
 <section class="panel"><div class="top"><h2><span data-i18n="appsTitle">Перелік застосунків</span></h2><select id="platform" aria-label="Магазин"><option value="google_play">Google Play</option><option value="app_store">Apple App Store</option></select></div>
 <p id="appsdate" class="muted"></p><div class="scroll"><table><thead><tr><th>Назва</th><th>ID</th><th>Посилання</th></tr></thead><tbody id="apps"></tbody></table></div></section>
 <section class="panel"><h2><span data-i18n="logTitle">Журнал перевірок</span></h2><div class="scroll"><table><thead><tr><th>Дата</th><th>Магазин</th><th>Статус</th><th>Запити</th><th>Помилки</th></tr></thead><tbody id="runs"></tbody></table></div></section>
 <p class="muted"><span data-i18n="footer">Вихідний код відкритий. Історія починається з першого успішного збору; минулі значення не відновлюються заднім числом.</span> <a href="https://github.com/deafinicio/expense-market-monitor">GitHub</a></p>
 </main><script>
-let data,chart;
+let data,chart,estimated={history:[]};
 const dict={
  uk:{title:'Трекер трекерів витрат',intro:'Пошуковий моніторинг застосунків для обліку витрат · США · англійська мова',found:'Виявлено релевантних застосунків',lastUpdate:'ОСТАННЄ ОНОВЛЕННЯ',dateHint:'Дата останнього повного сканування',chartTitle:'Динаміка виявлених застосунків',days30:'30 днів',days90:'90 днів',days365:'365 днів',all:'Весь період',download:'↓ Експорт CSV',appsTitle:'Перелік застосунків',logTitle:'Журнал перевірок',method:'Методологія. Показано кількість унікальних застосунків, знайдених фіксованими пошуковими запитами й визначених за назвою та описом. Це не повна кількість таких застосунків у магазинах. Зміни алгоритмів пошуку можуть впливати на графік. Неповні сканування виключені.',footer:'Вихідний код відкритий. Історія починається з першого успішного збору; минулі значення не відновлюються заднім числом.',loading:'Завантаження даних…',ready:'Опубліковані результати',waiting:'Очікування першого сканування',failed:'Не вдалося завантажити дані',noData:'Дані відсутні',noRuns:'Поки немає записів',date:'Дата',store:'Магазин',status:'Статус',queries:'Запити',errors:'Помилки',name:'Назва',link:'Посилання',open:'Відкрити ↗',notScanned:'Поки немає успішних вимірювань'},
- en:{title:'Expense Tracker Tracker',intro:'Search-based monitoring of expense-tracking apps · US market · English',found:'Relevant apps discovered',lastUpdate:'LAST UPDATE',dateHint:'Date of latest complete scan',chartTitle:'Discovered apps over time',days30:'30 days',days90:'90 days',days365:'365 days',all:'All time',download:'↓ Export CSV',appsTitle:'Discovered apps',logTitle:'Scan history',method:'Methodology. We count unique apps discovered using a fixed set of search queries and classified by their titles and descriptions. This is not the complete number of such apps in either store. Search algorithm changes may affect the chart. Incomplete scans are excluded.',footer:'The source code is open. History begins with the first successful scan; past values are not backfilled.',loading:'Loading data…',ready:'Published observations',waiting:'Awaiting first scan',failed:'Could not load data',noData:'No data available',noRuns:'No entries yet',date:'Date',store:'Store',status:'Status',queries:'Queries',errors:'Errors',name:'Name',link:'Link',open:'Open ↗',notScanned:'No successful observations yet'}
+ en:{title:'Expense Tracker Tracker',intro:'Search-based monitoring of expense-tracking apps · US market · English',found:'Relevant apps discovered',lastUpdate:'LAST UPDATE',dateHint:'Date of latest complete scan',chartTitle:'Discovered apps over time',days30:'30 days',days90:'90 days',days365:'365 days',all:'All time',download:'↓ Export CSV',appsTitle:'Discovered apps',logTitle:'Scan history',method:'Methodology. We count unique apps discovered using a fixed set of search queries and classified by their titles and descriptions. This is not the complete number of such apps in either store. Earlier dates are reconstructed from the release dates of apps discovered now. Incomplete scans are excluded.',footer:'The source code is open. History begins with the first successful scan; past values are not backfilled.',loading:'Loading data…',ready:'Published observations',waiting:'Awaiting first scan',failed:'Could not load data',noData:'No data available',noRuns:'No entries yet',date:'Date',store:'Store',status:'Status',queries:'Queries',errors:'Errors',name:'Name',link:'Link',open:'Open ↗',notScanned:'No successful observations yet'}
 };
 let language='uk';
 function tr(k){return dict[language][k]||k}
@@ -86,7 +86,11 @@ function renderChart(){
   const span=Number(el('days').value),limit=new Date();
   if(span)limit.setUTCDate(limit.getUTCDate()-span+1);
   const cut=span?limit.toISOString().slice(0,10):'';
-  const rows=data.history.filter(x=>x.day>=cut);
+  const real=data.history.filter(x=>x.day>=cut);
+  const observedStarts={};
+  for(const r of data.history){if(!observedStarts[r.platform]||r.day<observedStarts[r.platform])observedStarts[r.platform]=r.day}
+  const back=(estimated.history||[]).filter(x=>x.day>=cut && (!observedStarts[x.platform] || x.day<observedStarts[x.platform]));
+  const rows=[...back,...real];
   const dates=[...new Set(rows.map(x=>x.day))].sort();
   const datasets=[['google_play','Google Play','#3566d5'],['app_store','Apple App Store','#e85d84']].map(([p,label,color])=>{
     const lookup=new Map(rows.filter(x=>x.platform===p).map(x=>[x.day,x.count]));
@@ -102,9 +106,9 @@ function renderApps(){
 }
 async function load(){
   try{
-    const [h,a]=await Promise.all([fetch('./history.json?'+Date.now()),fetch('./apps.json?'+Date.now())]);
+    const [h,a,e]=await Promise.all([fetch('./history.json?'+Date.now()),fetch('./apps.json?'+Date.now()),fetch('./historical_estimate.json?'+Date.now())]);
     if(!h.ok||!a.ok)throw Error('HTTP '+h.status+'/'+a.status);
-    data=await h.json();window.appLists=await a.json();
+    data=await h.json();window.appLists=await a.json();estimated=e.ok?await e.json():{history:[]};
     renderChart();renderApps();
     const latest=p=>data.history.filter(x=>x.platform===p).at(-1);
     const g=latest('google_play'),ap=latest('app_store');
