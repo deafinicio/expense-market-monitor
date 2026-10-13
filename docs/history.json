@@ -10,20 +10,20 @@
     {
       "day": "2026-10-13",
       "platform": "google_play",
-      "count": 82,
-      "discovered": 82,
-      "config_hash": "6fecf48f5f46"
+      "count": 278,
+      "discovered": 282,
+      "config_hash": "67589f83c3da"
     }
   ],
   "runs": [
     {
       "day": "2026-10-13",
       "platform": "google_play",
-      "status": "error",
-      "queries_ok": 24,
+      "status": "ok",
+      "queries_ok": 34,
       "queries_total": 34,
-      "error": "es-es / control de gastos: TypeError: 'NoneType' object is not subscriptable; es-es / presupuesto personal: TypeError: 'NoneType' object is not subscriptable; fr-fr / suivi des dépenses: TypeError: 'NoneType' object is not subscriptable; fr-fr / gestion budget: TypeError: 'NoneType' object is not subscriptable; de-de / ausgaben tracker: TypeError: 'NoneType' object is not subscriptable; de-de / haushaltsbuch: TypeError: 'NoneType' object is not subscriptable; it-it / gestione spese: TypeError: 'NoneType' object is not subscriptable; it-it / bilancio familiare: TypeError: 'NoneType' object is not subscriptable; pl-pl / kontrola wydatków: TypeError: 'NoneType' object is not subscriptable; pl-pl / budżet domowy: TypeError: 'NoneType' object is not subscriptable",
-      "checked_at": "2026-10-13T18:54:11.742794+00:00"
+      "error": "",
+      "checked_at": "2026-10-13T18:59:20.796053+00:00"
     },
     {
       "day": "2026-10-13",
