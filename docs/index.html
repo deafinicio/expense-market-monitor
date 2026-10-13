@@ -1,11 +1,23 @@
 <!doctype html>
 <html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Expense App Market Monitor</title>
+<title>Трекер трекерів витрат — Expense Tracker Tracker</title>
+<meta name="description" content="Щоденний моніторинг застосунків для обліку витрат у Google Play та Apple App Store. Графіки, динаміка й відкриті дані.">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Трекер трекерів витрат">
+<meta property="og:url" content="https://deafinicio.github.io/expense-market-monitor/">
+<meta property="og:title" content="Трекер трекерів витрат">
+<meta property="og:description" content="Стежимо за динамікою застосунків для обліку витрат у Google Play та App Store.">
+<meta property="og:image" content="https://deafinicio.github.io/expense-market-monitor/social-card.png">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:locale" content="uk_UA"><meta property="og:locale:alternate" content="en_US">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Трекер трекерів витрат">
+<meta name="twitter:description" content="Щоденний моніторинг застосунків для обліку витрат у Google Play та App Store.">
+<meta name="twitter:image" content="https://deafinicio.github.io/expense-market-monitor/social-card.png">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="./apple-touch-icon.png">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 <style>
 :root{color-scheme:light;font-family:Inter,system-ui,Arial,sans-serif;background:#f4f6fa;color:#18243a}
 *{box-sizing:border-box}body{margin:0}.wrap{max-width:1160px;margin:auto;padding:38px 22px 70px}
-h1{font-size:clamp(28px,4vw,46px);letter-spacing:-.04em;margin:8px 0}h2{font-size:21px;margin:0 0 16px}
+.langs{display:flex;align-items:center;gap:4px;background:#e9edf9;padding:4px;border-radius:99px}.langs button{border:0;background:transparent;padding:8px 12px;border-radius:99px;font-weight:800;color:#586a8b;cursor:pointer}.langs button.active{background:#634ae9;color:white}h1{font-size:clamp(28px,4vw,46px);letter-spacing:-.04em;margin:8px 0}h2{font-size:21px;margin:0 0 16px}
 p{line-height:1.6;color:#65758d}.kicker{font-size:12px;font-weight:800;letter-spacing:.14em;color:#526eaa}
 .top{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
 .pill{background:#e8eef9;border-radius:100px;padding:10px 15px;color:#3d5e91;font-size:13px}
@@ -22,21 +34,42 @@ th{color:#65758c}a{color:#285fcb}.note{padding:18px;background:#fff8e9;border:1p
 @media(max-width:700px){.cards{grid-template-columns:1fr}.panel{padding:17px}.num{font-size:35px}.chart{height:300px}}
 </style></head>
 <body><main class="wrap"><header class="top"><div><div class="kicker">OPEN MARKET INTELLIGENCE · DAILY TRACKING</div>
-<h1>Expense App Market Monitor</h1><p>Пошуковий моніторинг застосунків для обліку витрат · США · англійська мова</p></div>
-<div class="pill" id="status">Завантаження даних…</div></header>
-<section class="cards"><div class="card"><small>GOOGLE PLAY</small><div class="num" id="google">—</div><div class="sub">Виявлено релевантних застосунків</div></div>
+<h1 data-i18n="title">Трекер трекерів витрат</h1><p><span data-i18n="intro">Пошуковий моніторинг застосунків для обліку витрат · США · англійська мова</span></p></div>
+<div class="controls"><div class="langs" role="group" aria-label="Language"><button type="button" data-lang="uk" class="active" aria-pressed="true">UA</button><button type="button" data-lang="en" aria-pressed="false">EN</button></div><div class="pill" id="status">Завантаження даних…</div></div></header>
+<section class="cards"><div class="card"><small>GOOGLE PLAY</small><div class="num" id="google">—</div><div class="sub"><span data-i18n="found">Виявлено релевантних застосунків</span></div></div>
 <div class="card"><small>APPLE APP STORE</small><div class="num" id="apple">—</div><div class="sub">Виявлено релевантних застосунків</div></div>
-<div class="card"><small>ОСТАННЄ ОНОВЛЕННЯ</small><div class="num" id="date" style="font-size:26px">—</div><div class="sub">Дата останнього повного сканування</div></div></section>
-<section class="panel"><div class="top"><h2>Динаміка виявлених застосунків</h2><div class="controls">
-<select id="days" aria-label="Період"><option value="30">30 днів</option><option value="90">90 днів</option><option value="365">365 днів</option><option value="0">Весь період</option></select>
-<a class="btn" href="./history.csv" download>↓ Експорт CSV</a></div></div><div class="chart"><canvas id="chart"></canvas></div></section>
-<div class="note"><strong>Методологія.</strong> Показано кількість унікальних застосунків, знайдених фіксованими пошуковими запитами й визначених за назвою та описом. Це <strong>не</strong> повна кількість таких застосунків у магазинах. Зміни алгоритмів пошуку можуть впливати на графік. Неповні сканування виключені.</div>
-<section class="panel"><div class="top"><h2>Перелік застосунків</h2><select id="platform" aria-label="Магазин"><option value="google_play">Google Play</option><option value="app_store">Apple App Store</option></select></div>
+<div class="card"><small><span data-i18n="lastUpdate">ОСТАННЄ ОНОВЛЕННЯ</span></small><div class="num" id="date" style="font-size:26px">—</div><div class="sub"><span data-i18n="dateHint">Дата останнього повного сканування</span></div></div></section>
+<section class="panel"><div class="top"><h2><span data-i18n="chartTitle">Динаміка виявлених застосунків</span></h2><div class="controls">
+<select id="days" aria-label="Період"><option value="30"><span data-i18n="days30">30 днів</span></option><option value="90"><span data-i18n="days90">90 днів</span></option><option value="365"><span data-i18n="days365">365 днів</span></option><option value="0"><span data-i18n="all">Весь період</span></option></select>
+<a class="btn" href="./history.csv" download><span data-i18n="download">↓ Експорт CSV</span></a></div></div><div class="chart"><canvas id="chart"></canvas></div></section>
+<div class="note" data-i18n="method">Методологія. Показано кількість унікальних застосунків, знайдених фіксованими пошуковими запитами й визначених за назвою та описом. Це не повна кількість таких застосунків у магазинах. Зміни алгоритмів пошуку можуть впливати на графік. Неповні сканування виключені.</div>
+<section class="panel"><div class="top"><h2><span data-i18n="appsTitle">Перелік застосунків</span></h2><select id="platform" aria-label="Магазин"><option value="google_play">Google Play</option><option value="app_store">Apple App Store</option></select></div>
 <p id="appsdate" class="muted"></p><div class="scroll"><table><thead><tr><th>Назва</th><th>ID</th><th>Посилання</th></tr></thead><tbody id="apps"></tbody></table></div></section>
-<section class="panel"><h2>Журнал перевірок</h2><div class="scroll"><table><thead><tr><th>Дата</th><th>Магазин</th><th>Статус</th><th>Запити</th><th>Помилки</th></tr></thead><tbody id="runs"></tbody></table></div></section>
-<p class="muted">Джерело коду: <a href="https://github.com/deafinicio/expense-market-monitor">GitHub</a>. Історія починається з першого успішного збору; минулі значення не відновлюються заднім числом.</p>
+<section class="panel"><h2><span data-i18n="logTitle">Журнал перевірок</span></h2><div class="scroll"><table><thead><tr><th>Дата</th><th>Магазин</th><th>Статус</th><th>Запити</th><th>Помилки</th></tr></thead><tbody id="runs"></tbody></table></div></section>
+<p class="muted"><span data-i18n="footer">Вихідний код відкритий. Історія починається з першого успішного збору; минулі значення не відновлюються заднім числом.</span> <a href="https://github.com/deafinicio/expense-market-monitor">GitHub</a></p>
 </main><script>
 let data,chart;
+const dict={
+ uk:{title:'Трекер трекерів витрат',intro:'Пошуковий моніторинг застосунків для обліку витрат · США · англійська мова',found:'Виявлено релевантних застосунків',lastUpdate:'ОСТАННЄ ОНОВЛЕННЯ',dateHint:'Дата останнього повного сканування',chartTitle:'Динаміка виявлених застосунків',days30:'30 днів',days90:'90 днів',days365:'365 днів',all:'Весь період',download:'↓ Експорт CSV',appsTitle:'Перелік застосунків',logTitle:'Журнал перевірок',method:'Методологія. Показано кількість унікальних застосунків, знайдених фіксованими пошуковими запитами й визначених за назвою та описом. Це не повна кількість таких застосунків у магазинах. Зміни алгоритмів пошуку можуть впливати на графік. Неповні сканування виключені.',footer:'Вихідний код відкритий. Історія починається з першого успішного збору; минулі значення не відновлюються заднім числом.',loading:'Завантаження даних…',ready:'Опубліковані результати',waiting:'Очікування першого сканування',failed:'Не вдалося завантажити дані',noData:'Дані відсутні',noRuns:'Поки немає записів',date:'Дата',store:'Магазин',status:'Статус',queries:'Запити',errors:'Помилки',name:'Назва',link:'Посилання',open:'Відкрити ↗',notScanned:'Поки немає успішних вимірювань'},
+ en:{title:'Expense Tracker Tracker',intro:'Search-based monitoring of expense-tracking apps · US market · English',found:'Relevant apps discovered',lastUpdate:'LAST UPDATE',dateHint:'Date of latest complete scan',chartTitle:'Discovered apps over time',days30:'30 days',days90:'90 days',days365:'365 days',all:'All time',download:'↓ Export CSV',appsTitle:'Discovered apps',logTitle:'Scan history',method:'Methodology. We count unique apps discovered using a fixed set of search queries and classified by their titles and descriptions. This is not the complete number of such apps in either store. Search algorithm changes may affect the chart. Incomplete scans are excluded.',footer:'The source code is open. History begins with the first successful scan; past values are not backfilled.',loading:'Loading data…',ready:'Published observations',waiting:'Awaiting first scan',failed:'Could not load data',noData:'No data available',noRuns:'No entries yet',date:'Date',store:'Store',status:'Status',queries:'Queries',errors:'Errors',name:'Name',link:'Link',open:'Open ↗',notScanned:'No successful observations yet'}
+};
+let language='uk';
+function tr(k){return dict[language][k]||k}
+function setLanguage(next){
+ language=next;document.documentElement.lang=next;
+ document.querySelectorAll('[data-i18n]').forEach(node=>{node.textContent=tr(node.dataset.i18n)});
+ document.querySelectorAll('[data-lang]').forEach(btn=>{const on=btn.dataset.lang===next;btn.classList.toggle('active',on);btn.setAttribute('aria-pressed',String(on))});
+ document.title=tr('title')+' — '+(next==='uk'?'Expense Tracker Tracker':'App Market Monitor');
+ document.querySelector('meta[name="description"]').content=next==='uk'?dict.uk.intro:dict.en.intro;
+ document.querySelector('meta[property="og:title"]').content=tr('title');
+ document.querySelector('meta[property="og:description"]').content=tr('intro');
+ document.querySelector('meta[name="twitter:title"]').content=tr('title');
+ document.querySelector('meta[name="twitter:description"]').content=tr('intro');
+ if(data){renderApps();renderRuns();setScanStatus()}
+}
+function setScanStatus(){el('status').textContent=data.history.length?tr('ready'):tr('waiting')}
+document.querySelectorAll('[data-lang]').forEach(btn=>btn.addEventListener('click',()=>setLanguage(btn.dataset.lang)));
+
 const el=id=>document.getElementById(id);
 const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const number=n=>n==null?'—':Number(n).toLocaleString('uk-UA');
@@ -55,7 +88,7 @@ function renderChart(){
 }
 function renderApps(){
   const p=el('platform').value,v=window.appLists[p]||{apps:[],day:null};
-  el('appsdate').textContent=v.day?'Дата: '+v.day:'Поки немає успішних вимірювань';
+  el('appsdate').textContent=v.day?tr('date')+': '+v.day:tr('notScanned');
   el('apps').innerHTML=(v.apps||[]).map(a=>'<tr><td>'+safe(a.name)+'</td><td>'+safe(a.id)+'</td><td>'+(/^https:\/\//.test(a.url||'')?'<a href="'+safe(a.url)+'" target="_blank" rel="noopener noreferrer">Відкрити ↗</a>':'—')+'</td></tr>').join('')||'<tr><td colspan="3">Дані відсутні</td></tr>';
 }
 async function load(){
@@ -68,11 +101,16 @@ async function load(){
     const g=latest('google_play'),ap=latest('app_store');
     el('google').textContent=number(g?.count);el('apple').textContent=number(ap?.count);
     el('date').textContent=[g?.day,ap?.day].filter(Boolean).sort().at(-1)||'—';
-    el('status').textContent=data.history.length?'Опубліковані результати':'Очікування першого сканування';
-    el('runs').innerHTML=(data.runs||[]).slice(0,40).map(r=>'<tr><td>'+safe(r.day)+'</td><td>'+safe(r.platform)+'</td><td>'+safe(r.status)+'</td><td>'+safe(r.queries_ok)+'/'+safe(r.queries_total)+'</td><td>'+safe((r.error||'—').slice(0,200))+'</td></tr>').join('')||'<tr><td colspan="5">Поки немає записів</td></tr>';
-  }catch(e){el('status').textContent='Не вдалося завантажити дані';console.error(e)}
+    setScanStatus();
+    renderRuns();
+
+  }catch(e){el('status').textContent=tr('failed');console.error(e)}
 }
+function renderRuns(){
+ el('runs').innerHTML=(data.runs||[]).slice(0,40).map(r=>'<tr><td>'+safe(r.day)+'</td><td>'+safe(r.platform)+'</td><td>'+safe(r.status)+'</td><td>'+safe(r.queries_ok)+'/'+safe(r.queries_total)+'</td><td>'+safe((r.error||'—').slice(0,200))+'</td></tr>').join('')||'<tr><td colspan="5">'+tr('noRuns')+'</td></tr>';
+}
+document.querySelectorAll('th').forEach((th,i)=>{const k=['name','', 'link','date','store','status','queries','errors'][i];if(k)th.dataset.i18n=k});
 el('days').addEventListener('change',()=>data&&renderChart());
 el('platform').addEventListener('change',renderApps);
-load();setInterval(load,300000);
+setLanguage((new URLSearchParams(location.search).get('lang')||((navigator.language||'').toLowerCase().startsWith('uk')?'uk':'en'))==='uk'?'uk':'en');load();setInterval(load,300000);
 </script></body></html>
