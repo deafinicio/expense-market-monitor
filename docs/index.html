@@ -89,7 +89,7 @@ function renderChart(){
 function renderApps(){
   const p=el('platform').value,v=window.appLists[p]||{apps:[],day:null};
   el('appsdate').textContent=v.day?tr('date')+': '+v.day:tr('notScanned');
-  el('apps').innerHTML=(v.apps||[]).map(a=>'<tr><td>'+safe(a.name)+'</td><td>'+safe(a.id)+'</td><td>'+(/^https:\/\//.test(a.url||'')?'<a href="'+safe(a.url)+'" target="_blank" rel="noopener noreferrer">Відкрити ↗</a>':'—')+'</td></tr>').join('')||'<tr><td colspan="3">Дані відсутні</td></tr>';
+  el('apps').innerHTML=(v.apps||[]).map(a=>'<tr><td>'+safe(a.name)+'</td><td>'+safe(a.id)+'</td><td>'+(/^https:\/\//.test(a.url||'')?'<a href="'+safe(a.url)+'" target="_blank" rel="noopener noreferrer">'+tr('open')+'</a>':'—')+'</td></tr>').join('')||'<tr><td colspan="3">'+tr('noData')+'</td></tr>';
 }
 async function load(){
   try{
