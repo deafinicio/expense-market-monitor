@@ -12,21 +12,39 @@ import requests
 
 ROOT = Path(__file__).resolve().parent
 DOCS = ROOT / "docs"
-COUNTRY = "us"
-LANG = "en"
-QUERIES = (
-    "expense tracker", "expense manager", "spending tracker",
-    "budget planner", "personal finance tracker", "expense log",
-    "track expenses", "money manager",
+# Regional search coverage: separate query terms and storefront country per locale.
+# This is a sampled international discovery strategy, NOT exhaustive worldwide coverage.
+LOCALES = (
+    ("en","us",("expense tracker","budget planner")),
+    ("en","gb",("spending tracker","money manager")),
+    ("uk","ua",("облік витрат","сімейний бюджет")),
+    ("es","es",("control de gastos","presupuesto personal")),
+    ("es","mx",("registro de gastos","control de gastos")),
+    ("fr","fr",("suivi des dépenses","gestion budget")),
+    ("de","de",("ausgaben tracker","haushaltsbuch")),
+    ("pt","br",("controle de gastos","orçamento pessoal")),
+    ("it","it",("gestione spese","bilancio familiare")),
+    ("pl","pl",("kontrola wydatków","budżet domowy")),
+    ("tr","tr",("harcama takibi","bütçe takip")),
+    ("ja","jp",("家計簿","支出管理")),
+    ("ko","kr",("가계부","지출 관리")),
+    ("hi","in",("खर्च ट्रैकर","बजट प्लानर")),
+    ("id","id",("catatan pengeluaran","pengatur anggaran")),
+    ("ar","sa",("تتبع المصاريف","إدارة الميزانية")),
+    ("zh","tw",("記帳","支出管理")),
 )
 POSITIVE = (
     "expense", "spending", "budget", "money manager", "finance tracker",
     "financial tracker", "cost tracker", "personal finance",
+    "витрат", "бюджет", "фінанс", "gasto", "presupuesto", "finanzas",
+    "dépense", "budget", "financ", "ausgaben", "haushalt", "spese",
+    "orçamento", "despesa", "wydatk", "budżet", "harcama", "bütçe",
+    "家計", "支出", "記帳", "가계부", "지출", "खर्च", "बजट",
+    "pengeluaran", "anggaran", "مصاريف", "ميزانية",
 )
 NEGATIVE = ("employee reimbursement", "expense report approval", "receipt scanner only")
-CONFIG = {"country": COUNTRY, "language": LANG, "queries": QUERIES,
-          "positive": POSITIVE, "negative": NEGATIVE, "per_query": 100}
-CONFIG_HASH = hashlib.sha256(json.dumps(CONFIG, sort_keys=True).encode()).hexdigest()[:12]
+CONFIG = {"locales": LOCALES, "positive": POSITIVE, "negative": NEGATIVE, "per_query": 100}
+CONFIG_HASH = hashlib.sha256(json.dumps(CONFIG, sort_keys=True, ensure_ascii=False).encode()).hexdigest()[:12]
 
 
 def relevant(item):
@@ -34,9 +52,9 @@ def relevant(item):
     return any(term in text for term in POSITIVE) and not any(term in text for term in NEGATIVE)
 
 
-def google_search(query):
+def google_search(query, lang="en", country="us"):
     from google_play_scraper import search
-    results = search(query, lang=LANG, country=COUNTRY, n_hits=100)
+    results = search(query, lang=lang, country=country, n_hits=100)
     if not isinstance(results, list):
         raise RuntimeError("Unexpected Google Play response")
     return [
@@ -47,10 +65,10 @@ def google_search(query):
     ]
 
 
-def apple_search(query):
+def apple_search(query, lang="en", country="us"):
     response = requests.get(
         "https://itunes.apple.com/search",
-        params={"term": query, "country": COUNTRY, "media": "software",
+        params={"term": query, "country": country, "media": "software",
                 "entity": "software", "limit": 200},
         timeout=30, headers={"User-Agent": "ExpenseAppMarketMonitor/1.0"},
     )
@@ -89,13 +107,18 @@ def run():
             continue
         found = {}
         errors = []
-        for query in QUERIES:
-            try:
-                for item in lookup(query):
-                    found[item["id"]] = item
-            except Exception as exc:
-                errors.append(f"{query}: {type(exc).__name__}: {str(exc)[:160]}")
-            time.sleep(0.4)
+        total_queries = sum(len(queries) for _, _, queries in LOCALES)
+        for lang, country, queries in LOCALES:
+            for query in queries:
+                try:
+                    for item in lookup(query, lang=lang, country=country):
+                        # Multiple country/language appearances share the same store app ID.
+                        key = item["id"]
+                        if key not in found or (not relevant(found[key]) and relevant(item)):
+                            found[key] = item
+                except Exception as exc:
+                    errors.append(f"{lang}-{country} / {query}: {type(exc).__name__}: {str(exc)[:120]}")
+                time.sleep(0.25)
         success = not errors
         matched = sorted((x for x in found.values() if relevant(x)),
                          key=lambda x: x["name"].lower())
@@ -103,8 +126,8 @@ def run():
                            if not (r["day"] == day and r["platform"] == store)]
         history["runs"].append({
             "day": day, "platform": store, "status": "ok" if success else "error",
-            "queries_ok": len(QUERIES)-len(errors),
-            "queries_total": len(QUERIES), "error": "; ".join(errors),
+            "queries_ok": total_queries-len(errors),
+            "queries_total": total_queries, "error": "; ".join(errors),
             "checked_at": datetime.now(timezone.utc).isoformat(),
         })
         if success:
