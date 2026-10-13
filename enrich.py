@@ -65,11 +65,15 @@ def apple_details(app_id):
     sampled = []
     for page in (1, 2):
         url = f"https://itunes.apple.com/us/rss/customerreviews/page={page}/id={app_id}/sortby=mostrecent/json"
-        response = requests.get(url, headers=USER_AGENT, timeout=25)
-        if response.status_code in (404, 400):
+        try:
+            response = requests.get(url, headers=USER_AGENT, timeout=25)
+            if response.status_code in (404, 400):
+                break
+            response.raise_for_status()
+            entries = response.json().get("feed", {}).get("entry", [])
+        except (requests.RequestException, ValueError) as exc:
+            print("App Store review feed unavailable:", app_id, type(exc).__name__)
             break
-        response.raise_for_status()
-        entries = response.json().get("feed", {}).get("entry", [])
         if isinstance(entries, dict):
             entries = [entries]
         for e in entries:
