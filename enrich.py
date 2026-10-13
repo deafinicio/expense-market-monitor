@@ -47,7 +47,10 @@ def google_details(app_id):
                         "text": x.get("content"), "date": x.get("at")}
                        for x in batch)
         time.sleep(0.25)
-    return {"price": price or "Unknown", "reviews": select_low_reviews(sampled)}
+    return {"price": price or "Unknown", "price_value": (
+        0.0 if info.get("free") else
+        float(info["price"]) if isinstance(info.get("price"), (int, float)) else None
+    ), "currency": info.get("currency") or "USD", "reviews": select_low_reviews(sampled)}
 
 
 def apple_details(app_id):
@@ -86,7 +89,9 @@ def apple_details(app_id):
                 "date": e.get("updated", {}).get("label"),
             })
         time.sleep(0.3)
-    return {"price": price or "Unknown", "reviews": select_low_reviews(sampled)}
+    return {"price": price or "Unknown", "price_value": (
+        float(info["price"]) if isinstance(info.get("price"), (int, float)) else None
+    ), "currency": info.get("currency") or "USD", "reviews": select_low_reviews(sampled)}
 
 
 def run():
