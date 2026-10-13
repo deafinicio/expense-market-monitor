@@ -1,1 +1,627 @@
-{}
+{
+  "google_play:org.pixelrush.moneyiq": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "The developer is being cunning. The app has become paid. I have been using it since 2020 and i have accumulated a large amount of information and data. Now I have to buy the premium version just to save and continue accessing my information. It feels like they have deceived everyone! The app is blocked for Russia. That's why I can't recover the data.",
+        "date": "2026-02-11"
+      },
+      {
+        "rating": 1,
+        "text": "Update: Accessing data sub-menu lag and freezing the apps... Since last update can not sync anymore!! At least give us option to export data and import it to another/new device, so the data I collected all theese years is not for naught! Edit: Latest update now has export/import database functionality, thank you very much!",
+        "date": "2026-02-16"
+      },
+      {
+        "rating": 1,
+        "text": "Back in 2024 I gave this 5*. It was a great app for a reasonable price ($1.49 p/m). Then it became free, which was even better. Now it has suddenly updated and I can't use most functions anymore without upgrading to the premium version ($7.99 p/m). Extremely disappointed with this sudden change without any warning. I am forced to upgrade now if I want to access my years' worth of previous records.",
+        "date": "2026-02-24"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:29.110553+00:00"
+  },
+  "google_play:com.money.manager.ex.android": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Don't Download 🚫 Reliability 🚫 App Crash 🚫 Every time manually fetch database 🚫 Sometimes Entry not Save in database 🚫 Synchronise after every Entry 🚫 Developer Response Zero",
+        "date": "2025-07-20"
+      },
+      {
+        "rating": 1,
+        "text": "too hard to use",
+        "date": "2025-12-15"
+      },
+      {
+        "rating": 1,
+        "text": "Avoid this App on Android 15+! It's unusable and you will lose your data: you import your database from your working folder, but it copies a working copy to Android data folders. All worke fine, but when an update comes, it loses the database connection, you have to to open your dqtabase new, and Android security settings don't allow you to access or ecen copy the database file. No chance to recover your data!",
+        "date": "2026-04-22"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:30.153356+00:00"
+  },
+  "google_play:com.beyondbudget": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Doesn't even function",
+        "date": "2022-10-11"
+      },
+      {
+        "rating": 1,
+        "text": "Stupid app",
+        "date": "2023-04-29"
+      },
+      {
+        "rating": 1,
+        "text": "Yet another \"you need an account first\" before you can even see the app.",
+        "date": "2023-09-11"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:31.390921+00:00"
+  },
+  "google_play:app.monee": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "useless app, UI makes me puke.horrible app",
+        "date": "2025-10-27"
+      },
+      {
+        "rating": 1,
+        "text": "pointless app. no way to import csv file",
+        "date": "2025-12-18"
+      },
+      {
+        "rating": 1,
+        "text": "I opened app didnt even get to see it work. I was asked to enter my email. I got to get started screen did that. Saw a picture I assume was the developer. Went to next screen, to put in my budget. When the entry screen came up I could not see the numbers behind the input. I also did not like I couldnt put in the decimal. I put in the numbers. After that I submitted, could not go further untill after I joined somthing, I uninstalled, you know my income and have my email, I dont have an app, I t",
+        "date": "2026-08-21"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:33.351775+00:00"
+  },
+  "google_play:com.pocketguard.android.app": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "piss off, not paying for a glorified excel sheet.",
+        "date": "2025-10-18"
+      },
+      {
+        "rating": 1,
+        "text": "Sign up process is broken. When you go to create a new account it asks for a phone number then enter the code. When I enter the code it says my email is wrong. Won't accept any code even after multiple attempts to resend the code",
+        "date": "2025-10-25"
+      },
+      {
+        "rating": 1,
+        "text": "Not worth the money to save money!! Really hard to cancel subscription!!",
+        "date": "2025-11-24"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:35.456771+00:00"
+  },
+  "google_play:com.budgeting365.app": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Fire app ngl",
+        "date": "2026-05-12"
+      },
+      {
+        "rating": 5,
+        "text": "I love everything about the app, but the credit card tracking logic has a major flaw if your bill doesnt align with a calendar month. My cycle runs June 4-July 3, due July 24. I set the billing date to the 3rd and due date to the 24th. However, the app forces a strict calendar month view. When I log a purchase on july 4, the app says its due on july 24. It doesnt understand that this expense belongs to the next cycle and isnt due until august 24. Please fix this 🙏",
+        "date": "2026-09-08"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:38.114264+00:00"
+  },
+  "google_play:com.cleevio.spendee": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Spendee team, start reading the reviews please - you're killing your app! I'm using it for 3 years and with latest updates app became impossible to use. First the major UI change - too quick and confusing. Then the freezes all over the app - have you even tried categorizing 100+ expenses in the end of the month now? And now I can't even register a transfer from my bank account. I withdraw money in cash, but the app only allows me to register expense instead of transfer. Come on!",
+        "date": "2026-09-15"
+      },
+      {
+        "rating": 1,
+        "text": "Can't add new review so editing old one. App is disaster and not useable with last update. 17.09.2026.",
+        "date": "2026-09-17"
+      },
+      {
+        "rating": 1,
+        "text": "I have Pixel 8 Pro with the newest Android, WHY IS THIS APP SO SLOW??",
+        "date": "2026-09-17"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:39.152789+00:00"
+  },
+  "google_play:com.nightowl.spendsmart": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "ok",
+        "date": "2026-09-02"
+      },
+      {
+        "rating": 4,
+        "text": "Good app that anyone can use",
+        "date": "2026-07-21"
+      },
+      {
+        "rating": 4,
+        "text": "Great app",
+        "date": "2026-09-26"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:41.485096+00:00"
+  },
+  "google_play:com.colpit.diamondcoming.isavemoney": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Just not any good",
+        "date": "2026-03-20"
+      },
+      {
+        "rating": 1,
+        "text": "in the .little time that I've used it. it seems perfect. But for $15 a week would equal $60 a month that's absolutely ridiculous",
+        "date": "2026-03-22"
+      },
+      {
+        "rating": 1,
+        "text": "i loved the app and been using it for many years. but the subsciption is too rpicey for me to afford. it used to be $9.99 for lifetime but now after updating the app, need to pay $15/week?! I think it's time for me to let it go and give other app a try.",
+        "date": "2026-04-06"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:42.703833+00:00"
+  },
+  "google_play:com.budgetgoal.mobile": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Really useful app",
+        "date": "2026-05-25"
+      },
+      {
+        "rating": 5,
+        "text": "this is a great app for budgeting",
+        "date": "2026-06-11"
+      },
+      {
+        "rating": 5,
+        "text": "Truly useful app ! Loved how systematically it handles the budget tracking and planning. I use it for iphone since long. I recommend this one",
+        "date": "2026-06-23"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:45.296167+00:00"
+  },
+  "google_play:com.thebudgetingapp.thebudgetingapp": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Can't carry over month to month. Fix this and I'll change my rating",
+        "date": "2023-01-02"
+      },
+      {
+        "rating": 1,
+        "text": "It literally doesn't work. Add an income, it doesn't do anything.",
+        "date": "2023-03-16"
+      },
+      {
+        "rating": 1,
+        "text": "Stupid app not payment mode",
+        "date": "2023-04-20"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:46.576859+00:00"
+  },
+  "google_play:com.danruddev.budgetum": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Suddenly budget section data removed Very disappointed only one income section time waste",
+        "date": "2026-03-06"
+      },
+      {
+        "rating": 1,
+        "text": "can only have 5 recurring transactions without buying their premium service. not for me.",
+        "date": "2026-03-09"
+      },
+      {
+        "rating": 1,
+        "text": "Not Good..👎👎",
+        "date": "2026-05-09"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:47.574007+00:00"
+  },
+  "google_play:com.fin.plan": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "It is not free",
+        "date": "2025-12-26"
+      },
+      {
+        "rating": 1,
+        "text": "no free option....can only add 1 category.. useless to try unless you subscribe",
+        "date": "2026-01-04"
+      },
+      {
+        "rating": 1,
+        "text": "I backed up, then imported my backup, then everything I backed up is gone!!!!!! what the what!????????????????",
+        "date": "2026-01-16"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:48.595837+00:00"
+  },
+  "google_play:cashbook.cashbook": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "really good app to much advert after each entry an advert which is quite frustrating",
+        "date": "2026-06-27"
+      },
+      {
+        "rating": 1,
+        "text": "No need of Ads",
+        "date": "2026-06-29"
+      },
+      {
+        "rating": 1,
+        "text": "the app looked nice due to its simplicity but I did not use it for two reasons: 1. Single device and way share between devices 2. I did not find an export/import feature to export data to a csv. But good app.",
+        "date": "2026-07-05"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:49.777796+00:00"
+  },
+  "google_play:com.budget.tracker_app": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "At first glance, very amateurishly designed, couldn't even bring myself to use it beyond the demo",
+        "date": "2025-06-09"
+      },
+      {
+        "rating": 1,
+        "text": "Showing wrong data in date filed whe exporting to excel. Syncing isue. Otherwise good app.",
+        "date": "2025-06-14"
+      },
+      {
+        "rating": 1,
+        "text": "Can only make one budget without paying. The whole point is to save money not spend it.",
+        "date": "2025-06-23"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:51.429334+00:00"
+  },
+  "google_play:com.benoitletondor.easybudgetapp": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Impossible to use after changes. Price is ridiculous",
+        "date": "2026-03-21"
+      },
+      {
+        "rating": 1,
+        "text": "I have loved this app for a few years now. Paid the reasonable monthly fee to have the check boxes, backup, etc. I logged today and I'm overrun with ads. Checked to see if I needed to log back in. No, the price has gone up to $15 a month with no notice. Deleting the app and now on the hunt for something different. update to clarify. I have been a premium user for a long time. My premium membership is now gone and I'm expecting to pay $15 a month instead of the reasonable rate it used to be.",
+        "date": "2026-03-22"
+      },
+      {
+        "rating": 1,
+        "text": "EDIT: purchased premium version in the past and is now it's gone as they switched to a subscription model. Features are great but being a budget app and wanting you to pay per month to use is wild. Having to view ads before using the free app is insane having paid for a premium version. I have reached out to support and have not heard anything in over a month. Great app for tracking income when living paycheck to paycheck Wish it had an option for weekly or bi weekly income/expenses",
+        "date": "2026-03-23"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:52.566849+00:00"
+  },
+  "google_play:com.emmaprod": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "I hate any app that doesn't let you cancel easily. have to go through about 8 screens of Are you sure? offering discounts etc. then advises you to cancel the subscription which is absolutely impossible to figure out how to actually do. feels like a scam!! if I am charged I will be taking it further. AVOID.",
+        "date": "2026-08-31"
+      },
+      {
+        "rating": 1,
+        "text": "It has nothing what advert decribes. I only retreives partial statements so no full picture of expenditure.",
+        "date": "2026-08-31"
+      },
+      {
+        "rating": 1,
+        "text": "Unable to cancel subscription, then continued to be charged. no responses to emails or when using chat function. Refund requested but radio silence. Taking further with payment provided under fraudulent transaction",
+        "date": "2026-09-01"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:53.732484+00:00"
+  },
+  "google_play:com.everydollar.android": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "My wife and I have used this for a few years and loved it until today. The free app would not let me in until I answered personal questions about my finances. I finally started to answer their questions hoping it wouldn't go too deeply. When I felt like this was going to ask for more than I thought appropriate I tried to back out. Now it just has a buffering circle on the screen. My wife can't get in and we cannot retrieve our budget numbers. I hope the uninstall works better.",
+        "date": "2026-05-03"
+      },
+      {
+        "rating": 1,
+        "text": "I tired of misleading apps telling you it's free and making you believe it's a free app that can help you. To later find out, after you've downloaded it and set up your account, that you will have to pay $17 or more a month to use. Years ago I took a physics class through church and everyone had to pay to get your kit, which was well worth it. Now seeing an app that tells you it's free and it is misleading, it should tell you upfront.",
+        "date": "2026-05-09"
+      },
+      {
+        "rating": 1,
+        "text": "app was working fine until the latest update, now it won't open. I've reinstalled, cleared cache, forced stop, restarted phone B4 & after reinstall. when I try to log in, it says \"error occured, try again \"",
+        "date": "2026-05-16"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:54.812314+00:00"
+  },
+  "google_play:com.finance.expanager": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "I like your transfer tab than other I/E apps, Your premium is worth if How to add account opening balance, there should be profile for family members like husband, wife, mother, father and then their separate bank accounts, payment wallets, bank fixed deposits with auto interest calculator, LIC policies, investments, loans, credit card balance, mutual funds, stocks investment and movable and immovable assests, etc. And creating pdf or excel all such details should be noted. All the best 👍",
+        "date": "2023-02-18"
+      },
+      {
+        "rating": 1,
+        "text": "app is too slow and advertising more",
+        "date": "2024-08-14"
+      },
+      {
+        "rating": 1,
+        "text": "Lifetime plan is very expensive.",
+        "date": "2025-01-14"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:55.858041+00:00"
+  },
+  "google_play:ai.myexpense.app": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Not worth 999 a month.Too basic",
+        "date": "2025-02-23"
+      },
+      {
+        "rating": 1,
+        "text": "not sure why asks 260 directly , should give a chance to try",
+        "date": "2025-06-25"
+      },
+      {
+        "rating": 1,
+        "text": "Wow, I pay money to track wheres my money go, nice",
+        "date": "2026-04-17"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:58.733576+00:00"
+  },
+  "google_play:com.neslit.budgettrackerapp": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Don't know Hindi",
+        "date": "2023-03-02"
+      },
+      {
+        "rating": 1,
+        "text": "This app is a mess. No functionality due to ads every 3 seconds and no option to remove ads even so the app becomes useable. Should be removed from Google Play Store.",
+        "date": "2023-10-03"
+      },
+      {
+        "rating": 1,
+        "text": "to add transaction you need to login !!! why i need to have internet to just add transaction !!! useless tool",
+        "date": "2023-10-04"
+      }
+    ],
+    "updated_at": "2026-10-13T18:39:59.862880+00:00"
+  },
+  "google_play:com.tariq.expenseeasy": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 3,
+        "text": "I have a premium subscription, but when I make filter search, it doesn't result all matching words. also can not create my own categories. all categories are preset",
+        "date": "2025-07-18"
+      },
+      {
+        "rating": 5,
+        "text": "Wonderful app. Easy to use. Great work by the developers team. Makes your life easier by managing the expenses and budget.",
+        "date": "2025-07-11"
+      },
+      {
+        "rating": 5,
+        "text": "Its a fantastic app—very simple to use, clean design, and extremely helpful in managing daily expenses. It’s exactly what I was looking for! It keeps everything organized without any complications. Best of luck to the creator—thank you for building such a useful tool. Highly recommended!",
+        "date": "2025-07-11"
+      }
+    ],
+    "updated_at": "2026-10-13T18:40:10.049489+00:00"
+  },
+  "google_play:com.handyapps.expenseiq": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "I've had this app for years. I had the paid version and all of a sudden it told me to pay again. I sent them 2 messages with no response. Once before I paid again and once after. Still no response. Now after I have paid for the full version again I can't get it to sync with my wife's phone like it is supposed to. I have sent them more messages. It's the end of June and still no response from them.",
+        "date": "2025-06-24"
+      },
+      {
+        "rating": 1,
+        "text": "the app has crashed and even restore data isn't working. poor update",
+        "date": "2025-07-31"
+      },
+      {
+        "rating": 1,
+        "text": "every time the app\"syncs\" it leaves a 6MB file on in my phone's storage. I just cleaned up 40GB worth. Avoid this so, until that's fixed.",
+        "date": "2025-08-17"
+      }
+    ],
+    "updated_at": "2026-10-13T18:40:11.218229+00:00"
+  },
+  "google_play:com.expensemanager": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Messy 😑",
+        "date": "2025-02-13"
+      },
+      {
+        "rating": 1,
+        "text": "I am using this app for 7 years. It's very stable, useful and I can manage multiple accounts. It's a bit a learning curve, but it's flawless. Until today! Everything is gone! Updated 2 days ago, eland everything was fine. But today, it's completely empty! I am so disappointed...",
+        "date": "2025-02-19"
+      },
+      {
+        "rating": 1,
+        "text": "Can you please advise as to why the db format from database export from ios does not work properly when imported in an android device.. both database exported are in .db extension. I checked the csv headers from ios and from android, and they are different. In android there are row id, but no row id in ios..",
+        "date": "2025-02-20"
+      }
+    ],
+    "updated_at": "2026-10-13T18:40:12.322442+00:00"
+  },
+  "google_play:at.markushi.expensemanager": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "All was well for 6 months but last week the app started crashing and stopped openjng. Waited a week for it to get okay. But never did. So uninstalled and install again. Now all my data is wiped. There was no restore also. The app should have a sign in option to store the data in such cases.",
+        "date": "2021-06-11"
+      },
+      {
+        "rating": 1,
+        "text": "Need Improvements In UI.",
+        "date": "2021-07-02"
+      },
+      {
+        "rating": 1,
+        "text": "The app is really helpful, i even paid for the full feature !, but please fix the google drive sync feature, it's always reverted to disable everytime i tried to turn on the sync. the repair center wiped my phone, and sure enough, also my data in the app, and i can't restore the data.",
+        "date": "2021-07-15"
+      }
+    ],
+    "updated_at": "2026-10-13T18:40:13.377240+00:00"
+  },
+  "google_play:vsolutions.expenses": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "not being able to backup on drive, while network is working very fine",
+        "date": "2026-07-28"
+      },
+      {
+        "rating": 2,
+        "text": "I expect these essential features in a modern money manager app: 1. Goals & Budget 2. Lend & Borrow tracking 3. Advanced Recurring Payments & Reminders I noticed the app already has Recurring Expenses and Reminders, but these could be more comprehensive with customizable reminders and better upcoming payment tracking. As a premium user, I hope Goals, Budget, and Lend & Borrow can be prioritized in upcoming updates to make the app more complete and useful.",
+        "date": "2026-09-27"
+      },
+      {
+        "rating": 3,
+        "text": "add Ghana cedis to your currency, the app looks incredible and interesting to use",
+        "date": "2026-05-04"
+      }
+    ],
+    "updated_at": "2026-10-13T18:40:15.507113+00:00"
+  },
+  "google_play:com.naveenapps.expensemanager": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 3,
+        "text": "Easy to use, and expecting an option to add the bill of expenses.",
+        "date": "2025-10-08"
+      },
+      {
+        "rating": 3,
+        "text": "I couldn't able to choose an option when \"Select Account\" list is expanded.",
+        "date": "2026-03-11"
+      },
+      {
+        "rating": 3,
+        "text": "I really appreciate this app developer this app was nice but a little bits of an upgrade it's help to use this app can't reschedule every month categories once i update income expenses it's not showing new it's continue with previous month table",
+        "date": "2026-04-30"
+      }
+    ],
+    "updated_at": "2026-10-13T18:40:17.461252+00:00"
+  },
+  "google_play:com.expensemanager.pro": {
+    "price": "5.99 USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "wont accurately transfer data to new phone",
+        "date": "2019-06-05"
+      },
+      {
+        "rating": 1,
+        "text": "very complicated to use and no demo on how to use it",
+        "date": "2019-07-12"
+      },
+      {
+        "rating": 1,
+        "text": "In budget section there is no budget or estimates can be set for income due to which savings (income minus expenses) estimates per month can't be derive. This is the first time I am thinking about any app that why I purchased this app.",
+        "date": "2019-09-19"
+      }
+    ],
+    "updated_at": "2026-10-13T18:40:18.505405+00:00"
+  },
+  "google_play:com.creamsoft.whereismymoney": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Absolutely pathetic😡. Every time i tried to add just one of my own catatories i was presented with a silly full screen nag to purchase or free trial. What is this app for if im unable to test it for adding catatories?, how do i know the paid version will work. Thanks but no thanks. There's better apps to be had that allow a for better try out.",
+        "date": "2020-02-12"
+      },
+      {
+        "rating": 1,
+        "text": "Pretty stupid that I can't easily edit an expense... and the ads🤬",
+        "date": "2021-01-21"
+      },
+      {
+        "rating": 2,
+        "text": "All curencies are not icluded like TSH.",
+        "date": "2019-10-21"
+      }
+    ],
+    "updated_at": "2026-10-13T18:40:20.268800+00:00"
+  },
+  "google_play:com.pankaj.TrackMyExpense": {
+    "price": "Free",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "very bad",
+        "date": "2025-06-18"
+      },
+      {
+        "rating": 1,
+        "text": "This app feels like a scam. Initially, it offers useful features for free, but after a few months, most of those features become locked behind a paywall. I would not recommend installing it. There are better alternatives available that offer similar features for free. I'm currently looking for a free alternative myself.",
+        "date": "2026-06-18"
+      },
+      {
+        "rating": 3,
+        "text": "UI is excellent and simple without ads the problem is I identified 1 bug. 1.enter under any category 100 rupees or whatever amount. 2. after save open same category now edit the value to nothing. booom everything is broken , you can't see graphs etc. might be you guys are not handled null exception. please take care. Now my account itself corrupted unable to do anything.",
+        "date": "2025-11-11"
+      }
+    ],
+    "updated_at": "2026-10-13T18:40:21.931406+00:00"
+  }
+}
