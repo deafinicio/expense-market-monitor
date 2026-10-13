@@ -52,3 +52,11 @@ The pipeline publishes `docs/historical_estimate.json` and `docs/release_dates.j
 ## Global-search methodology change
 
 Beginning with the first run after this revision, the live counts use 17 locale/country query pairs instead of US English alone. Earlier observed points remain unchanged; counts across this change should not be directly interpreted as market growth. Each live record includes a configuration fingerprint. The historical reconstructed pre-observation estimate is incomplete and based on the current discovered inventory. Google Play and App Store each retain a separate line; unique app IDs are counted once per store regardless of the number of languages in which the app appears.
+
+## Frontend v2 (React)
+
+The public interface is implemented with **React 19 + TypeScript + Vite**, **Tailwind CSS**, Radix-backed shadcn-style primitives, **Apache ECharts**, Motion and Lucide icons. The collector is still Python/Node.js, and GitHub Actions builds the Vite bundle to `docs/` for GitHub Pages. Dataset JSON files stay in `docs/`; the build does not remove them.
+
+Development: `npm install && npm run dev`. Production: `npm run build`. Public base path is `/expense-market-monitor/`.
+
+UI: neon dark design; UA/EN translation; one combined historical/live chart; catalogue with search, storefront, price filter, ascending/descending numeric price sort, 25-row pagination; dialog with up to three lowest-rated available review snippets. Measurement ID `G-YK5KZTVFXP` is preserved.
