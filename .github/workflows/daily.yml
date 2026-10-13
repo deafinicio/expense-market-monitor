@@ -2,6 +2,8 @@ name: Daily market scan
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - 'docs/**'
   workflow_dispatch:
   schedule:
     - cron: '10 1 * * *'
@@ -28,7 +30,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Install Google Play parser
+      - name: Install frontend and parser dependencies
         run: npm install --no-audit --no-fund
       - name: Build sharing graphics
         run: python build_assets.py
@@ -53,6 +55,8 @@ jobs:
             git commit -m "data: daily app store observations"
             git push
           fi
+      - name: Build React dashboard
+        run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
