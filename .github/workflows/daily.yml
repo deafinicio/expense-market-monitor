@@ -25,10 +25,17 @@ jobs:
           python-version: '3.12'
           cache: pip
       - run: python -m pip install -r requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Google Play parser
+        run: npm install --no-audit --no-fund
       - name: Build sharing graphics
         run: python build_assets.py
       - name: Test
         run: python -m unittest discover -s tests -v
+      - name: Search Google Play with maintained parser
+        run: node google_scan.mjs
       - name: Collect observations
         id: scan
         continue-on-error: true
