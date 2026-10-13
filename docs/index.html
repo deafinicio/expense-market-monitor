@@ -143,7 +143,10 @@ async function load(){
     renderChart();renderApps();
     const latest=p=>data.history.filter(x=>x.platform===p).at(-1);
     const g=latest('google_play'),ap=latest('app_store');
-    el('google').textContent=number(g?.count);el('apple').textContent=number(ap?.count);
+    const currentRun=p=>(data.runs||[]).find(r=>r.platform===p);
+    const valid=p=>{const run=currentRun(p),point=latest(p);return point && (!run || (run.status==='ok' && run.day===point.day))};
+    el('google').textContent=valid('google_play')?number(g?.count):'—';
+    el('apple').textContent=valid('app_store')?number(ap?.count):'—';
     el('date').textContent=[g?.day,ap?.day].filter(Boolean).sort().at(-1)||'—';
     setScanStatus();
     renderRuns();
