@@ -52,24 +52,20 @@ def relevant(item):
     return any(term in text for term in POSITIVE) and not any(term in text for term in NEGATIVE)
 
 
+_google_candidates = None
+
 def google_search(query, lang="en", country="us"):
-    from google_play_scraper import search
-    try:
-        results = search(query, lang=lang, country=country, n_hits=100)
-    except (TypeError, KeyError, IndexError):
-        # Some localized store responses are incompatible with the unofficial parser.
-        # Retry with an English interface but preserve the localized query and country.
-        if lang == "en":
-            raise
-        results = search(query, lang="en", country=country, n_hits=100)
-    if not isinstance(results, list):
-        raise RuntimeError("Unexpected Google Play response")
-    return [
-        {"id": str(x["appId"]), "name": x.get("title", ""),
-         "description": x.get("description") or x.get("summary") or "",
-         "url": "https://play.google.com/store/apps/details?id=" + x["appId"]}
-        for x in results if x.get("appId")
-    ]
+    """Load Google search batches produced by the maintained Node scraper."""
+    global _google_candidates
+    path = ROOT / "google_candidates.json"
+    if not path.exists():
+        raise RuntimeError("Google Play scraper output missing")
+    if _google_candidates is None:
+        _google_candidates = json.loads(path.read_text(encoding="utf-8"))
+    record = _google_candidates.get("|".join((lang, country, query)))
+    if not record or not record.get("ok"):
+        raise RuntimeError((record or {}).get("error") or "Google Play query failed")
+    return record["apps"]
 
 
 def apple_search(query, lang="en", country="us"):
