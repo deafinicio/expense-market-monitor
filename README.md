@@ -7,8 +7,10 @@ Public, open-source daily discovery tracker for personal expense-tracking apps i
 ## What it measures
 This is the count of *distinct apps found through a fixed set of search queries and matching a transparent keyword heuristic*, NOT the total number of relevant apps in each store. Rankings, region, search API limits and incomplete descriptions influence counts. A decline is not proof that apps disappeared.
 
-- Country: US; Google Play language: English.
-- Eight search queries are deduplicated by app ID per store.
+- Coverage: 17 locale/country search configurations, including Ukrainian, English, Spanish, French, German, Portuguese, Japanese, Korean, Arabic and others.
+- Two localized search queries per configuration; deduplicated by app ID within each store. This is a multilingual sample, **not** a worldwide census.
+- Price comparison uses the US storefront price where available; unknown prices sort last. In-app purchases and subscriptions are not included.
+- The three lowest-star review snippets are selected from the available sample, not from the complete review archive.
 - Only fully successful batches produce chart points; failed scans appear in the status log.
 - Historic estimates based on release dates and latest discovered application lists are published as JSON and CSV.
 - Data collection runs daily with GitHub Actions (approximate schedule, not exact) and can be triggered manually.
@@ -29,7 +31,7 @@ python collect.py
 python -m unittest discover -s tests -v
 ```
 
-The scan stores data under `docs/`. This folder is public. To add queries change `QUERIES` in `collect.py`, then document the methodology break. Historical data are not backfilled.
+The scan stores data under `docs/`. This folder is public. To change locales or queries edit `LOCALES` in `collect.py`, then document the methodology break. Historical data are not backfilled.
 
 ## Data definitions
 - `docs/history.json`: daily successes, unsuccessful attempts and configuration hash.
@@ -46,3 +48,7 @@ MIT-licensed application code. Store names and metadata belong to their respecti
 The chart combines reconstructed values for **2026-01-01 through the day before the first actual successful daily observation**, then actual daily search snapshots. Estimated values count currently discoverable relevant apps whose recorded first release date is on or before each day. Removed apps and historical availability cannot be recovered with this method; these early points are not historical store counts. A Google Play lookup limit of 70 IDs per job enables progressive enrichment across successive runs, while Apple IDs are looked up in batches.
 
 The pipeline publishes `docs/historical_estimate.json` and `docs/release_dates.json` alongside the daily observations.
+
+## Global-search methodology change
+
+Beginning with the first run after this revision, the live counts use 17 locale/country query pairs instead of US English alone. Earlier observed points remain unchanged; counts across this change should not be directly interpreted as market growth. Each live record includes a configuration fingerprint. The historical reconstructed pre-observation estimate is incomplete and based on the current discovered inventory. Google Play and App Store each retain a separate line; unique app IDs are counted once per store regardless of the number of languages in which the app appears.
