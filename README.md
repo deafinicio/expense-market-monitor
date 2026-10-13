@@ -10,7 +10,7 @@ This is the count of *distinct apps found through a fixed set of search queries 
 - Country: US; Google Play language: English.
 - Eight search queries are deduplicated by app ID per store.
 - Only fully successful batches produce chart points; failed scans appear in the status log.
-- Historic dates and latest discovered application lists are published as JSON and CSV.
+- Historic estimates based on release dates and latest discovered application lists are published as JSON and CSV.
 - Data collection runs daily with GitHub Actions (approximate schedule, not exact) and can be triggered manually.
 - Data are committed to the repository, so no server or database hosting is required.
 
@@ -40,3 +40,9 @@ The scan stores data under `docs/`. This folder is public. To add queries change
 The Google Play source uses the unofficial `google-play-scraper` Python package, which may be blocked or break as the store changes. Apple data use Apple's public search endpoint, not a complete catalog API. Respect the stores' usage policies and do not treat any results as an audited market total.
 
 MIT-licensed application code. Store names and metadata belong to their respective owners.
+
+## Retrospective 2026 estimate
+
+The chart combines reconstructed values for **2026-01-01 through the day before the first actual successful daily observation**, then actual daily search snapshots. Estimated values count currently discoverable relevant apps whose recorded first release date is on or before each day. Removed apps and historical availability cannot be recovered with this method; these early points are not historical store counts. A Google Play lookup limit of 70 IDs per job enables progressive enrichment across successive runs, while Apple IDs are looked up in batches.
+
+The pipeline publishes `docs/historical_estimate.json` and `docs/release_dates.json` alongside the daily observations.
