@@ -1,4 +1,4 @@
-# Expense App Market Monitor
+# Трекер трекерів витрат / Expense Tracker Tracker
 
 Public, open-source daily discovery tracker for personal expense-tracking apps in **Google Play** and **Apple App Store**.
 
