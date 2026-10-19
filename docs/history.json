@@ -83,9 +83,41 @@
       "count": 267,
       "discovered": 271,
       "config_hash": "67589f83c3da"
+    },
+    {
+      "day": "2026-10-19",
+      "platform": "app_store",
+      "count": 2787,
+      "discovered": 3057,
+      "config_hash": "67589f83c3da"
+    },
+    {
+      "day": "2026-10-19",
+      "platform": "google_play",
+      "count": 273,
+      "discovered": 279,
+      "config_hash": "67589f83c3da"
     }
   ],
   "runs": [
+    {
+      "day": "2026-10-19",
+      "platform": "google_play",
+      "status": "ok",
+      "queries_ok": 34,
+      "queries_total": 34,
+      "error": "",
+      "checked_at": "2026-10-19T06:09:27.075341+00:00"
+    },
+    {
+      "day": "2026-10-19",
+      "platform": "app_store",
+      "status": "ok",
+      "queries_ok": 34,
+      "queries_total": 34,
+      "error": "",
+      "checked_at": "2026-10-19T06:11:32.379538+00:00"
+    },
     {
       "day": "2026-10-18",
       "platform": "google_play",
