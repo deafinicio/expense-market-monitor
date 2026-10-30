@@ -1,6 +1,6 @@
 {
   "google_play": {
-    "day": "2026-10-29",
+    "day": "2026-10-30",
     "apps": [
       {
         "id": "org.pixelrush.moneyiq",
@@ -23,14 +23,9 @@
         "url": "https://play.google.com/store/apps/details?id=gen.net.administre"
       },
       {
-        "id": "com.sevencsolutions.myfinances",
-        "name": "As Minhas Finanças by 7c",
-        "url": "https://play.google.com/store/apps/details?id=com.sevencsolutions.myfinances"
-      },
-      {
-        "id": "it.wellcode.balance",
-        "name": "Balance: Couple Budget & Money",
-        "url": "https://play.google.com/store/apps/details?id=it.wellcode.balance"
+        "id": "com.daamitt.walnut.app",
+        "name": "axio: Expense Tracker & BNPL",
+        "url": "https://play.google.com/store/apps/details?id=com.daamitt.walnut.app"
       },
       {
         "id": "com.bankeen",
@@ -78,9 +73,29 @@
         "url": "https://play.google.com/store/apps/details?id=com.pocketguard.android.app"
       },
       {
+        "id": "com.money.manage.wallet.tracker.finance",
+        "name": "Budget Diary - Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.money.manage.wallet.tracker.finance"
+      },
+      {
+        "id": "com.analytics.budget.performance.monitor",
+        "name": "Budget Keeper - Money Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.analytics.budget.performance.monitor"
+      },
+      {
         "id": "com.budgeting365.app",
         "name": "Budget Lock: Облік витрат",
         "url": "https://play.google.com/store/apps/details?id=com.budgeting365.app"
+      },
+      {
+        "id": "com.money.tracker.expense.personal",
+        "name": "Budget Manager - Money Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.money.tracker.expense.personal"
+      },
+      {
+        "id": "com.moneymanage.saving.control.budget",
+        "name": "Budget Note - Finance Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.moneymanage.saving.control.budget"
       },
       {
         "id": "com.cleevio.spendee",
@@ -93,9 +108,19 @@
         "url": "https://play.google.com/store/apps/details?id=com.ai.expensemanager.expensetracker.app"
       },
       {
+        "id": "com.manager.money.expense.smart.wallet.app",
+        "name": "Budget Planner - Loan Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.manager.money.expense.smart.wallet.app"
+      },
+      {
         "id": "com.nightowl.spendsmart",
         "name": "Budget Planner - Offline",
         "url": "https://play.google.com/store/apps/details?id=com.nightowl.spendsmart"
+      },
+      {
+        "id": "com.smartpensil.budget",
+        "name": "Budget Planner: Bill Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.smartpensil.budget"
       },
       {
         "id": "com.colpit.diamondcoming.isavemoney",
@@ -103,14 +128,19 @@
         "url": "https://play.google.com/store/apps/details?id=com.colpit.diamondcoming.isavemoney"
       },
       {
-        "id": "com.leronov.budgetpro",
-        "name": "Budget Pro Suivi des Dépenses",
-        "url": "https://play.google.com/store/apps/details?id=com.leronov.budgetpro"
-      },
-      {
         "id": "com.teocoding.budgettracker",
         "name": "Budget Tracker: Controle Gasto",
         "url": "https://play.google.com/store/apps/details?id=com.teocoding.budgettracker"
+      },
+      {
+        "id": "com.bitmavrick.everplan",
+        "name": "Budget Tracker: Everplan",
+        "url": "https://play.google.com/store/apps/details?id=com.bitmavrick.everplan"
+      },
+      {
+        "id": "com.budget.tracker.loanmanager.aimanager.app",
+        "name": "Budget Tracker:Expense Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.budget.tracker.loanmanager.aimanager.app"
       },
       {
         "id": "com.budgetgoal.mobile",
@@ -163,6 +193,26 @@
         "url": "https://play.google.com/store/apps/details?id=br.com.usecalen.mobile"
       },
       {
+        "id": "com.cashbook.expense.tracker",
+        "name": "Cash Book : Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.cashbook.expense.tracker"
+      },
+      {
+        "id": "com.ledge.cashbook",
+        "name": "Cash Book – Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.ledge.cashbook"
+      },
+      {
+        "id": "in.inocentum.cashbook",
+        "name": "CashBook-Easy Finance Tracking",
+        "url": "https://play.google.com/store/apps/details?id=in.inocentum.cashbook"
+      },
+      {
+        "id": "com.goldenroots.cashdiary",
+        "name": "CashDiary - खर्च & बजट ट्रैकर",
+        "url": "https://play.google.com/store/apps/details?id=com.goldenroots.cashdiary"
+      },
+      {
         "id": "com.budget.tracker_app",
         "name": "Cashew—Expense Budget Tracker",
         "url": "https://play.google.com/store/apps/details?id=com.budget.tracker_app"
@@ -188,9 +238,24 @@
         "url": "https://play.google.com/store/apps/details?id=com.jmc.catatankeuangan"
       },
       {
+        "id": "com.waldy.bukuin",
+        "name": "Catatan Keuangan – Bukuin",
+        "url": "https://play.google.com/store/apps/details?id=com.waldy.bukuin"
+      },
+      {
         "id": "com.simpletechno.catatku",
         "name": "Catatku: Catatan Keuangan",
         "url": "https://play.google.com/store/apps/details?id=com.simpletechno.catatku"
+      },
+      {
+        "id": "com.munzhkin.catatuangku",
+        "name": "CatatUangKu - Catat Keuangan",
+        "url": "https://play.google.com/store/apps/details?id=com.munzhkin.catatuangku"
+      },
+      {
+        "id": "com.disrapp.coinkeeper3",
+        "name": "CoinKeeper — expense tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.disrapp.coinkeeper3"
       },
       {
         "id": "com.norvanestudio.coinly",
@@ -238,11 +303,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.fieldesigner.CoupleFinance"
       },
       {
-        "id": "com.meubolso",
-        "name": "Cresce+ Controle Financeiro IA",
-        "url": "https://play.google.com/store/apps/details?id=com.meubolso"
-      },
-      {
         "id": "com.lib.cwmoney",
         "name": "CWMoney - 存錢記帳、發票記帳、理財分析、管理預算",
         "url": "https://play.google.com/store/apps/details?id=com.lib.cwmoney"
@@ -254,7 +314,7 @@
       },
       {
         "id": "com.lovelyduck.daak",
-        "name": "Daak家計簿 - シンプルでかわいい家計簿、貯金アプリ",
+        "name": "Daak - Budget & Money Tracker",
         "url": "https://play.google.com/store/apps/details?id=com.lovelyduck.daak"
       },
       {
@@ -264,8 +324,13 @@
       },
       {
         "id": "kr.co.yjteam.dailypay",
-        "name": "DAILY PAY - Bütçe Yönetici",
+        "name": "DAILY PAY - 予算管理家計簿",
         "url": "https://play.google.com/store/apps/details?id=kr.co.yjteam.dailypay"
+      },
+      {
+        "id": "com.seshadri.padmaja.expense",
+        "name": "Day-to-day Expenses",
+        "url": "https://play.google.com/store/apps/details?id=com.seshadri.padmaja.expense"
       },
       {
         "id": "br.devmore.calendario_financeiro",
@@ -273,19 +338,19 @@
         "url": "https://play.google.com/store/apps/details?id=br.devmore.calendario_financeiro"
       },
       {
+        "id": "com.reciptix.spentrip",
+        "name": "Despesas de Viagem & Orçamento",
+        "url": "https://play.google.com/store/apps/details?id=com.reciptix.spentrip"
+      },
+      {
+        "id": "it.wellcode.balance",
+        "name": "Despesas do Casal · Balance",
+        "url": "https://play.google.com/store/apps/details?id=it.wellcode.balance"
+      },
+      {
         "id": "com.despezzas",
         "name": "Despezzas: gestão financeira",
         "url": "https://play.google.com/store/apps/details?id=com.despezzas"
-      },
-      {
-        "id": "com.financeiro.app",
-        "name": "Dinzo: Finanças Pessoais e IA",
-        "url": "https://play.google.com/store/apps/details?id=com.financeiro.app"
-      },
-      {
-        "id": "com.reciptix.spentrip",
-        "name": "Dépenses & Budget de Voyage IA",
-        "url": "https://play.google.com/store/apps/details?id=com.reciptix.spentrip"
       },
       {
         "id": "com.kaushikbaruah.quickexpensemanagerfree",
@@ -293,14 +358,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.kaushikbaruah.quickexpensemanagerfree"
       },
       {
+        "id": "com.jimmywork.easykeep",
+        "name": "Easy Keep",
+        "url": "https://play.google.com/store/apps/details?id=com.jimmywork.easykeep"
+      },
+      {
         "id": "com.benoitletondor.easybudgetapp",
         "name": "EasyBudget - Budget planning",
         "url": "https://play.google.com/store/apps/details?id=com.benoitletondor.easybudgetapp"
-      },
-      {
-        "id": "com.fg.epapalpha",
-        "name": "epap Kassenbon & Haushaltsbuch",
-        "url": "https://play.google.com/store/apps/details?id=com.fg.epapalpha"
       },
       {
         "id": "com.everydollar.android",
@@ -323,9 +388,19 @@
         "url": "https://play.google.com/store/apps/details?id=com.jgapps.expenless"
       },
       {
+        "id": "com.tariq.expenseeasy",
+        "name": "Expense Easy: AI Money Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.tariq.expenseeasy"
+      },
+      {
         "id": "com.handyapps.expenseiq",
         "name": "Expense IQ: Controle de gastos",
         "url": "https://play.google.com/store/apps/details?id=com.handyapps.expenseiq"
+      },
+      {
+        "id": "com.money.manager.wallet.finance.tracker",
+        "name": "Expense Keeper: Budget Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.money.manager.wallet.finance.tracker"
       },
       {
         "id": "com.jtnrdev.expensetrackerapp",
@@ -341,6 +416,31 @@
         "id": "com.helferleinsoftware.expenses",
         "name": "Expense Tracker Money Manager",
         "url": "https://play.google.com/store/apps/details?id=com.helferleinsoftware.expenses"
+      },
+      {
+        "id": "com.creative.expense.budget",
+        "name": "Expense Tracker-Budget Planner",
+        "url": "https://play.google.com/store/apps/details?id=com.creative.expense.budget"
+      },
+      {
+        "id": "com.seepractical.expense.manager.budget.tracker",
+        "name": "Expense Tracker: Budget App",
+        "url": "https://play.google.com/store/apps/details?id=com.seepractical.expense.manager.budget.tracker"
+      },
+      {
+        "id": "com.expensemanager.expense.manager",
+        "name": "Expense Tracker: Money Manager",
+        "url": "https://play.google.com/store/apps/details?id=com.expensemanager.expense.manager"
+      },
+      {
+        "id": "com.neyogiry.personalfinances",
+        "name": "Expense Tracker: My Balance",
+        "url": "https://play.google.com/store/apps/details?id=com.neyogiry.personalfinances"
+      },
+      {
+        "id": "in.quantumcreations.expenseflow",
+        "name": "ExpenseFlow: AI Daily Tracker",
+        "url": "https://play.google.com/store/apps/details?id=in.quantumcreations.expenseflow"
       },
       {
         "id": "org.me.mobiexpensifyg",
@@ -368,9 +468,24 @@
         "url": "https://play.google.com/store/apps/details?id=com.colpit.diamondcoming.isavemoneygo"
       },
       {
+        "id": "com.fahadqasim.familykharcha",
+        "name": "Family Kharcha: Budget Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.fahadqasim.familykharcha"
+      },
+      {
         "id": "com.blodhgard.easybudget",
         "name": "Fast Budget - Expense Manager",
         "url": "https://play.google.com/store/apps/details?id=com.blodhgard.easybudget"
+      },
+      {
+        "id": "in.usefulapp.timelybills",
+        "name": "Faturas, Orçamento e despesas",
+        "url": "https://play.google.com/store/apps/details?id=in.usefulapp.timelybills"
+      },
+      {
+        "id": "com.finai.money.budget.tracker",
+        "name": "FinAI Budget & Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.finai.money.budget.tracker"
       },
       {
         "id": "br.com.grunkle.financee",
@@ -433,14 +548,19 @@
         "url": "https://play.google.com/store/apps/details?id=com.flynow.finances"
       },
       {
-        "id": "com.fourdesire.fortunecity",
-        "name": "Fortune City - 支出を記録して、街を育てよう！",
-        "url": "https://play.google.com/store/apps/details?id=com.fourdesire.fortunecity"
+        "id": "money.fold.marble",
+        "name": "Fold: Expense Tracker & Budget",
+        "url": "https://play.google.com/store/apps/details?id=money.fold.marble"
       },
       {
         "id": "com.impprove.app",
         "name": "Fortuno: Finanças Pessoais",
         "url": "https://play.google.com/store/apps/details?id=com.impprove.app"
+      },
+      {
+        "id": "com.andrzejsalwin.motorcyclefuellogfree",
+        "name": "Fuel Log: Gas Expenses Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.andrzejsalwin.motorcyclefuellogfree"
       },
       {
         "id": "br.com.ganhosegastos",
@@ -453,16 +573,6 @@
         "url": "https://play.google.com/store/apps/details?id=cashbook.cashbook"
       },
       {
-        "id": "mic.app.gastosdiarios",
-        "name": "Gastos Diários 3",
-        "url": "https://play.google.com/store/apps/details?id=mic.app.gastosdiarios"
-      },
-      {
-        "id": "com.wisedevs.wisebudget",
-        "name": "Gastos e receitas: Wise Budget",
-        "url": "https://play.google.com/store/apps/details?id=com.wisedevs.wisebudget"
-      },
-      {
         "id": "com.fcojr.contasemdiapro",
         "name": "Gastos em Dia",
         "url": "https://play.google.com/store/apps/details?id=com.fcojr.contasemdiapro"
@@ -471,16 +581,6 @@
         "id": "br.com.gestaodedespesas",
         "name": "Gastos – controle financeiro",
         "url": "https://play.google.com/store/apps/details?id=br.com.gestaodedespesas"
-      },
-      {
-        "id": "com.neslit.budgettrackerapp",
-        "name": "gestion de l'argent",
-        "url": "https://play.google.com/store/apps/details?id=com.neslit.budgettrackerapp"
-      },
-      {
-        "id": "app.money.tracker.pro",
-        "name": "Gestor de dinheiro e orçamento",
-        "url": "https://play.google.com/store/apps/details?id=app.money.tracker.pro"
       },
       {
         "id": "expense.tracker.income.receipt.budget",
@@ -493,9 +593,19 @@
         "url": "https://play.google.com/store/apps/details?id=app.SpendingTrackerExpenseManager"
       },
       {
+        "id": "com.cuentate.aimoney",
+        "name": "Gestor Financeiro & Orçamento",
+        "url": "https://play.google.com/store/apps/details?id=com.cuentate.aimoney"
+      },
+      {
         "id": "com.money.tracker.finance.budget.planner",
         "name": "Gestão Financeira: Budget App",
         "url": "https://play.google.com/store/apps/details?id=com.money.tracker.finance.budget.planner"
+      },
+      {
+        "id": "com.family.tracker.family_expense_tracker",
+        "name": "Ghar Kharcha: Expense & Budget",
+        "url": "https://play.google.com/store/apps/details?id=com.family.tracker.family_expense_tracker"
       },
       {
         "id": "com.dayspringtech.envelopes",
@@ -538,11 +648,6 @@
         "url": "https://play.google.com/store/apps/details?id=app.onepeek"
       },
       {
-        "id": "com.keepsoft.homebuh.lite",
-        "name": "Home Bookkeeping",
-        "url": "https://play.google.com/store/apps/details?id=com.keepsoft.homebuh.lite"
-      },
-      {
         "id": "com.ivy.wallet",
         "name": "Ivy Wallet: money manager",
         "url": "https://play.google.com/store/apps/details?id=com.ivy.wallet"
@@ -558,9 +663,29 @@
         "url": "https://play.google.com/store/apps/details?id=com.hastik.money_manager"
       },
       {
+        "id": "com.undivided.kharchabook",
+        "name": "Kharcha Book: खर्च मैनेजर",
+        "url": "https://play.google.com/store/apps/details?id=com.undivided.kharchabook"
+      },
+      {
         "id": "com.jagadish.expensetrack",
         "name": "Kharcha Check: Expense Tracker",
         "url": "https://play.google.com/store/apps/details?id=com.jagadish.expensetrack"
+      },
+      {
+        "id": "com.kharchatracker.app",
+        "name": "Kharcha Tracker: Expense Diary",
+        "url": "https://play.google.com/store/apps/details?id=com.kharchatracker.app"
+      },
+      {
+        "id": "com.shinobiksama.kharcha_pani",
+        "name": "KharchaPani - Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.shinobiksama.kharcha_pani"
+      },
+      {
+        "id": "personal.expense.budget.pocket.moneytracker",
+        "name": "Khata Tracker: Ledger Book App",
+        "url": "https://play.google.com/store/apps/details?id=personal.expense.budget.pocket.moneytracker"
       },
       {
         "id": "mediavision.handwallet",
@@ -576,6 +701,11 @@
         "id": "com.danielferrari.liquify",
         "name": "Liquify: Orçamento por Caixas",
         "url": "https://play.google.com/store/apps/details?id=com.danielferrari.liquify"
+      },
+      {
+        "id": "com.bizce.accountbook",
+        "name": "Livro de Contabilidade",
+        "url": "https://play.google.com/store/apps/details?id=com.bizce.accountbook"
       },
       {
         "id": "com.ktwtechnologies.moneyledgers",
@@ -603,14 +733,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.glgjing.money.manager.bookkeeping.meow"
       },
       {
-        "id": "com.drossoft.myaccountsandexpenses",
-        "name": "Mes Comptes et Dépenses",
-        "url": "https://play.google.com/store/apps/details?id=com.drossoft.myaccountsandexpenses"
-      },
-      {
         "id": "br.com.meudin.financas",
         "name": "MeuDin: Finanças pessoais",
         "url": "https://play.google.com/store/apps/details?id=br.com.meudin.financas"
+      },
+      {
+        "id": "com.drossoft.myaccountsandexpenses",
+        "name": "Minhas Contas e Despesas",
+        "url": "https://play.google.com/store/apps/details?id=com.drossoft.myaccountsandexpenses"
       },
       {
         "id": "com.giveapps.minhasdespesas",
@@ -623,9 +753,9 @@
         "url": "https://play.google.com/store/apps/details?id=tk.andrekunde.minhasdespesas"
       },
       {
-        "id": "com.quicktools.myexpenses",
-        "name": "Minhas Despesas",
-        "url": "https://play.google.com/store/apps/details?id=com.quicktools.myexpenses"
+        "id": "org.totschnig.myexpenses",
+        "name": "Minhas despesas",
+        "url": "https://play.google.com/store/apps/details?id=org.totschnig.myexpenses"
       },
       {
         "id": "com.minhaseconomias",
@@ -648,13 +778,8 @@
         "url": "https://play.google.com/store/apps/details?id=money.mojek.finance_manager_tracker"
       },
       {
-        "id": "com.fledger.expensemanager",
-        "name": "Mon Carnet: Dépenses et Budget",
-        "url": "https://play.google.com/store/apps/details?id=com.fledger.expensemanager"
-      },
-      {
         "id": "com.monefy.app.lite",
-        "name": "Monefy: Money & Budget App",
+        "name": "Monefy - Розпорядник бюджету",
         "url": "https://play.google.com/store/apps/details?id=com.monefy.app.lite"
       },
       {
@@ -733,6 +858,11 @@
         "url": "https://play.google.com/store/apps/details?id=money.budget.planner.tracker"
       },
       {
+        "id": "com.dausthaan.moneymanager",
+        "name": "Money Manager - Track Expense",
+        "url": "https://play.google.com/store/apps/details?id=com.dausthaan.moneymanager"
+      },
+      {
         "id": "com.realbyteapps.moneymanagerfree",
         "name": "Money Manager Expense & Budget",
         "url": "https://play.google.com/store/apps/details?id=com.realbyteapps.moneymanagerfree"
@@ -741,11 +871,6 @@
         "id": "com.frmobile.moneymanager",
         "name": "Money Manager Expense Tracker",
         "url": "https://play.google.com/store/apps/details?id=com.frmobile.moneymanager"
-      },
-      {
-        "id": "com.moneytrack.android",
-        "name": "Money Manager Expense Tracker",
-        "url": "https://play.google.com/store/apps/details?id=com.moneytrack.android"
       },
       {
         "id": "com.vj.moneya",
@@ -768,9 +893,39 @@
         "url": "https://play.google.com/store/apps/details?id=com.officialbrain.money_manager"
       },
       {
+        "id": "com.onlinebudgetmanager.financialexpensetracker",
+        "name": "Money Manager: Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.onlinebudgetmanager.financialexpensetracker"
+      },
+      {
+        "id": "com.amobi.moneymanager",
+        "name": "Money manager: Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.amobi.moneymanager"
+      },
+      {
+        "id": "com.finora.money.budget.tracker",
+        "name": "Money Manager: Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.finora.money.budget.tracker"
+      },
+      {
+        "id": "com.smart.money.wallet.finance.budget",
+        "name": "Money Manager: Finance Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.smart.money.wallet.finance.budget"
+      },
+      {
+        "id": "com.microappdigital.moneymanager",
+        "name": "Money Manager: खर्च बजट ट्रैकर",
+        "url": "https://play.google.com/store/apps/details?id=com.microappdigital.moneymanager"
+      },
+      {
         "id": "com.celestialinsights.moneymeow",
         "name": "Money Meow: Controle Gastos",
         "url": "https://play.google.com/store/apps/details?id=com.celestialinsights.moneymeow"
+      },
+      {
+        "id": "com.wallet.moneymanager.budgettracker.free",
+        "name": "Money Track: Budget & Expense",
+        "url": "https://play.google.com/store/apps/details?id=com.wallet.moneymanager.budgettracker.free"
       },
       {
         "id": "moneytracker.expensetracker.budgetplanner.spendingtracker",
@@ -783,9 +938,19 @@
         "url": "https://play.google.com/store/apps/details?id=com.freeman.moneymanager"
       },
       {
+        "id": "io.paraga.moneytracker",
+        "name": "Money Tracker: Spending Budget",
+        "url": "https://play.google.com/store/apps/details?id=io.paraga.moneytracker"
+      },
+      {
         "id": "com.zotiger.accountbook",
         "name": "Money+ Cute Expense Tracker",
         "url": "https://play.google.com/store/apps/details?id=com.zotiger.accountbook"
+      },
+      {
+        "id": "app.web.moneydiary",
+        "name": "MoneyBook: Облік витрат",
+        "url": "https://play.google.com/store/apps/details?id=app.web.moneydiary"
       },
       {
         "id": "com.jwantplan.moneytrack",
@@ -803,6 +968,11 @@
         "url": "https://play.google.com/store/apps/details?id=com.komorebi.kakeibo"
       },
       {
+        "id": "com.money.manage.expense.simpletools",
+        "name": "MoneyX: Budget & Money Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.money.manage.expense.simpletools"
+      },
+      {
         "id": "com.monoteapp",
         "name": "Monote: Controle Financeiro",
         "url": "https://play.google.com/store/apps/details?id=com.monoteapp"
@@ -818,19 +988,24 @@
         "url": "https://play.google.com/store/apps/details?id=com.onetwoapps.mybudgetbookpro"
       },
       {
+        "id": "com.sortedsystems.myexpense",
+        "name": "My Expense - Budget Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.sortedsystems.myexpense"
+      },
+      {
         "id": "com.raha.app.mymoney.free",
         "name": "MyMoney—Track Expense & Budget",
         "url": "https://play.google.com/store/apps/details?id=com.raha.app.mymoney.free"
       },
       {
-        "id": "com.tuxedolab.paycheckbuddy",
-        "name": "NEKO: Contas & Orçamento",
-        "url": "https://play.google.com/store/apps/details?id=com.tuxedolab.paycheckbuddy"
+        "id": "com.expensecount.familyExpense",
+        "name": "MyXpense - Income and Expense",
+        "url": "https://play.google.com/store/apps/details?id=com.expensecount.familyExpense"
       },
       {
-        "id": "br.com.useoinc.oincapp",
-        "name": "Oinc - Finanças Pessoais",
-        "url": "https://play.google.com/store/apps/details?id=br.com.useoinc.oincapp"
+        "id": "com.fincontrol",
+        "name": "Organiza+ Controle Financeiro",
+        "url": "https://play.google.com/store/apps/details?id=com.fincontrol"
       },
       {
         "id": "com.organizze.android",
@@ -868,14 +1043,14 @@
         "url": "https://play.google.com/store/apps/details?id=easy.expense.tracker"
       },
       {
+        "id": "inc.osidori",
+        "name": "OsidOri-家計簿共有アプリ｜AIレシートで簡単お金管理",
+        "url": "https://play.google.com/store/apps/details?id=inc.osidori"
+      },
+      {
         "id": "com.fs.otto_app",
         "name": "Otto - Controle de despesas",
         "url": "https://play.google.com/store/apps/details?id=com.fs.otto_app"
-      },
-      {
-        "id": "app.pefi",
-        "name": "Pefi: Controle de Despesas",
-        "url": "https://play.google.com/store/apps/details?id=app.pefi"
       },
       {
         "id": "com.expense.moneycontrol.expense.cashflowtracker",
@@ -888,14 +1063,14 @@
         "url": "https://play.google.com/store/apps/details?id=io.cloudwalk.pierre"
       },
       {
-        "id": "com.pikash.app",
-        "name": "Pikash: Controle Financeiro",
-        "url": "https://play.google.com/store/apps/details?id=com.pikash.app"
-      },
-      {
         "id": "com.anonymous.planejagastos",
         "name": "PlanejaGastos",
         "url": "https://play.google.com/store/apps/details?id=com.anonymous.planejagastos"
+      },
+      {
+        "id": "com.fledger.expensemanager",
+        "name": "Planificador de Gastos Diarios",
+        "url": "https://play.google.com/store/apps/details?id=com.fledger.expensemanager"
       },
       {
         "id": "me.pliit",
@@ -916,6 +1091,11 @@
         "id": "app.quanto.quanto",
         "name": "Quanto: Haushaltsbuch & Budget",
         "url": "https://play.google.com/store/apps/details?id=app.quanto.quanto"
+      },
+      {
+        "id": "com.litapplications.realbudget",
+        "name": "RealBudget: Envelope Budgeting",
+        "url": "https://play.google.com/store/apps/details?id=com.litapplications.realbudget"
       },
       {
         "id": "com.easyexpense",
@@ -948,14 +1128,24 @@
         "url": "https://play.google.com/store/apps/details?id=com.w1consultoria.app"
       },
       {
-        "id": "com.sapplify.sbudget",
-        "name": "sBudget - 家計簿・予算・支出管理",
-        "url": "https://play.google.com/store/apps/details?id=com.sapplify.sbudget"
-      },
-      {
         "id": "balance.money.manager.flivion",
         "name": "Simple Money Manager - Expense",
         "url": "https://play.google.com/store/apps/details?id=balance.money.manager.flivion"
+      },
+      {
+        "id": "com.SmartBudget.GoldFlyApps",
+        "name": "Smart Budget - Expense Tracker",
+        "url": "https://play.google.com/store/apps/details?id=com.SmartBudget.GoldFlyApps"
+      },
+      {
+        "id": "com.SmartBudgetPlus.GoldFlyApps",
+        "name": "Smart Budget Plus",
+        "url": "https://play.google.com/store/apps/details?id=com.SmartBudgetPlus.GoldFlyApps"
+      },
+      {
+        "id": "com.digidevs.spendbyme",
+        "name": "SpendByMe - Auto Expense Track",
+        "url": "https://play.google.com/store/apps/details?id=com.digidevs.spendbyme"
       },
       {
         "id": "com.mhriley.spendingtracker",
@@ -981,6 +1171,11 @@
         "id": "com.Splitwise.SplitwiseMobile",
         "name": "Splitwise",
         "url": "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile"
+      },
+      {
+        "id": "melandru.lonicera",
+        "name": "Sprouts - Expense Manager",
+        "url": "https://play.google.com/store/apps/details?id=melandru.lonicera"
       },
       {
         "id": "com.jojdevx.expense.tracker",
@@ -1028,9 +1223,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.weeple.app"
       },
       {
-        "id": "com.mountform.wimm",
-        "name": "WIM: бюджет, облік витрат і до",
-        "url": "https://play.google.com/store/apps/details?id=com.mountform.wimm"
+        "id": "com.expensecount.groupExpense",
+        "name": "WeXpense - Split Bills",
+        "url": "https://play.google.com/store/apps/details?id=com.expensecount.groupExpense"
+      },
+      {
+        "id": "com.wisedevs.wisebudget",
+        "name": "Wise Budget : Bütçe ve Harcama",
+        "url": "https://play.google.com/store/apps/details?id=com.wisedevs.wisebudget"
       },
       {
         "id": "com.ecda.wisecash",
@@ -1083,11 +1283,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.blogspot.accountingutilities"
       },
       {
-        "id": "org.totschnig.myexpenses",
-        "name": "Мої Витрати",
-        "url": "https://play.google.com/store/apps/details?id=org.totschnig.myexpenses"
-      },
-      {
         "id": "com.annapiekarz.monivo",
         "name": "Облік Витрат - Monivo",
         "url": "https://play.google.com/store/apps/details?id=com.annapiekarz.monivo"
@@ -1118,24 +1313,9 @@
         "url": "https://play.google.com/store/apps/details?id=com.appsqueue.masareef"
       },
       {
-        "id": "com.bizce.accountbook",
-        "name": "دفتر - المدير المالي",
-        "url": "https://play.google.com/store/apps/details?id=com.bizce.accountbook"
-      },
-      {
-        "id": "com.dausthaan.moneymanager",
-        "name": "مدير الأموال - تتبع النفقات",
-        "url": "https://play.google.com/store/apps/details?id=com.dausthaan.moneymanager"
-      },
-      {
         "id": "cc.wusool.masroofati",
         "name": "مصاريف | متتبع المصاريف الذكي",
         "url": "https://play.google.com/store/apps/details?id=cc.wusool.masroofati"
-      },
-      {
-        "id": "com.masarif.finance.manager",
-        "name": "مصاريف: إدارة أموال وميزانية",
-        "url": "https://play.google.com/store/apps/details?id=com.masarif.finance.manager"
       },
       {
         "id": "com.cashflow.expense_tracker",
@@ -1148,9 +1328,49 @@
         "url": "https://play.google.com/store/apps/details?id=com.app.wafeer"
       },
       {
+        "id": "com.binaryscript.offlinecashbook",
+        "name": "ऑफलाइन कैश बुक - खर्च",
+        "url": "https://play.google.com/store/apps/details?id=com.binaryscript.offlinecashbook"
+      },
+      {
+        "id": "com.zinginfo.expensemanager",
+        "name": "खर्च ट्रैकर मैनेजर",
+        "url": "https://play.google.com/store/apps/details?id=com.zinginfo.expensemanager"
+      },
+      {
         "id": "com.uttamstudio.jamakharch",
         "name": "जमा खर्च नोंदवही",
         "url": "https://play.google.com/store/apps/details?id=com.uttamstudio.jamakharch"
+      },
+      {
+        "id": "sstech.com.singleexpense",
+        "name": "दैनिक खर्च ट्रैकर बजट मैनेजर",
+        "url": "https://play.google.com/store/apps/details?id=sstech.com.singleexpense"
+      },
+      {
+        "id": "app.money.tracker.pro",
+        "name": "पैसा और बजट प्रबंधक ऐप",
+        "url": "https://play.google.com/store/apps/details?id=app.money.tracker.pro"
+      },
+      {
+        "id": "com.tet.thebudgetingapp.thebudgeting",
+        "name": "बजट प्लानर - मनी मैनेजर",
+        "url": "https://play.google.com/store/apps/details?id=com.tet.thebudgetingapp.thebudgeting"
+      },
+      {
+        "id": "com.expense.manager.money.tracker.planner",
+        "name": "मनी ट्रैकर: बजट प्लानर",
+        "url": "https://play.google.com/store/apps/details?id=com.expense.manager.money.tracker.planner"
+      },
+      {
+        "id": "com.anv.wallet.budget.expense.tracker",
+        "name": "वॉलेट ट्रैकर: बजट खर्च",
+        "url": "https://play.google.com/store/apps/details?id=com.anv.wallet.budget.expense.tracker"
+      },
+      {
+        "id": "com.donapon.pisces.cashbook",
+        "name": "かけ～ぼ　（家計簿）",
+        "url": "https://play.google.com/store/apps/details?id=com.donapon.pisces.cashbook"
       },
       {
         "id": "com.sakura_apps.kk",
@@ -1213,9 +1433,19 @@
         "url": "https://play.google.com/store/apps/details?id=com.swalloworkstudio.rakurakukakeibo"
       },
       {
+        "id": "com.bestrie.aa",
+        "name": "百事AA记账-免费多人AI自动记账APP",
+        "url": "https://play.google.com/store/apps/details?id=com.bestrie.aa"
+      },
+      {
         "id": "com.wscellbox.android.easyab",
         "name": "簡単家計簿 - 収支管理・貯金・節約",
         "url": "https://play.google.com/store/apps/details?id=com.wscellbox.android.easyab"
+      },
+      {
+        "id": "tw.jack.simpleaccounting",
+        "name": "簡易記帳｜免登入・本機備份",
+        "url": "https://play.google.com/store/apps/details?id=tw.jack.simpleaccounting"
       },
       {
         "id": "jp.biznode.kakeibo",
@@ -1228,14 +1458,14 @@
         "url": "https://play.google.com/store/apps/details?id=jp.tyabaken.kakeibo"
       },
       {
+        "id": "com.fourdesire.fortunecity",
+        "name": "记账城市 - 用每笔收支，建造你的城市",
+        "url": "https://play.google.com/store/apps/details?id=com.fourdesire.fortunecity"
+      },
+      {
         "id": "tw.com.moneybook.moneybook",
         "name": "麻布記帳-自動記帳收支理財與資產管理Moneybook",
         "url": "https://play.google.com/store/apps/details?id=tw.com.moneybook.moneybook"
-      },
-      {
-        "id": "com.jcsol.moneylog.app",
-        "name": "가계부 - 간편 수입·지출 관리와 예산",
-        "url": "https://play.google.com/store/apps/details?id=com.jcsol.moneylog.app"
       },
       {
         "id": "com.nhn.android.moneybook",
