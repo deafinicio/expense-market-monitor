@@ -1,206 +1,206 @@
 {
-  "generated_at": "2026-11-06T07:55:58.490897+00:00",
+  "generated_at": "2026-11-07T07:06:56.186758+00:00",
   "method": "current_discovered_apps_with_first_release_date",
   "history": [
     {
       "day": "2026-01-01",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-02",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-03",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-04",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-05",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-06",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-07",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-08",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-09",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-10",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-11",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-12",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-13",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-14",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-15",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-16",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-17",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-18",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-19",
       "platform": "google_play",
-      "count": 185
+      "count": 183
     },
     {
       "day": "2026-01-20",
       "platform": "google_play",
-      "count": 186
+      "count": 184
     },
     {
       "day": "2026-01-21",
       "platform": "google_play",
-      "count": 186
+      "count": 184
     },
     {
       "day": "2026-01-22",
       "platform": "google_play",
-      "count": 186
+      "count": 184
     },
     {
       "day": "2026-01-23",
       "platform": "google_play",
-      "count": 187
+      "count": 185
     },
     {
       "day": "2026-01-24",
       "platform": "google_play",
-      "count": 187
+      "count": 185
     },
     {
       "day": "2026-01-25",
       "platform": "google_play",
-      "count": 187
+      "count": 185
     },
     {
       "day": "2026-01-26",
       "platform": "google_play",
-      "count": 188
+      "count": 186
     },
     {
       "day": "2026-01-27",
       "platform": "google_play",
-      "count": 188
+      "count": 186
     },
     {
       "day": "2026-01-28",
       "platform": "google_play",
-      "count": 188
+      "count": 187
     },
     {
       "day": "2026-01-29",
       "platform": "google_play",
-      "count": 188
+      "count": 187
     },
     {
       "day": "2026-01-30",
       "platform": "google_play",
-      "count": 188
+      "count": 187
     },
     {
       "day": "2026-01-31",
       "platform": "google_play",
-      "count": 188
+      "count": 187
     },
     {
       "day": "2026-02-01",
       "platform": "google_play",
-      "count": 188
+      "count": 187
     },
     {
       "day": "2026-02-02",
       "platform": "google_play",
-      "count": 188
+      "count": 187
     },
     {
       "day": "2026-02-03",
       "platform": "google_play",
-      "count": 188
+      "count": 187
     },
     {
       "day": "2026-02-04",
       "platform": "google_play",
-      "count": 188
+      "count": 187
     },
     {
       "day": "2026-02-05",
       "platform": "google_play",
-      "count": 189
+      "count": 188
     },
     {
       "day": "2026-02-06",
       "platform": "google_play",
-      "count": 189
+      "count": 188
     },
     {
       "day": "2026-02-07",
       "platform": "google_play",
-      "count": 189
+      "count": 188
     },
     {
       "day": "2026-02-08",
       "platform": "google_play",
-      "count": 189
+      "count": 188
     },
     {
       "day": "2026-02-09",
       "platform": "google_play",
-      "count": 189
+      "count": 188
     },
     {
       "day": "2026-02-10",
@@ -380,502 +380,502 @@
     {
       "day": "2026-03-17",
       "platform": "google_play",
-      "count": 197
+      "count": 198
     },
     {
       "day": "2026-03-18",
       "platform": "google_play",
-      "count": 197
+      "count": 198
     },
     {
       "day": "2026-03-19",
       "platform": "google_play",
-      "count": 198
+      "count": 199
     },
     {
       "day": "2026-03-20",
       "platform": "google_play",
-      "count": 199
+      "count": 200
     },
     {
       "day": "2026-03-21",
       "platform": "google_play",
-      "count": 199
+      "count": 200
     },
     {
       "day": "2026-03-22",
       "platform": "google_play",
-      "count": 199
+      "count": 200
     },
     {
       "day": "2026-03-23",
       "platform": "google_play",
-      "count": 199
+      "count": 200
     },
     {
       "day": "2026-03-24",
       "platform": "google_play",
-      "count": 199
+      "count": 200
     },
     {
       "day": "2026-03-25",
       "platform": "google_play",
-      "count": 199
+      "count": 200
     },
     {
       "day": "2026-03-26",
       "platform": "google_play",
-      "count": 199
+      "count": 200
     },
     {
       "day": "2026-03-27",
       "platform": "google_play",
-      "count": 200
+      "count": 201
     },
     {
       "day": "2026-03-28",
       "platform": "google_play",
-      "count": 200
+      "count": 201
     },
     {
       "day": "2026-03-29",
       "platform": "google_play",
-      "count": 200
+      "count": 201
     },
     {
       "day": "2026-03-30",
       "platform": "google_play",
-      "count": 200
+      "count": 201
     },
     {
       "day": "2026-03-31",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-01",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-02",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-03",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-04",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-05",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-06",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-07",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-08",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-09",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-10",
       "platform": "google_play",
-      "count": 201
+      "count": 202
     },
     {
       "day": "2026-04-11",
       "platform": "google_play",
-      "count": 201
+      "count": 203
     },
     {
       "day": "2026-04-12",
       "platform": "google_play",
-      "count": 201
+      "count": 203
     },
     {
       "day": "2026-04-13",
       "platform": "google_play",
-      "count": 202
+      "count": 204
     },
     {
       "day": "2026-04-14",
       "platform": "google_play",
-      "count": 202
+      "count": 204
     },
     {
       "day": "2026-04-15",
       "platform": "google_play",
-      "count": 202
+      "count": 204
     },
     {
       "day": "2026-04-16",
       "platform": "google_play",
-      "count": 202
+      "count": 204
     },
     {
       "day": "2026-04-17",
       "platform": "google_play",
-      "count": 203
+      "count": 205
     },
     {
       "day": "2026-04-18",
       "platform": "google_play",
-      "count": 204
+      "count": 206
     },
     {
       "day": "2026-04-19",
       "platform": "google_play",
-      "count": 204
+      "count": 206
     },
     {
       "day": "2026-04-20",
       "platform": "google_play",
-      "count": 204
+      "count": 206
     },
     {
       "day": "2026-04-21",
       "platform": "google_play",
-      "count": 204
+      "count": 206
     },
     {
       "day": "2026-04-22",
       "platform": "google_play",
-      "count": 205
+      "count": 207
     },
     {
       "day": "2026-04-23",
       "platform": "google_play",
-      "count": 206
+      "count": 208
     },
     {
       "day": "2026-04-24",
       "platform": "google_play",
-      "count": 206
+      "count": 208
     },
     {
       "day": "2026-04-25",
       "platform": "google_play",
-      "count": 206
+      "count": 208
     },
     {
       "day": "2026-04-26",
       "platform": "google_play",
-      "count": 207
+      "count": 209
     },
     {
       "day": "2026-04-27",
       "platform": "google_play",
-      "count": 207
+      "count": 209
     },
     {
       "day": "2026-04-28",
       "platform": "google_play",
-      "count": 207
+      "count": 209
     },
     {
       "day": "2026-04-29",
       "platform": "google_play",
-      "count": 208
+      "count": 210
     },
     {
       "day": "2026-04-30",
       "platform": "google_play",
-      "count": 208
+      "count": 210
     },
     {
       "day": "2026-05-01",
       "platform": "google_play",
-      "count": 208
+      "count": 210
     },
     {
       "day": "2026-05-02",
       "platform": "google_play",
-      "count": 209
+      "count": 211
     },
     {
       "day": "2026-05-03",
       "platform": "google_play",
-      "count": 209
+      "count": 211
     },
     {
       "day": "2026-05-04",
       "platform": "google_play",
-      "count": 210
+      "count": 212
     },
     {
       "day": "2026-05-05",
       "platform": "google_play",
-      "count": 210
+      "count": 212
     },
     {
       "day": "2026-05-06",
       "platform": "google_play",
-      "count": 210
+      "count": 212
     },
     {
       "day": "2026-05-07",
       "platform": "google_play",
-      "count": 210
+      "count": 213
     },
     {
       "day": "2026-05-08",
       "platform": "google_play",
-      "count": 211
+      "count": 214
     },
     {
       "day": "2026-05-09",
       "platform": "google_play",
-      "count": 211
+      "count": 214
     },
     {
       "day": "2026-05-10",
       "platform": "google_play",
-      "count": 211
+      "count": 214
     },
     {
       "day": "2026-05-11",
       "platform": "google_play",
-      "count": 211
+      "count": 214
     },
     {
       "day": "2026-05-12",
       "platform": "google_play",
-      "count": 211
+      "count": 214
     },
     {
       "day": "2026-05-13",
       "platform": "google_play",
-      "count": 212
+      "count": 215
     },
     {
       "day": "2026-05-14",
       "platform": "google_play",
-      "count": 214
+      "count": 216
     },
     {
       "day": "2026-05-15",
       "platform": "google_play",
-      "count": 214
+      "count": 216
     },
     {
       "day": "2026-05-16",
       "platform": "google_play",
-      "count": 215
+      "count": 217
     },
     {
       "day": "2026-05-17",
       "platform": "google_play",
-      "count": 215
+      "count": 217
     },
     {
       "day": "2026-05-18",
       "platform": "google_play",
-      "count": 215
+      "count": 217
     },
     {
       "day": "2026-05-19",
       "platform": "google_play",
-      "count": 216
+      "count": 218
     },
     {
       "day": "2026-05-20",
       "platform": "google_play",
-      "count": 216
+      "count": 218
     },
     {
       "day": "2026-05-21",
       "platform": "google_play",
-      "count": 216
+      "count": 219
     },
     {
       "day": "2026-05-22",
       "platform": "google_play",
-      "count": 216
+      "count": 219
     },
     {
       "day": "2026-05-23",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-05-24",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-05-25",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-05-26",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-05-27",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-05-28",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-05-29",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-05-30",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-05-31",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-06-01",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-06-02",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-06-03",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-06-04",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-06-05",
       "platform": "google_play",
-      "count": 218
+      "count": 221
     },
     {
       "day": "2026-06-06",
       "platform": "google_play",
-      "count": 219
+      "count": 221
     },
     {
       "day": "2026-06-07",
       "platform": "google_play",
-      "count": 219
+      "count": 221
     },
     {
       "day": "2026-06-08",
       "platform": "google_play",
-      "count": 219
+      "count": 221
     },
     {
       "day": "2026-06-09",
       "platform": "google_play",
-      "count": 219
+      "count": 221
     },
     {
       "day": "2026-06-10",
       "platform": "google_play",
-      "count": 219
+      "count": 221
     },
     {
       "day": "2026-06-11",
       "platform": "google_play",
-      "count": 220
+      "count": 221
     },
     {
       "day": "2026-06-12",
       "platform": "google_play",
-      "count": 221
+      "count": 222
     },
     {
       "day": "2026-06-13",
       "platform": "google_play",
-      "count": 221
+      "count": 222
     },
     {
       "day": "2026-06-14",
       "platform": "google_play",
-      "count": 222
+      "count": 223
     },
     {
       "day": "2026-06-15",
       "platform": "google_play",
-      "count": 222
+      "count": 223
     },
     {
       "day": "2026-06-16",
       "platform": "google_play",
-      "count": 222
+      "count": 223
     },
     {
       "day": "2026-06-17",
       "platform": "google_play",
-      "count": 223
+      "count": 224
     },
     {
       "day": "2026-06-18",
       "platform": "google_play",
-      "count": 223
+      "count": 224
     },
     {
       "day": "2026-06-19",
       "platform": "google_play",
-      "count": 223
+      "count": 224
     },
     {
       "day": "2026-06-20",
       "platform": "google_play",
-      "count": 223
+      "count": 224
     },
     {
       "day": "2026-06-21",
       "platform": "google_play",
-      "count": 223
+      "count": 224
     },
     {
       "day": "2026-06-22",
       "platform": "google_play",
-      "count": 223
+      "count": 224
     },
     {
       "day": "2026-06-23",
       "platform": "google_play",
-      "count": 223
+      "count": 224
     },
     {
       "day": "2026-06-24",
       "platform": "google_play",
-      "count": 223
+      "count": 224
     },
     {
       "day": "2026-06-25",
@@ -1405,1462 +1405,1462 @@
     {
       "day": "2026-10-08",
       "platform": "google_play",
-      "count": 234
+      "count": 233
     },
     {
       "day": "2026-10-09",
+      "platform": "google_play",
+      "count": 236
+    },
+    {
+      "day": "2026-10-10",
       "platform": "google_play",
       "count": 237
     },
     {
-      "day": "2026-10-10",
-      "platform": "google_play",
-      "count": 238
-    },
-    {
       "day": "2026-10-11",
       "platform": "google_play",
-      "count": 238
+      "count": 237
     },
     {
       "day": "2026-10-12",
       "platform": "google_play",
-      "count": 238
+      "count": 237
     },
     {
       "day": "2026-01-01",
       "platform": "app_store",
-      "count": 1332
+      "count": 1321
     },
     {
       "day": "2026-01-02",
       "platform": "app_store",
-      "count": 1332
+      "count": 1322
     },
     {
       "day": "2026-01-03",
       "platform": "app_store",
-      "count": 1332
+      "count": 1323
     },
     {
       "day": "2026-01-04",
       "platform": "app_store",
-      "count": 1332
+      "count": 1324
     },
     {
       "day": "2026-01-05",
       "platform": "app_store",
-      "count": 1336
+      "count": 1328
     },
     {
       "day": "2026-01-06",
       "platform": "app_store",
-      "count": 1339
+      "count": 1332
     },
     {
       "day": "2026-01-07",
       "platform": "app_store",
-      "count": 1345
+      "count": 1338
     },
     {
       "day": "2026-01-08",
       "platform": "app_store",
-      "count": 1352
+      "count": 1346
     },
     {
       "day": "2026-01-09",
       "platform": "app_store",
-      "count": 1356
+      "count": 1350
     },
     {
       "day": "2026-01-10",
       "platform": "app_store",
-      "count": 1357
+      "count": 1351
     },
     {
       "day": "2026-01-11",
       "platform": "app_store",
-      "count": 1362
+      "count": 1356
     },
     {
       "day": "2026-01-12",
       "platform": "app_store",
-      "count": 1364
+      "count": 1358
     },
     {
       "day": "2026-01-13",
       "platform": "app_store",
-      "count": 1371
+      "count": 1366
     },
     {
       "day": "2026-01-14",
       "platform": "app_store",
-      "count": 1373
+      "count": 1369
     },
     {
       "day": "2026-01-15",
       "platform": "app_store",
-      "count": 1375
+      "count": 1370
     },
     {
       "day": "2026-01-16",
       "platform": "app_store",
-      "count": 1376
+      "count": 1371
     },
     {
       "day": "2026-01-17",
       "platform": "app_store",
-      "count": 1377
+      "count": 1371
     },
     {
       "day": "2026-01-18",
       "platform": "app_store",
-      "count": 1378
+      "count": 1372
     },
     {
       "day": "2026-01-19",
       "platform": "app_store",
-      "count": 1381
+      "count": 1376
     },
     {
       "day": "2026-01-20",
       "platform": "app_store",
-      "count": 1384
+      "count": 1380
     },
     {
       "day": "2026-01-21",
       "platform": "app_store",
-      "count": 1389
+      "count": 1385
     },
     {
       "day": "2026-01-22",
       "platform": "app_store",
-      "count": 1389
+      "count": 1386
     },
     {
       "day": "2026-01-23",
       "platform": "app_store",
-      "count": 1394
+      "count": 1391
     },
     {
       "day": "2026-01-24",
       "platform": "app_store",
-      "count": 1396
+      "count": 1393
     },
     {
       "day": "2026-01-25",
       "platform": "app_store",
-      "count": 1397
+      "count": 1394
     },
     {
       "day": "2026-01-26",
       "platform": "app_store",
-      "count": 1401
+      "count": 1398
     },
     {
       "day": "2026-01-27",
       "platform": "app_store",
-      "count": 1402
+      "count": 1400
     },
     {
       "day": "2026-01-28",
       "platform": "app_store",
-      "count": 1405
+      "count": 1403
     },
     {
       "day": "2026-01-29",
       "platform": "app_store",
-      "count": 1412
+      "count": 1409
     },
     {
       "day": "2026-01-30",
       "platform": "app_store",
-      "count": 1415
+      "count": 1411
     },
     {
       "day": "2026-01-31",
       "platform": "app_store",
-      "count": 1415
+      "count": 1411
     },
     {
       "day": "2026-02-01",
       "platform": "app_store",
-      "count": 1416
+      "count": 1412
     },
     {
       "day": "2026-02-02",
       "platform": "app_store",
-      "count": 1419
+      "count": 1415
     },
     {
       "day": "2026-02-03",
       "platform": "app_store",
-      "count": 1423
+      "count": 1419
     },
     {
       "day": "2026-02-04",
       "platform": "app_store",
-      "count": 1427
+      "count": 1424
     },
     {
       "day": "2026-02-05",
       "platform": "app_store",
-      "count": 1430
+      "count": 1427
     },
     {
       "day": "2026-02-06",
       "platform": "app_store",
-      "count": 1431
+      "count": 1428
     },
     {
       "day": "2026-02-07",
       "platform": "app_store",
-      "count": 1433
+      "count": 1429
     },
     {
       "day": "2026-02-08",
       "platform": "app_store",
-      "count": 1433
+      "count": 1429
     },
     {
       "day": "2026-02-09",
       "platform": "app_store",
-      "count": 1435
+      "count": 1430
     },
     {
       "day": "2026-02-10",
       "platform": "app_store",
-      "count": 1437
+      "count": 1432
     },
     {
       "day": "2026-02-11",
       "platform": "app_store",
-      "count": 1440
+      "count": 1435
     },
     {
       "day": "2026-02-12",
       "platform": "app_store",
-      "count": 1444
+      "count": 1439
     },
     {
       "day": "2026-02-13",
       "platform": "app_store",
-      "count": 1446
+      "count": 1441
     },
     {
       "day": "2026-02-14",
       "platform": "app_store",
-      "count": 1446
+      "count": 1441
     },
     {
       "day": "2026-02-15",
       "platform": "app_store",
-      "count": 1447
+      "count": 1442
     },
     {
       "day": "2026-02-16",
       "platform": "app_store",
-      "count": 1450
+      "count": 1444
     },
     {
       "day": "2026-02-17",
       "platform": "app_store",
-      "count": 1454
+      "count": 1448
     },
     {
       "day": "2026-02-18",
       "platform": "app_store",
-      "count": 1455
+      "count": 1449
     },
     {
       "day": "2026-02-19",
       "platform": "app_store",
-      "count": 1459
+      "count": 1453
     },
     {
       "day": "2026-02-20",
       "platform": "app_store",
-      "count": 1461
+      "count": 1456
     },
     {
       "day": "2026-02-21",
       "platform": "app_store",
-      "count": 1464
+      "count": 1459
     },
     {
       "day": "2026-02-22",
       "platform": "app_store",
-      "count": 1465
+      "count": 1460
     },
     {
       "day": "2026-02-23",
       "platform": "app_store",
-      "count": 1470
+      "count": 1465
     },
     {
       "day": "2026-02-24",
       "platform": "app_store",
-      "count": 1476
+      "count": 1470
     },
     {
       "day": "2026-02-25",
       "platform": "app_store",
-      "count": 1479
+      "count": 1473
     },
     {
       "day": "2026-02-26",
       "platform": "app_store",
-      "count": 1485
+      "count": 1479
     },
     {
       "day": "2026-02-27",
       "platform": "app_store",
-      "count": 1485
+      "count": 1479
     },
     {
       "day": "2026-02-28",
       "platform": "app_store",
-      "count": 1488
+      "count": 1482
     },
     {
       "day": "2026-03-01",
       "platform": "app_store",
-      "count": 1488
+      "count": 1483
     },
     {
       "day": "2026-03-02",
       "platform": "app_store",
-      "count": 1488
+      "count": 1483
     },
     {
       "day": "2026-03-03",
       "platform": "app_store",
-      "count": 1492
+      "count": 1487
     },
     {
       "day": "2026-03-04",
       "platform": "app_store",
-      "count": 1493
+      "count": 1490
     },
     {
       "day": "2026-03-05",
       "platform": "app_store",
-      "count": 1500
+      "count": 1496
     },
     {
       "day": "2026-03-06",
       "platform": "app_store",
-      "count": 1505
+      "count": 1500
     },
     {
       "day": "2026-03-07",
       "platform": "app_store",
-      "count": 1507
+      "count": 1501
     },
     {
       "day": "2026-03-08",
       "platform": "app_store",
-      "count": 1508
+      "count": 1503
     },
     {
       "day": "2026-03-09",
       "platform": "app_store",
-      "count": 1514
+      "count": 1510
     },
     {
       "day": "2026-03-10",
       "platform": "app_store",
-      "count": 1523
+      "count": 1519
     },
     {
       "day": "2026-03-11",
       "platform": "app_store",
-      "count": 1527
+      "count": 1523
     },
     {
       "day": "2026-03-12",
       "platform": "app_store",
-      "count": 1533
+      "count": 1528
     },
     {
       "day": "2026-03-13",
       "platform": "app_store",
-      "count": 1539
+      "count": 1534
     },
     {
       "day": "2026-03-14",
       "platform": "app_store",
-      "count": 1540
+      "count": 1535
     },
     {
       "day": "2026-03-15",
       "platform": "app_store",
-      "count": 1541
+      "count": 1536
     },
     {
       "day": "2026-03-16",
       "platform": "app_store",
-      "count": 1544
+      "count": 1539
     },
     {
       "day": "2026-03-17",
       "platform": "app_store",
-      "count": 1550
+      "count": 1545
     },
     {
       "day": "2026-03-18",
       "platform": "app_store",
-      "count": 1557
+      "count": 1551
     },
     {
       "day": "2026-03-19",
       "platform": "app_store",
-      "count": 1561
+      "count": 1553
     },
     {
       "day": "2026-03-20",
       "platform": "app_store",
-      "count": 1565
+      "count": 1557
     },
     {
       "day": "2026-03-21",
       "platform": "app_store",
-      "count": 1569
+      "count": 1561
     },
     {
       "day": "2026-03-22",
       "platform": "app_store",
-      "count": 1572
+      "count": 1565
     },
     {
       "day": "2026-03-23",
       "platform": "app_store",
-      "count": 1578
+      "count": 1571
     },
     {
       "day": "2026-03-24",
       "platform": "app_store",
-      "count": 1587
+      "count": 1578
     },
     {
       "day": "2026-03-25",
       "platform": "app_store",
-      "count": 1589
+      "count": 1581
     },
     {
       "day": "2026-03-26",
       "platform": "app_store",
-      "count": 1595
+      "count": 1588
     },
     {
       "day": "2026-03-27",
       "platform": "app_store",
-      "count": 1598
+      "count": 1590
     },
     {
       "day": "2026-03-28",
       "platform": "app_store",
-      "count": 1600
+      "count": 1592
     },
     {
       "day": "2026-03-29",
       "platform": "app_store",
-      "count": 1601
+      "count": 1593
     },
     {
       "day": "2026-03-30",
       "platform": "app_store",
-      "count": 1609
+      "count": 1599
     },
     {
       "day": "2026-03-31",
       "platform": "app_store",
-      "count": 1614
+      "count": 1606
     },
     {
       "day": "2026-04-01",
       "platform": "app_store",
-      "count": 1622
+      "count": 1615
     },
     {
       "day": "2026-04-02",
       "platform": "app_store",
-      "count": 1627
+      "count": 1620
     },
     {
       "day": "2026-04-03",
       "platform": "app_store",
-      "count": 1630
+      "count": 1623
     },
     {
       "day": "2026-04-04",
       "platform": "app_store",
-      "count": 1632
+      "count": 1625
     },
     {
       "day": "2026-04-05",
       "platform": "app_store",
-      "count": 1632
+      "count": 1625
     },
     {
       "day": "2026-04-06",
       "platform": "app_store",
-      "count": 1638
+      "count": 1632
     },
     {
       "day": "2026-04-07",
       "platform": "app_store",
-      "count": 1643
+      "count": 1636
     },
     {
       "day": "2026-04-08",
       "platform": "app_store",
-      "count": 1647
+      "count": 1640
     },
     {
       "day": "2026-04-09",
       "platform": "app_store",
-      "count": 1653
+      "count": 1646
     },
     {
       "day": "2026-04-10",
       "platform": "app_store",
-      "count": 1657
+      "count": 1651
     },
     {
       "day": "2026-04-11",
       "platform": "app_store",
-      "count": 1658
+      "count": 1652
     },
     {
       "day": "2026-04-12",
       "platform": "app_store",
-      "count": 1660
+      "count": 1654
     },
     {
       "day": "2026-04-13",
       "platform": "app_store",
-      "count": 1663
+      "count": 1657
     },
     {
       "day": "2026-04-14",
       "platform": "app_store",
-      "count": 1666
+      "count": 1660
     },
     {
       "day": "2026-04-15",
       "platform": "app_store",
-      "count": 1670
+      "count": 1664
     },
     {
       "day": "2026-04-16",
       "platform": "app_store",
-      "count": 1674
+      "count": 1668
     },
     {
       "day": "2026-04-17",
       "platform": "app_store",
-      "count": 1678
+      "count": 1671
     },
     {
       "day": "2026-04-18",
       "platform": "app_store",
-      "count": 1681
+      "count": 1673
     },
     {
       "day": "2026-04-19",
       "platform": "app_store",
-      "count": 1684
+      "count": 1675
     },
     {
       "day": "2026-04-20",
       "platform": "app_store",
-      "count": 1686
+      "count": 1677
     },
     {
       "day": "2026-04-21",
       "platform": "app_store",
-      "count": 1696
+      "count": 1687
     },
     {
       "day": "2026-04-22",
       "platform": "app_store",
-      "count": 1702
+      "count": 1691
     },
     {
       "day": "2026-04-23",
       "platform": "app_store",
-      "count": 1711
+      "count": 1698
     },
     {
       "day": "2026-04-24",
       "platform": "app_store",
-      "count": 1715
+      "count": 1702
     },
     {
       "day": "2026-04-25",
       "platform": "app_store",
-      "count": 1718
+      "count": 1704
     },
     {
       "day": "2026-04-26",
       "platform": "app_store",
-      "count": 1725
+      "count": 1711
     },
     {
       "day": "2026-04-27",
       "platform": "app_store",
-      "count": 1732
+      "count": 1719
     },
     {
       "day": "2026-04-28",
       "platform": "app_store",
-      "count": 1739
+      "count": 1725
     },
     {
       "day": "2026-04-29",
       "platform": "app_store",
-      "count": 1745
+      "count": 1731
     },
     {
       "day": "2026-04-30",
       "platform": "app_store",
-      "count": 1751
+      "count": 1736
     },
     {
       "day": "2026-05-01",
       "platform": "app_store",
-      "count": 1755
+      "count": 1740
     },
     {
       "day": "2026-05-02",
       "platform": "app_store",
-      "count": 1755
+      "count": 1740
     },
     {
       "day": "2026-05-03",
       "platform": "app_store",
-      "count": 1759
+      "count": 1744
     },
     {
       "day": "2026-05-04",
       "platform": "app_store",
-      "count": 1765
+      "count": 1749
     },
     {
       "day": "2026-05-05",
       "platform": "app_store",
-      "count": 1769
+      "count": 1753
     },
     {
       "day": "2026-05-06",
       "platform": "app_store",
-      "count": 1773
+      "count": 1757
     },
     {
       "day": "2026-05-07",
       "platform": "app_store",
-      "count": 1777
+      "count": 1760
     },
     {
       "day": "2026-05-08",
       "platform": "app_store",
-      "count": 1782
+      "count": 1765
     },
     {
       "day": "2026-05-09",
       "platform": "app_store",
-      "count": 1782
+      "count": 1765
     },
     {
       "day": "2026-05-10",
       "platform": "app_store",
-      "count": 1782
+      "count": 1766
     },
     {
       "day": "2026-05-11",
       "platform": "app_store",
-      "count": 1786
+      "count": 1771
     },
     {
       "day": "2026-05-12",
       "platform": "app_store",
-      "count": 1794
+      "count": 1779
     },
     {
       "day": "2026-05-13",
       "platform": "app_store",
-      "count": 1797
+      "count": 1783
     },
     {
       "day": "2026-05-14",
       "platform": "app_store",
-      "count": 1800
+      "count": 1786
     },
     {
       "day": "2026-05-15",
       "platform": "app_store",
-      "count": 1806
+      "count": 1793
     },
     {
       "day": "2026-05-16",
       "platform": "app_store",
-      "count": 1808
+      "count": 1795
     },
     {
       "day": "2026-05-17",
       "platform": "app_store",
-      "count": 1811
+      "count": 1799
     },
     {
       "day": "2026-05-18",
       "platform": "app_store",
-      "count": 1813
+      "count": 1801
     },
     {
       "day": "2026-05-19",
       "platform": "app_store",
-      "count": 1818
+      "count": 1806
     },
     {
       "day": "2026-05-20",
       "platform": "app_store",
-      "count": 1821
+      "count": 1809
     },
     {
       "day": "2026-05-21",
       "platform": "app_store",
-      "count": 1824
+      "count": 1812
     },
     {
       "day": "2026-05-22",
       "platform": "app_store",
-      "count": 1829
+      "count": 1816
     },
     {
       "day": "2026-05-23",
       "platform": "app_store",
-      "count": 1830
+      "count": 1817
     },
     {
       "day": "2026-05-24",
       "platform": "app_store",
-      "count": 1831
+      "count": 1818
     },
     {
       "day": "2026-05-25",
       "platform": "app_store",
-      "count": 1834
+      "count": 1821
     },
     {
       "day": "2026-05-26",
       "platform": "app_store",
-      "count": 1839
+      "count": 1826
     },
     {
       "day": "2026-05-27",
       "platform": "app_store",
-      "count": 1848
+      "count": 1834
     },
     {
       "day": "2026-05-28",
       "platform": "app_store",
-      "count": 1852
+      "count": 1838
     },
     {
       "day": "2026-05-29",
       "platform": "app_store",
-      "count": 1856
+      "count": 1842
     },
     {
       "day": "2026-05-30",
       "platform": "app_store",
-      "count": 1861
+      "count": 1848
     },
     {
       "day": "2026-05-31",
       "platform": "app_store",
-      "count": 1867
+      "count": 1854
     },
     {
       "day": "2026-06-01",
       "platform": "app_store",
-      "count": 1870
+      "count": 1856
     },
     {
       "day": "2026-06-02",
       "platform": "app_store",
-      "count": 1872
+      "count": 1858
     },
     {
       "day": "2026-06-03",
       "platform": "app_store",
-      "count": 1877
+      "count": 1863
     },
     {
       "day": "2026-06-04",
       "platform": "app_store",
-      "count": 1880
+      "count": 1867
     },
     {
       "day": "2026-06-05",
       "platform": "app_store",
-      "count": 1884
+      "count": 1871
     },
     {
       "day": "2026-06-06",
       "platform": "app_store",
-      "count": 1887
+      "count": 1874
     },
     {
       "day": "2026-06-07",
       "platform": "app_store",
-      "count": 1892
+      "count": 1879
     },
     {
       "day": "2026-06-08",
       "platform": "app_store",
-      "count": 1895
+      "count": 1881
     },
     {
       "day": "2026-06-09",
       "platform": "app_store",
-      "count": 1897
+      "count": 1884
     },
     {
       "day": "2026-06-10",
       "platform": "app_store",
-      "count": 1901
+      "count": 1889
     },
     {
       "day": "2026-06-11",
       "platform": "app_store",
-      "count": 1907
+      "count": 1896
     },
     {
       "day": "2026-06-12",
       "platform": "app_store",
-      "count": 1912
+      "count": 1901
     },
     {
       "day": "2026-06-13",
       "platform": "app_store",
-      "count": 1915
+      "count": 1904
     },
     {
       "day": "2026-06-14",
       "platform": "app_store",
-      "count": 1923
+      "count": 1912
     },
     {
       "day": "2026-06-15",
       "platform": "app_store",
-      "count": 1929
+      "count": 1919
     },
     {
       "day": "2026-06-16",
       "platform": "app_store",
-      "count": 1934
+      "count": 1923
     },
     {
       "day": "2026-06-17",
       "platform": "app_store",
-      "count": 1936
+      "count": 1926
     },
     {
       "day": "2026-06-18",
       "platform": "app_store",
-      "count": 1947
+      "count": 1938
     },
     {
       "day": "2026-06-19",
       "platform": "app_store",
-      "count": 1947
+      "count": 1939
     },
     {
       "day": "2026-06-20",
       "platform": "app_store",
-      "count": 1948
+      "count": 1940
     },
     {
       "day": "2026-06-21",
       "platform": "app_store",
-      "count": 1948
+      "count": 1940
     },
     {
       "day": "2026-06-22",
       "platform": "app_store",
-      "count": 1953
+      "count": 1944
     },
     {
       "day": "2026-06-23",
       "platform": "app_store",
-      "count": 1959
+      "count": 1950
     },
     {
       "day": "2026-06-24",
       "platform": "app_store",
-      "count": 1965
+      "count": 1956
     },
     {
       "day": "2026-06-25",
       "platform": "app_store",
-      "count": 1969
+      "count": 1960
     },
     {
       "day": "2026-06-26",
       "platform": "app_store",
-      "count": 1974
+      "count": 1965
     },
     {
       "day": "2026-06-27",
       "platform": "app_store",
-      "count": 1976
+      "count": 1968
     },
     {
       "day": "2026-06-28",
       "platform": "app_store",
-      "count": 1979
+      "count": 1971
     },
     {
       "day": "2026-06-29",
       "platform": "app_store",
-      "count": 1982
+      "count": 1975
     },
     {
       "day": "2026-06-30",
       "platform": "app_store",
-      "count": 1991
+      "count": 1983
     },
     {
       "day": "2026-07-01",
       "platform": "app_store",
-      "count": 1995
+      "count": 1987
     },
     {
       "day": "2026-07-02",
       "platform": "app_store",
-      "count": 2001
+      "count": 1993
     },
     {
       "day": "2026-07-03",
       "platform": "app_store",
-      "count": 2002
+      "count": 1994
     },
     {
       "day": "2026-07-04",
       "platform": "app_store",
-      "count": 2002
+      "count": 1994
     },
     {
       "day": "2026-07-05",
       "platform": "app_store",
-      "count": 2005
+      "count": 1997
     },
     {
       "day": "2026-07-06",
       "platform": "app_store",
-      "count": 2007
+      "count": 1999
     },
     {
       "day": "2026-07-07",
       "platform": "app_store",
-      "count": 2012
+      "count": 2004
     },
     {
       "day": "2026-07-08",
       "platform": "app_store",
-      "count": 2016
+      "count": 2007
     },
     {
       "day": "2026-07-09",
       "platform": "app_store",
-      "count": 2023
+      "count": 2014
     },
     {
       "day": "2026-07-10",
       "platform": "app_store",
-      "count": 2029
+      "count": 2019
     },
     {
       "day": "2026-07-11",
       "platform": "app_store",
-      "count": 2032
+      "count": 2022
     },
     {
       "day": "2026-07-12",
       "platform": "app_store",
-      "count": 2036
+      "count": 2026
     },
     {
       "day": "2026-07-13",
       "platform": "app_store",
-      "count": 2044
+      "count": 2033
     },
     {
       "day": "2026-07-14",
       "platform": "app_store",
-      "count": 2050
+      "count": 2039
     },
     {
       "day": "2026-07-15",
       "platform": "app_store",
-      "count": 2057
+      "count": 2046
     },
     {
       "day": "2026-07-16",
       "platform": "app_store",
-      "count": 2066
+      "count": 2055
     },
     {
       "day": "2026-07-17",
       "platform": "app_store",
-      "count": 2073
+      "count": 2060
     },
     {
       "day": "2026-07-18",
       "platform": "app_store",
-      "count": 2074
+      "count": 2061
     },
     {
       "day": "2026-07-19",
       "platform": "app_store",
-      "count": 2074
+      "count": 2063
     },
     {
       "day": "2026-07-20",
       "platform": "app_store",
-      "count": 2079
+      "count": 2069
     },
     {
       "day": "2026-07-21",
       "platform": "app_store",
-      "count": 2085
+      "count": 2075
     },
     {
       "day": "2026-07-22",
       "platform": "app_store",
-      "count": 2093
+      "count": 2083
     },
     {
       "day": "2026-07-23",
       "platform": "app_store",
-      "count": 2103
+      "count": 2092
     },
     {
       "day": "2026-07-24",
       "platform": "app_store",
-      "count": 2109
+      "count": 2097
     },
     {
       "day": "2026-07-25",
       "platform": "app_store",
-      "count": 2110
+      "count": 2098
     },
     {
       "day": "2026-07-26",
       "platform": "app_store",
-      "count": 2113
+      "count": 2102
     },
     {
       "day": "2026-07-27",
       "platform": "app_store",
-      "count": 2116
+      "count": 2105
     },
     {
       "day": "2026-07-28",
       "platform": "app_store",
-      "count": 2125
+      "count": 2112
     },
     {
       "day": "2026-07-29",
       "platform": "app_store",
-      "count": 2128
+      "count": 2115
     },
     {
       "day": "2026-07-30",
       "platform": "app_store",
-      "count": 2131
+      "count": 2118
     },
     {
       "day": "2026-07-31",
       "platform": "app_store",
-      "count": 2139
+      "count": 2125
     },
     {
       "day": "2026-08-01",
       "platform": "app_store",
-      "count": 2139
+      "count": 2125
     },
     {
       "day": "2026-08-02",
       "platform": "app_store",
-      "count": 2141
+      "count": 2126
     },
     {
       "day": "2026-08-03",
       "platform": "app_store",
-      "count": 2143
+      "count": 2129
     },
     {
       "day": "2026-08-04",
       "platform": "app_store",
-      "count": 2149
+      "count": 2133
     },
     {
       "day": "2026-08-05",
       "platform": "app_store",
-      "count": 2152
+      "count": 2136
     },
     {
       "day": "2026-08-06",
       "platform": "app_store",
-      "count": 2159
+      "count": 2144
     },
     {
       "day": "2026-08-07",
       "platform": "app_store",
-      "count": 2162
+      "count": 2147
     },
     {
       "day": "2026-08-08",
       "platform": "app_store",
-      "count": 2165
+      "count": 2150
     },
     {
       "day": "2026-08-09",
       "platform": "app_store",
-      "count": 2166
+      "count": 2151
     },
     {
       "day": "2026-08-10",
       "platform": "app_store",
-      "count": 2170
+      "count": 2155
     },
     {
       "day": "2026-08-11",
       "platform": "app_store",
-      "count": 2174
+      "count": 2159
     },
     {
       "day": "2026-08-12",
       "platform": "app_store",
-      "count": 2179
+      "count": 2165
     },
     {
       "day": "2026-08-13",
       "platform": "app_store",
-      "count": 2186
+      "count": 2170
     },
     {
       "day": "2026-08-14",
       "platform": "app_store",
-      "count": 2195
+      "count": 2177
     },
     {
       "day": "2026-08-15",
       "platform": "app_store",
-      "count": 2198
+      "count": 2180
     },
     {
       "day": "2026-08-16",
       "platform": "app_store",
-      "count": 2203
+      "count": 2184
     },
     {
       "day": "2026-08-17",
       "platform": "app_store",
-      "count": 2212
+      "count": 2191
     },
     {
       "day": "2026-08-18",
       "platform": "app_store",
-      "count": 2214
+      "count": 2194
     },
     {
       "day": "2026-08-19",
       "platform": "app_store",
-      "count": 2222
+      "count": 2202
     },
     {
       "day": "2026-08-20",
       "platform": "app_store",
-      "count": 2229
+      "count": 2208
     },
     {
       "day": "2026-08-21",
       "platform": "app_store",
-      "count": 2231
+      "count": 2210
     },
     {
       "day": "2026-08-22",
       "platform": "app_store",
-      "count": 2234
+      "count": 2213
     },
     {
       "day": "2026-08-23",
       "platform": "app_store",
-      "count": 2235
+      "count": 2215
     },
     {
       "day": "2026-08-24",
       "platform": "app_store",
-      "count": 2239
+      "count": 2219
     },
     {
       "day": "2026-08-25",
       "platform": "app_store",
-      "count": 2246
+      "count": 2224
     },
     {
       "day": "2026-08-26",
       "platform": "app_store",
-      "count": 2251
+      "count": 2228
     },
     {
       "day": "2026-08-27",
       "platform": "app_store",
-      "count": 2258
+      "count": 2235
     },
     {
       "day": "2026-08-28",
       "platform": "app_store",
-      "count": 2262
+      "count": 2239
     },
     {
       "day": "2026-08-29",
       "platform": "app_store",
-      "count": 2268
+      "count": 2244
     },
     {
       "day": "2026-08-30",
       "platform": "app_store",
-      "count": 2269
+      "count": 2245
     },
     {
       "day": "2026-08-31",
       "platform": "app_store",
-      "count": 2271
+      "count": 2247
     },
     {
       "day": "2026-09-01",
       "platform": "app_store",
-      "count": 2286
+      "count": 2261
     },
     {
       "day": "2026-09-02",
       "platform": "app_store",
-      "count": 2295
+      "count": 2269
     },
     {
       "day": "2026-09-03",
       "platform": "app_store",
-      "count": 2300
+      "count": 2275
     },
     {
       "day": "2026-09-04",
       "platform": "app_store",
-      "count": 2305
+      "count": 2278
     },
     {
       "day": "2026-09-05",
       "platform": "app_store",
-      "count": 2307
+      "count": 2282
     },
     {
       "day": "2026-09-06",
       "platform": "app_store",
-      "count": 2309
+      "count": 2284
     },
     {
       "day": "2026-09-07",
       "platform": "app_store",
-      "count": 2314
+      "count": 2289
     },
     {
       "day": "2026-09-08",
       "platform": "app_store",
-      "count": 2327
+      "count": 2302
     },
     {
       "day": "2026-09-09",
       "platform": "app_store",
-      "count": 2332
+      "count": 2307
     },
     {
       "day": "2026-09-10",
       "platform": "app_store",
-      "count": 2340
+      "count": 2314
     },
     {
       "day": "2026-09-11",
       "platform": "app_store",
-      "count": 2346
+      "count": 2320
     },
     {
       "day": "2026-09-12",
       "platform": "app_store",
-      "count": 2352
+      "count": 2326
     },
     {
       "day": "2026-09-13",
       "platform": "app_store",
-      "count": 2353
+      "count": 2327
     },
     {
       "day": "2026-09-14",
       "platform": "app_store",
-      "count": 2358
+      "count": 2333
     },
     {
       "day": "2026-09-15",
       "platform": "app_store",
-      "count": 2366
+      "count": 2340
     },
     {
       "day": "2026-09-16",
       "platform": "app_store",
-      "count": 2374
+      "count": 2347
     },
     {
       "day": "2026-09-17",
       "platform": "app_store",
-      "count": 2379
+      "count": 2353
     },
     {
       "day": "2026-09-18",
       "platform": "app_store",
-      "count": 2383
+      "count": 2357
     },
     {
       "day": "2026-09-19",
       "platform": "app_store",
-      "count": 2383
+      "count": 2357
     },
     {
       "day": "2026-09-20",
       "platform": "app_store",
-      "count": 2386
+      "count": 2359
     },
     {
       "day": "2026-09-21",
       "platform": "app_store",
-      "count": 2391
+      "count": 2362
     },
     {
       "day": "2026-09-22",
       "platform": "app_store",
-      "count": 2397
+      "count": 2368
     },
     {
       "day": "2026-09-23",
       "platform": "app_store",
-      "count": 2407
+      "count": 2377
     },
     {
       "day": "2026-09-24",
       "platform": "app_store",
-      "count": 2409
+      "count": 2379
     },
     {
       "day": "2026-09-25",
       "platform": "app_store",
-      "count": 2413
+      "count": 2382
     },
     {
       "day": "2026-09-26",
       "platform": "app_store",
-      "count": 2414
+      "count": 2383
     },
     {
       "day": "2026-09-27",
       "platform": "app_store",
-      "count": 2415
+      "count": 2384
     },
     {
       "day": "2026-09-28",
       "platform": "app_store",
-      "count": 2418
+      "count": 2387
     },
     {
       "day": "2026-09-29",
       "platform": "app_store",
-      "count": 2420
+      "count": 2390
     },
     {
       "day": "2026-09-30",
       "platform": "app_store",
-      "count": 2424
+      "count": 2394
     },
     {
       "day": "2026-10-01",
       "platform": "app_store",
-      "count": 2430
+      "count": 2403
     },
     {
       "day": "2026-10-02",
       "platform": "app_store",
-      "count": 2436
+      "count": 2408
     },
     {
       "day": "2026-10-03",
       "platform": "app_store",
-      "count": 2443
+      "count": 2415
     },
     {
       "day": "2026-10-04",
       "platform": "app_store",
-      "count": 2445
+      "count": 2417
     },
     {
       "day": "2026-10-05",
       "platform": "app_store",
-      "count": 2447
+      "count": 2419
     },
     {
       "day": "2026-10-06",
       "platform": "app_store",
-      "count": 2457
+      "count": 2427
     },
     {
       "day": "2026-10-07",
       "platform": "app_store",
-      "count": 2462
+      "count": 2432
     },
     {
       "day": "2026-10-08",
       "platform": "app_store",
-      "count": 2473
+      "count": 2444
     },
     {
       "day": "2026-10-09",
       "platform": "app_store",
-      "count": 2476
+      "count": 2449
     },
     {
       "day": "2026-10-10",
       "platform": "app_store",
-      "count": 2480
+      "count": 2453
     },
     {
       "day": "2026-10-11",
       "platform": "app_store",
-      "count": 2484
+      "count": 2457
     },
     {
       "day": "2026-10-12",
       "platform": "app_store",
-      "count": 2489
+      "count": 2460
     }
   ],
   "coverage": {
     "google_play": {
       "total_current_apps": 286,
-      "known_release_dates": 250
+      "known_release_dates": 249
     },
     "app_store": {
-      "total_current_apps": 2883,
-      "known_release_dates": 2619
+      "total_current_apps": 2848,
+      "known_release_dates": 2587
     }
   }
 }
