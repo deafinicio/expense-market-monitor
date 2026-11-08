@@ -1379,29 +1379,6 @@
     ],
     "updated_at": "2026-10-13T19:00:36.082938+00:00"
   },
-  "google_play:guru.bonbon.app": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "alle bons sind verschwunden.",
-        "date": "2025-04-05"
-      },
-      {
-        "rating": 1,
-        "text": "Just downloaded the App, it booted straight to a \"Ooops! Please contact Support\"",
-        "date": "2026-01-03"
-      },
-      {
-        "rating": 1,
-        "text": "Gute idee, leider erkennt die app fast nichts an den Bon. Mit so viel zu korrigieren kann ich es schneller manuell machen.",
-        "date": "2026-01-14"
-      }
-    ],
-    "updated_at": "2026-10-13T19:00:37.386517+00:00"
-  },
   "google_play:com.yigithan.budgettracker": {
     "price": "Free",
     "price_value": 0.0,
@@ -1506,19 +1483,6 @@
       }
     ],
     "updated_at": "2026-10-13T19:01:04.927722+00:00"
-  },
-  "google_play:com.norvanestudio.coinly": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 4,
-        "text": "Everything in this app was simply superb the only one you have to update it's refresh rate...",
-        "date": "2026-09-21"
-      }
-    ],
-    "updated_at": "2026-10-13T19:01:09.422375+00:00"
   },
   "google_play:br.com.francisco.contasemdia": {
     "price": "Free",
@@ -2078,29 +2042,6 @@
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-10-13T19:47:55.943580+00:00"
-  },
-  "google_play:com.priotecs.MoneyControl": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "Only 20 entry...money making app",
-        "date": "2014-12-19"
-      },
-      {
-        "rating": 1,
-        "text": "It is not good as of iOS UI. Since now Google moved to Lollipop, the android version need to be updated with some colorful UI or better looks.",
-        "date": "2014-12-25"
-      },
-      {
-        "rating": 1,
-        "text": "Starts asking money after 20 entries...if you're ready to pay, its great!",
-        "date": "2015-01-26"
-      }
-    ],
-    "updated_at": "2026-10-13T19:48:07.183084+00:00"
   },
   "google_play:com.tr1gger.app": {
     "price": "Free",
@@ -2771,29 +2712,6 @@
     ],
     "updated_at": "2026-10-17T05:36:49.176635+00:00"
   },
-  "google_play:de.ourbudget.app": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "Haven't gotten any feedback or seen any in the comments to others. Likely be switching apps instead of going pro.  I would like the pie chart to have percents for each expense included. Also please fix the monthly budgeting issue like the previous user suggested.",
-        "date": "2013-09-04"
-      },
-      {
-        "rating": 1,
-        "text": "Multiple reasons",
-        "date": "2014-06-14"
-      },
-      {
-        "rating": 1,
-        "text": "Crap , app won't work just force close over and over",
-        "date": "2015-01-03"
-      }
-    ],
-    "updated_at": "2026-10-17T05:36:50.399346+00:00"
-  },
   "google_play:com.weeple.app": {
     "price": "Free",
     "price_value": 0.0,
@@ -3341,29 +3259,6 @@
     "reviews": [],
     "updated_at": "2026-10-20T06:02:33.813895+00:00"
   },
-  "google_play:cashbook.app.hs": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "사용자 말고 개발자께 쓰는 리뷰. 자산에 테스트통장1 추가 후, 수입 10원을 넣고, 테스트통장1 이름을 테스트통장2로 변경했더니(변경/수정 둘다 각각 눌러봄) 내역에 테스트통장2로 수정되지 않고 1 그대로 유지되네요. 더욱 큰 문제점은, 수입 10원 삭제 후 10원 재입력을 했는데 자산에 테스트통장1 10원이 20원으로 변경되어있습니다. 자산에 들어가 테스트통장1을 눌러서 '내역' 을 확인해보면 수입 10원만 뜨는데 목록에는 20원이 뜨는 이상한 상황. 신뢰도가 떨어져 사용할 수 없는데, 이게 무슨 상황인가요? 이 테스트를 진행한 이유도, 어제 처음 이 가계부를 다운받고 1월 가계부를 다 적어놨는데 합산이 이상하게 뜨길래 여러번 확인 후 문제가 있음을 발견, 결국 초기화하고 테스트를 진행한 것입니다.",
-        "date": "2022-01-11"
-      },
-      {
-        "rating": 2,
-        "text": "How can i change my bank account?",
-        "date": "2020-04-12"
-      },
-      {
-        "rating": 2,
-        "text": "다른데서 문자오면 읽으려고 접근하던데 왜인가요",
-        "date": "2022-05-02"
-      }
-    ],
-    "updated_at": "2026-10-20T06:02:35.879281+00:00"
-  },
   "google_play:com.chagokchagok.lifelog": {
     "price": "Free",
     "price_value": 0.0,
@@ -3825,13 +3720,6 @@
     ],
     "updated_at": "2026-10-25T06:06:43.754755+00:00"
   },
-  "google_play:com.familyexpensemanagement": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-10-25T06:07:07.396747+00:00"
-  },
   "google_play:com.finance.expanager": {
     "price": "Free",
     "price_value": 0.0,
@@ -3907,13 +3795,6 @@
       }
     ],
     "updated_at": "2026-10-26T06:10:15.972027+00:00"
-  },
-  "google_play:com.barikafinancas.barikafinancas": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-10-27T06:17:12.988523+00:00"
   },
   "google_play:com.dausthaan.moneymanager": {
     "price": "Free",
@@ -4017,13 +3898,6 @@
     "reviews": [],
     "updated_at": "2026-10-29T07:03:59.799143+00:00"
   },
-  "google_play:co.DreamStartup.MoneyMemo": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-10-29T07:04:12.240534+00:00"
-  },
   "google_play:jp.united.app.kanahei.money": {
     "price": "Free",
     "price_value": 0.0,
@@ -4122,29 +3996,6 @@
       }
     ],
     "updated_at": "2026-10-29T07:04:30.363490+00:00"
-  },
-  "app_store:1084859936": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "La aplicación es muy buena pero cambiaron las reglas del precio de un momento a otro. No me parece correcto que empiecen cobrando la mensualidad con base en la cantidad de facturas que uno emite mensualmente y de un momento a otro cambien los planes con base en el monto de facturación mensual de mi empresa. Siento como si estuvieran entrando a ver la información tan delicada como es el monto de facturación de cada empresa cliente, para después a partir de esa información estructurar los precios que le cobran a uno como cliente. Siento que es invasion a información confidencial para sacar provecho.\nRealmente NO RECOMIENDO QUE USEN ESTA SOLUCIÓN.",
-        "date": "2020-03-09"
-      },
-      {
-        "rating": 1,
-        "text": "Tiene muchas fallas \ndonde tienen que cerrar y abrir de nuevo la app para volver hacer lo que estabas haciendo \n\nNo tienen sentido algunas opciones y pense que seria mas practica",
-        "date": "2021-01-16"
-      },
-      {
-        "rating": 1,
-        "text": "Dejenme ver por donde les empiezo. El concepto de la aplicación es buena pero la implementacion y el costumer service son como de los peores que vas a poder encontrar. Desde el principio la aplicación ha dado sus problemas en ocasiones para conectarse pero eran situaciones temporales pero hemos tenido paciencia hasta este momento que llevamos dos semanas en la que la aplicacion simplemente no funciona y no nos permite crear facturas, imaginan la perdida de tiempo y dinero que esto conlleva cuando dependemos de los servicios de esta compañia llamada Alegra , y con el mayor respeto al creador o creadores de esta compañia que puede ser ni esten al tanto de estas situaciones , ojala y lean este mensaje. Llevo dos semanas escribiendole varios emails y no he tenido ninguna respuesta de ustedes , ya lo de ustedes me parece una falta de etica y de respeto. Espero que les vaya muy bien y valoren y respeten mas a sus clientes. Esta semana saco mis operaciones de su plataforma. Un consejo para todos los que pretenden poner la confianza y el funcionamiento de su negocio en manos de esta compañia , Pienselo dos veces o mejor tres.     \n\nLet me see where I start.  The concept of the application ",
-        "date": "2021-10-20"
-      }
-    ],
-    "updated_at": "2026-10-29T07:04:33.258928+00:00"
   },
   "google_play:com.waldy.bukuin": {
     "price": "Free",
@@ -4306,29 +4157,6 @@
       }
     ],
     "updated_at": "2026-10-31T07:00:30.199140+00:00"
-  },
-  "google_play:com.leronov.budgetpro": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 2,
-        "text": "Prices are too high..",
-        "date": "2025-08-15"
-      },
-      {
-        "rating": 5,
-        "text": "After a few weeks of using, I already noticed how much it changed my spending habits. Now I spend less and start planning my budget. Thank you for keeping limits for free users high. I created few custom categories, 3 wallets in different currencies. My previous expense tracker required premium for that, but not this app. Good luck with development and if possible, please add more widgets to dashboard, thanks!",
-        "date": "2025-08-21"
-      },
-      {
-        "rating": 5,
-        "text": "app looks good I have to ask following if possible 1.after wallet click it will show transaction belongs to.... currently I need to view all and filter etc 2. wealth view possible to show small box to show each holding 3. capital to show option last month year ..currently last 90 days thanks",
-        "date": "2026-10-12"
-      }
-    ],
-    "updated_at": "2026-11-01T07:31:42.861199+00:00"
   },
   "google_play:com.cuentate.aimoney": {
     "price": "Free",
@@ -4554,13 +4382,6 @@
     ],
     "updated_at": "2026-11-04T07:31:27.038376+00:00"
   },
-  "google_play:com.meucash.app": {
-    "price": "2.9 USD",
-    "price_value": 2.9,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-04T07:31:35.941571+00:00"
-  },
   "google_play:br.com.useoinc.oincapp": {
     "price": "Free",
     "price_value": 0.0,
@@ -4653,29 +4474,6 @@
     ],
     "updated_at": "2026-11-04T07:31:51.920750+00:00"
   },
-  "google_play:com.youneedabudget.evergreen.app": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "I want to get out of debt but simply can't afford this app. Having such high pricing model is so predatory when you customer base are people who are trying to get their spending under control.",
-        "date": "2026-08-03"
-      },
-      {
-        "rating": 1,
-        "text": "Just so you know, after the 30 day trial it will be $109.00 per year.",
-        "date": "2026-08-14"
-      },
-      {
-        "rating": 1,
-        "text": "First timer and I haven't even seen the home page yet that I'm prompted to pay?? No free version at least for new user?...BYE",
-        "date": "2026-08-22"
-      }
-    ],
-    "updated_at": "2026-11-04T07:31:53.148421+00:00"
-  },
   "google_play:com.vitvov.profit": {
     "price": "Free",
     "price_value": 0.0,
@@ -4739,13 +4537,6 @@
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-11-04T07:32:14.574893+00:00"
-  },
-  "google_play:paper.ledger.note": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-04T07:32:16.978040+00:00"
   },
   "google_play:com.ai.expensemanager.expensetracker.app": {
     "price": "Free",
@@ -4971,19 +4762,6 @@
     "reviews": [],
     "updated_at": "2026-11-05T07:56:59.798465+00:00"
   },
-  "google_play:com.telecomp.budget": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 5,
-        "text": "Exactly what I needed.",
-        "date": "2026-07-14"
-      }
-    ],
-    "updated_at": "2026-11-06T07:56:03.926644+00:00"
-  },
   "google_play:com.financeiro.app": {
     "price": "Free",
     "price_value": 0.0,
@@ -5014,29 +4792,6 @@
       }
     ],
     "updated_at": "2026-11-06T07:56:11.666830+00:00"
-  },
-  "google_play:money.fold.marble": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "most of the time like 99% this app doesn't work doesn't send any otp like worst app ever didn't imagined this even doesn't open this app sucks im very disappointed to give my personal data to this app. for your information I don't have none of these banks and trying to login soo cant even login do you get it???",
-        "date": "2025-07-04"
-      },
-      {
-        "rating": 1,
-        "text": "You guys need to work a lot on your systems. even after giving full access to email your system is not able to fetch all the credit cards. I have used CRED also but never faced such a problem.",
-        "date": "2025-07-05"
-      },
-      {
-        "rating": 1,
-        "text": "worst",
-        "date": "2025-07-19"
-      }
-    ],
-    "updated_at": "2026-11-06T07:56:14.161123+00:00"
   },
   "google_play:expense.tracker.income.receipt.budget": {
     "price": "Free",
@@ -5104,29 +4859,6 @@
     ],
     "updated_at": "2026-11-06T07:56:28.445203+00:00"
   },
-  "google_play:jp.moneytree.moneytree": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "dammey lone app.plase don't apply lone",
-        "date": "2025-09-12"
-      },
-      {
-        "rating": 1,
-        "text": "not",
-        "date": "2025-09-14"
-      },
-      {
-        "rating": 1,
-        "text": "personal lone",
-        "date": "2025-09-15"
-      }
-    ],
-    "updated_at": "2026-11-06T07:56:32.685595+00:00"
-  },
   "google_play:com.monoteapp": {
     "price": "Free",
     "price_value": 0.0,
@@ -5139,29 +4871,6 @@
       }
     ],
     "updated_at": "2026-11-06T07:56:35.495607+00:00"
-  },
-  "google_play:com.remindpaybee.app": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 3,
-        "text": "This app seems like exactly what I'm looking for but, you can only add 2 bills for the free version. there is no trial unless you opt for paying yearly. and lifetime I assume is almost $70. another app I'm trying is $8 lifetime. not as nice, but better price. wish there were better options for me to give it a better review.",
-        "date": "2026-05-01"
-      },
-      {
-        "rating": 5,
-        "text": "absolutely the best app I've found for simple & straightforward bills not budgeting and everything else",
-        "date": "2026-07-03"
-      },
-      {
-        "rating": 5,
-        "text": "Çok pratik, ödeme, gelir, gider, kredi kartı, birikim ne varsa girdim. Kişisel cüzdanınız gibi takibi çok kolaylaştırıyor. Dark mod güzel ancak renk paletinde koyu renkler eklenirse çok sevinirim.",
-        "date": "2026-08-10"
-      }
-    ],
-    "updated_at": "2026-11-06T07:56:38.484775+00:00"
   },
   "google_play:app.quanto.quanto": {
     "price": "Free",
@@ -5185,29 +4894,6 @@
       }
     ],
     "updated_at": "2026-11-06T07:56:44.104173+00:00"
-  },
-  "google_play:com.litapplications.realbudget": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "They have a certain amount of envelopes you can use that are free until you have to purchase envelopes to use. Which in my opinion is ridiculous because I am using a FREE app to help me budget my money not spend on something as unnecessary as a virtual envelope.",
-        "date": "2020-08-12"
-      },
-      {
-        "rating": 1,
-        "text": "This app would be awesome but its bogus that you can only have so many envelopes u cant delete transactions. I budget bi weekly and it wont let me do that.",
-        "date": "2021-01-31"
-      },
-      {
-        "rating": 1,
-        "text": "Accidently deleted my envelopes and now it says I need to buy more.. should be a limit of 10 in use before buying..",
-        "date": "2021-06-19"
-      }
-    ],
-    "updated_at": "2026-11-06T07:56:45.246365+00:00"
   },
   "google_play:com.brightapps.moneymanager": {
     "price": "Free",
@@ -5278,192 +4964,12 @@
     ],
     "updated_at": "2026-11-06T07:56:57.596128+00:00"
   },
-  "google_play:com.r6apps.expensemanagerlite": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "Seems like it could be a good app but it won't let me try everything to know if it would work for me... 30 day trial of full version would be better. I am not willing to pay money for an app that I am not sure would do what I want or need it to. Also, app says you can add recurring expenses but I didn't see this option.",
-        "date": "2013-12-27"
-      },
-      {
-        "rating": 1,
-        "text": "You download the app and then you have to purchase all the modules for it to work.ROTFLMAO",
-        "date": "2014-04-14"
-      },
-      {
-        "rating": 1,
-        "text": "Have to pay for extra",
-        "date": "2014-04-27"
-      }
-    ],
-    "updated_at": "2026-11-06T07:56:58.778378+00:00"
-  },
-  "google_play:com.annapiekarz.monivo": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-06T07:57:01.733089+00:00"
-  },
-  "google_play:biz.cloudex.android.expense_tracker_pro": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-06T07:57:04.401605+00:00"
-  },
-  "google_play:com.onem.finance": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 5,
-        "text": "I’ve been using 1M Finance for the past 3 months, and it has honestly been a game changer. It gives me a very clear view of where my money is actually going, which has helped me track my spending and budget much better. I especially like the analytics and cash flow visuals because they make it easier to understand my spending habits, savings, and overall financial picture. Highly recommended for anyone who wants a simple and effective way to stay on top of their finances.",
-        "date": "2026-05-24"
-      },
-      {
-        "rating": 5,
-        "text": "Amazing app! Clean, fast, and actually useful. I use it every day and it fits perfectly into my routine.",
-        "date": "2026-06-10"
-      },
-      {
-        "rating": 5,
-        "text": "the app is great UI is good simple yet has good information the summary page is very useful to me. I have been able to cut down on some expenses and same some.more money, stopping that leak was the best thing I got out of this app.",
-        "date": "2026-06-21"
-      }
-    ],
-    "updated_at": "2026-11-07T07:06:58.479454+00:00"
-  },
-  "google_play:ch.klarfabrik.batzen": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-07T07:07:00.869970+00:00"
-  },
-  "google_play:com.yg.kisisel_muhasebe": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "PAID APP. BEWARE DO NOT BE DECEIVED.",
-        "date": "2026-02-21"
-      },
-      {
-        "rating": 5,
-        "text": "Good",
-        "date": "2026-01-27"
-      },
-      {
-        "rating": 5,
-        "text": "good",
-        "date": "2026-03-20"
-      }
-    ],
-    "updated_at": "2026-11-07T07:07:03.383631+00:00"
-  },
-  "google_play:com.xinran.finch": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "way too difficult to use. not clear or user friendly. it looked one way on the pictures on Google play but it looked way different in the app. I gave up trying to figure out how to use it. update: wow, great customer relations response, developer (heavy on the sarcasm)... if that's how you talk to your customers I'm surprised y'all are still here...smh",
-        "date": "2026-01-14"
-      },
-      {
-        "rating": 1,
-        "text": "App have Problem İ tracking my express and income but two days after I open app and see my income not be saved and deleted",
-        "date": "2026-02-20"
-      },
-      {
-        "rating": 2,
-        "text": "Not Good",
-        "date": "2025-09-29"
-      }
-    ],
-    "updated_at": "2026-11-07T07:07:04.915610+00:00"
-  },
-  "google_play:com.nerd.forDriver": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "Don't have motorcycle",
-        "date": "2023-03-22"
-      },
-      {
-        "rating": 4,
-        "text": "App muito bom, porém ainda falta acrescentar motocicletas, afinal em grande maioria também temos no Brasil entregadores de aplicativo como ifood.",
-        "date": "2023-11-21"
-      },
-      {
-        "rating": 5,
-        "text": "Muito bom! Podia ter o valor total líquido na tela de consultas onde mostram o total recebido e o total de despesas, facilitaria o acompanhamento ter o valor líquido ali.",
-        "date": "2024-02-15"
-      }
-    ],
-    "updated_at": "2026-11-07T07:07:07.692235+00:00"
-  },
-  "google_play:com.cashbooknew": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "they ruined it i no longer use it anymore",
-        "date": "2026-08-06"
-      },
-      {
-        "rating": 1,
-        "text": "Although they initially offered the app for free, they are now charging a lot of money as a subscription. And without a subscription, you won't be able to make a single entry, which puts old users in a lot of problems. Like other apps, free users should have been given the opportunity by running ads or reducing some features. Such behavior is never desirable from a developer. So I would like to tell everyone to give this app a one star rating.",
-        "date": "2026-08-07"
-      },
-      {
-        "rating": 1,
-        "text": "was 5 became 1 obligate me to pay for any edit or add to my cash",
-        "date": "2026-08-09"
-      }
-    ],
-    "updated_at": "2026-11-07T07:07:08.728765+00:00"
-  },
-  "google_play:br.com.mydinheiro.app": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-07T07:07:11.246817+00:00"
-  },
-  "google_play:com.leonardo25.financaspessoaismobile": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-07T07:07:13.685551+00:00"
-  },
   "google_play:com.minibudget": {
     "price": "Free",
     "price_value": 0.0,
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-11-07T07:07:16.122588+00:00"
-  },
-  "google_play:com.moneyzin.app": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-07T07:07:18.522357+00:00"
   },
   "google_play:com.expense.moneycontrol.expense.cashflowtracker": {
     "price": "Free",
@@ -5487,66 +4993,6 @@
       }
     ],
     "updated_at": "2026-11-07T07:07:19.644887+00:00"
-  },
-  "google_play:de.moneytool.app": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-07T07:07:22.352330+00:00"
-  },
-  "google_play:tw.hc.share_slice": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-07T07:07:24.609898+00:00"
-  },
-  "google_play:com.SmartBudget.GoldFlyApps": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "This app developer don't even know how many different types of transactions exist. He only knows \"expense, income and transfer\". Pity. He could make world's best money budget app. Uninstalled!",
-        "date": "2023-12-03"
-      },
-      {
-        "rating": 1,
-        "text": "Looked good but Keeps crashing, so its useless. The issue is when you attempt to set up a bill that recurs weekly, you get app not responding.",
-        "date": "2023-12-04"
-      },
-      {
-        "rating": 1,
-        "text": "I was excited to use it, till I saw that the only currency they don't have is OMR and its very strange considering Omanj Rial is one of the strongest currencies",
-        "date": "2023-12-06"
-      }
-    ],
-    "updated_at": "2026-11-07T07:07:25.878536+00:00"
-  },
-  "google_play:com.oguzdogdu.budgetpulse": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "Manual entry process",
-        "date": "2025-07-21"
-      },
-      {
-        "rating": 3,
-        "text": "Great app, haven't paid for premium yet. But no password recovery function when I reinstalled 😕 And the UI is sometimes inconsistent, maybe make text smaller",
-        "date": "2025-04-13"
-      },
-      {
-        "rating": 4,
-        "text": "Good app, it would be great if a secondary currency is added as an option. There is also a bug where the recurring expenses are duplicated automatically multiple times with no reason. Other than that, the app is promising with good UI",
-        "date": "2025-04-06"
-      }
-    ],
-    "updated_at": "2026-11-07T07:07:27.873280+00:00"
   },
   "google_play:com.fouadshawish.ExpenseManager": {
     "price": "Free",
@@ -5572,82 +5018,6 @@
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-11-07T07:07:32.639929+00:00"
-  },
-  "google_play:com.lancerdog.money_board": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 2,
-        "text": "There are many bugs in the app.. Please fix these..",
-        "date": "2022-02-11"
-      },
-      {
-        "rating": 3,
-        "text": "Add multi currency, when travel , I spend other currency, no option to chose currency's",
-        "date": "2024-09-06"
-      },
-      {
-        "rating": 4,
-        "text": "I didn't expect your app to be so good, can you add autocomplete for notes so I don't have to rewrite them over and over again",
-        "date": "2024-03-17"
-      }
-    ],
-    "updated_at": "2026-11-07T07:07:34.865582+00:00"
-  },
-  "google_play:com.jaemobird.mutongji": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 5,
-        "text": "Very detailed and customizable",
-        "date": "2026-06-20"
-      },
-      {
-        "rating": 5,
-        "text": "Great app!",
-        "date": "2026-07-01"
-      },
-      {
-        "rating": 5,
-        "text": "Highly recommended!",
-        "date": "2026-10-19"
-      }
-    ],
-    "updated_at": "2026-11-07T07:07:37.418488+00:00"
-  },
-  "google_play:com.bestrie.aa": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "非常烂的记账apps，太复杂而且，一直延迟",
-        "date": "2023-06-11"
-      },
-      {
-        "rating": 3,
-        "text": "非常好用！遍寻记账app后终于找到了可以多币种转换的AA记账app，而且客服回复态度很好，遇到什么问题制造向客服都会积极地帮助用户解决，也会听取用户的提议积极改进。大推！！！❤️❤️❤️",
-        "date": "2021-12-30"
-      },
-      {
-        "rating": 4,
-        "text": "很好用",
-        "date": "2023-09-08"
-      }
-    ],
-    "updated_at": "2026-11-07T07:07:39.361430+00:00"
-  },
-  "google_play:tw.aire.money": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-07T07:07:42.032570+00:00"
   },
   "google_play:com.sunsunlabs.travelsplit": {
     "price": "Free",
@@ -5711,5 +5081,472 @@
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-11-07T07:07:59.830322+00:00"
+  },
+  "google_play:com.money.manager.ex.android": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Don't Download 🚫 Reliability 🚫 App Crash 🚫 Every time manually fetch database 🚫 Sometimes Entry not Save in database 🚫 Synchronise after every Entry 🚫 Developer Response Zero",
+        "date": "2025-07-20"
+      },
+      {
+        "rating": 1,
+        "text": "too hard to use",
+        "date": "2025-12-15"
+      },
+      {
+        "rating": 1,
+        "text": "Avoid this App on Android 15+! It's unusable and you will lose your data: you import your database from your working folder, but it copies a working copy to Android data folders. All worke fine, but when an update comes, it loses the database connection, you have to to open your dqtabase new, and Android security settings don't allow you to access or ecen copy the database file. No chance to recover your data!",
+        "date": "2026-04-22"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:25.604226+00:00"
+  },
+  "google_play:br.com.usecalen.mobile": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "me ajudou muito, estou usando muito para controlar meus gastos pessoais acompanha o meu cartão e eu nem preciso ter meu banco instalado no meu celular",
+        "date": "2026-07-28"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:28.542734+00:00"
+  },
+  "google_play:henry.dev.mywallet": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Maaf jelek banget",
+        "date": "2021-07-09"
+      },
+      {
+        "rating": 1,
+        "text": "Top",
+        "date": "2021-07-22"
+      },
+      {
+        "rating": 1,
+        "text": "Saat export ke excell gak keluar angka nominalnya",
+        "date": "2021-08-14"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:29.829352+00:00"
+  },
+  "google_play:com.pankaj.TrackMyExpense": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "very bad",
+        "date": "2025-06-18"
+      },
+      {
+        "rating": 1,
+        "text": "This app feels like a scam. Initially, it offers useful features for free, but after a few months, most of those features become locked behind a paywall. I would not recommend installing it. There are better alternatives available that offer similar features for free. I'm currently looking for a free alternative myself.",
+        "date": "2026-06-18"
+      },
+      {
+        "rating": 3,
+        "text": "UI is excellent and simple without ads the problem is I identified 1 bug. 1.enter under any category 100 rupees or whatever amount. 2. after save open same category now edit the value to nothing. booom everything is broken , you can't see graphs etc. might be you guys are not handled null exception. please take care. Now my account itself corrupted unable to do anything.",
+        "date": "2025-11-11"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:31.811708+00:00"
+  },
+  "google_play:in.usefulapp.timelybills": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "switched phones and now balances on multiple accounts are incorrect. adding an expense also gave me a diff remainjng balance. they said they would fix but now they are unresponsive.",
+        "date": "2026-03-17"
+      },
+      {
+        "rating": 1,
+        "text": "after having the \"pro\" mode, everything is limited anymore. you cannot put the receipts, you only have 25 entries. im unistalling",
+        "date": "2026-04-06"
+      },
+      {
+        "rating": 1,
+        "text": "used to be able to use on multiple devices, now they forced it to be a paid. the Enworseification continues",
+        "date": "2026-04-06"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:32.955309+00:00"
+  },
+  "google_play:at.markushi.expensemanager": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "All was well for 6 months but last week the app started crashing and stopped openjng. Waited a week for it to get okay. But never did. So uninstalled and install again. Now all my data is wiped. There was no restore also. The app should have a sign in option to store the data in such cases.",
+        "date": "2021-06-11"
+      },
+      {
+        "rating": 1,
+        "text": "Need Improvements In UI.",
+        "date": "2021-07-02"
+      },
+      {
+        "rating": 1,
+        "text": "The app is really helpful, i even paid for the full feature !, but please fix the google drive sync feature, it's always reverted to disable everytime i tried to turn on the sync. the repair center wiped my phone, and sure enough, also my data in the app, and i can't restore the data.",
+        "date": "2021-07-15"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:34.182429+00:00"
+  },
+  "google_play:uy.com.coinapp.coin": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Está muy bien, aún madurando la idea pero poder agregar gastos escaneando el QR de los CFE es muy cómodo. Se hecha en falta una parte para registrar los ahorros y poder consultar cuánto se ha ido agregando o restando de estas cuentas mes a mes.",
+        "date": "2022-07-22"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:37.229663+00:00"
+  },
+  "google_play:org.mths.financecontrol": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:19:39.851298+00:00"
+  },
+  "google_play:com.hesapkitap.finans": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:19:42.581913+00:00"
+  },
+  "google_play:org.zerocode.justexpenses": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "மட்டமானது! காரணம் இது முழுமையாது இல்லை!",
+        "date": "2022-05-01"
+      },
+      {
+        "rating": 1,
+        "text": "Extremely basic",
+        "date": "2022-06-16"
+      },
+      {
+        "rating": 1,
+        "text": "Waste",
+        "date": "2022-07-20"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:43.790131+00:00"
+  },
+  "google_play:com.rellowteam.kakebo2": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Bad copycat",
+        "date": "2022-11-11"
+      },
+      {
+        "rating": 1,
+        "text": "Fake app not add money",
+        "date": "2023-06-07"
+      },
+      {
+        "rating": 1,
+        "text": "Account balance seen not correct please check",
+        "date": "2023-07-09"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:45.041283+00:00"
+  },
+  "google_play:com.midni.midniapp": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Поки що враження дуже приємні від застосунку. Приємний інтерфейс, є інтеграція з Моно, бюджети, категорії/субкатегорії. Продукт розвивається.",
+        "date": "2026-07-22"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:47.948897+00:00"
+  },
+  "google_play:com.clickland.monetal.free": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "I have downloaded it through #MyAppFree deal. And got premium features for free. But after I reinstall it premium features Gone. Crap Devs......",
+        "date": "2015-12-07"
+      },
+      {
+        "rating": 1,
+        "text": "Stupid app not ETHIOPIA available",
+        "date": "2023-05-03"
+      },
+      {
+        "rating": 1,
+        "text": "SMS parsing not available",
+        "date": "2025-08-30"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:48.961580+00:00"
+  },
+  "google_play:group.bost.moneycontrol": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Bef",
+        "date": "2021-07-31"
+      },
+      {
+        "rating": 3,
+        "text": "Helpful in investing in stocks",
+        "date": "2024-01-18"
+      },
+      {
+        "rating": 5,
+        "text": "Nice one",
+        "date": "2021-10-13"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:51.350764+00:00"
+  },
+  "google_play:com.vj.moneya": {
+    "price": "5.49 USD",
+    "price_value": 5.49,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Spams you with notifications, which leaded me to uninstall this spamware.",
+        "date": "2020-10-16"
+      },
+      {
+        "rating": 1,
+        "text": "It's privecy risky app because it's wanted unnecessary permissions of internet access and connection. Please remove internet permission in paid app . I will give five 🌟. Or this app's intention is user's data mining or stealing.",
+        "date": "2021-01-22"
+      },
+      {
+        "rating": 1,
+        "text": "unable to restore backup",
+        "date": "2025-04-07"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:52.484240+00:00"
+  },
+  "google_play:com.microappdigital.moneymanager": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "widgets are not working. fix them pls",
+        "date": "2026-05-02"
+      },
+      {
+        "rating": 4,
+        "text": "Interface is nice. But I didn't try much because I needed the function to export my data and I didn't see it. So I deleted it instead.",
+        "date": "2025-11-09"
+      },
+      {
+        "rating": 4,
+        "text": "i love to use this app but can u make a setting that i can reset everything, coz i used to reset budget every month, so i dont need to clear app datas anymore, thank you",
+        "date": "2026-08-17"
+      }
+    ],
+    "updated_at": "2026-11-08T07:19:55.221516+00:00"
+  },
+  "google_play:com.fs.otto_app": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:19:58.280298+00:00"
+  },
+  "google_play:com.simplesmaismoneyversaopro": {
+    "price": "2.49 USD",
+    "price_value": 2.49,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Gostei muito do app. Realmente cumpre o que promete. Muito prático e intuitivo! Minha sugestão é permitir a edição das receitas, assim como já é possível nas despesas.",
+        "date": "2018-11-04"
+      }
+    ],
+    "updated_at": "2026-11-08T07:20:01.072333+00:00"
+  },
+  "google_play:money.vento.expense.tracker": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "One of the best expense tracker apps with a clean, modern UI and smooth performance. My only request is to add subcategory support for Budgets. For example, under Vehicle, I should be able to create separate budgets for Fuel, Car Loan, and Maintenance instead of combining everything into one budget. This would make budgeting much more accurate and useful. Keep up the great work! Waiting for this update.",
+        "date": "2026-07-09"
+      },
+      {
+        "rating": 5,
+        "text": "I used the Cashew app earlier, but the level of customization sometimes felt overwhelming and made the UI look cluttered. Vento strikes a nice balance — clean UI with plenty of genuinely useful features.",
+        "date": "2026-05-18"
+      },
+      {
+        "rating": 5,
+        "text": "I love everything about this app - how the ui looks, how the application feels and how it does everything. Definitely consider buying premium if you can.....",
+        "date": "2026-05-19"
+      }
+    ],
+    "updated_at": "2026-11-08T07:20:03.925883+00:00"
+  },
+  "google_play:pl.jakwydaje": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Rozumiem powód ale nagrywanie w tle powinno być nielegalne.",
+        "date": "2025-09-11"
+      },
+      {
+        "rating": 1,
+        "text": "Szpiegowanko. Nie polecam. t.programista",
+        "date": "2025-09-20"
+      },
+      {
+        "rating": 4,
+        "text": "Po ostatniej aktualizacji aplikacja zawiesza się podczas uruchamiania na ekranie ładowania. OxygenOS, Android 13",
+        "date": "2023-10-18"
+      }
+    ],
+    "updated_at": "2026-11-08T07:20:06.358612+00:00"
+  },
+  "google_play:com.donapon.pisces.cashbook": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 2,
+        "text": "xperiaなのにカレンダーの左上しか表示されません",
+        "date": "2010-08-14"
+      },
+      {
+        "rating": 3,
+        "text": "This is exactly what i need, but uninstall for not being able to enter in $! Change currency option please!",
+        "date": "2011-02-27"
+      },
+      {
+        "rating": 3,
+        "text": "English version plzzz",
+        "date": "2011-05-03"
+      }
+    ],
+    "updated_at": "2026-11-08T07:20:08.289399+00:00"
+  },
+  "google_play:jp.receipi.pakayo": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Crashes",
+        "date": "2014-10-02"
+      },
+      {
+        "rating": 1,
+        "text": "レシートの文字化けや３桁の金額を４桁で表示するなどひどいので使うのをやめました。",
+        "date": "2020-03-06"
+      },
+      {
+        "rating": 2,
+        "text": "It's not that good, you have to pay attention of the listing that appears after you take the picture, because it captures numbers that is nothing about the items you bought, and the total in the end of week doesn't match when calculated because of this miss. After all is takes more time to find were is wrong. Uninstalling.",
+        "date": "2023-01-26"
+      }
+    ],
+    "updated_at": "2026-11-08T07:20:09.812569+00:00"
+  },
+  "app_store:1092491157": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:20:11.357437+00:00"
+  },
+  "app_store:6780240293": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:20:12.789404+00:00"
+  },
+  "app_store:6804669929": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:20:14.274329+00:00"
+  },
+  "app_store:6792258828": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:20:15.740574+00:00"
+  },
+  "app_store:6757253009": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:20:17.224614+00:00"
+  },
+  "app_store:6474574024": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:20:19.280227+00:00"
+  },
+  "app_store:665873607": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-08T07:20:20.678555+00:00"
   }
 }
