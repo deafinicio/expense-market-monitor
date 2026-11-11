@@ -916,29 +916,6 @@
     ],
     "updated_at": "2026-10-13T18:50:04.785969+00:00"
   },
-  "google_play:moneytracker.expensetracker.budgetplanner.spendingtracker": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "not a good experience",
-        "date": "2025-03-26"
-      },
-      {
-        "rating": 1,
-        "text": "total waste of money very disappointed",
-        "date": "2025-03-26"
-      },
-      {
-        "rating": 1,
-        "text": "am single and job less I want to huck money",
-        "date": "2025-04-01"
-      }
-    ],
-    "updated_at": "2026-10-13T18:54:16.623263+00:00"
-  },
   "google_play:com.freeman.moneymanager": {
     "price": "Free",
     "price_value": 0.0,
@@ -1236,13 +1213,6 @@
     "reviews": [],
     "updated_at": "2026-10-13T18:54:51.218164+00:00"
   },
-  "app_store:6471968098": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-10-13T18:54:54.300321+00:00"
-  },
   "app_store:6745705364": {
     "price": "Free",
     "price_value": 0.0,
@@ -1514,13 +1484,6 @@
       }
     ],
     "updated_at": "2026-10-13T19:01:28.818302+00:00"
-  },
-  "google_play:com.alexanderiscoding.finance": {
-    "price": "2.49 USD",
-    "price_value": 2.49,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-10-13T19:41:19.355481+00:00"
   },
   "google_play:com.finperssaver": {
     "price": "Free",
@@ -3451,29 +3414,6 @@
     ],
     "updated_at": "2026-10-23T06:03:39.601231+00:00"
   },
-  "google_play:com.handyapps.expenseiq": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "worked great until it kept crashing and I lost all of my records",
-        "date": "2025-09-11"
-      },
-      {
-        "rating": 1,
-        "text": "UPDATE Feb 2026 - app looks abandoned, nothing since 2023, no responses, no social media since 2017. Backup data & replace! UPDATE May 2022 - Android 11, backup & exports stoped working, had to reinstall. UPDATE 2020 - Problems with scheduled/repeating payments. Orig - Very good app for tracking multiple accounts, good reporting on expenditure (if you classify it). Syncs with Google allowing access from multiple devices. Does most of what I want as a personal finance manager.",
-        "date": "2026-02-05"
-      },
-      {
-        "rating": 1,
-        "text": "I have always loved this app from the very moment I first used it. I purchased the app in 2021 but the next day I was refunded (unsure why) so I subscribed. Recently my payments keeps declining. All of my payments go through but this one. No form of payment will go through for this subscription, not even Google Play Balance. Now they are threatening to cancel my subscription. The issue is on their end and no one has responded to any of my emails to fix the issue.",
-        "date": "2026-03-09"
-      }
-    ],
-    "updated_at": "2026-10-23T06:03:40.967644+00:00"
-  },
   "google_play:com.horizonlabs.orcamentoservicos": {
     "price": "Free",
     "price_value": 0.0,
@@ -4197,29 +4137,6 @@
     ],
     "updated_at": "2026-11-02T07:41:52.485936+00:00"
   },
-  "google_play:com.keepsoft.homebuh.lite": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "poor app",
-        "date": "2016-10-13"
-      },
-      {
-        "rating": 1,
-        "text": "Can't plan any more than two expenses or incomes and can't add any more than two accounts. This app is fine for a child who only gets pocket money off one person and only buys one type of sweet. For household budgeting it's useless",
-        "date": "2016-10-19"
-      },
-      {
-        "rating": 1,
-        "text": "Всего два счета - абсолютно бесполезная хрень. Это, не бесплатная lite весия, это просто другой способ выкачать из народа бабло через in app purchas.",
-        "date": "2016-10-22"
-      }
-    ],
-    "updated_at": "2026-11-02T07:42:13.496016+00:00"
-  },
   "google_play:com.ktwtechnologies.moneyledgers": {
     "price": "Free",
     "price_value": 0.0,
@@ -4408,29 +4325,6 @@
     ],
     "updated_at": "2026-11-05T07:56:17.098837+00:00"
   },
-  "google_play:thexperimental.company.moneymanager": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "Too expensive for 1 time payment though the interface is nice.",
-        "date": "2025-11-09"
-      },
-      {
-        "rating": 1,
-        "text": "hello team at least you can provide a premium trail. is that important before purchasing. and I hope you can understand this issue.",
-        "date": "2025-11-20"
-      },
-      {
-        "rating": 2,
-        "text": "what happened with the updates? I can scroll my account and recheck at all.",
-        "date": "2025-08-31"
-      }
-    ],
-    "updated_at": "2026-11-05T07:56:23.668225+00:00"
-  },
   "google_play:balance.money.manager.flivion": {
     "price": "Free",
     "price_value": 0.0,
@@ -4565,13 +4459,6 @@
     "reviews": [],
     "updated_at": "2026-11-05T07:56:56.830914+00:00"
   },
-  "app_store:6740215854": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-05T07:56:58.338608+00:00"
-  },
   "google_play:com.financeiro.app": {
     "price": "Free",
     "price_value": 0.0,
@@ -4632,42 +4519,6 @@
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-11-06T07:56:19.669455+00:00"
-  },
-  "google_play:com.flexvel.monetix": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 3,
-        "text": "Good but not user friendly",
-        "date": "2026-05-27"
-      }
-    ],
-    "updated_at": "2026-11-06T07:56:27.308471+00:00"
-  },
-  "google_play:com.moneymanager.app.pro": {
-    "price": "1.59 USD",
-    "price_value": 1.59,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "update will wipe ur data. never update this app",
-        "date": "2025-01-07"
-      },
-      {
-        "rating": 1,
-        "text": "they advertise as AI chat enabled but it will not work. don't waste money on prov version of this app. most of the options will not work. Seems like google doesn't verified the developer.",
-        "date": "2025-12-07"
-      },
-      {
-        "rating": 1,
-        "text": "I have paid ₹130 for this app, but it is not working properly. I have updated all my details as required, but now the app is getting stuck and showing a hanging/loading issue. Please check and resolve this problem as soon as possible.",
-        "date": "2026-06-16"
-      }
-    ],
-    "updated_at": "2026-11-06T07:56:28.445203+00:00"
   },
   "google_play:com.monoteapp": {
     "price": "Free",
@@ -4960,48 +4811,12 @@
     ],
     "updated_at": "2026-11-08T07:19:34.182429+00:00"
   },
-  "google_play:uy.com.coinapp.coin": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 4,
-        "text": "Está muy bien, aún madurando la idea pero poder agregar gastos escaneando el QR de los CFE es muy cómodo. Se hecha en falta una parte para registrar los ahorros y poder consultar cuánto se ha ido agregando o restando de estas cuentas mes a mes.",
-        "date": "2022-07-22"
-      }
-    ],
-    "updated_at": "2026-11-08T07:19:37.229663+00:00"
-  },
   "google_play:com.hesapkitap.finans": {
     "price": "Free",
     "price_value": 0.0,
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-11-08T07:19:42.581913+00:00"
-  },
-  "google_play:com.clickland.monetal.free": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "I have downloaded it through #MyAppFree deal. And got premium features for free. But after I reinstall it premium features Gone. Crap Devs......",
-        "date": "2015-12-07"
-      },
-      {
-        "rating": 1,
-        "text": "Stupid app not ETHIOPIA available",
-        "date": "2023-05-03"
-      },
-      {
-        "rating": 1,
-        "text": "SMS parsing not available",
-        "date": "2025-08-30"
-      }
-    ],
-    "updated_at": "2026-11-08T07:19:48.961580+00:00"
   },
   "google_play:com.vj.moneya": {
     "price": "5.49 USD",
@@ -5056,29 +4871,6 @@
     "reviews": [],
     "updated_at": "2026-11-08T07:19:58.280298+00:00"
   },
-  "google_play:pl.jakwydaje": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "Rozumiem powód ale nagrywanie w tle powinno być nielegalne.",
-        "date": "2025-09-11"
-      },
-      {
-        "rating": 1,
-        "text": "Szpiegowanko. Nie polecam. t.programista",
-        "date": "2025-09-20"
-      },
-      {
-        "rating": 4,
-        "text": "Po ostatniej aktualizacji aplikacja zawiesza się podczas uruchamiania na ekranie ładowania. OxygenOS, Android 13",
-        "date": "2023-10-18"
-      }
-    ],
-    "updated_at": "2026-11-08T07:20:06.358612+00:00"
-  },
   "google_play:com.donapon.pisces.cashbook": {
     "price": "Free",
     "price_value": 0.0,
@@ -5101,20 +4893,6 @@
       }
     ],
     "updated_at": "2026-11-08T07:20:08.289399+00:00"
-  },
-  "app_store:1092491157": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-08T07:20:11.357437+00:00"
-  },
-  "app_store:6780240293": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-08T07:20:12.789404+00:00"
   },
   "app_store:6804669929": {
     "price": "Free",
@@ -5180,13 +4958,6 @@
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-11-09T07:57:35.456918+00:00"
-  },
-  "google_play:com.money.budget.tracker.finance.save.expense": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-09T07:57:47.783172+00:00"
   },
   "google_play:com.framedata.expensetracker": {
     "price": "Free",
@@ -5264,13 +5035,6 @@
     ],
     "updated_at": "2026-11-09T07:58:09.912883+00:00"
   },
-  "google_play:com.appkitchenstudio.piggybudget": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-09T07:58:12.302055+00:00"
-  },
   "google_play:com.scorpions.expansemanager": {
     "price": "Free",
     "price_value": 0.0,
@@ -5307,13 +5071,6 @@
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-11-09T07:58:26.656379+00:00"
-  },
-  "google_play:com.haru.ledger": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-09T07:58:29.115817+00:00"
   },
   "google_play:com.telecomp.budget": {
     "price": "Free",
@@ -5418,13 +5175,6 @@
     ],
     "updated_at": "2026-11-10T08:26:09.137319+00:00"
   },
-  "google_play:io.tostao.app": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [],
-    "updated_at": "2026-11-10T08:26:12.164060+00:00"
-  },
   "google_play:it.gogliofederico.viviserenobudget": {
     "price": "Free",
     "price_value": 0.0,
@@ -5518,29 +5268,6 @@
     "reviews": [],
     "updated_at": "2026-11-10T08:26:30.791271+00:00"
   },
-  "app_store:6739868546": {
-    "price": "Free",
-    "price_value": 0.0,
-    "currency": "USD",
-    "reviews": [
-      {
-        "rating": 1,
-        "text": "This App does absolutely nothing except take your money.  It says it is “syncing” for last 3 days even though I haven’t connected anything yet.  Click “Connect a Bank” and it says I can’t because it’s syncing.  Yes I uninstalled and reinstalled-same problem. \nI tried to reach out to Developer Support but it just opens the app back up.  Click on “Developer Website” and it opens the app back up.  Total waste of time AND when I went to request my $9.99 refund it says no items are eligible for refund.  I don’t know what is going on but this is BS.",
-        "date": "2026-09-06"
-      },
-      {
-        "rating": 1,
-        "text": "This app takes your first payment yet does nothing. They just want the 9.99.  And are willing to take a bad review.",
-        "date": "2026-09-11"
-      },
-      {
-        "rating": 5,
-        "text": "Much love and gratitude to the Aisance team 🙏🙏🙏 For years I was drowning in credit card balances. Groceries always on Visa, gas on CapitalOne, school clothes for my daughter with the Macy’s card. Altogether it was a bit over 12k and every month I just paid the minimum, around 280, while interest kept eating me alive. I even stopped opening the letters from CapitalOne because it made me feel sick. A coworker pushed me to try Aisance and it completely shifted my mindset. The app broke the total info smaller goals and categories so it didn’t look like one giant wall. I picked my Macy’s card with 3.2k and followed the plan and 5 months later it was cleared. Then I moved to Visa with 5.1k and CapitalOne with 3.9k and step by step I closed them too. Today I am finally debt free and the relief is something I can’t even describe. Thank you ❤️",
-        "date": "2025-09-22"
-      }
-    ],
-    "updated_at": "2026-11-10T08:26:32.129575+00:00"
-  },
   "app_store:6804416277": {
     "price": "Free",
     "price_value": 0.0,
@@ -5582,5 +5309,470 @@
     "currency": "USD",
     "reviews": [],
     "updated_at": "2026-11-10T08:26:42.111122+00:00"
+  },
+  "google_play:com.aifamilyfinance.budget.tracker": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:46:12.405902+00:00"
+  },
+  "google_play:app.aming.balance": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:46:15.564011+00:00"
+  },
+  "google_play:com.sevencsolutions.myfinances": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Where are all the credits when exporting? People will go else where if they have to pay just to share it with there own devices.",
+        "date": "2019-03-18"
+      },
+      {
+        "rating": 1,
+        "text": "Cannot add or edit the names of categories. Limited options provied by default.",
+        "date": "2019-05-09"
+      },
+      {
+        "rating": 1,
+        "text": "Language setting does not work :-(",
+        "date": "2019-05-27"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:17.112840+00:00"
+  },
+  "google_play:ch.klarfabrik.batzen": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:46:20.029545+00:00"
+  },
+  "google_play:guru.bonbon.app": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "alle bons sind verschwunden.",
+        "date": "2025-04-05"
+      },
+      {
+        "rating": 1,
+        "text": "Just downloaded the App, it booted straight to a \"Ooops! Please contact Support\"",
+        "date": "2026-01-03"
+      },
+      {
+        "rating": 1,
+        "text": "Gute idee, leider erkennt die app fast nichts an den Bon. Mit so viel zu korrigieren kann ich es schneller manuell machen.",
+        "date": "2026-01-14"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:21.230848+00:00"
+  },
+  "google_play:com.kodence.budgetmate": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "This is just amazing, exactly what i was looking for. The AI receipt scanner is just super sleek and convenient. 5/5",
+        "date": "2025-08-03"
+      },
+      {
+        "rating": 5,
+        "text": "Perfect! Exactly what I was looking for, I love the receipt scanning feature",
+        "date": "2025-08-12"
+      },
+      {
+        "rating": 5,
+        "text": "Thanks for the app developer. so for ai assistant which llm api you use Thank you",
+        "date": "2025-09-11"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:24.390829+00:00"
+  },
+  "google_play:com.calendarbudget.mobile": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Was an avid user on the desktop until they slapped an incredibly high $4/month premium on it. I would rather pay a one time fee and possibly unlock higher features. This no longer makes financial sense.",
+        "date": "2018-12-10"
+      },
+      {
+        "rating": 1,
+        "text": "this app is not free. false information.",
+        "date": "2019-02-04"
+      },
+      {
+        "rating": 1,
+        "text": "Why doesn't the desktop version work anymore? Also, it's not letting me log into the phone app one stating there's an issue.",
+        "date": "2019-09-10"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:25.752668+00:00"
+  },
+  "google_play:com.reneph.moneytracker": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "if the app would allow for more than 5 recurring transactions it would be great, when I tried to up grade so I could have more than 5 recurring transactions, the up grade program will not take my money, so. ow I M left with looking for an app like CashOwl what will allow more than 5 recurring transactions.",
+        "date": "2025-10-20"
+      },
+      {
+        "rating": 4,
+        "text": "There are a few small things that could be better, but overall I like it. 1. The date doesn't work right for me. If I enter an expense on a certain day, the app enters it on the day before. This happens to every entry, recurring or regular, income or expense. 2. Minor, but the decimal being auto added would be easier/smoother to use. 3. I don't like the extra steps involved to view only 1 account, and they need reloaded each time to show only 1 acct. They get mixed up.",
+        "date": "2025-10-12"
+      },
+      {
+        "rating": 4,
+        "text": "Very nice UI and easy to use! But templates missing and most important you can't set the date months start for you according to your payment!",
+        "date": "2026-10-15"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:28.262195+00:00"
+  },
+  "google_play:com.spekregg.finzen.app": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:46:31.405214+00:00"
+  },
+  "google_play:dev.southernlight.futari": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:46:34.363327+00:00"
+  },
+  "google_play:com.bookkeeper": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Very poor app.Not stuck on their words.Increase price every year.Every year doubles the price and also dont have any good features in app.",
+        "date": "2023-11-28"
+      },
+      {
+        "rating": 1,
+        "text": "Worst accounting app",
+        "date": "2023-12-06"
+      },
+      {
+        "rating": 1,
+        "text": "I call many time is not packing my call send msg in whataap providing perfect ans but app is good same time bad still I tumbling change admin device I send also video still customer care send copy msg .",
+        "date": "2023-12-20"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:35.563576+00:00"
+  },
+  "google_play:com.wagma.kobu": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:46:38.370158+00:00"
+  },
+  "google_play:de.dhserviceit.sparlumo": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:46:41.569748+00:00"
+  },
+  "google_play:com.priotecs.MoneyControl": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Only 20 entry...money making app",
+        "date": "2014-12-19"
+      },
+      {
+        "rating": 1,
+        "text": "It is not good as of iOS UI. Since now Google moved to Lollipop, the android version need to be updated with some colorful UI or better looks.",
+        "date": "2014-12-25"
+      },
+      {
+        "rating": 1,
+        "text": "Starts asking money after 20 entries...if you're ready to pay, its great!",
+        "date": "2015-01-26"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:42.836027+00:00"
+  },
+  "google_play:com.anishu.homebudget.full": {
+    "price": "5.99 USD",
+    "price_value": 5.99,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "After Paying for this App. No support. Even after writing the mail.. no one cares to respond.. If you expect a professional support for the paid version. Don't buy this product.",
+        "date": "2019-11-12"
+      },
+      {
+        "rating": 1,
+        "text": "AVOID AVOID AVOID! doesn't sync! Complete waste of money.",
+        "date": "2019-12-03"
+      },
+      {
+        "rating": 1,
+        "text": "There is problem with this app. They only keep track the data for 3 years and the rest which I have been using it went missing from the app. Pls solve this problem.",
+        "date": "2020-03-07"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:44.067040+00:00"
+  },
+  "google_play:com.rellowteam.kakebo2": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Bad copycat",
+        "date": "2022-11-11"
+      },
+      {
+        "rating": 1,
+        "text": "Fake app not add money",
+        "date": "2023-06-07"
+      },
+      {
+        "rating": 1,
+        "text": "Account balance seen not correct please check",
+        "date": "2023-07-09"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:45.169754+00:00"
+  },
+  "google_play:com.quicktools.myexpenses": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Should be possible change the currency",
+        "date": "2023-04-19"
+      },
+      {
+        "rating": 5,
+        "text": "nice",
+        "date": "2021-12-09"
+      },
+      {
+        "rating": 5,
+        "text": "Ótima ferramenta!!!",
+        "date": "2022-03-29"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:48.107730+00:00"
+  },
+  "google_play:com.moneysync.expensetracker": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Very usefull app I have been finding such app on playstorr which can automatically detect debit or credit from my mobile and log it. Great guys",
+        "date": "2026-09-26"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:51.030371+00:00"
+  },
+  "google_play:com.hsnzkn.pavaya": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:46:54.011518+00:00"
+  },
+  "google_play:com.quicken.acme": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "REPEATEDLY HANGS WHEN TRYING TO LOG IN. I canceled my subscription because of this issue and then contacted support, but they told me they would only help me if I had an active paid subscription. | It's happening both in the app and website. I enter my email and click next and get an endless circle. Also the app is missing essential tax features such as the home office deduction.",
+        "date": "2026-05-05"
+      },
+      {
+        "rating": 1,
+        "text": "really tough to keep up with the app. it's designed well and easy enough to add accounts, but the accounts don't always link, the transactions you're expecting don't link to what has occurred, you need to reconnect and reverify accounts regularly, lots of notifications to action, and overall, much more work than benefit. lots of work for limited benefit. I think quicken makes money from people signing up, realizing it isn't good, canceling, and keeping 55% of the money paid as well. beware",
+        "date": "2026-05-08"
+      },
+      {
+        "rating": 1,
+        "text": "FDP-102, etc errors can no longer connect to my TSP or Raymond James accounts. been this way for more than a month with no change or updates. I'm done. Not paying for a product that doesn't work.",
+        "date": "2026-05-11"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:55.197827+00:00"
+  },
+  "google_play:com.nunkkot.simple_ledger": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:46:58.065549+00:00"
+  },
+  "google_play:com.saldo.finance": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Погано. Довго не могли зрозуміти, чому застосунок не вірно рахує баланс. Виявилось, що один раз додавши інтеграцію з монобанк, її неможливо видалити. Пробував написати у чат підтримки, але там щось з кольорами інтерфейсу. Білі букви на світло сірому фоні. І нічого не видно. Тоді я вирішив видалити свій аккаунт. Видалив, а разом з ним видалився весь сімейний аккаунт, який вела дружина) Щось дуже не пощастило нам з цим застосунком.",
+        "date": "2023-10-31"
+      },
+      {
+        "rating": 1,
+        "text": "чого додаток не оновлюється? що відбувається?",
+        "date": "2025-02-23"
+      },
+      {
+        "rating": 1,
+        "text": "Був ідеальний застосунок, але починаючи з 11/10/25 не працює. Оновлень немає вже більше року. Сумно що закинули такий крутий застосунок.",
+        "date": "2025-10-13"
+      }
+    ],
+    "updated_at": "2026-11-11T07:46:59.216030+00:00"
+  },
+  "google_play:com.digidevs.spendbyme": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "My phone is showing that this app has suspicious activity. Be careful before installing. I've reported to Google.",
+        "date": "2026-04-27"
+      },
+      {
+        "rating": 1,
+        "text": "यह app वाकई में बहुत अच्छा लगा इसमें सब कुछ है जो जरूरी है मैंने एक star इस लिए दियों इसको open source बनाओ यह paid features के साथ आता है हम लोग phone में रीचार्ज बहुत मुस्किल से करा पाते हैं",
+        "date": "2026-04-28"
+      },
+      {
+        "rating": 1,
+        "text": "oneplus phone managers marks it as risky had to uninstall.",
+        "date": "2026-05-11"
+      }
+    ],
+    "updated_at": "2026-11-11T07:47:00.460043+00:00"
+  },
+  "google_play:de.tallyapp.tally": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:47:04.145696+00:00"
+  },
+  "google_play:de.ourbudget.app": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Haven't gotten any feedback or seen any in the comments to others. Likely be switching apps instead of going pro.  I would like the pie chart to have percents for each expense included. Also please fix the monthly budgeting issue like the previous user suggested.",
+        "date": "2013-09-04"
+      },
+      {
+        "rating": 1,
+        "text": "Multiple reasons",
+        "date": "2014-06-14"
+      },
+      {
+        "rating": 1,
+        "text": "Crap , app won't work just force close over and over",
+        "date": "2015-01-03"
+      }
+    ],
+    "updated_at": "2026-11-11T07:47:05.266446+00:00"
+  },
+  "google_play:money.vento.expense.tracker": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "One of the best expense tracker apps with a clean, modern UI and smooth performance. My only request is to add subcategory support for Budgets. For example, under Vehicle, I should be able to create separate budgets for Fuel, Car Loan, and Maintenance instead of combining everything into one budget. This would make budgeting much more accurate and useful. Keep up the great work! Waiting for this update.",
+        "date": "2026-07-09"
+      },
+      {
+        "rating": 5,
+        "text": "I used the Cashew app earlier, but the level of customization sometimes felt overwhelming and made the UI look cluttered. Vento strikes a nice balance — clean UI with plenty of genuinely useful features.",
+        "date": "2026-05-18"
+      },
+      {
+        "rating": 5,
+        "text": "I love everything about this app - how the ui looks, how the application feels and how it does everything. Definitely consider buying premium if you can.....",
+        "date": "2026-05-19"
+      }
+    ],
+    "updated_at": "2026-11-11T07:47:08.223916+00:00"
+  },
+  "google_play:com.groshopys.app": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:47:10.982581+00:00"
+  },
+  "google_play:com.bestrie.aa": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "非常烂的记账apps，太复杂而且，一直延迟",
+        "date": "2023-06-11"
+      },
+      {
+        "rating": 3,
+        "text": "非常好用！遍寻记账app后终于找到了可以多币种转换的AA记账app，而且客服回复态度很好，遇到什么问题制造向客服都会积极地帮助用户解决，也会听取用户的提议积极改进。大推！！！❤️❤️❤️",
+        "date": "2021-12-30"
+      },
+      {
+        "rating": 4,
+        "text": "很好用",
+        "date": "2023-09-08"
+      }
+    ],
+    "updated_at": "2026-11-11T07:47:13.503858+00:00"
+  },
+  "google_play:com.ttalkkag.moduledger": {
+    "price": "Free",
+    "price_value": 0.0,
+    "currency": "USD",
+    "reviews": [],
+    "updated_at": "2026-11-11T07:47:16.231743+00:00"
   }
 }
