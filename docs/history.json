@@ -440,9 +440,34 @@
       "count": 322,
       "discovered": 327,
       "config_hash": "67589f83c3da"
+    },
+    {
+      "day": "2026-11-14",
+      "platform": "google_play",
+      "count": 279,
+      "discovered": 280,
+      "config_hash": "67589f83c3da"
     }
   ],
   "runs": [
+    {
+      "day": "2026-11-14",
+      "platform": "google_play",
+      "status": "ok",
+      "queries_ok": 34,
+      "queries_total": 34,
+      "error": "",
+      "checked_at": "2026-11-14T07:35:39.270615+00:00"
+    },
+    {
+      "day": "2026-11-14",
+      "platform": "app_store",
+      "status": "error",
+      "queries_ok": 33,
+      "queries_total": 34,
+      "error": "id-id / pengatur anggaran: HTTPError: 429 Client Error: Too Many Requests for url: https://itunes.apple.com/search?term=pengatur+anggaran&country=id&media=sof",
+      "checked_at": "2026-11-14T07:36:12.562697+00:00"
+    },
     {
       "day": "2026-11-13",
       "platform": "google_play",
