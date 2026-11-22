@@ -1,6 +1,6 @@
 {
   "google_play": {
-    "day": "2026-11-21",
+    "day": "2026-11-22",
     "apps": [
       {
         "id": "org.pixelrush.moneyiq",
@@ -16,11 +16,6 @@
         "id": "gen.net.administre",
         "name": "Administre: Gestão Financeira",
         "url": "https://play.google.com/store/apps/details?id=gen.net.administre"
-      },
-      {
-        "id": "com.cuentate.aimoney",
-        "name": "AI Money: Controle de Gastos",
-        "url": "https://play.google.com/store/apps/details?id=com.cuentate.aimoney"
       },
       {
         "id": "br.ia.myall.android",
@@ -43,6 +38,11 @@
         "url": "https://play.google.com/store/apps/details?id=com.daamitt.walnut.app"
       },
       {
+        "id": "it.wellcode.balance",
+        "name": "Balance: Budget e Spese Coppia",
+        "url": "https://play.google.com/store/apps/details?id=it.wellcode.balance"
+      },
+      {
         "id": "com.bankeen",
         "name": "Bankin' : Gestion de budget",
         "url": "https://play.google.com/store/apps/details?id=com.bankeen"
@@ -61,11 +61,6 @@
         "id": "it.appbilancio.bilancio_familiare",
         "name": "Bilancio Familiare",
         "url": "https://play.google.com/store/apps/details?id=it.appbilancio.bilancio_familiare"
-      },
-      {
-        "id": "it.salvocaster.money",
-        "name": "Bilancio Familiare: Budget",
-        "url": "https://play.google.com/store/apps/details?id=it.salvocaster.money"
       },
       {
         "id": "com.bilanciofamiliare.app",
@@ -93,13 +88,8 @@
         "url": "https://play.google.com/store/apps/details?id=com.pocketguard.android.app"
       },
       {
-        "id": "com.money.manager.budget.planner.expense.tracker",
-        "name": "Budget e Finanze Spese Mensili",
-        "url": "https://play.google.com/store/apps/details?id=com.money.manager.budget.planner.expense.tracker"
-      },
-      {
         "id": "com.budgeting365.app",
-        "name": "Budget Lock: Gelir Gider Bütçe",
+        "name": "Budget Lock: Gestion Dépenses",
         "url": "https://play.google.com/store/apps/details?id=com.budgeting365.app"
       },
       {
@@ -111,6 +101,11 @@
         "id": "com.colpit.diamondcoming.isavemoney",
         "name": "Budget planner—Expense tracker",
         "url": "https://play.google.com/store/apps/details?id=com.colpit.diamondcoming.isavemoney"
+      },
+      {
+        "id": "com.teocoding.budgettracker",
+        "name": "Budget Tracker: Controle Gasto",
+        "url": "https://play.google.com/store/apps/details?id=com.teocoding.budgettracker"
       },
       {
         "id": "com.budgetgoal.mobile",
@@ -143,6 +138,11 @@
         "url": "https://play.google.com/store/apps/details?id=com.yigithan.budgettracker"
       },
       {
+        "id": "com.butceapp",
+        "name": "Bütçe Takip",
+        "url": "https://play.google.com/store/apps/details?id=com.butceapp"
+      },
+      {
         "id": "com.makobyte.budget_tracker",
         "name": "Bütçe Takip - Gelir Gider",
         "url": "https://play.google.com/store/apps/details?id=com.makobyte.budget_tracker"
@@ -169,7 +169,7 @@
       },
       {
         "id": "com.officialbrain.spending_tracker",
-        "name": "CashFlow: Бюджет та Витрати",
+        "name": "CashFlow: Controle Financeiro",
         "url": "https://play.google.com/store/apps/details?id=com.officialbrain.spending_tracker"
       },
       {
@@ -193,6 +193,11 @@
         "url": "https://play.google.com/store/apps/details?id=com.munzhkin.catatuangku"
       },
       {
+        "id": "com.picdev.newcontaiApp",
+        "name": "ContAI : Assistente financeiro",
+        "url": "https://play.google.com/store/apps/details?id=com.picdev.newcontaiApp"
+      },
+      {
         "id": "br.com.francisco.contasemdia",
         "name": "Contas em Dia – Contas a Pagar",
         "url": "https://play.google.com/store/apps/details?id=br.com.francisco.contasemdia"
@@ -213,6 +218,16 @@
         "url": "https://play.google.com/store/apps/details?id=com.wiltonfernandes.paguei"
       },
       {
+        "id": "com.receipticus.receiptix",
+        "name": "Controle de Gastos: Scanner IA",
+        "url": "https://play.google.com/store/apps/details?id=com.receipticus.receiptix"
+      },
+      {
+        "id": "com.cristianwdev.controlefinancasfacil",
+        "name": "Controle Financeiro Fácil",
+        "url": "https://play.google.com/store/apps/details?id=com.cristianwdev.controlefinancasfacil"
+      },
+      {
         "id": "io.ionic.controledegastos",
         "name": "Controle Financeiro Pessoal",
         "url": "https://play.google.com/store/apps/details?id=io.ionic.controledegastos"
@@ -231,11 +246,6 @@
         "id": "com.minuni.controlle",
         "name": "Controlle: Finanças Pessoais",
         "url": "https://play.google.com/store/apps/details?id=com.minuni.controlle"
-      },
-      {
-        "id": "com.jupiter.rota",
-        "name": "Costbook: Облік витрат",
-        "url": "https://play.google.com/store/apps/details?id=com.jupiter.rota"
       },
       {
         "id": "com.fieldesigner.CoupleFinance",
@@ -263,11 +273,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.lovelyduck.daak"
       },
       {
-        "id": "com.telecomp.budget",
-        "name": "Daily Budget | No Overspend",
-        "url": "https://play.google.com/store/apps/details?id=com.telecomp.budget"
-      },
-      {
         "id": "kr.co.yjteam.dailypay",
         "name": "DAILY PAY - 予算管理家計簿",
         "url": "https://play.google.com/store/apps/details?id=kr.co.yjteam.dailypay"
@@ -286,11 +291,6 @@
         "id": "com.reciptix.spentrip",
         "name": "Despesas de Viagem & Orçamento",
         "url": "https://play.google.com/store/apps/details?id=com.reciptix.spentrip"
-      },
-      {
-        "id": "it.wellcode.balance",
-        "name": "Despesas do Casal · Balance",
-        "url": "https://play.google.com/store/apps/details?id=it.wellcode.balance"
       },
       {
         "id": "com.despezzas",
@@ -323,6 +323,11 @@
         "url": "https://play.google.com/store/apps/details?id=com.benoitletondor.easybudgetapp"
       },
       {
+        "id": "com.artem.churylov.easywallet",
+        "name": "EasyWallet：记账与支出管理",
+        "url": "https://play.google.com/store/apps/details?id=com.artem.churylov.easywallet"
+      },
+      {
         "id": "com.emmaprod",
         "name": "Emma - Budget Planner Tracker",
         "url": "https://play.google.com/store/apps/details?id=com.emmaprod"
@@ -334,7 +339,7 @@
       },
       {
         "id": "com.finance.expanager",
-        "name": "Expanager: 가계부·지출 관리",
+        "name": "Expanager: Controle de Gastos",
         "url": "https://play.google.com/store/apps/details?id=com.finance.expanager"
       },
       {
@@ -348,14 +353,14 @@
         "url": "https://play.google.com/store/apps/details?id=ai.myexpense.app"
       },
       {
-        "id": "com.ackbiz.expense_book",
-        "name": "Expense Book: AI Money Manager",
-        "url": "https://play.google.com/store/apps/details?id=com.ackbiz.expense_book"
-      },
-      {
         "id": "com.tariq.expenseeasy",
         "name": "Expense Easy: AI Money Tracker",
         "url": "https://play.google.com/store/apps/details?id=com.tariq.expenseeasy"
+      },
+      {
+        "id": "com.handyapps.expenseiq",
+        "name": "Expense IQ: Controle de gastos",
+        "url": "https://play.google.com/store/apps/details?id=com.handyapps.expenseiq"
       },
       {
         "id": "com.jtnrdev.expensetrackerapp",
@@ -388,6 +393,11 @@
         "url": "https://play.google.com/store/apps/details?id=com.simpleacc"
       },
       {
+        "id": "com.polvarix.familybudget",
+        "name": "Family Budget: Shared Expenses",
+        "url": "https://play.google.com/store/apps/details?id=com.polvarix.familybudget"
+      },
+      {
         "id": "com.colpit.diamondcoming.isavemoneygo",
         "name": "Family budget—Spending tracker",
         "url": "https://play.google.com/store/apps/details?id=com.colpit.diamondcoming.isavemoneygo"
@@ -396,11 +406,6 @@
         "id": "com.blodhgard.easybudget",
         "name": "Fast Budget - Expense Manager",
         "url": "https://play.google.com/store/apps/details?id=com.blodhgard.easybudget"
-      },
-      {
-        "id": "in.usefulapp.timelybills",
-        "name": "Faturas, Orçamento e despesas",
-        "url": "https://play.google.com/store/apps/details?id=in.usefulapp.timelybills"
       },
       {
         "id": "br.com.grunkle.financee",
@@ -418,6 +423,11 @@
         "url": "https://play.google.com/store/apps/details?id=de.dwins.financeguru"
       },
       {
+        "id": "com.bloctech.expense.expensetracker",
+        "name": "Finanças Pessoais Gerenciador",
+        "url": "https://play.google.com/store/apps/details?id=com.bloctech.expense.expensetracker"
+      },
+      {
         "id": "com.finart",
         "name": "FinArt: AI Expense Tracker",
         "url": "https://play.google.com/store/apps/details?id=com.finart"
@@ -428,11 +438,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.apptech.fing"
       },
       {
-        "id": "com.finku",
-        "name": "Finku: Budget & Money Manager",
-        "url": "https://play.google.com/store/apps/details?id=com.finku"
-      },
-      {
         "id": "com.lowkeynova.fino",
         "name": "Fino – Облік витрат і бюджет",
         "url": "https://play.google.com/store/apps/details?id=com.lowkeynova.fino"
@@ -441,11 +446,6 @@
         "id": "ajl.budget.finzee",
         "name": "Finzee - Budget planner",
         "url": "https://play.google.com/store/apps/details?id=ajl.budget.finzee"
-      },
-      {
-        "id": "com.spekregg.finzen.app",
-        "name": "FinZen—지출 및 결제 관리",
-        "url": "https://play.google.com/store/apps/details?id=com.spekregg.finzen.app"
       },
       {
         "id": "com.fleurbudget",
@@ -483,6 +483,11 @@
         "url": "https://play.google.com/store/apps/details?id=cashbook.cashbook"
       },
       {
+        "id": "mic.app.gastosdiarios_clasico",
+        "name": "Gastos Diários 2",
+        "url": "https://play.google.com/store/apps/details?id=mic.app.gastosdiarios_clasico"
+      },
+      {
         "id": "mic.app.gastosdiarios",
         "name": "Gastos Diários 3",
         "url": "https://play.google.com/store/apps/details?id=mic.app.gastosdiarios"
@@ -491,6 +496,11 @@
         "id": "com.wisedevs.wisebudget",
         "name": "Gastos e receitas: Wise Budget",
         "url": "https://play.google.com/store/apps/details?id=com.wisedevs.wisebudget"
+      },
+      {
+        "id": "com.fcojr.contasemdiapro",
+        "name": "Gastos em Dia",
+        "url": "https://play.google.com/store/apps/details?id=com.fcojr.contasemdiapro"
       },
       {
         "id": "br.com.gestaodedespesas",
@@ -503,9 +513,19 @@
         "url": "https://play.google.com/store/apps/details?id=at.markushi.expensemanager"
       },
       {
+        "id": "com.neslit.budgettrackerapp",
+        "name": "gestion de l'argent",
+        "url": "https://play.google.com/store/apps/details?id=com.neslit.budgettrackerapp"
+      },
+      {
         "id": "uy.com.coinapp.coin",
         "name": "Gestor de despesas e Finanças",
         "url": "https://play.google.com/store/apps/details?id=uy.com.coinapp.coin"
+      },
+      {
+        "id": "com.money.moneymate",
+        "name": "Gestor de Despesas e Orçamento",
+        "url": "https://play.google.com/store/apps/details?id=com.money.moneymate"
       },
       {
         "id": "org.mths.financecontrol",
@@ -513,9 +533,9 @@
         "url": "https://play.google.com/store/apps/details?id=org.mths.financecontrol"
       },
       {
-        "id": "com.money.moneymate",
-        "name": "Gestor de Despesas e Orçamento",
-        "url": "https://play.google.com/store/apps/details?id=com.money.moneymate"
+        "id": "app.money.tracker.pro",
+        "name": "Gestor de dinheiro e orçamento",
+        "url": "https://play.google.com/store/apps/details?id=app.money.tracker.pro"
       },
       {
         "id": "expense.tracker.income.receipt.budget",
@@ -526,11 +546,6 @@
         "id": "app.SpendingTrackerExpenseManager",
         "name": "Gestor de orçamento - Diários",
         "url": "https://play.google.com/store/apps/details?id=app.SpendingTrackerExpenseManager"
-      },
-      {
-        "id": "com.money.tracker.finance.budget.planner",
-        "name": "Gestão Financeira: Budget App",
-        "url": "https://play.google.com/store/apps/details?id=com.money.tracker.finance.budget.planner"
       },
       {
         "id": "com.dayspringtech.envelopes",
@@ -563,11 +578,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.haushaltsbuch"
       },
       {
-        "id": "com.receipticus.receiptix",
-        "name": "Haushaltsbuch & Belegscanner",
-        "url": "https://play.google.com/store/apps/details?id=com.receipticus.receiptix"
-      },
-      {
         "id": "com.wagma.kobu",
         "name": "Haushaltsbuch & Budget: Kobu",
         "url": "https://play.google.com/store/apps/details?id=com.wagma.kobu"
@@ -588,11 +598,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.tr1gger.app"
       },
       {
-        "id": "com.aistudio.haushaltsbuch.kixmpz",
-        "name": "Haushaltsbuch: Budget & Konto",
-        "url": "https://play.google.com/store/apps/details?id=com.aistudio.haushaltsbuch.kixmpz"
-      },
-      {
         "id": "de.eigeneapps.haushaltsbuch",
         "name": "Haushaltsbuch: Finanzplaner",
         "url": "https://play.google.com/store/apps/details?id=de.eigeneapps.haushaltsbuch"
@@ -601,11 +606,6 @@
         "id": "app.onepeek",
         "name": "Haushaltsbuch: Geld Verstehen",
         "url": "https://play.google.com/store/apps/details?id=app.onepeek"
-      },
-      {
-        "id": "com.keepsoft.homebuh.lite",
-        "name": "Home Bookkeeping",
-        "url": "https://play.google.com/store/apps/details?id=com.keepsoft.homebuh.lite"
       },
       {
         "id": "com.anishu.homebudget.full",
@@ -623,11 +623,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.ivy.wallet"
       },
       {
-        "id": "com.rellowteam.kakebo2",
-        "name": "Kakebo: despesas, orçamentos",
-        "url": "https://play.google.com/store/apps/details?id=com.rellowteam.kakebo2"
-      },
-      {
         "id": "com.jagadish.expensetrack",
         "name": "Kharcha Check: Expense Tracker",
         "url": "https://play.google.com/store/apps/details?id=com.jagadish.expensetrack"
@@ -641,6 +636,11 @@
         "id": "com.binaryscript.offlinecashbook",
         "name": "Livro Caixa Offline - Gastos",
         "url": "https://play.google.com/store/apps/details?id=com.binaryscript.offlinecashbook"
+      },
+      {
+        "id": "com.ktwtechnologies.moneyledgers",
+        "name": "Livro de dinheiro : Despesa",
+        "url": "https://play.google.com/store/apps/details?id=com.ktwtechnologies.moneyledgers"
       },
       {
         "id": "com.mikjoe.org.fly",
@@ -663,6 +663,16 @@
         "url": "https://play.google.com/store/apps/details?id=com.glgjing.money.manager.bookkeeping.meow"
       },
       {
+        "id": "org.totschnig.myexpenses",
+        "name": "Mes dépenses",
+        "url": "https://play.google.com/store/apps/details?id=org.totschnig.myexpenses"
+      },
+      {
+        "id": "com.meufinanceiro.app",
+        "name": "Meu Financeiro",
+        "url": "https://play.google.com/store/apps/details?id=com.meufinanceiro.app"
+      },
+      {
         "id": "br.com.meudin.financas",
         "name": "MeuDin: Finanças pessoais",
         "url": "https://play.google.com/store/apps/details?id=br.com.meudin.financas"
@@ -683,16 +693,6 @@
         "url": "https://play.google.com/store/apps/details?id=tk.andrekunde.minhasdespesas"
       },
       {
-        "id": "org.totschnig.myexpenses",
-        "name": "Minhas despesas",
-        "url": "https://play.google.com/store/apps/details?id=org.totschnig.myexpenses"
-      },
-      {
-        "id": "com.quicktools.myexpenses",
-        "name": "Minhas Despesas",
-        "url": "https://play.google.com/store/apps/details?id=com.quicktools.myexpenses"
-      },
-      {
         "id": "com.minhaseconomias",
         "name": "Minhas Economias | Finanças",
         "url": "https://play.google.com/store/apps/details?id=com.minhaseconomias"
@@ -701,11 +701,6 @@
         "id": "cicero.minhasfinancas",
         "name": "Minhas Finanças: Controle e IA",
         "url": "https://play.google.com/store/apps/details?id=cicero.minhasfinancas"
-      },
-      {
-        "id": "com.drossoft.myaccountsandexpenses",
-        "name": "Mis Cuentas y Gastos",
-        "url": "https://play.google.com/store/apps/details?id=com.drossoft.myaccountsandexpenses"
       },
       {
         "id": "br.com.gerenciadorfinanceiro.controller",
@@ -738,11 +733,6 @@
         "url": "https://play.google.com/store/apps/details?id=hk.moneon"
       },
       {
-        "id": "com.clickland.monetal.free",
-        "name": "Monetal - Expense Tracker",
-        "url": "https://play.google.com/store/apps/details?id=com.clickland.monetal.free"
-      },
-      {
         "id": "com.flexvel.monetix",
         "name": "Monetix: Облік витрат і бюджет",
         "url": "https://play.google.com/store/apps/details?id=com.flexvel.monetix"
@@ -754,7 +744,7 @@
       },
       {
         "id": "com.soft.znich.FlowmoPro",
-        "name": "Money Flow: Despesas Mensais",
+        "name": "Money Flow: Budżet i Wydatki",
         "url": "https://play.google.com/store/apps/details?id=com.soft.znich.FlowmoPro"
       },
       {
@@ -844,13 +834,8 @@
       },
       {
         "id": "com.celestialinsights.moneymeow",
-        "name": "Money Meow: Wydatki i Budżet",
+        "name": "Money Meow: Фінанси та Кіт",
         "url": "https://play.google.com/store/apps/details?id=com.celestialinsights.moneymeow"
-      },
-      {
-        "id": "moneytracker.expensetracker.budgetplanner.spendingtracker",
-        "name": "Money Tracker Expense Tracker",
-        "url": "https://play.google.com/store/apps/details?id=moneytracker.expensetracker.budgetplanner.spendingtracker"
       },
       {
         "id": "com.freeman.moneymanager",
@@ -873,18 +858,18 @@
         "url": "https://play.google.com/store/apps/details?id=com.komorebi.kakeibo"
       },
       {
-        "id": "jp.moneytree.moneytree",
-        "name": "Moneytree 家計簿より楽チン",
-        "url": "https://play.google.com/store/apps/details?id=jp.moneytree.moneytree"
-      },
-      {
         "id": "com.monoteapp",
         "name": "Monote: Controle Financeiro",
         "url": "https://play.google.com/store/apps/details?id=com.monoteapp"
       },
       {
+        "id": "com.drossoft.myaccountsandexpenses",
+        "name": "My Accounts and Expenses",
+        "url": "https://play.google.com/store/apps/details?id=com.drossoft.myaccountsandexpenses"
+      },
+      {
         "id": "com.onetwoapps.mh",
-        "name": "My Budget Book",
+        "name": "My Budget Book (français)",
         "url": "https://play.google.com/store/apps/details?id=com.onetwoapps.mh"
       },
       {
@@ -993,9 +978,9 @@
         "url": "https://play.google.com/store/apps/details?id=io.cloudwalk.pierre"
       },
       {
-        "id": "com.neslit.budgettrackerapp",
+        "id": "com.ai.expensemanager.expensetracker.app",
         "name": "Planejador de orçamento",
-        "url": "https://play.google.com/store/apps/details?id=com.neslit.budgettrackerapp"
+        "url": "https://play.google.com/store/apps/details?id=com.ai.expensemanager.expensetracker.app"
       },
       {
         "id": "com.anonymous.planejagastos",
@@ -1013,11 +998,6 @@
         "url": "https://play.google.com/store/apps/details?id=me.pliit"
       },
       {
-        "id": "com.scorpions.expansemanager",
-        "name": "Pocket -Budget Expense Tracker",
-        "url": "https://play.google.com/store/apps/details?id=com.scorpions.expansemanager"
-      },
-      {
         "id": "com.havabee.pocket",
         "name": "Pocket: 지출 관리 앱",
         "url": "https://play.google.com/store/apps/details?id=com.havabee.pocket"
@@ -1031,11 +1011,6 @@
         "id": "app.quanto.quanto",
         "name": "Quanto: Budget Expense Tracker",
         "url": "https://play.google.com/store/apps/details?id=app.quanto.quanto"
-      },
-      {
-        "id": "com.litapplications.realbudget",
-        "name": "RealBudget: Envelope Budgeting",
-        "url": "https://play.google.com/store/apps/details?id=com.litapplications.realbudget"
       },
       {
         "id": "com.easyexpense",
@@ -1058,6 +1033,11 @@
         "url": "https://play.google.com/store/apps/details?id=com.jc.rollymoneytracker"
       },
       {
+        "id": "com.nunkkot.simple_ledger",
+        "name": "S 가계부",
+        "url": "https://play.google.com/store/apps/details?id=com.nunkkot.simple_ledger"
+      },
+      {
         "id": "com.w1consultoria.app",
         "name": "S1NC: Planejamento Financeiro",
         "url": "https://play.google.com/store/apps/details?id=com.w1consultoria.app"
@@ -1068,9 +1048,9 @@
         "url": "https://play.google.com/store/apps/details?id=de.moneytool.app"
       },
       {
-        "id": "gplx.simple.budgetapp",
-        "name": "Simple Budget",
-        "url": "https://play.google.com/store/apps/details?id=gplx.simple.budgetapp"
+        "id": "com.saveliny.app",
+        "name": "Saveliny: Haushaltsbuch & KI",
+        "url": "https://play.google.com/store/apps/details?id=com.saveliny.app"
       },
       {
         "id": "balance.money.manager.flivion",
@@ -1078,9 +1058,24 @@
         "url": "https://play.google.com/store/apps/details?id=balance.money.manager.flivion"
       },
       {
+        "id": "io.skywaylabs.skybudget",
+        "name": "SkyBudget: budżet domowy",
+        "url": "https://play.google.com/store/apps/details?id=io.skywaylabs.skybudget"
+      },
+      {
         "id": "com.SmartBudgetPlus.GoldFlyApps",
         "name": "Smart Budget Plus",
         "url": "https://play.google.com/store/apps/details?id=com.SmartBudgetPlus.GoldFlyApps"
+      },
+      {
+        "id": "app.snoop",
+        "name": "Snoop Finance | Budget Tracker",
+        "url": "https://play.google.com/store/apps/details?id=app.snoop"
+      },
+      {
+        "id": "com.brightapps.moneymanager",
+        "name": "Somino: Orçamento e gastos",
+        "url": "https://play.google.com/store/apps/details?id=com.brightapps.moneymanager"
       },
       {
         "id": "com.cleevio.spendee",
@@ -1101,11 +1096,6 @@
         "id": "com.Splitwise.SplitwiseMobile",
         "name": "Splitwise",
         "url": "https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile"
-      },
-      {
-        "id": "org.tsafack.homeledger",
-        "name": "StillMoney: Haushaltsbuch",
-        "url": "https://play.google.com/store/apps/details?id=org.tsafack.homeledger"
       },
       {
         "id": "com.jojdevx.expense.tracker",
@@ -1193,11 +1183,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.uzel.odedimmi"
       },
       {
-        "id": "com.r6apps.expensemanagerlite",
-        "name": "Бюджет",
-        "url": "https://play.google.com/store/apps/details?id=com.r6apps.expensemanagerlite"
-      },
-      {
         "id": "com.ehmtech.budget",
         "name": "Бюджет - облік витрат",
         "url": "https://play.google.com/store/apps/details?id=com.ehmtech.budget"
@@ -1258,9 +1243,9 @@
         "url": "https://play.google.com/store/apps/details?id=com.codestore.masarif"
       },
       {
-        "id": "com.zeitounstudio.wallet",
-        "name": "محفظة | تتبع المصاريف",
-        "url": "https://play.google.com/store/apps/details?id=com.zeitounstudio.wallet"
+        "id": "com.sarfyaty.app",
+        "name": "صرفياتي: متابعة المصروفات",
+        "url": "https://play.google.com/store/apps/details?id=com.sarfyaty.app"
       },
       {
         "id": "cc.wusool.masroofati",
@@ -1288,24 +1273,19 @@
         "url": "https://play.google.com/store/apps/details?id=com.donapon.pisces.cashbook"
       },
       {
-        "id": "com.amaneks.kakeibo",
-        "name": "かんたん家計簿 - レシート撮影・AI診断・家族共有",
-        "url": "https://play.google.com/store/apps/details?id=com.amaneks.kakeibo"
-      },
-      {
         "id": "com.sakura_apps.kk",
         "name": "かんたん家計簿 カケイ",
         "url": "https://play.google.com/store/apps/details?id=com.sakura_apps.kk"
       },
       {
-        "id": "com.sakura_apps.mtm",
-        "name": "こだわり家計簿マネタメ - カード払いの管理、共有、レシート",
-        "url": "https://play.google.com/store/apps/details?id=com.sakura_apps.mtm"
+        "id": "com.pontokakeibo.app",
+        "name": "ぽんっと家計簿 - 1000円単位のざっくり家計簿",
+        "url": "https://play.google.com/store/apps/details?id=com.pontokakeibo.app"
       },
       {
-        "id": "com.lancerdog.money_board",
-        "name": "まねーぼ - 夫婦・カップルの共有家計簿アプリ",
-        "url": "https://play.google.com/store/apps/details?id=com.lancerdog.money_board"
+        "id": "com.nerdens.green_lodger",
+        "name": "みどり家計簿 - 広告なし・夫婦カップル共有・旅行",
+        "url": "https://play.google.com/store/apps/details?id=com.nerdens.green_lodger"
       },
       {
         "id": "com.itoshonanapp.simplekakeibo",
@@ -1313,9 +1293,14 @@
         "url": "https://play.google.com/store/apps/details?id=com.itoshonanapp.simplekakeibo"
       },
       {
-        "id": "com.beartail.dr.wallet",
-        "name": "家計簿 Dr.Wallet-レシートポイ活で家計簿を記録",
-        "url": "https://play.google.com/store/apps/details?id=com.beartail.dr.wallet"
+        "id": "com.pochipomu.flickdekakeiboapp",
+        "name": "フリックDe家計簿",
+        "url": "https://play.google.com/store/apps/details?id=com.pochipomu.flickdekakeiboapp"
+      },
+      {
+        "id": "jp.co.smartbank.b43",
+        "name": "ワンバンク: 共有カードとAI家計簿アプリ",
+        "url": "https://play.google.com/store/apps/details?id=jp.co.smartbank.b43"
       },
       {
         "id": "com.moneyforward.android.app",
@@ -1323,19 +1308,9 @@
         "url": "https://play.google.com/store/apps/details?id=com.moneyforward.android.app"
       },
       {
-        "id": "jp.receipi.pakayo",
-        "name": "家計簿 レシーピ！レシート読み取り・続く家計簿アプリ",
-        "url": "https://play.google.com/store/apps/details?id=jp.receipi.pakayo"
-      },
-      {
         "id": "jp.united.app.kanahei.money",
         "name": "家計簿-カナヘイのストーリー×お金管理アプリ",
         "url": "https://play.google.com/store/apps/details?id=jp.united.app.kanahei.money"
-      },
-      {
-        "id": "jp.co.toshibadata.receiptocr",
-        "name": "家計簿「レシートスキャン」 人気のレシート読み取り家計簿",
-        "url": "https://play.google.com/store/apps/details?id=jp.co.toshibadata.receiptocr"
       },
       {
         "id": "net.zaim.android",
@@ -1343,9 +1318,14 @@
         "url": "https://play.google.com/store/apps/details?id=net.zaim.android"
       },
       {
-        "id": "jp.co.recemaru",
-        "name": "家計簿レシマル - レシート撮影でおしゃれで簡単便利な家計簿",
-        "url": "https://play.google.com/store/apps/details?id=jp.co.recemaru"
+        "id": "com.money.manager.budget.planner.expense.tracker",
+        "name": "家計簿アプリ - お小遣い帳・お金管理・収支・支出管理",
+        "url": "https://play.google.com/store/apps/details?id=com.money.manager.budget.planner.expense.tracker"
+      },
+      {
+        "id": "com.komorebi.kaikei",
+        "name": "小生意记账本 - 记账软件与预算财务管理, 小企业预算",
+        "url": "https://play.google.com/store/apps/details?id=com.komorebi.kaikei"
       },
       {
         "id": "com.lancerdog.expense_tracking",
@@ -1383,11 +1363,6 @@
         "url": "https://play.google.com/store/apps/details?id=jp.tyabaken.kakeibo"
       },
       {
-        "id": "com.funeasysoft.budget",
-        "name": "袋分家計簿",
-        "url": "https://play.google.com/store/apps/details?id=com.funeasysoft.budget"
-      },
-      {
         "id": "com.fourdesire.fortunecity",
         "name": "记账城市 - 用每笔收支，建造你的城市",
         "url": "https://play.google.com/store/apps/details?id=com.fourdesire.fortunecity"
@@ -1398,14 +1373,19 @@
         "url": "https://play.google.com/store/apps/details?id=tw.com.moneybook.moneybook"
       },
       {
-        "id": "com.optiwork.moneyledger",
-        "name": "가계부AI - 지출·자산·영수증 관리",
-        "url": "https://play.google.com/store/apps/details?id=com.optiwork.moneyledger"
+        "id": "com.dangnhstudio.expensetracker",
+        "name": "가계부: 수입 지출 관리・용돈기입장",
+        "url": "https://play.google.com/store/apps/details?id=com.dangnhstudio.expensetracker"
       },
       {
         "id": "dev.familyledger.app",
         "name": "가계부온",
         "url": "https://play.google.com/store/apps/details?id=dev.familyledger.app"
+      },
+      {
+        "id": "com.vincent.fixedexpense",
+        "name": "고정지출 가계부",
+        "url": "https://play.google.com/store/apps/details?id=com.vincent.fixedexpense"
       },
       {
         "id": "com.nhn.android.moneybook",
@@ -1453,11 +1433,6 @@
         "url": "https://play.google.com/store/apps/details?id=com.cheddr.app"
       },
       {
-        "id": "com.nerdens.green_lodger",
-        "name": "초록가계부: 광고없는 공유가계부·부부·커플·여행 가계부",
-        "url": "https://play.google.com/store/apps/details?id=com.nerdens.green_lodger"
-      },
-      {
         "id": "com.trabee.exnote.travel",
         "name": "트라비포켓 - 여행가계부",
         "url": "https://play.google.com/store/apps/details?id=com.trabee.exnote.travel"
@@ -1475,17 +1450,12 @@
     ]
   },
   "app_store": {
-    "day": "2026-11-21",
+    "day": "2026-11-22",
     "apps": [
       {
         "id": "6478484455",
         "name": "(Simple) Finance: Subs & Bills",
         "url": "https://apps.apple.com/tr/app/simple-finance-subs-bills/id6478484455?uo=4"
-      },
-      {
-        "id": "6802270294",
-        "name": "+باقي",
-        "url": "https://apps.apple.com/sa/app/%D8%A8%D8%A7%D9%82%D9%8A/id6802270294?uo=4"
       },
       {
         "id": "1193502519",
@@ -1549,8 +1519,8 @@
       },
       {
         "id": "6503930426",
-        "name": "8udget: Presupuesto personal",
-        "url": "https://apps.apple.com/es/app/8udget-presupuesto-personal/id6503930426?uo=4"
+        "name": "8udget: Budget Finance Tracker",
+        "url": "https://apps.apple.com/id/app/8udget-budget-finance-tracker/id6503930426?uo=4"
       },
       {
         "id": "6633443325",
@@ -1588,6 +1558,11 @@
         "url": "https://apps.apple.com/us/app/abukai-expense-reports-receipt/id370662888?uo=4"
       },
       {
+        "id": "6759658386",
+        "name": "Abundance: Budget Planner",
+        "url": "https://apps.apple.com/us/app/abundance-budget-planner/id6759658386?uo=4"
+      },
+      {
         "id": "1596113242",
         "name": "Account & Expense Manager",
         "url": "https://apps.apple.com/gb/app/account-expense-manager/id1596113242?uo=4"
@@ -1621,11 +1596,6 @@
         "id": "1551792816",
         "name": "Agenda Boa: Gestão e Pedidos",
         "url": "https://apps.apple.com/br/app/agenda-boa-gest%C3%A3o-e-pedidos/id1551792816?uo=4"
-      },
-      {
-        "id": "6760293188",
-        "name": "Agenda Pareja Familia - Toggly",
-        "url": "https://apps.apple.com/es/app/agenda-pareja-familia-toggly/id6760293188?uo=4"
       },
       {
         "id": "844649811",
@@ -1683,11 +1653,6 @@
         "url": "https://apps.apple.com/tw/app/ai-%E8%A8%98%E5%B8%B3%E6%9C%AC-%E7%B0%A1%E5%96%AE%E7%94%9F%E6%B4%BB%E6%94%B6%E6%94%AF%E7%AE%A1%E7%90%86/id6740517749?uo=4"
       },
       {
-        "id": "6825298043",
-        "name": "Aibesoft HR",
-        "url": "https://apps.apple.com/es/app/aibesoft-hr/id6825298043?uo=4"
-      },
-      {
         "id": "6825748808",
         "name": "Aile Bütçem - Ortak Bütçe",
         "url": "https://apps.apple.com/tr/app/aile-b%C3%BCt%C3%A7em-ortak-b%C3%BCt%C3%A7e/id6825748808?uo=4"
@@ -1711,6 +1676,11 @@
         "id": "1057771088",
         "name": "Albert: Budgeting and Banking",
         "url": "https://apps.apple.com/us/app/albert-budgeting-and-banking/id1057771088?uo=4"
+      },
+      {
+        "id": "1084859936",
+        "name": "Alegra: Factura y Contabilidad",
+        "url": "https://apps.apple.com/es/app/alegra-factura-y-contabilidad/id1084859936?uo=4"
       },
       {
         "id": "6761435704",
@@ -1743,9 +1713,19 @@
         "url": "https://apps.apple.com/tw/app/allpaid-%E5%B8%B3%E5%96%AE%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id6757253009?uo=4"
       },
       {
+        "id": "6749675097",
+        "name": "Alma | Pago a plazos",
+        "url": "https://apps.apple.com/es/app/alma-pago-a-plazos/id6749675097?uo=4"
+      },
+      {
         "id": "6474574024",
         "name": "AlmostZero - Schuldenmanager",
         "url": "https://apps.apple.com/de/app/almostzero-schuldenmanager/id6474574024?uo=4"
+      },
+      {
+        "id": "6782104791",
+        "name": "Alto - Budget by Paycheck",
+        "url": "https://apps.apple.com/us/app/alto-budget-by-paycheck/id6782104791?uo=4"
       },
       {
         "id": "665873607",
@@ -1766,6 +1746,11 @@
         "id": "738654899",
         "name": "Amounts Budget Expense Tracker",
         "url": "https://apps.apple.com/us/app/amounts-budget-expense-tracker/id738654899?uo=4"
+      },
+      {
+        "id": "6755584517",
+        "name": "AMY: Control de Gastos IA",
+        "url": "https://apps.apple.com/es/app/amy-control-de-gastos-ia/id6755584517?uo=4"
       },
       {
         "id": "1554825627",
@@ -1813,9 +1798,14 @@
         "url": "https://apps.apple.com/pl/app/appbox-pro/id318404385?uo=4"
       },
       {
+        "id": "6807537708",
+        "name": "AppHunt: App Spending",
+        "url": "https://apps.apple.com/es/app/apphunt-app-spending/id6807537708?uo=4"
+      },
+      {
         "id": "6778129772",
         "name": "Apunta - Control de Gastos IA",
-        "url": "https://apps.apple.com/mx/app/apunta-control-de-gastos-ia/id6778129772?uo=4"
+        "url": "https://apps.apple.com/es/app/apunta-control-de-gastos-ia/id6778129772?uo=4"
       },
       {
         "id": "6758624900",
@@ -1893,6 +1883,11 @@
         "url": "https://apps.apple.com/sa/app/auraspend/id6759574184?uo=4"
       },
       {
+        "id": "6758123529",
+        "name": "Ausgaben & Haushaltsbuch",
+        "url": "https://apps.apple.com/de/app/ausgaben-haushaltsbuch/id6758123529?uo=4"
+      },
+      {
         "id": "1591968342",
         "name": "Ausgaben Manager, Budget: Many",
         "url": "https://apps.apple.com/de/app/ausgaben-manager-budget-many/id1591968342?uo=4"
@@ -1913,9 +1908,9 @@
         "url": "https://apps.apple.com/de/app/ausgaben-tracker-finanzplaner/id6760978085?uo=4"
       },
       {
-        "id": "6806290220",
-        "name": "Ausgaben Tracker: FullWallet",
-        "url": "https://apps.apple.com/de/app/ausgaben-tracker-fullwallet/id6806290220?uo=4"
+        "id": "6740299816",
+        "name": "Ausgaben Tracker: ReceiptGenie",
+        "url": "https://apps.apple.com/de/app/ausgaben-tracker-receiptgenie/id6740299816?uo=4"
       },
       {
         "id": "6737196204",
@@ -1931,6 +1926,11 @@
         "id": "6744930597",
         "name": "Ausgaben-Tracker: Jaibi",
         "url": "https://apps.apple.com/de/app/ausgaben-tracker-jaibi/id6744930597?uo=4"
+      },
+      {
+        "id": "6766952229",
+        "name": "Ausgaben-Tracker: Light Budget",
+        "url": "https://apps.apple.com/de/app/ausgaben-tracker-light-budget/id6766952229?uo=4"
       },
       {
         "id": "6834581367",
@@ -1973,6 +1973,11 @@
         "url": "https://apps.apple.com/tr/app/bakiye-para-y%C3%B6netimi-b%C3%BCt%C3%A7e/id6759489697?uo=4"
       },
       {
+        "id": "1622398024",
+        "name": "Balance: Budget e Spese Coppia",
+        "url": "https://apps.apple.com/it/app/balance-budget-e-spese-coppia/id1622398024?uo=4"
+      },
+      {
         "id": "6743946348",
         "name": "BalanceTrackr",
         "url": "https://apps.apple.com/pl/app/balancetrackr/id6743946348?uo=4"
@@ -1985,7 +1990,7 @@
       {
         "id": "497258676",
         "name": "Banana Split - Dividir gastos",
-        "url": "https://apps.apple.com/es/app/banana-split-dividir-gastos/id497258676?uo=4"
+        "url": "https://apps.apple.com/mx/app/banana-split-dividir-gastos/id497258676?uo=4"
       },
       {
         "id": "597568624",
@@ -2028,6 +2033,11 @@
         "url": "https://apps.apple.com/gb/app/barclays/id536248734?uo=4"
       },
       {
+        "id": "6463204586",
+        "name": "barq",
+        "url": "https://apps.apple.com/sa/app/barq/id6463204586?uo=4"
+      },
+      {
         "id": "1644294113",
         "name": "Basic Expense Tracker",
         "url": "https://apps.apple.com/us/app/basic-expense-tracker/id1644294113?uo=4"
@@ -2041,11 +2051,6 @@
         "id": "325813155",
         "name": "BBVA España | Banca Online",
         "url": "https://apps.apple.com/es/app/bbva-espa%C3%B1a-banca-online/id325813155?uo=4"
-      },
-      {
-        "id": "1554488878",
-        "name": "Beacon Budget: Money Manager",
-        "url": "https://apps.apple.com/us/app/beacon-budget-money-manager/id1554488878?uo=4"
       },
       {
         "id": "6739036460",
@@ -2289,8 +2294,8 @@
       },
       {
         "id": "6794264116",
-        "name": "Bolsaro: Control de Gastos",
-        "url": "https://apps.apple.com/es/app/bolsaro-control-de-gastos/id6794264116?uo=4"
+        "name": "Bolsaro: Mis Gastos Diarios",
+        "url": "https://apps.apple.com/mx/app/bolsaro-mis-gastos-diarios/id6794264116?uo=4"
       },
       {
         "id": "6762581631",
@@ -2353,11 +2358,6 @@
         "url": "https://apps.apple.com/br/app/bradesco-net-empresa-conta-pj/id462977200?uo=4"
       },
       {
-        "id": "6474839193",
-        "name": "Bread: Presupuesto Gamificado",
-        "url": "https://apps.apple.com/es/app/bread-presupuesto-gamificado/id6474839193?uo=4"
-      },
-      {
         "id": "1200853011",
         "name": "Bridebook — Planificador",
         "url": "https://apps.apple.com/es/app/bridebook-planificador/id1200853011?uo=4"
@@ -2366,6 +2366,11 @@
         "id": "6758637998",
         "name": "Brightly Budget: Haushaltsbuch",
         "url": "https://apps.apple.com/de/app/brightly-budget-haushaltsbuch/id6758637998?uo=4"
+      },
+      {
+        "id": "6782002365",
+        "name": "Brikka: Gestione cantieri",
+        "url": "https://apps.apple.com/it/app/brikka-gestione-cantieri/id6782002365?uo=4"
       },
       {
         "id": "6816265582",
@@ -2395,7 +2400,7 @@
       {
         "id": "6759791257",
         "name": "Bucko: Budget Planner & Money",
-        "url": "https://apps.apple.com/ua/app/bucko-budget-planner-money/id6759791257?uo=4"
+        "url": "https://apps.apple.com/pl/app/bucko-budget-planner-money/id6759791257?uo=4"
       },
       {
         "id": "6756645984",
@@ -2628,6 +2633,11 @@
         "url": "https://apps.apple.com/us/app/budget-flow-expense-tracker/id1640091876?uo=4"
       },
       {
+        "id": "6738302161",
+        "name": "Budget Fury: Control Gastos",
+        "url": "https://apps.apple.com/es/app/budget-fury-control-gastos/id6738302161?uo=4"
+      },
+      {
         "id": "6786065066",
         "name": "Budget Habit - Expense Tracker",
         "url": "https://apps.apple.com/ua/app/budget-habit-expense-tracker/id6786065066?uo=4"
@@ -2683,6 +2693,11 @@
         "url": "https://apps.apple.com/gb/app/budget-planner-tracker%E3%85%A4/id6748381854?uo=4"
       },
       {
+        "id": "6742319730",
+        "name": "Budget Planner + Money Manager",
+        "url": "https://apps.apple.com/us/app/budget-planner-money-manager/id6742319730?uo=4"
+      },
+      {
         "id": "6768290042",
         "name": "Budget Planner - Bloomly",
         "url": "https://apps.apple.com/us/app/budget-planner-bloomly/id6768290042?uo=4"
@@ -2706,11 +2721,6 @@
         "id": "1427115026",
         "name": "Budget Planner - Money Manager",
         "url": "https://apps.apple.com/us/app/budget-planner-money-manager/id1427115026?uo=4"
-      },
-      {
-        "id": "6742319730",
-        "name": "Budget Planner - Money Manager",
-        "url": "https://apps.apple.com/gb/app/budget-planner-money-manager/id6742319730?uo=4"
       },
       {
         "id": "6751259839",
@@ -2750,7 +2760,7 @@
       {
         "id": "6748604085",
         "name": "Budget Planner and Tracker",
-        "url": "https://apps.apple.com/us/app/budget-planner-and-tracker/id6748604085?uo=4"
+        "url": "https://apps.apple.com/gb/app/budget-planner-and-tracker/id6748604085?uo=4"
       },
       {
         "id": "6758390552",
@@ -2781,6 +2791,11 @@
         "id": "6748555069",
         "name": "Budget Planner App - Tally",
         "url": "https://apps.apple.com/us/app/budget-planner-app-tally/id6748555069?uo=4"
+      },
+      {
+        "id": "6749040657",
+        "name": "Budget Planner App - Zero",
+        "url": "https://apps.apple.com/us/app/budget-planner-app-zero/id6749040657?uo=4"
       },
       {
         "id": "1462555165",
@@ -2816,11 +2831,6 @@
         "id": "6771942416",
         "name": "Budget Planner+",
         "url": "https://apps.apple.com/us/app/budget-planner/id6771942416?uo=4"
-      },
-      {
-        "id": "6758123529",
-        "name": "Budget Planner, Life Organizer",
-        "url": "https://apps.apple.com/us/app/budget-planner-life-organizer/id6758123529?uo=4"
       },
       {
         "id": "6478205894",
@@ -2943,6 +2953,11 @@
         "url": "https://apps.apple.com/id/app/budget-tracker-verospend/id6774525820?uo=4"
       },
       {
+        "id": "6754924506",
+        "name": "Budget Tracker - Walletee",
+        "url": "https://apps.apple.com/ua/app/budget-tracker-walletee/id6754924506?uo=4"
+      },
+      {
         "id": "6761305580",
         "name": "Budget Tracker: Buywall",
         "url": "https://apps.apple.com/pl/app/budget-tracker-buywall/id6761305580?uo=4"
@@ -2983,6 +2998,11 @@
         "url": "https://apps.apple.com/gb/app/budget-expense-tracker-money/id1584657093?uo=4"
       },
       {
+        "id": "6499044750",
+        "name": "Budget: Finance Planner",
+        "url": "https://apps.apple.com/us/app/budget-finance-planner/id6499044750?uo=4"
+      },
+      {
         "id": "1669045704",
         "name": "Budget: Gestion des Finances",
         "url": "https://apps.apple.com/fr/app/budget-gestion-des-finances/id1669045704?uo=4"
@@ -2991,11 +3011,6 @@
         "id": "6756784151",
         "name": "Budget: Spend Tracker",
         "url": "https://apps.apple.com/tr/app/budget-spend-tracker/id6756784151?uo=4"
-      },
-      {
-        "id": "6499044750",
-        "name": "Budget: Spending Tracker",
-        "url": "https://apps.apple.com/gb/app/budget-spending-tracker/id6499044750?uo=4"
       },
       {
         "id": "6757230858",
@@ -3035,7 +3050,7 @@
       {
         "id": "6775108339",
         "name": "Budgeter: Budget Tracker",
-        "url": "https://apps.apple.com/gb/app/budgeter-budget-tracker/id6775108339?uo=4"
+        "url": "https://apps.apple.com/us/app/budgeter-budget-tracker/id6775108339?uo=4"
       },
       {
         "id": "6762628104",
@@ -3066,6 +3081,11 @@
         "id": "6758405608",
         "name": "Budgeting & Bills Tracker",
         "url": "https://apps.apple.com/tr/app/budgeting-bills-tracker/id6758405608?uo=4"
+      },
+      {
+        "id": "1636460435",
+        "name": "Budgeting App - Spend Tracker",
+        "url": "https://apps.apple.com/gb/app/budgeting-app-spend-tracker/id1636460435?uo=4"
       },
       {
         "id": "1018141098",
@@ -3104,13 +3124,18 @@
       },
       {
         "id": "6740176453",
-        "name": "Budgetory: Control de gastos",
-        "url": "https://apps.apple.com/es/app/budgetory-control-de-gastos/id6740176453?uo=4"
+        "name": "Budgetory: Budget & Expenses",
+        "url": "https://apps.apple.com/tr/app/budgetory-budget-expenses/id6740176453?uo=4"
       },
       {
         "id": "6448874070",
         "name": "BudgetPad - Savings Goals",
         "url": "https://apps.apple.com/gb/app/budgetpad-savings-goals/id6448874070?uo=4"
+      },
+      {
+        "id": "590508709",
+        "name": "BudgetPlnr",
+        "url": "https://apps.apple.com/us/app/budgetplnr/id590508709?uo=4"
       },
       {
         "id": "6801909137",
@@ -3143,6 +3168,11 @@
         "url": "https://apps.apple.com/ua/app/budgetum-budget-planner/id6737688797?uo=4"
       },
       {
+        "id": "6795880777",
+        "name": "BudgetWise: Budget Planner",
+        "url": "https://apps.apple.com/us/app/budgetwise-budget-planner/id6795880777?uo=4"
+      },
+      {
         "id": "6768543053",
         "name": "Budgety - 支出管理",
         "url": "https://apps.apple.com/jp/app/budgety-%E6%94%AF%E5%87%BA%E7%AE%A1%E7%90%86/id6768543053?uo=4"
@@ -3164,8 +3194,13 @@
       },
       {
         "id": "580812126",
-        "name": "BUDGT - Presupuesto Diario",
-        "url": "https://apps.apple.com/es/app/budgt-presupuesto-diario/id580812126?uo=4"
+        "name": "BUDGT Personal Finance Tracker",
+        "url": "https://apps.apple.com/gb/app/budgt-personal-finance-tracker/id580812126?uo=4"
+      },
+      {
+        "id": "6746660395",
+        "name": "Budgy: Control de Gastos",
+        "url": "https://apps.apple.com/es/app/budgy-control-de-gastos/id6746660395?uo=4"
       },
       {
         "id": "6747028140",
@@ -3173,14 +3208,14 @@
         "url": "https://apps.apple.com/mx/app/budgy-control-de-gastos/id6747028140?uo=4"
       },
       {
-        "id": "6746660395",
-        "name": "Budgy: Suivi des Dépenses",
-        "url": "https://apps.apple.com/fr/app/budgy-suivi-des-d%C3%A9penses/id6746660395?uo=4"
-      },
-      {
         "id": "6804653807",
         "name": "BudJet: Receipt Scanner",
         "url": "https://apps.apple.com/ua/app/budjet-receipt-scanner/id6804653807?uo=4"
+      },
+      {
+        "id": "6816024990",
+        "name": "Budky: Controla gastos con IA",
+        "url": "https://apps.apple.com/es/app/budky-controla-gastos-con-ia/id6816024990?uo=4"
       },
       {
         "id": "6807000364",
@@ -3233,6 +3268,11 @@
         "url": "https://apps.apple.com/us/app/business-expense-tracker-app/id6760640504?uo=4"
       },
       {
+        "id": "1550552151",
+        "name": "Business Money Manager",
+        "url": "https://apps.apple.com/it/app/business-money-manager/id1550552151?uo=4"
+      },
+      {
         "id": "6757397136",
         "name": "Butler - Finance Manager",
         "url": "https://apps.apple.com/sa/app/butler-finance-manager/id6757397136?uo=4"
@@ -3251,6 +3291,11 @@
         "id": "6757575664",
         "name": "Buyo: Lista de Compras",
         "url": "https://apps.apple.com/br/app/buyo-lista-de-compras/id6757575664?uo=4"
+      },
+      {
+        "id": "6761019749",
+        "name": "Byll AI: controla y divide",
+        "url": "https://apps.apple.com/es/app/byll-ai-controla-y-divide/id6761019749?uo=4"
       },
       {
         "id": "6796713728",
@@ -3315,7 +3360,7 @@
       {
         "id": "6756084973",
         "name": "Bütçem: Budget & Expense Log",
-        "url": "https://apps.apple.com/tr/app/b%C3%BCt%C3%A7em-budget-expense-log/id6756084973?uo=4"
+        "url": "https://apps.apple.com/ua/app/b%C3%BCt%C3%A7em-budget-expense-log/id6756084973?uo=4"
       },
       {
         "id": "6824319390",
@@ -3403,11 +3448,6 @@
         "url": "https://apps.apple.com/br/app/calen-controle-de-gastos/id6778523183?uo=4"
       },
       {
-        "id": "1437594497",
-        "name": "CalendarBudget: Budget Planner",
-        "url": "https://apps.apple.com/us/app/calendarbudget-budget-planner/id1437594497?uo=4"
-      },
-      {
         "id": "6744294199",
         "name": "Calendario Spese Fisse",
         "url": "https://apps.apple.com/it/app/calendario-spese-fisse/id6744294199?uo=4"
@@ -3473,19 +3513,9 @@
         "url": "https://apps.apple.com/ua/app/car-costs-fuel-mot-tracker/id6468971061?uo=4"
       },
       {
-        "id": "6768301084",
-        "name": "Car Service History & Costs",
-        "url": "https://apps.apple.com/ua/app/car-service-history-costs/id6768301084?uo=4"
-      },
-      {
         "id": "6759359289",
         "name": "CarB - 내 차 지출 기록, 3초면 끝",
         "url": "https://apps.apple.com/kr/app/carb-%EB%82%B4-%EC%B0%A8-%EC%A7%80%EC%B6%9C-%EA%B8%B0%EB%A1%9D-3%EC%B4%88%EB%A9%B4-%EB%81%9D/id6759359289?uo=4"
-      },
-      {
-        "id": "6764626133",
-        "name": "CarBook: Car Maintenance Log",
-        "url": "https://apps.apple.com/sa/app/carbook-car-maintenance-log/id6764626133?uo=4"
       },
       {
         "id": "6816627557",
@@ -3520,7 +3550,7 @@
       {
         "id": "1436749337",
         "name": "Cash Flow Planner",
-        "url": "https://apps.apple.com/us/app/cash-flow-planner/id1436749337?uo=4"
+        "url": "https://apps.apple.com/gb/app/cash-flow-planner/id1436749337?uo=4"
       },
       {
         "id": "6476871327",
@@ -3536,6 +3566,11 @@
         "id": "1438255096",
         "name": "CashCounter: The Money Manager",
         "url": "https://apps.apple.com/gb/app/cashcounter-the-money-manager/id1438255096?uo=4"
+      },
+      {
+        "id": "6788484318",
+        "name": "Cashera: AI Expense Tracker",
+        "url": "https://apps.apple.com/sa/app/cashera-ai-expense-tracker/id6788484318?uo=4"
       },
       {
         "id": "6463662930",
@@ -3634,8 +3669,8 @@
       },
       {
         "id": "6755680087",
-        "name": "Catatku: Control de gastos",
-        "url": "https://apps.apple.com/es/app/catatku-control-de-gastos/id6755680087?uo=4"
+        "name": "Catatku: Money Manager, Budget",
+        "url": "https://apps.apple.com/id/app/catatku-money-manager-budget/id6755680087?uo=4"
       },
       {
         "id": "6760214754",
@@ -3644,8 +3679,8 @@
       },
       {
         "id": "6824056121",
-        "name": "Centamo: Ausgaben & Abos",
-        "url": "https://apps.apple.com/de/app/centamo-ausgaben-abos/id6824056121?uo=4"
+        "name": "Centamo: Spending Tracker",
+        "url": "https://apps.apple.com/gb/app/centamo-spending-tracker/id6824056121?uo=4"
       },
       {
         "id": "6781459932",
@@ -3733,11 +3768,6 @@
         "url": "https://apps.apple.com/us/app/checkbook-account-tracker/id484000695?uo=4"
       },
       {
-        "id": "1636872963",
-        "name": "Checkbook - Bills to Budget",
-        "url": "https://apps.apple.com/us/app/checkbook-bills-to-budget/id1636872963?uo=4"
-      },
-      {
         "id": "1641328453",
         "name": "Checkbook Presupuesto y Gastos",
         "url": "https://apps.apple.com/es/app/checkbook-presupuesto-y-gastos/id1641328453?uo=4"
@@ -3761,11 +3791,6 @@
         "id": "6767485768",
         "name": "Chekkly: Split Bills & Costs",
         "url": "https://apps.apple.com/ua/app/chekkly-split-bills-costs/id6767485768?uo=4"
-      },
-      {
-        "id": "1141297472",
-        "name": "Chip – Savings and Investments",
-        "url": "https://apps.apple.com/gb/app/chip-savings-and-investments/id1141297472?uo=4"
       },
       {
         "id": "6817785390",
@@ -3809,8 +3834,8 @@
       },
       {
         "id": "6748316348",
-        "name": "CoffeeCost: Control de gastos",
-        "url": "https://apps.apple.com/es/app/coffeecost-control-de-gastos/id6748316348?uo=4"
+        "name": "CoffeeCost: Expense Tracker",
+        "url": "https://apps.apple.com/pl/app/coffeecost-expense-tracker/id6748316348?uo=4"
       },
       {
         "id": "1525126979",
@@ -3819,8 +3844,8 @@
       },
       {
         "id": "6447508240",
-        "name": "CoinBliss: Control de Gastos",
-        "url": "https://apps.apple.com/es/app/coinbliss-control-de-gastos/id6447508240?uo=4"
+        "name": "CoinBliss: Budget & Dépenses",
+        "url": "https://apps.apple.com/fr/app/coinbliss-budget-d%C3%A9penses/id6447508240?uo=4"
       },
       {
         "id": "6751852727",
@@ -3898,9 +3923,9 @@
         "url": "https://apps.apple.com/es/app/contabilidad-dom%C3%A9stica/id6775210653?uo=4"
       },
       {
-        "id": "6751799901",
-        "name": "Contabilidad Personal - IA",
-        "url": "https://apps.apple.com/es/app/contabilidad-personal-ia/id6751799901?uo=4"
+        "id": "1501962120",
+        "name": "Contador Horas Tiempo Trabajo",
+        "url": "https://apps.apple.com/es/app/contador-horas-tiempo-trabajo/id1501962120?uo=4"
       },
       {
         "id": "6788135150",
@@ -3913,6 +3938,11 @@
         "url": "https://apps.apple.com/mx/app/conto-control-de-gastos/id6792052375?uo=4"
       },
       {
+        "id": "6806810394",
+        "name": "Control de Alquileres: Rentava",
+        "url": "https://apps.apple.com/es/app/control-de-alquileres-rentava/id6806810394?uo=4"
+      },
+      {
         "id": "6670723255",
         "name": "Control de Gasto e Ingreso",
         "url": "https://apps.apple.com/es/app/control-de-gasto-e-ingreso/id6670723255?uo=4"
@@ -3920,22 +3950,12 @@
       {
         "id": "6476132896",
         "name": "Control de Gastos - Cash App",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-cash-app/id6476132896?uo=4"
-      },
-      {
-        "id": "6771462217",
-        "name": "Control de Gastos - Enveloppe",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-enveloppe/id6771462217?uo=4"
+        "url": "https://apps.apple.com/mx/app/control-de-gastos-cash-app/id6476132896?uo=4"
       },
       {
         "id": "6756418912",
-        "name": "Control de gastos - Finanzas.",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-finanzas/id6756418912?uo=4"
-      },
-      {
-        "id": "6786729983",
-        "name": "Control de gastos - Framboise",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-framboise/id6786729983?uo=4"
+        "name": "Control de gastos - Expense.",
+        "url": "https://apps.apple.com/mx/app/control-de-gastos-expense/id6756418912?uo=4"
       },
       {
         "id": "6757181416",
@@ -3948,11 +3968,6 @@
         "url": "https://apps.apple.com/es/app/control-de-gastos-mona-ai/id6743129895?uo=4"
       },
       {
-        "id": "6764036575",
-        "name": "Control de gastos - Monivo",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-monivo/id6764036575?uo=4"
-      },
-      {
         "id": "6760321950",
         "name": "Control de gastos - Nola",
         "url": "https://apps.apple.com/mx/app/control-de-gastos-nola/id6760321950?uo=4"
@@ -3961,6 +3976,11 @@
         "id": "6782374102",
         "name": "Control de Gastos - Notch",
         "url": "https://apps.apple.com/mx/app/control-de-gastos-notch/id6782374102?uo=4"
+      },
+      {
+        "id": "6814659277",
+        "name": "Control de Gastos - PLYVA",
+        "url": "https://apps.apple.com/es/app/control-de-gastos-plyva/id6814659277?uo=4"
       },
       {
         "id": "6816961324",
@@ -3978,29 +3998,9 @@
         "url": "https://apps.apple.com/es/app/control-de-gastos-spendient/id6445957924?uo=4"
       },
       {
-        "id": "6798728757",
-        "name": "Control de Gastos - SubFlow",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-subflow/id6798728757?uo=4"
-      },
-      {
-        "id": "6766999596",
-        "name": "Control de gastos - SumiQ",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-sumiq/id6766999596?uo=4"
-      },
-      {
         "id": "6771092602",
         "name": "Control de gastos - Time Money",
         "url": "https://apps.apple.com/mx/app/control-de-gastos-time-money/id6771092602?uo=4"
-      },
-      {
-        "id": "6756795403",
-        "name": "Control de Gastos - Tracky",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-tracky/id6756795403?uo=4"
-      },
-      {
-        "id": "6754924506",
-        "name": "Control de Gastos - Walletee",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-walletee/id6754924506?uo=4"
       },
       {
         "id": "6747127537",
@@ -4018,6 +4018,11 @@
         "url": "https://apps.apple.com/mx/app/control-de-gastos-e-ingresos/id6751843364?uo=4"
       },
       {
+        "id": "1670779221",
+        "name": "Control de Gastos Kawaii",
+        "url": "https://apps.apple.com/mx/app/control-de-gastos-kawaii/id1670779221?uo=4"
+      },
+      {
         "id": "6449752448",
         "name": "Control de Gastos Manager",
         "url": "https://apps.apple.com/mx/app/control-de-gastos-manager/id6449752448?uo=4"
@@ -4026,16 +4031,6 @@
         "id": "6806614497",
         "name": "Control de Gastos por Voz",
         "url": "https://apps.apple.com/mx/app/control-de-gastos-por-voz/id6806614497?uo=4"
-      },
-      {
-        "id": "6758658449",
-        "name": "Control de gastos Profit&Lost",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-profit-lost/id6758658449?uo=4"
-      },
-      {
-        "id": "6753876595",
-        "name": "Control de Gastos Sencillo",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-sencillo/id6753876595?uo=4"
       },
       {
         "id": "1672868778",
@@ -4053,26 +4048,6 @@
         "url": "https://apps.apple.com/es/app/control-de-gastos-budgetgo/id6761938917?uo=4"
       },
       {
-        "id": "6760190421",
-        "name": "Control de Gastos – Finanzas",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-finanzas/id6760190421?uo=4"
-      },
-      {
-        "id": "6740998554",
-        "name": "Control de Gastos: Budbud",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-budbud/id6740998554?uo=4"
-      },
-      {
-        "id": "6446326708",
-        "name": "Control de Gastos: Color Money",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-color-money/id6446326708?uo=4"
-      },
-      {
-        "id": "6740816591",
-        "name": "Control de Gastos: Consciente",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-consciente/id6740816591?uo=4"
-      },
-      {
         "id": "6778946717",
         "name": "Control de gastos: Dribs",
         "url": "https://apps.apple.com/es/app/control-de-gastos-dribs/id6778946717?uo=4"
@@ -4085,7 +4060,12 @@
       {
         "id": "6747326267",
         "name": "Control de Gastos: Jotter",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-jotter/id6747326267?uo=4"
+        "url": "https://apps.apple.com/mx/app/control-de-gastos-jotter/id6747326267?uo=4"
+      },
+      {
+        "id": "6772429359",
+        "name": "Control de Gastos: Moncap",
+        "url": "https://apps.apple.com/es/app/control-de-gastos-moncap/id6772429359?uo=4"
       },
       {
         "id": "6811530053",
@@ -4103,11 +4083,6 @@
         "url": "https://apps.apple.com/es/app/control-de-gastos-paguei/id6762012656?uo=4"
       },
       {
-        "id": "6771847428",
-        "name": "Control de Gastos: SpendPad",
-        "url": "https://apps.apple.com/es/app/control-de-gastos-spendpad/id6771847428?uo=4"
-      },
-      {
         "id": "6779913391",
         "name": "Control de gastos: Tally",
         "url": "https://apps.apple.com/es/app/control-de-gastos-tally/id6779913391?uo=4"
@@ -4123,14 +4098,14 @@
         "url": "https://apps.apple.com/mx/app/control-de-mi-negocio/id1601130294?uo=4"
       },
       {
-        "id": "6749812351",
-        "name": "Control Gastos & Ahorro - Gli",
-        "url": "https://apps.apple.com/es/app/control-gastos-ahorro-gli/id6749812351?uo=4"
-      },
-      {
         "id": "6759602182",
         "name": "Control: Budget Tracker",
         "url": "https://apps.apple.com/ua/app/control-budget-tracker/id6759602182?uo=4"
+      },
+      {
+        "id": "6769501301",
+        "name": "Control: Widgets de Inicio",
+        "url": "https://apps.apple.com/es/app/control-widgets-de-inicio/id6769501301?uo=4"
       },
       {
         "id": "6824744200",
@@ -4145,7 +4120,7 @@
       {
         "id": "6444294955",
         "name": "Controle de Gastos e Economia",
-        "url": "https://apps.apple.com/es/app/controle-de-gastos-e-economia/id6444294955?uo=4"
+        "url": "https://apps.apple.com/mx/app/controle-de-gastos-e-economia/id6444294955?uo=4"
       },
       {
         "id": "6755133758",
@@ -4338,11 +4313,6 @@
         "url": "https://apps.apple.com/ua/app/cute-budget-calendar/id6761286711?uo=4"
       },
       {
-        "id": "1670779221",
-        "name": "Cute Expense Tracker: Calendar",
-        "url": "https://apps.apple.com/gb/app/cute-expense-tracker-calendar/id1670779221?uo=4"
-      },
-      {
         "id": "1029760973",
         "name": "CWMoney - 存錢記帳、發票記帳、理財分析、管理預算",
         "url": "https://apps.apple.com/jp/app/cwmoney-%E5%AD%98%E9%8C%A2%E8%A8%98%E5%B8%B3-%E7%99%BC%E7%A5%A8%E8%A8%98%E5%B8%B3-%E7%90%86%E8%B2%A1%E5%88%86%E6%9E%90-%E7%AE%A1%E7%90%86%E9%A0%90%E7%AE%97/id1029760973?uo=4"
@@ -4378,19 +4348,29 @@
         "url": "https://apps.apple.com/es/app/daak-2-control-de-gastos/id6789190736?uo=4"
       },
       {
-        "id": "6814147761",
-        "name": "Daftar - دفتر",
-        "url": "https://apps.apple.com/sa/app/daftar-%D8%AF%D9%81%D8%AA%D8%B1/id6814147761?uo=4"
-      },
-      {
         "id": "6740541346",
         "name": "DaiBu - Daily Budget",
         "url": "https://apps.apple.com/fr/app/daibu-daily-budget/id6740541346?uo=4"
       },
       {
+        "id": "6751673275",
+        "name": "Daily Budget App: BentoMoney",
+        "url": "https://apps.apple.com/gb/app/daily-budget-app-bentomoney/id6751673275?uo=4"
+      },
+      {
         "id": "651896614",
         "name": "Daily Budget Original",
-        "url": "https://apps.apple.com/us/app/daily-budget-original/id651896614?uo=4"
+        "url": "https://apps.apple.com/gb/app/daily-budget-original/id651896614?uo=4"
+      },
+      {
+        "id": "747794925",
+        "name": "Daily Budget Original PRO",
+        "url": "https://apps.apple.com/fr/app/daily-budget-original-pro/id747794925?uo=4"
+      },
+      {
+        "id": "1617232013",
+        "name": "Daily Budget Tracker & Planner",
+        "url": "https://apps.apple.com/gb/app/daily-budget-tracker-planner/id1617232013?uo=4"
       },
       {
         "id": "6455259428",
@@ -4545,7 +4525,7 @@
       {
         "id": "1632647489",
         "name": "Depty: Split Bills & Debts",
-        "url": "https://apps.apple.com/ua/app/depty-split-bills-debts/id1632647489?uo=4"
+        "url": "https://apps.apple.com/tr/app/depty-split-bills-debts/id1632647489?uo=4"
       },
       {
         "id": "6777416858",
@@ -4610,7 +4590,12 @@
       {
         "id": "6714460519",
         "name": "Dimewise: Gestor de Gastos",
-        "url": "https://apps.apple.com/es/app/dimewise-gestor-de-gastos/id6714460519?uo=4"
+        "url": "https://apps.apple.com/mx/app/dimewise-gestor-de-gastos/id6714460519?uo=4"
+      },
+      {
+        "id": "6761762454",
+        "name": "Dinerio",
+        "url": "https://apps.apple.com/es/app/dinerio/id6761762454?uo=4"
       },
       {
         "id": "953763867",
@@ -4694,8 +4679,8 @@
       },
       {
         "id": "1206041425",
-        "name": "Drivvo - Control de gastos",
-        "url": "https://apps.apple.com/mx/app/drivvo-control-de-gastos/id1206041425?uo=4"
+        "name": "Drivvo – Car Expense Tracker",
+        "url": "https://apps.apple.com/ua/app/drivvo-car-expense-tracker/id1206041425?uo=4"
       },
       {
         "id": "6757324047",
@@ -4798,11 +4783,6 @@
         "url": "https://apps.apple.com/gb/app/easy-money-manager/id1449795457?uo=4"
       },
       {
-        "id": "437238261",
-        "name": "Easy Spending Budget",
-        "url": "https://apps.apple.com/gb/app/easy-spending-budget/id437238261?uo=4"
-      },
-      {
         "id": "6758047119",
         "name": "EasyBudget - Expense Tracker",
         "url": "https://apps.apple.com/us/app/easybudget-expense-tracker/id6758047119?uo=4"
@@ -4821,6 +4801,11 @@
         "id": "6756588815",
         "name": "EasyFinAI: Expense Tracker",
         "url": "https://apps.apple.com/tr/app/easyfinai-expense-tracker/id6756588815?uo=4"
+      },
+      {
+        "id": "6766315622",
+        "name": "Eazy Finance",
+        "url": "https://apps.apple.com/ua/app/eazy-finance/id6766315622?uo=4"
       },
       {
         "id": "6811130731",
@@ -4908,6 +4893,11 @@
         "url": "https://apps.apple.com/mx/app/emvo-ventas-e-inventario/id6817802111?uo=4"
       },
       {
+        "id": "1670147713",
+        "name": "Endalia",
+        "url": "https://apps.apple.com/es/app/endalia/id1670147713?uo=4"
+      },
+      {
         "id": "6755204642",
         "name": "Envelope Budget Planner: Bow",
         "url": "https://apps.apple.com/us/app/envelope-budget-planner-bow/id6755204642?uo=4"
@@ -4978,19 +4968,14 @@
         "url": "https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=4"
       },
       {
-        "id": "6762463402",
-        "name": "EveryPenny: Money Tracker",
-        "url": "https://apps.apple.com/ua/app/everypenny-money-tracker/id6762463402?uo=4"
-      },
-      {
         "id": "1247126257",
         "name": "Expanse Tracker Track Spending",
         "url": "https://apps.apple.com/gb/app/expanse-tracker-track-spending/id1247126257?uo=4"
       },
       {
-        "id": "6793934465",
-        "name": "EXPENDR Family Expense Tracker",
-        "url": "https://apps.apple.com/sa/app/expendr-family-expense-tracker/id6793934465?uo=4"
+        "id": "6738653615",
+        "name": "EXPE - Track Your Expenses",
+        "url": "https://apps.apple.com/sa/app/expe-track-your-expenses/id6738653615?uo=4"
       },
       {
         "id": "6686409264",
@@ -5040,7 +5025,7 @@
       {
         "id": "6476440873",
         "name": "eXpense - Money Tracker",
-        "url": "https://apps.apple.com/sa/app/expense-money-tracker/id6476440873?uo=4"
+        "url": "https://apps.apple.com/ua/app/expense-money-tracker/id6476440873?uo=4"
       },
       {
         "id": "1020335225",
@@ -5065,7 +5050,7 @@
       {
         "id": "6473705856",
         "name": "Expense Ease Budget planner",
-        "url": "https://apps.apple.com/gb/app/expense-ease-budget-planner/id6473705856?uo=4"
+        "url": "https://apps.apple.com/ua/app/expense-ease-budget-planner/id6473705856?uo=4"
       },
       {
         "id": "6752562601",
@@ -5228,6 +5213,16 @@
         "url": "https://apps.apple.com/us/app/expense-tracker-moneydot/id6804001291?uo=4"
       },
       {
+        "id": "6759986221",
+        "name": "Expense Tracker - MoneyFlux",
+        "url": "https://apps.apple.com/ua/app/expense-tracker-moneyflux/id6759986221?uo=4"
+      },
+      {
+        "id": "6764036575",
+        "name": "Expense Tracker - Monivo",
+        "url": "https://apps.apple.com/ua/app/expense-tracker-monivo/id6764036575?uo=4"
+      },
+      {
         "id": "6769458156",
         "name": "Expense Tracker - Monveo",
         "url": "https://apps.apple.com/us/app/expense-tracker-monveo/id6769458156?uo=4"
@@ -5338,6 +5333,11 @@
         "url": "https://apps.apple.com/us/app/expense-tracker-better-track/id6478887161?uo=4"
       },
       {
+        "id": "6740998554",
+        "name": "Expense Tracker: Budbud",
+        "url": "https://apps.apple.com/ua/app/expense-tracker-budbud/id6740998554?uo=4"
+      },
+      {
         "id": "1470211125",
         "name": "Expense Tracker: Budget & Bill",
         "url": "https://apps.apple.com/us/app/expense-tracker-budget-bill/id1470211125?uo=4"
@@ -5393,21 +5393,6 @@
         "url": "https://apps.apple.com/gb/app/expense-tracker-income-debt/id6572301026?uo=4"
       },
       {
-        "id": "6766952229",
-        "name": "Expense Tracker: Light Budget",
-        "url": "https://apps.apple.com/ua/app/expense-tracker-light-budget/id6766952229?uo=4"
-      },
-      {
-        "id": "6772429359",
-        "name": "Expense Tracker: Moncap",
-        "url": "https://apps.apple.com/pl/app/expense-tracker-moncap/id6772429359?uo=4"
-      },
-      {
-        "id": "6740299816",
-        "name": "Expense Tracker: ReceiptGenie",
-        "url": "https://apps.apple.com/ua/app/expense-tracker-receiptgenie/id6740299816?uo=4"
-      },
-      {
         "id": "6779437134",
         "name": "Expense Tracker: SpendSense",
         "url": "https://apps.apple.com/us/app/expense-tracker-spendsense/id6779437134?uo=4"
@@ -5431,6 +5416,11 @@
         "id": "944934437",
         "name": "Expense Tracker:Budget Planner",
         "url": "https://apps.apple.com/us/app/expense-tracker-budget-planner/id944934437?uo=4"
+      },
+      {
+        "id": "6770228480",
+        "name": "Expense Tracking: Finance App",
+        "url": "https://apps.apple.com/ua/app/expense-tracking-finance-app/id6770228480?uo=4"
       },
       {
         "id": "1669548999",
@@ -5489,8 +5479,8 @@
       },
       {
         "id": "6756816856",
-        "name": "Expensia – Control de Gastos",
-        "url": "https://apps.apple.com/es/app/expensia-control-de-gastos/id6756816856?uo=4"
+        "name": "Expensia – Suivi des Dépenses",
+        "url": "https://apps.apple.com/fr/app/expensia-suivi-des-d%C3%A9penses/id6756816856?uo=4"
       },
       {
         "id": "471713959",
@@ -5518,11 +5508,6 @@
         "url": "https://apps.apple.com/mx/app/ezer-control-de-gastos/id6755685289?uo=4"
       },
       {
-        "id": "6466276725",
-        "name": "Factura Presupuesto Recibo PDF",
-        "url": "https://apps.apple.com/es/app/factura-presupuesto-recibo-pdf/id6466276725?uo=4"
-      },
-      {
         "id": "619774197",
         "name": "FacturaDirecta App",
         "url": "https://apps.apple.com/es/app/facturadirecta-app/id619774197?uo=4"
@@ -5531,11 +5516,6 @@
         "id": "6741880552",
         "name": "Facturas - Presupuestos",
         "url": "https://apps.apple.com/es/app/facturas-presupuestos/id6741880552?uo=4"
-      },
-      {
-        "id": "1606911248",
-        "name": "Facturas rapidas - Invoice Fly",
-        "url": "https://apps.apple.com/es/app/facturas-rapidas-invoice-fly/id1606911248?uo=4"
       },
       {
         "id": "527885754",
@@ -5563,6 +5543,11 @@
         "url": "https://apps.apple.com/ua/app/family-budget-tracker-famlyy/id6763627070?uo=4"
       },
       {
+        "id": "6760293188",
+        "name": "Family Calendar Planner-Toggly",
+        "url": "https://apps.apple.com/pl/app/family-calendar-planner-toggly/id6760293188?uo=4"
+      },
+      {
         "id": "6803676814",
         "name": "Family Expenses Insights",
         "url": "https://apps.apple.com/ua/app/family-expenses-insights/id6803676814?uo=4"
@@ -5585,7 +5570,7 @@
       {
         "id": "496889629",
         "name": "FamilyWall Organizador Familia",
-        "url": "https://apps.apple.com/br/app/familywall-organizador-familia/id496889629?uo=4"
+        "url": "https://apps.apple.com/es/app/familywall-organizador-familia/id496889629?uo=4"
       },
       {
         "id": "6806053969",
@@ -5616,6 +5601,11 @@
         "id": "1178825025",
         "name": "Fast Budget - Expense Manager",
         "url": "https://apps.apple.com/us/app/fast-budget-expense-manager/id1178825025?uo=4"
+      },
+      {
+        "id": "6823032663",
+        "name": "Fatoora-Scan & Track Expenses",
+        "url": "https://apps.apple.com/sa/app/fatoora-scan-track-expenses/id6823032663?uo=4"
       },
       {
         "id": "6742453082",
@@ -5651,11 +5641,6 @@
         "id": "6755795207",
         "name": "Fetch: Controle de Gastos",
         "url": "https://apps.apple.com/br/app/fetch-controle-de-gastos/id6755795207?uo=4"
-      },
-      {
-        "id": "6758963976",
-        "name": "FI-532 Control de Gastos",
-        "url": "https://apps.apple.com/es/app/fi-532-control-de-gastos/id6758963976?uo=4"
       },
       {
         "id": "6470757032",
@@ -5829,8 +5814,8 @@
       },
       {
         "id": "6763410912",
-        "name": "Fince: AI Budget Tracker",
-        "url": "https://apps.apple.com/gb/app/fince-ai-budget-tracker/id6763410912?uo=4"
+        "name": "Fince: Control de Gastos",
+        "url": "https://apps.apple.com/es/app/fince-control-de-gastos/id6763410912?uo=4"
       },
       {
         "id": "6781846083",
@@ -5860,7 +5845,7 @@
       {
         "id": "6743011710",
         "name": "finerd.ai • money nerd mode",
-        "url": "https://apps.apple.com/us/app/finerd-ai-money-nerd-mode/id6743011710?uo=4"
+        "url": "https://apps.apple.com/ua/app/finerd-ai-money-nerd-mode/id6743011710?uo=4"
       },
       {
         "id": "1387593199",
@@ -5908,9 +5893,19 @@
         "url": "https://apps.apple.com/mx/app/fini-control-de-gastos/id6783416628?uo=4"
       },
       {
+        "id": "6766040054",
+        "name": "Finio: Personal Finance",
+        "url": "https://apps.apple.com/es/app/finio-personal-finance/id6766040054?uo=4"
+      },
+      {
+        "id": "6827944510",
+        "name": "FinKolo: Expense Tracker",
+        "url": "https://apps.apple.com/ua/app/finkolo-expense-tracker/id6827944510?uo=4"
+      },
+      {
         "id": "1587320325",
         "name": "Finku: Budget & Money Manager",
-        "url": "https://apps.apple.com/us/app/finku-budget-money-manager/id1587320325?uo=4"
+        "url": "https://apps.apple.com/gb/app/finku-budget-money-manager/id1587320325?uo=4"
       },
       {
         "id": "6804055937",
@@ -5978,11 +5973,6 @@
         "url": "https://apps.apple.com/ua/app/finova/id6810324093?uo=4"
       },
       {
-        "id": "6769012878",
-        "name": "Finovo: Control de Gastos",
-        "url": "https://apps.apple.com/es/app/finovo-control-de-gastos/id6769012878?uo=4"
-      },
-      {
         "id": "6773305599",
         "name": "FinPath",
         "url": "https://apps.apple.com/pl/app/finpath/id6773305599?uo=4"
@@ -6031,11 +6021,6 @@
         "id": "672220319",
         "name": "Fintonic | Ahorra y finánciate",
         "url": "https://apps.apple.com/es/app/fintonic-ahorra-y-fin%C3%A1nciate/id672220319?uo=4"
-      },
-      {
-        "id": "6755656773",
-        "name": "FinTrack  — облік витрат",
-        "url": "https://apps.apple.com/ua/app/fintrack-%D0%BE%D0%B1%D0%BB%D1%96%D0%BA-%D0%B2%D0%B8%D1%82%D1%80%D0%B0%D1%82/id6755656773?uo=4"
       },
       {
         "id": "6636479973",
@@ -6198,6 +6183,11 @@
         "url": "https://apps.apple.com/mx/app/flowmo-control-de-gastos/id1478084156?uo=4"
       },
       {
+        "id": "6821107555",
+        "name": "Flowney",
+        "url": "https://apps.apple.com/ua/app/flowney/id6821107555?uo=4"
+      },
+      {
         "id": "6760254000",
         "name": "FlowWay: Expense&Budget",
         "url": "https://apps.apple.com/tr/app/flowway-expense-budget/id6760254000?uo=4"
@@ -6219,13 +6209,13 @@
       },
       {
         "id": "6756208417",
-        "name": "Flux: Control de Gastos",
-        "url": "https://apps.apple.com/es/app/flux-control-de-gastos/id6756208417?uo=4"
+        "name": "Flux: Gestione Spese e Budget",
+        "url": "https://apps.apple.com/it/app/flux-gestione-spese-e-budget/id6756208417?uo=4"
       },
       {
         "id": "1611814185",
-        "name": "Flynow - Finanças Pessoais",
-        "url": "https://apps.apple.com/br/app/flynow-finan%C3%A7as-pessoais/id1611814185?uo=4"
+        "name": "Flynow - Finanzas personales",
+        "url": "https://apps.apple.com/es/app/flynow-finanzas-personales/id1611814185?uo=4"
       },
       {
         "id": "6618113131",
@@ -6246,11 +6236,6 @@
         "id": "6756577411",
         "name": "Folyo – Ausgaben-Tracker",
         "url": "https://apps.apple.com/de/app/folyo-ausgaben-tracker/id6756577411?uo=4"
-      },
-      {
-        "id": "6821413913",
-        "name": "For Today: Budget Planner",
-        "url": "https://apps.apple.com/ua/app/for-today-budget-planner/id6821413913?uo=4"
       },
       {
         "id": "721048897",
@@ -6278,11 +6263,6 @@
         "url": "https://apps.apple.com/jp/app/freee%E7%B5%8C%E8%B2%BB%E7%B2%BE%E7%AE%97/id6498880610?uo=4"
       },
       {
-        "id": "6760609233",
-        "name": "FreeLife: Finance Tracker + AI",
-        "url": "https://apps.apple.com/ua/app/freelife-finance-tracker-ai/id6760609233?uo=4"
-      },
-      {
         "id": "1052884030",
         "name": "FreshBooks Invoicing App",
         "url": "https://apps.apple.com/us/app/freshbooks-invoicing-app/id1052884030?uo=4"
@@ -6291,11 +6271,6 @@
         "id": "1664719450",
         "name": "Fudget: Monthly Budget Planner",
         "url": "https://apps.apple.com/us/app/fudget-monthly-budget-planner/id1664719450?uo=4"
-      },
-      {
-        "id": "6805812766",
-        "name": "Fuel",
-        "url": "https://apps.apple.com/sa/app/fuel/id6805812766?uo=4"
       },
       {
         "id": "6502266980",
@@ -6348,6 +6323,11 @@
         "url": "https://apps.apple.com/pl/app/fundmind-budget-expenses/id6794284144?uo=4"
       },
       {
+        "id": "6809012693",
+        "name": "Fusee: Spending Tracker",
+        "url": "https://apps.apple.com/gb/app/fusee-spending-tracker/id6809012693?uo=4"
+      },
+      {
         "id": "6779264784",
         "name": "Futari · 雙人記帳",
         "url": "https://apps.apple.com/tw/app/futari-%E9%9B%99%E4%BA%BA%E8%A8%98%E5%B8%B3/id6779264784?uo=4"
@@ -6383,11 +6363,6 @@
         "url": "https://apps.apple.com/it/app/gartrack-gestione-veicoli/id6747924692?uo=4"
       },
       {
-        "id": "6773497187",
-        "name": "Gasto Hora: Control de Gastos",
-        "url": "https://apps.apple.com/es/app/gasto-hora-control-de-gastos/id6773497187?uo=4"
-      },
-      {
         "id": "1568074679",
         "name": "Gastos Buddy Registro Contable",
         "url": "https://apps.apple.com/mx/app/gastos-buddy-registro-contable/id1568074679?uo=4"
@@ -6411,11 +6386,6 @@
         "id": "6740247249",
         "name": "Gastos Mensais",
         "url": "https://apps.apple.com/br/app/gastos-mensais/id6740247249?uo=4"
-      },
-      {
-        "id": "1636232810",
-        "name": "Gastos mensuales - Numi",
-        "url": "https://apps.apple.com/es/app/gastos-mensuales-numi/id1636232810?uo=4"
       },
       {
         "id": "6797303861",
@@ -6503,11 +6473,6 @@
         "url": "https://apps.apple.com/fr/app/gestion-budget-simple-money/id6477733738?uo=4"
       },
       {
-        "id": "6749040657",
-        "name": "Gestion Budget - Zero",
-        "url": "https://apps.apple.com/fr/app/gestion-budget-zero/id6749040657?uo=4"
-      },
-      {
         "id": "6747974396",
         "name": "Gestion Budget | Actual Budget",
         "url": "https://apps.apple.com/fr/app/gestion-budget-actual-budget/id6747974396?uo=4"
@@ -6526,6 +6491,16 @@
         "id": "6736650564",
         "name": "Gestion Budget: Spendo",
         "url": "https://apps.apple.com/fr/app/gestion-budget-spendo/id6736650564?uo=4"
+      },
+      {
+        "id": "6771847428",
+        "name": "Gestion Budget: SpendPad",
+        "url": "https://apps.apple.com/fr/app/gestion-budget-spendpad/id6771847428?uo=4"
+      },
+      {
+        "id": "6786729983",
+        "name": "Gestion de budget - Framboise",
+        "url": "https://apps.apple.com/fr/app/gestion-de-budget-framboise/id6786729983?uo=4"
       },
       {
         "id": "6446061642",
@@ -6568,6 +6543,11 @@
         "url": "https://apps.apple.com/it/app/gestione-casa-bollette/id6809139684?uo=4"
       },
       {
+        "id": "1051218771",
+        "name": "Gestione magazzino e clienti",
+        "url": "https://apps.apple.com/it/app/gestione-magazzino-e-clienti/id1051218771?uo=4"
+      },
+      {
         "id": "6835779296",
         "name": "Gestione Rimborsi",
         "url": "https://apps.apple.com/it/app/gestione-rimborsi/id6835779296?uo=4"
@@ -6576,6 +6556,11 @@
         "id": "1501073327",
         "name": "Gestione spese",
         "url": "https://apps.apple.com/it/app/gestione-spese/id1501073327?uo=4"
+      },
+      {
+        "id": "6792486550",
+        "name": "Gestione Spese & Money Manager",
+        "url": "https://apps.apple.com/it/app/gestione-spese-money-manager/id6792486550?uo=4"
       },
       {
         "id": "6711355457",
@@ -6588,14 +6573,14 @@
         "url": "https://apps.apple.com/it/app/gestione-spese-e-bilancio/id6821624058?uo=4"
       },
       {
-        "id": "6642643343",
-        "name": "Gestione Spese: Cash Compass",
-        "url": "https://apps.apple.com/it/app/gestione-spese-cash-compass/id6642643343?uo=4"
+        "id": "6756110981",
+        "name": "Gestione spese: BudgetPop",
+        "url": "https://apps.apple.com/it/app/gestione-spese-budgetpop/id6756110981?uo=4"
       },
       {
         "id": "6743084126",
         "name": "Gestor de gastos - Finanzas PM",
-        "url": "https://apps.apple.com/mx/app/gestor-de-gastos-finanzas-pm/id6743084126?uo=4"
+        "url": "https://apps.apple.com/es/app/gestor-de-gastos-finanzas-pm/id6743084126?uo=4"
       },
       {
         "id": "1119886207",
@@ -6616,16 +6601,6 @@
         "id": "6752515388",
         "name": "Gestor de Gastos NomadExpenses",
         "url": "https://apps.apple.com/mx/app/gestor-de-gastos-nomadexpenses/id6752515388?uo=4"
-      },
-      {
-        "id": "6792486550",
-        "name": "Gestor de Gastos y Presupuesto",
-        "url": "https://apps.apple.com/es/app/gestor-de-gastos-y-presupuesto/id6792486550?uo=4"
-      },
-      {
-        "id": "6747969419",
-        "name": "Gestor de Gastos: Ulik",
-        "url": "https://apps.apple.com/es/app/gestor-de-gastos-ulik/id6747969419?uo=4"
       },
       {
         "id": "6759234391",
@@ -6663,11 +6638,6 @@
         "url": "https://apps.apple.com/gb/app/gift-spending-tracker/id1546032235?uo=4"
       },
       {
-        "id": "6790835958",
-        "name": "Gilt: Private Budget Tracker",
-        "url": "https://apps.apple.com/ua/app/gilt-private-budget-tracker/id6790835958?uo=4"
-      },
-      {
         "id": "1590852070",
         "name": "Gist Money: Expense Tracker",
         "url": "https://apps.apple.com/us/app/gist-money-expense-tracker/id1590852070?uo=4"
@@ -6693,6 +6663,11 @@
         "url": "https://apps.apple.com/es/app/goin-ahorro-compras-premios/id1297902849?uo=4"
       },
       {
+        "id": "6752494937",
+        "name": "Good Envelope: Budget Planner",
+        "url": "https://apps.apple.com/us/app/good-envelope-budget-planner/id6752494937?uo=4"
+      },
+      {
         "id": "471112395",
         "name": "Goodbudget Budget Planner",
         "url": "https://apps.apple.com/us/app/goodbudget-budget-planner/id471112395?uo=4"
@@ -6711,11 +6686,6 @@
         "id": "6810610381",
         "name": "Granyn: Bütçe Takibi",
         "url": "https://apps.apple.com/tr/app/granyn-b%C3%BCt%C3%A7e-takibi/id6810610381?uo=4"
-      },
-      {
-        "id": "6444834959",
-        "name": "Green Apple Accounting",
-        "url": "https://apps.apple.com/ua/app/green-apple-accounting/id6444834959?uo=4"
       },
       {
         "id": "6816685614",
@@ -6793,6 +6763,11 @@
         "url": "https://apps.apple.com/pl/app/habits-goals-finance-mylife/id1565739275?uo=4"
       },
       {
+        "id": "6479451684",
+        "name": "Hacer Facturas y Presupuestos",
+        "url": "https://apps.apple.com/es/app/hacer-facturas-y-presupuestos/id6479451684?uo=4"
+      },
+      {
         "id": "1611478793",
         "name": "Handy Expense Tracker",
         "url": "https://apps.apple.com/us/app/handy-expense-tracker/id1611478793?uo=4"
@@ -6863,9 +6838,19 @@
         "url": "https://apps.apple.com/sa/app/hassalti-savings-challenge/id6803421375?uo=4"
       },
       {
+        "id": "6751799901",
+        "name": "Haushaltsbuch - Ausgaben & KI",
+        "url": "https://apps.apple.com/de/app/haushaltsbuch-ausgaben-ki/id6751799901?uo=4"
+      },
+      {
         "id": "6761086056",
         "name": "Haushaltsbuch - HunterVault",
         "url": "https://apps.apple.com/de/app/haushaltsbuch-huntervault/id6761086056?uo=4"
+      },
+      {
+        "id": "6787469549",
+        "name": "Haushaltsbuch - YouSpend",
+        "url": "https://apps.apple.com/de/app/haushaltsbuch-youspend/id6787469549?uo=4"
       },
       {
         "id": "6550914718",
@@ -6911,6 +6896,11 @@
         "id": "6466787465",
         "name": "Haushaltsbuch: finanz tracker",
         "url": "https://apps.apple.com/de/app/haushaltsbuch-finanz-tracker/id6466787465?uo=4"
+      },
+      {
+        "id": "1571656912",
+        "name": "Haushaltsbuch: Geld Verstehen",
+        "url": "https://apps.apple.com/de/app/haushaltsbuch-geld-verstehen/id1571656912?uo=4"
       },
       {
         "id": "1549455276",
@@ -7033,11 +7023,6 @@
         "url": "https://apps.apple.com/es/app/holded-facturaci%C3%B3n-y-mucho-m%C3%A1s/id1369704574?uo=4"
       },
       {
-        "id": "6772211999",
-        "name": "Holiday Budget: Trip Expenses",
-        "url": "https://apps.apple.com/ua/app/holiday-budget-trip-expenses/id6772211999?uo=4"
-      },
-      {
         "id": "6759539185",
         "name": "homdu: Home Build & Renovation",
         "url": "https://apps.apple.com/pl/app/homdu-home-build-renovation/id6759539185?uo=4"
@@ -7078,11 +7063,6 @@
         "url": "https://apps.apple.com/sa/app/home-expenses-budget-tracker/id6443813402?uo=4"
       },
       {
-        "id": "6760356537",
-        "name": "Home Receipt: Expense Tracker",
-        "url": "https://apps.apple.com/ua/app/home-receipt-expense-tracker/id6760356537?uo=4"
-      },
-      {
         "id": "306257910",
         "name": "HomeBudget with Sync",
         "url": "https://apps.apple.com/us/app/homebudget-with-sync/id306257910?uo=4"
@@ -7101,11 +7081,6 @@
         "id": "6790114047",
         "name": "Hominium – Home Budget",
         "url": "https://apps.apple.com/pl/app/hominium-home-budget/id6790114047?uo=4"
-      },
-      {
-        "id": "6761955105",
-        "name": "Homio: Casa condivisa",
-        "url": "https://apps.apple.com/it/app/homio-casa-condivisa/id6761955105?uo=4"
       },
       {
         "id": "6758137627",
@@ -7183,11 +7158,6 @@
         "url": "https://apps.apple.com/gb/app/idle-bank-money-games/id1588692776?uo=4"
       },
       {
-        "id": "683206697",
-        "name": "iFacturas",
-        "url": "https://apps.apple.com/es/app/ifacturas/id683206697?uo=4"
-      },
-      {
         "id": "1500241909",
         "name": "iFinance 5",
         "url": "https://apps.apple.com/br/app/ifinance-5/id1500241909?uo=4"
@@ -7248,11 +7218,6 @@
         "url": "https://apps.apple.com/ua/app/infosaver-expense-tracker/id6461161458?uo=4"
       },
       {
-        "id": "1057941671",
-        "name": "Ingresos y Gastos",
-        "url": "https://apps.apple.com/es/app/ingresos-y-gastos/id1057941671?uo=4"
-      },
-      {
         "id": "519817714",
         "name": "Intuit Credit Karma",
         "url": "https://apps.apple.com/us/app/intuit-credit-karma/id519817714?uo=4"
@@ -7270,7 +7235,12 @@
       {
         "id": "6761435441",
         "name": "INVEROOS | Ahorro y dinero",
-        "url": "https://apps.apple.com/mx/app/inveroos-ahorro-y-dinero/id6761435441?uo=4"
+        "url": "https://apps.apple.com/es/app/inveroos-ahorro-y-dinero/id6761435441?uo=4"
+      },
+      {
+        "id": "1606911248",
+        "name": "Invoice Fly - Estimativa Fácil",
+        "url": "https://apps.apple.com/br/app/invoice-fly-estimativa-f%C3%A1cil/id1606911248?uo=4"
       },
       {
         "id": "694831622",
@@ -7304,8 +7274,8 @@
       },
       {
         "id": "1227088361",
-        "name": "iSaveMoneyGo: Gestor de Gastos",
-        "url": "https://apps.apple.com/mx/app/isavemoneygo-gestor-de-gastos/id1227088361?uo=4"
+        "name": "iSaveMoneyGo – Budget Tracker",
+        "url": "https://apps.apple.com/gb/app/isavemoneygo-budget-tracker/id1227088361?uo=4"
       },
       {
         "id": "484100875",
@@ -7413,11 +7383,6 @@
         "url": "https://apps.apple.com/es/app/kakeibo-control-de-gastos/id6764714922?uo=4"
       },
       {
-        "id": "6738302161",
-        "name": "Kakeibo Budget Fury: Dépenses",
-        "url": "https://apps.apple.com/fr/app/kakeibo-budget-fury-d%C3%A9penses/id6738302161?uo=4"
-      },
-      {
         "id": "6760362042",
         "name": "Kakeibo: Control Gastos",
         "url": "https://apps.apple.com/es/app/kakeibo-control-gastos/id6760362042?uo=4"
@@ -7441,11 +7406,6 @@
         "id": "6815406606",
         "name": "Karbnote — Appointment Book",
         "url": "https://apps.apple.com/ua/app/karbnote-appointment-book/id6815406606?uo=4"
-      },
-      {
-        "id": "6757671757",
-        "name": "Karte - Carte Fedeltà e Spesa",
-        "url": "https://apps.apple.com/it/app/karte-carte-fedelt%C3%A0-e-spesa/id6757671757?uo=4"
       },
       {
         "id": "6808966663",
@@ -7475,7 +7435,7 @@
       {
         "id": "6738583305",
         "name": "Kaspo: Budget Expense Tracker",
-        "url": "https://apps.apple.com/ua/app/kaspo-budget-expense-tracker/id6738583305?uo=4"
+        "url": "https://apps.apple.com/pl/app/kaspo-budget-expense-tracker/id6738583305?uo=4"
       },
       {
         "id": "6761419069",
@@ -7563,11 +7523,6 @@
         "url": "https://apps.apple.com/es/app/kibo-control-de-gastos-diario/id6767514413?uo=4"
       },
       {
-        "id": "6818860018",
-        "name": "Kifa: Profit & Expense Tracker",
-        "url": "https://apps.apple.com/sa/app/kifa-profit-expense-tracker/id6818860018?uo=4"
-      },
-      {
         "id": "6815041060",
         "name": "Kiroku: Haushaltsbuch & Budget",
         "url": "https://apps.apple.com/de/app/kiroku-haushaltsbuch-budget/id6815041060?uo=4"
@@ -7593,14 +7548,14 @@
         "url": "https://apps.apple.com/tr/app/kolay/id1507156228?uo=4"
       },
       {
+        "id": "6759191418",
+        "name": "Kolt – Spese e Abbonamenti",
+        "url": "https://apps.apple.com/it/app/kolt-spese-e-abbonamenti/id6759191418?uo=4"
+      },
+      {
         "id": "6757344281",
         "name": "Konnach: Debt & Expense Track",
         "url": "https://apps.apple.com/sa/app/konnach-debt-expense-track/id6757344281?uo=4"
-      },
-      {
-        "id": "6778394654",
-        "name": "Konto: gestione spese e budget",
-        "url": "https://apps.apple.com/it/app/konto-gestione-spese-e-budget/id6778394654?uo=4"
       },
       {
         "id": "6779804042",
@@ -7633,9 +7588,14 @@
         "url": "https://apps.apple.com/jp/app/koton-%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E6%92%AE%E3%82%8B%E3%81%A0%E3%81%91%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%B3%E5%AE%B6%E8%A8%88%E7%B0%BF/id6782759141?uo=4"
       },
       {
+        "id": "6802692062",
+        "name": "Kpital: Finanzas y ahorro",
+        "url": "https://apps.apple.com/es/app/kpital-finanzas-y-ahorro/id6802692062?uo=4"
+      },
+      {
         "id": "6831295220",
-        "name": "Kumbu: Gestione Spese e Budget",
-        "url": "https://apps.apple.com/it/app/kumbu-gestione-spese-e-budget/id6831295220?uo=4"
+        "name": "Kumbu: Envelope Budget Planner",
+        "url": "https://apps.apple.com/tr/app/kumbu-envelope-budget-planner/id6831295220?uo=4"
       },
       {
         "id": "6805524972",
@@ -7716,11 +7676,6 @@
         "id": "6768726066",
         "name": "Left — Controle de Gastos",
         "url": "https://apps.apple.com/br/app/left-controle-de-gastos/id6768726066?uo=4"
-      },
-      {
-        "id": "6761345386",
-        "name": "Left. Budget Planner",
-        "url": "https://apps.apple.com/us/app/left-budget-planner/id6761345386?uo=4"
       },
       {
         "id": "6785203849",
@@ -7933,6 +7888,11 @@
         "url": "https://apps.apple.com/de/app/marble-haushaltsbuch/id6826542387?uo=4"
       },
       {
+        "id": "6779967453",
+        "name": "Margen: patrimonio en vivo",
+        "url": "https://apps.apple.com/es/app/margen-patrimonio-en-vivo/id6779967453?uo=4"
+      },
+      {
         "id": "6819481946",
         "name": "margin - 3초 가계부",
         "url": "https://apps.apple.com/kr/app/margin-3%EC%B4%88-%EA%B0%80%EA%B3%84%EB%B6%80/id6819481946?uo=4"
@@ -8006,11 +7966,6 @@
         "id": "687485560",
         "name": "MBNA Mobile App",
         "url": "https://apps.apple.com/gb/app/mbna-mobile-app/id687485560?uo=4"
-      },
-      {
-        "id": "1628319585",
-        "name": "MCircle - Track your spendings",
-        "url": "https://apps.apple.com/gb/app/mcircle-track-your-spendings/id1628319585?uo=4"
       },
       {
         "id": "6793064412",
@@ -8148,11 +8103,6 @@
         "url": "https://apps.apple.com/mx/app/mg-mis-gastos-cuentas-claras/id6757939972?uo=4"
       },
       {
-        "id": "6821094593",
-        "name": "Mi Mes en Orden: Presupuesto",
-        "url": "https://apps.apple.com/es/app/mi-mes-en-orden-presupuesto/id6821094593?uo=4"
-      },
-      {
         "id": "6760275925",
         "name": "Mi Presupuesto: Finanzas",
         "url": "https://apps.apple.com/es/app/mi-presupuesto-finanzas/id6760275925?uo=4"
@@ -8275,7 +8225,7 @@
       {
         "id": "6462817055",
         "name": "Mis Cuentas y Gastos",
-        "url": "https://apps.apple.com/es/app/mis-cuentas-y-gastos/id6462817055?uo=4"
+        "url": "https://apps.apple.com/mx/app/mis-cuentas-y-gastos/id6462817055?uo=4"
       },
       {
         "id": "1567080447",
@@ -8353,6 +8303,11 @@
         "url": "https://apps.apple.com/sa/app/mizaniyati-budget-tracker/id6756372020?uo=4"
       },
       {
+        "id": "6788589059",
+        "name": "Mi€sencial",
+        "url": "https://apps.apple.com/es/app/mi%E2%82%ACsencial/id6788589059?uo=4"
+      },
+      {
         "id": "6825800485",
         "name": "moa(모아) - 누구나 쓰기 쉬운 가계부, 자산관리",
         "url": "https://apps.apple.com/kr/app/moa-%EB%AA%A8%EC%95%84-%EB%88%84%EA%B5%AC%EB%82%98-%EC%93%B0%EA%B8%B0-%EC%89%AC%EC%9A%B4-%EA%B0%80%EA%B3%84%EB%B6%80-%EC%9E%90%EC%82%B0%EA%B4%80%EB%A6%AC/id6825800485?uo=4"
@@ -8371,6 +8326,11 @@
         "id": "6797053042",
         "name": "Modraly: Suivi Alcool",
         "url": "https://apps.apple.com/fr/app/modraly-suivi-alcool/id6797053042?uo=4"
+      },
+      {
+        "id": "6762832281",
+        "name": "MoFlo: Ahorro y Presupuesto",
+        "url": "https://apps.apple.com/es/app/moflo-ahorro-y-presupuesto/id6762832281?uo=4"
       },
       {
         "id": "6768078437",
@@ -8403,14 +8363,14 @@
         "url": "https://apps.apple.com/fr/app/monadeo-budget-et-d%C3%A9penses/id6784651072?uo=4"
       },
       {
-        "id": "6758941376",
-        "name": "Monaime: AI Budget Planner",
-        "url": "https://apps.apple.com/ua/app/monaime-ai-budget-planner/id6758941376?uo=4"
-      },
-      {
         "id": "1459319842",
         "name": "Monarch: Budget & Track Money",
         "url": "https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4"
+      },
+      {
+        "id": "6791834932",
+        "name": "Monark: Finanzas personales",
+        "url": "https://apps.apple.com/es/app/monark-finanzas-personales/id6791834932?uo=4"
       },
       {
         "id": "6753881999",
@@ -8468,6 +8428,11 @@
         "url": "https://apps.apple.com/br/app/monely-controle-financeiro/id6757703531?uo=4"
       },
       {
+        "id": "6807946717",
+        "name": "Moneo: Control de gastos",
+        "url": "https://apps.apple.com/es/app/moneo-control-de-gastos/id6807946717?uo=4"
+      },
+      {
         "id": "6758626082",
         "name": "Moneo: Expense Tracker, Budget",
         "url": "https://apps.apple.com/ua/app/moneo-expense-tracker-budget/id6758626082?uo=4"
@@ -8505,7 +8470,7 @@
       {
         "id": "6805135241",
         "name": "Moneti: Control de gastos",
-        "url": "https://apps.apple.com/es/app/moneti-control-de-gastos/id6805135241?uo=4"
+        "url": "https://apps.apple.com/mx/app/moneti-control-de-gastos/id6805135241?uo=4"
       },
       {
         "id": "6762006879",
@@ -8626,6 +8591,11 @@
         "id": "6766565294",
         "name": "Money Management - Budget",
         "url": "https://apps.apple.com/ua/app/money-management-budget/id6766565294?uo=4"
+      },
+      {
+        "id": "6749812351",
+        "name": "Money Manager & Budget - Gli",
+        "url": "https://apps.apple.com/ua/app/money-manager-budget-gli/id6749812351?uo=4"
       },
       {
         "id": "6758572076",
@@ -8753,14 +8723,14 @@
         "url": "https://apps.apple.com/gb/app/money-manager-bills-budgets/id6448206280?uo=4"
       },
       {
-        "id": "6753874126",
-        "name": "Money Manager: Budget & Save",
-        "url": "https://apps.apple.com/ua/app/money-manager-budget-save/id6753874126?uo=4"
-      },
-      {
         "id": "1604307505",
         "name": "Money Manager: Budget Expense",
         "url": "https://apps.apple.com/gb/app/money-manager-budget-expense/id1604307505?uo=4"
+      },
+      {
+        "id": "6753874126",
+        "name": "Money Manager: Budget Planner!",
+        "url": "https://apps.apple.com/us/app/money-manager-budget-planner/id6753874126?uo=4"
       },
       {
         "id": "6541758456",
@@ -8898,6 +8868,11 @@
         "url": "https://apps.apple.com/gb/app/money-tracker-money-manager/id1644049074?uo=4"
       },
       {
+        "id": "6817293861",
+        "name": "Money Tracker - Record",
+        "url": "https://apps.apple.com/gb/app/money-tracker-record/id6817293861?uo=4"
+      },
+      {
         "id": "1616626622",
         "name": "Money Tracker Budget & Expense",
         "url": "https://apps.apple.com/gb/app/money-tracker-budget-expense/id1616626622?uo=4"
@@ -8921,11 +8896,6 @@
         "id": "6761692317",
         "name": "Money Tracker: Every Coin",
         "url": "https://apps.apple.com/pl/app/money-tracker-every-coin/id6761692317?uo=4"
-      },
-      {
-        "id": "6782330851",
-        "name": "Money Tracker: Spending Log",
-        "url": "https://apps.apple.com/gb/app/money-tracker-spending-log/id6782330851?uo=4"
       },
       {
         "id": "1672723495",
@@ -9058,6 +9028,16 @@
         "url": "https://apps.apple.com/kr/app/moneyfit-%EC%98%88%EC%82%B0-%EA%B4%80%EB%A6%AC-%EA%B0%80%EA%B3%84%EB%B6%80/id6749416452?uo=4"
       },
       {
+        "id": "6802824308",
+        "name": "MoneyGement: Money Manager",
+        "url": "https://apps.apple.com/sa/app/moneygement-money-manager/id6802824308?uo=4"
+      },
+      {
+        "id": "6758682505",
+        "name": "MoneyJar-Budget Planner",
+        "url": "https://apps.apple.com/us/app/moneyjar-budget-planner/id6758682505?uo=4"
+      },
+      {
         "id": "1518456349",
         "name": "MoneyKeeper – Budget Manager",
         "url": "https://apps.apple.com/ua/app/moneykeeper-budget-manager/id1518456349?uo=4"
@@ -9101,11 +9081,6 @@
         "id": "6667109846",
         "name": "MoneyMate: Libreta de gastos",
         "url": "https://apps.apple.com/es/app/moneymate-libreta-de-gastos/id6667109846?uo=4"
-      },
-      {
-        "id": "1479352003",
-        "name": "MoneyMeter",
-        "url": "https://apps.apple.com/sa/app/moneymeter/id1479352003?uo=4"
       },
       {
         "id": "6480003303",
@@ -9173,9 +9148,14 @@
         "url": "https://apps.apple.com/gb/app/moneythings-finance-tracker/id1549694221?uo=4"
       },
       {
+        "id": "1599553397",
+        "name": "MoneyToPay · Tarjeta Prepago",
+        "url": "https://apps.apple.com/es/app/moneytopay-tarjeta-prepago/id1599553397?uo=4"
+      },
+      {
         "id": "6740711467",
         "name": "MoneyTrack, Control de Gastos",
-        "url": "https://apps.apple.com/es/app/moneytrack-control-de-gastos/id6740711467?uo=4"
+        "url": "https://apps.apple.com/br/app/moneytrack-control-de-gastos/id6740711467?uo=4"
       },
       {
         "id": "1473785373",
@@ -9203,11 +9183,6 @@
         "url": "https://apps.apple.com/ua/app/monfin-money-finance/id6816733324?uo=4"
       },
       {
-        "id": "6823374558",
-        "name": "Mongle Budget: Gestione spese",
-        "url": "https://apps.apple.com/it/app/mongle-budget-gestione-spese/id6823374558?uo=4"
-      },
-      {
         "id": "1610423945",
         "name": "Moni Catatan Keuangan Otomatis",
         "url": "https://apps.apple.com/id/app/moni-catatan-keuangan-otomatis/id1610423945?uo=4"
@@ -9224,8 +9199,8 @@
       },
       {
         "id": "6832778503",
-        "name": "Monibo: Control de Gastos",
-        "url": "https://apps.apple.com/es/app/monibo-control-de-gastos/id6832778503?uo=4"
+        "name": "Monibo: Registro de Gastos",
+        "url": "https://apps.apple.com/mx/app/monibo-registro-de-gastos/id6832778503?uo=4"
       },
       {
         "id": "1637367459",
@@ -9236,6 +9211,11 @@
         "id": "6767044945",
         "name": "Monio: Gastos e Orçamento",
         "url": "https://apps.apple.com/br/app/monio-gastos-e-or%C3%A7amento/id6767044945?uo=4"
+      },
+      {
+        "id": "6762521758",
+        "name": "Moniqa: Expense Tracker",
+        "url": "https://apps.apple.com/gb/app/moniqa-expense-tracker/id6762521758?uo=4"
       },
       {
         "id": "6788807126",
@@ -9316,11 +9296,6 @@
         "id": "6767810863",
         "name": "Monthly Budget Planner - Fynlo",
         "url": "https://apps.apple.com/us/app/monthly-budget-planner-fynlo/id6767810863?uo=4"
-      },
-      {
-        "id": "6756099084",
-        "name": "Monthly Budget Planner App",
-        "url": "https://apps.apple.com/us/app/monthly-budget-planner-app/id6756099084?uo=4"
       },
       {
         "id": "6752525789",
@@ -9423,9 +9398,9 @@
         "url": "https://apps.apple.com/fr/app/mucho/id6737886597?uo=4"
       },
       {
-        "id": "6805152967",
-        "name": "Muetual: control de gastos",
-        "url": "https://apps.apple.com/es/app/muetual-control-de-gastos/id6805152967?uo=4"
+        "id": "6762485074",
+        "name": "Mudal: Money Manager",
+        "url": "https://apps.apple.com/us/app/mudal-money-manager/id6762485074?uo=4"
       },
       {
         "id": "1588613728",
@@ -9458,11 +9433,6 @@
         "url": "https://apps.apple.com/gb/app/my-budget-spending-tracker/id6451499225?uo=4"
       },
       {
-        "id": "606998063",
-        "name": "My Budgets",
-        "url": "https://apps.apple.com/us/app/my-budgets/id606998063?uo=4"
-      },
-      {
         "id": "1165749302",
         "name": "My Car - Vehicle Manager",
         "url": "https://apps.apple.com/ua/app/my-car-vehicle-manager/id1165749302?uo=4"
@@ -9476,6 +9446,11 @@
         "id": "6792155244",
         "name": "My Envelope: Budget Tracker",
         "url": "https://apps.apple.com/tr/app/my-envelope-budget-tracker/id6792155244?uo=4"
+      },
+      {
+        "id": "6762040735",
+        "name": "My Family Budget",
+        "url": "https://apps.apple.com/ua/app/my-family-budget/id6762040735?uo=4"
       },
       {
         "id": "1507625362",
@@ -9498,11 +9473,6 @@
         "url": "https://apps.apple.com/gb/app/my-money-manager/id6747077164?uo=4"
       },
       {
-        "id": "6759904180",
-        "name": "My Pro Wallet",
-        "url": "https://apps.apple.com/sa/app/my-pro-wallet/id6759904180?uo=4"
-      },
-      {
         "id": "6740548943",
         "name": "My Profits EZBalance",
         "url": "https://apps.apple.com/sa/app/my-profits-ezbalance/id6740548943?uo=4"
@@ -9511,6 +9481,11 @@
         "id": "1276038930",
         "name": "My Spending",
         "url": "https://apps.apple.com/gb/app/my-spending/id1276038930?uo=4"
+      },
+      {
+        "id": "1057941671",
+        "name": "My Spendings",
+        "url": "https://apps.apple.com/tr/app/my-spendings/id1057941671?uo=4"
       },
       {
         "id": "6808548380",
@@ -9543,19 +9518,9 @@
         "url": "https://apps.apple.com/sa/app/mybudget-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%AA%D9%8A/id6759059874?uo=4"
       },
       {
-        "id": "6775309029",
-        "name": "MyBudgetBrief - Budget",
-        "url": "https://apps.apple.com/sa/app/mybudgetbrief-budget/id6775309029?uo=4"
-      },
-      {
         "id": "6760977400",
         "name": "MyCards - Credit Card Tracker",
         "url": "https://apps.apple.com/tr/app/mycards-credit-card-tracker/id6760977400?uo=4"
-      },
-      {
-        "id": "6825803655",
-        "name": "MyChek: Receipts & Budget",
-        "url": "https://apps.apple.com/ua/app/mychek-receipts-budget/id6825803655?uo=4"
       },
       {
         "id": "6756964732",
@@ -9668,11 +9633,6 @@
         "url": "https://apps.apple.com/us/app/narvata-sales-tracker/id1414541649?uo=4"
       },
       {
-        "id": "1615381976",
-        "name": "NC Wallet: crypto senza spese",
-        "url": "https://apps.apple.com/it/app/nc-wallet-crypto-senza-spese/id1615381976?uo=4"
-      },
-      {
         "id": "6776977621",
         "name": "Ne Harcamışım: Bütçe Takibi",
         "url": "https://apps.apple.com/tr/app/ne-harcam%C4%B1%C5%9F%C4%B1m-b%C3%BCt%C3%A7e-takibi/id6776977621?uo=4"
@@ -9691,6 +9651,11 @@
         "id": "6792442577",
         "name": "Net Worth Candles: Tracker",
         "url": "https://apps.apple.com/ua/app/net-worth-candles-tracker/id6792442577?uo=4"
+      },
+      {
+        "id": "6760717286",
+        "name": "NETO - Control de Gastos",
+        "url": "https://apps.apple.com/es/app/neto-control-de-gastos/id6760717286?uo=4"
       },
       {
         "id": "6757704061",
@@ -9778,11 +9743,6 @@
         "url": "https://apps.apple.com/es/app/nuevo-m%C3%A9todo-de-ahorrar-dinero/id789876133?uo=4"
       },
       {
-        "id": "6806773190",
-        "name": "Numevia: Control de Gastos",
-        "url": "https://apps.apple.com/es/app/numevia-control-de-gastos/id6806773190?uo=4"
-      },
-      {
         "id": "6444591815",
         "name": "Numpkin - 旅遊記帳與多人AA分帳",
         "url": "https://apps.apple.com/tw/app/numpkin-%E6%97%85%E9%81%8A%E8%A8%98%E5%B8%B3%E8%88%87%E5%A4%9A%E4%BA%BAaa%E5%88%86%E5%B8%B3/id6444591815?uo=4"
@@ -9816,6 +9776,11 @@
         "id": "6788265518",
         "name": "Obolos: Control de Gastos",
         "url": "https://apps.apple.com/mx/app/obolos-control-de-gastos/id6788265518?uo=4"
+      },
+      {
+        "id": "6759102256",
+        "name": "OBRAMAT",
+        "url": "https://apps.apple.com/es/app/obramat/id6759102256?uo=4"
       },
       {
         "id": "6804341013",
@@ -10029,8 +9994,8 @@
       },
       {
         "id": "6804205831",
-        "name": "PaceSpender: Spending Tracker",
-        "url": "https://apps.apple.com/gb/app/pacespender-spending-tracker/id6804205831?uo=4"
+        "name": "PaceSpender: Gestione Spese",
+        "url": "https://apps.apple.com/it/app/pacespender-gestione-spese/id6804205831?uo=4"
       },
       {
         "id": "6810359595",
@@ -10173,6 +10138,11 @@
         "url": "https://apps.apple.com/tr/app/payfolio-harcama-takibi/id6743680590?uo=4"
       },
       {
+        "id": "6541750355",
+        "name": "PayGoali",
+        "url": "https://apps.apple.com/sa/app/paygoali/id6541750355?uo=4"
+      },
+      {
         "id": "6748067386",
         "name": "Payla: Split Group Expenses",
         "url": "https://apps.apple.com/tr/app/payla-split-group-expenses/id6748067386?uo=4"
@@ -10258,6 +10228,11 @@
         "url": "https://apps.apple.com/us/app/pennli-budget-planner/id6807528869?uo=4"
       },
       {
+        "id": "6811157366",
+        "name": "Penny: Budget, Save & Grow",
+        "url": "https://apps.apple.com/us/app/penny-budget-save-grow/id6811157366?uo=4"
+      },
+      {
         "id": "6780589851",
         "name": "Penny: Control de Gastos",
         "url": "https://apps.apple.com/mx/app/penny-control-de-gastos/id6780589851?uo=4"
@@ -10269,8 +10244,8 @@
       },
       {
         "id": "6790263376",
-        "name": "Pennygrove — 무지출 챌린지",
-        "url": "https://apps.apple.com/kr/app/pennygrove-%EB%AC%B4%EC%A7%80%EC%B6%9C-%EC%B1%8C%EB%A6%B0%EC%A7%80/id6790263376?uo=4"
+        "name": "Pennygrove — No Spend Tracker",
+        "url": "https://apps.apple.com/gb/app/pennygrove-no-spend-tracker/id6790263376?uo=4"
       },
       {
         "id": "6815199004",
@@ -10298,14 +10273,19 @@
         "url": "https://apps.apple.com/ua/app/pensy-expense-tracker/id6749833263?uo=4"
       },
       {
+        "id": "1491899612",
+        "name": "People Smart",
+        "url": "https://apps.apple.com/it/app/people-smart/id1491899612?uo=4"
+      },
+      {
         "id": "1494319934",
         "name": "Percento - Net Worth Tracker",
         "url": "https://apps.apple.com/gb/app/percento-net-worth-tracker/id1494319934?uo=4"
       },
       {
         "id": "6826316362",
-        "name": "Perfula Budget: Money Planner",
-        "url": "https://apps.apple.com/id/app/perfula-budget-money-planner/id6826316362?uo=4"
+        "name": "Perfula Budget: Plan de dinero",
+        "url": "https://apps.apple.com/es/app/perfula-budget-plan-de-dinero/id6826316362?uo=4"
       },
       {
         "id": "6758138341",
@@ -10343,11 +10323,6 @@
         "url": "https://apps.apple.com/gb/app/pico-spend-lite/id504155110?uo=4"
       },
       {
-        "id": "6749085253",
-        "name": "Pie: Budget with friends",
-        "url": "https://apps.apple.com/us/app/pie-budget-with-friends/id6749085253?uo=4"
-      },
-      {
         "id": "6754511468",
         "name": "PieCheck: Budget & Expense",
         "url": "https://apps.apple.com/tr/app/piecheck-budget-expense/id6754511468?uo=4"
@@ -10383,24 +10358,19 @@
         "url": "https://apps.apple.com/fr/app/pilote-d%C3%A9penses/id1539944350?uo=4"
       },
       {
-        "id": "6792098184",
-        "name": "PinoMoney: AI Expense Tracker",
-        "url": "https://apps.apple.com/ua/app/pinomoney-ai-expense-tracker/id6792098184?uo=4"
-      },
-      {
         "id": "6737360502",
         "name": "Pivo: Expense Tracker & Budget",
         "url": "https://apps.apple.com/gb/app/pivo-expense-tracker-budget/id6737360502?uo=4"
       },
       {
         "id": "6804490736",
-        "name": "Pixpense: Controle de Gastos",
-        "url": "https://apps.apple.com/br/app/pixpense-controle-de-gastos/id6804490736?uo=4"
+        "name": "Pixpense: Control de Gastos",
+        "url": "https://apps.apple.com/es/app/pixpense-control-de-gastos/id6804490736?uo=4"
       },
       {
         "id": "6470202494",
-        "name": "Plan & Multiply: Presupuesto",
-        "url": "https://apps.apple.com/es/app/plan-multiply-presupuesto/id6470202494?uo=4"
+        "name": "Plan & Multiply: Budget",
+        "url": "https://apps.apple.com/fr/app/plan-multiply-budget/id6470202494?uo=4"
       },
       {
         "id": "6503704530",
@@ -10456,11 +10426,6 @@
         "id": "1618522214",
         "name": "Ploutos Budget: Money Manager",
         "url": "https://apps.apple.com/gb/app/ploutos-budget-money-manager/id1618522214?uo=4"
-      },
-      {
-        "id": "1456139507",
-        "name": "Plum - Haz crecer tu dinero",
-        "url": "https://apps.apple.com/es/app/plum-haz-crecer-tu-dinero/id1456139507?uo=4"
       },
       {
         "id": "6802606608",
@@ -10528,6 +10493,11 @@
         "url": "https://apps.apple.com/fr/app/pockito-suivi-des-d%C3%A9penses-ia/id6755700782?uo=4"
       },
       {
+        "id": "1475098830",
+        "name": "Pockity: Gastos y Presupuesto",
+        "url": "https://apps.apple.com/es/app/pockity-gastos-y-presupuesto/id1475098830?uo=4"
+      },
+      {
         "id": "6817394142",
         "name": "POKERHERO 德州撲克記帳・勝率計算機",
         "url": "https://apps.apple.com/tw/app/pokerhero-%E5%BE%B7%E5%B7%9E%E6%92%B2%E5%85%8B%E8%A8%98%E5%B8%B3-%E5%8B%9D%E7%8E%87%E8%A8%88%E7%AE%97%E6%A9%9F/id6817394142?uo=4"
@@ -10553,6 +10523,11 @@
         "url": "https://apps.apple.com/de/app/pouch-haushaltsbuch/id6799445206?uo=4"
       },
       {
+        "id": "6799440260",
+        "name": "Pouch: Spese e Risparmio",
+        "url": "https://apps.apple.com/it/app/pouch-spese-e-risparmio/id6799440260?uo=4"
+      },
+      {
         "id": "6812896668",
         "name": "Poupfy: Controle Financeiro",
         "url": "https://apps.apple.com/br/app/poupfy-controle-financeiro/id6812896668?uo=4"
@@ -10561,6 +10536,11 @@
         "id": "6829218009",
         "name": "Poupi - Finanças Pessoais",
         "url": "https://apps.apple.com/br/app/poupi-finan%C3%A7as-pessoais/id6829218009?uo=4"
+      },
+      {
+        "id": "6821413913",
+        "name": "Pour aujourd’hui: Budget",
+        "url": "https://apps.apple.com/fr/app/pour-aujourdhui-budget/id6821413913?uo=4"
       },
       {
         "id": "6760485997",
@@ -10593,19 +10573,9 @@
         "url": "https://apps.apple.com/es/app/presupuesto-de-la-casa-sw/id1544328318?uo=4"
       },
       {
-        "id": "747794925",
-        "name": "Presupuesto Diario Pro",
-        "url": "https://apps.apple.com/es/app/presupuesto-diario-pro/id747794925?uo=4"
-      },
-      {
         "id": "745085934",
         "name": "Presupuesto familiar",
         "url": "https://apps.apple.com/es/app/presupuesto-familiar/id745085934?uo=4"
-      },
-      {
-        "id": "1571656912",
-        "name": "Presupuesto OnePeek",
-        "url": "https://apps.apple.com/es/app/presupuesto-onepeek/id1571656912?uo=4"
       },
       {
         "id": "6476116935",
@@ -10623,16 +10593,6 @@
         "url": "https://apps.apple.com/es/app/presupuesto-pro/id6816647697?uo=4"
       },
       {
-        "id": "6761527884",
-        "name": "Presupuesto Simple",
-        "url": "https://apps.apple.com/es/app/presupuesto-simple/id6761527884?uo=4"
-      },
-      {
-        "id": "6798405768",
-        "name": "Presupuesto: Ctrl Xpenses",
-        "url": "https://apps.apple.com/es/app/presupuesto-ctrl-xpenses/id6798405768?uo=4"
-      },
-      {
         "id": "6472780231",
         "name": "Prism Money: Budget Tracker",
         "url": "https://apps.apple.com/pl/app/prism-money-budget-tracker/id6472780231?uo=4"
@@ -10643,11 +10603,6 @@
         "url": "https://apps.apple.com/ua/app/private-money-tracker/id6759187331?uo=4"
       },
       {
-        "id": "6803595404",
-        "name": "Profio: Prima Nota e Spese",
-        "url": "https://apps.apple.com/it/app/profio-prima-nota-e-spese/id6803595404?uo=4"
-      },
-      {
         "id": "6778631478",
         "name": "Profit Tracker: Income Expense",
         "url": "https://apps.apple.com/ua/app/profit-tracker-income-expense/id6778631478?uo=4"
@@ -10656,11 +10611,6 @@
         "id": "6761738695",
         "name": "Project Pan Tracker - Vannie",
         "url": "https://apps.apple.com/tr/app/project-pan-tracker-vannie/id6761738695?uo=4"
-      },
-      {
-        "id": "1274970171",
-        "name": "ProntoPro: Busca Profesionales",
-        "url": "https://apps.apple.com/es/app/prontopro-busca-profesionales/id1274970171?uo=4"
       },
       {
         "id": "6809227234",
@@ -10696,16 +10646,6 @@
         "id": "6830714465",
         "name": "PULSO Household Budget",
         "url": "https://apps.apple.com/pl/app/pulso-household-budget/id6830714465?uo=4"
-      },
-      {
-        "id": "1637487132",
-        "name": "Punto de venta y Stock - Yimi",
-        "url": "https://apps.apple.com/mx/app/punto-de-venta-y-stock-yimi/id1637487132?uo=4"
-      },
-      {
-        "id": "6792049580",
-        "name": "Purecash: Budget & Expenses",
-        "url": "https://apps.apple.com/sa/app/purecash-budget-expenses/id6792049580?uo=4"
       },
       {
         "id": "6798328506",
@@ -10833,11 +10773,6 @@
         "url": "https://apps.apple.com/es/app/rata-y-fina-control-de-gastos/id6787686922?uo=4"
       },
       {
-        "id": "6809891707",
-        "name": "Rateo - BNPL Tracker",
-        "url": "https://apps.apple.com/sa/app/rateo-bnpl-tracker/id6809891707?uo=4"
-      },
-      {
         "id": "6502258181",
         "name": "Realtime Budget Haushaltsbuch",
         "url": "https://apps.apple.com/de/app/realtime-budget-haushaltsbuch/id6502258181?uo=4"
@@ -10920,7 +10855,7 @@
       {
         "id": "1372692219",
         "name": "Registro de gastos",
-        "url": "https://apps.apple.com/es/app/registro-de-gastos/id1372692219?uo=4"
+        "url": "https://apps.apple.com/mx/app/registro-de-gastos/id1372692219?uo=4"
       },
       {
         "id": "6761405252",
@@ -11068,11 +11003,6 @@
         "url": "https://apps.apple.com/gb/app/sabifunds-money-manager/id6757646121?uo=4"
       },
       {
-        "id": "6776103172",
-        "name": "SafeNook: Expense Tracker App",
-        "url": "https://apps.apple.com/ua/app/safenook-expense-tracker-app/id6776103172?uo=4"
-      },
-      {
         "id": "417297468",
         "name": "Safra Empresas: A sua conta PJ",
         "url": "https://apps.apple.com/br/app/safra-empresas-a-sua-conta-pj/id417297468?uo=4"
@@ -11111,6 +11041,16 @@
         "id": "1501316505",
         "name": "Saldo – Debt Tracker & Payoff",
         "url": "https://apps.apple.com/ua/app/saldo-debt-tracker-payoff/id1501316505?uo=4"
+      },
+      {
+        "id": "6832338311",
+        "name": "Saleem Budget | BGT",
+        "url": "https://apps.apple.com/sa/app/saleem-budget-bgt/id6832338311?uo=4"
+      },
+      {
+        "id": "6780082898",
+        "name": "Salo: Finanzas y Gastos",
+        "url": "https://apps.apple.com/es/app/salo-finanzas-y-gastos/id6780082898?uo=4"
       },
       {
         "id": "6795398710",
@@ -11188,6 +11128,11 @@
         "url": "https://apps.apple.com/sa/app/sayve-voice-expense-tracker/id6759616112?uo=4"
       },
       {
+        "id": "6760653127",
+        "name": "SBLO - Gestione Spese",
+        "url": "https://apps.apple.com/it/app/sblo-gestione-spese/id6760653127?uo=4"
+      },
+      {
         "id": "6744235219",
         "name": "sBudget - Haushaltsbuch",
         "url": "https://apps.apple.com/de/app/sbudget-haushaltsbuch/id6744235219?uo=4"
@@ -11243,11 +11188,6 @@
         "url": "https://apps.apple.com/fr/app/sesterce-partage-de-d%C3%A9penses/id1239566667?uo=4"
       },
       {
-        "id": "6742017580",
-        "name": "SetMoney: App Presupuesto",
-        "url": "https://apps.apple.com/es/app/setmoney-app-presupuesto/id6742017580?uo=4"
-      },
-      {
         "id": "6821133434",
         "name": "Shahy — Expense Tracker",
         "url": "https://apps.apple.com/ua/app/shahy-expense-tracker/id6821133434?uo=4"
@@ -11255,7 +11195,7 @@
       {
         "id": "1438462701",
         "name": "Shanshi: Control de Gastos",
-        "url": "https://apps.apple.com/mx/app/shanshi-control-de-gastos/id1438462701?uo=4"
+        "url": "https://apps.apple.com/es/app/shanshi-control-de-gastos/id1438462701?uo=4"
       },
       {
         "id": "6807782459",
@@ -11289,8 +11229,13 @@
       },
       {
         "id": "6762799187",
-        "name": "Shopaholic: Control de Gastos",
-        "url": "https://apps.apple.com/es/app/shopaholic-control-de-gastos/id6762799187?uo=4"
+        "name": "Shopaholic: Ausgabentracker",
+        "url": "https://apps.apple.com/de/app/shopaholic-ausgabentracker/id6762799187?uo=4"
+      },
+      {
+        "id": "6740816591",
+        "name": "Shopping Detox - 買い物依存症克服アプリ",
+        "url": "https://apps.apple.com/jp/app/shopping-detox-%E8%B2%B7%E3%81%84%E7%89%A9%E4%BE%9D%E5%AD%98%E7%97%87%E5%85%8B%E6%9C%8D%E3%82%A2%E3%83%97%E3%83%AA/id6740816591?uo=4"
       },
       {
         "id": "6760808311",
@@ -11346,11 +11291,6 @@
         "id": "6777039726",
         "name": "Simple Finance: Presupuesto",
         "url": "https://apps.apple.com/es/app/simple-finance-presupuesto/id6777039726?uo=4"
-      },
-      {
-        "id": "6746087374",
-        "name": "Simple Income & Expense",
-        "url": "https://apps.apple.com/ua/app/simple-income-expense/id6746087374?uo=4"
       },
       {
         "id": "1545505204",
@@ -11415,7 +11355,7 @@
       {
         "id": "6446384233",
         "name": "Slog - Control de gastos",
-        "url": "https://apps.apple.com/es/app/slog-control-de-gastos/id6446384233?uo=4"
+        "url": "https://apps.apple.com/mx/app/slog-control-de-gastos/id6446384233?uo=4"
       },
       {
         "id": "1519001736",
@@ -11514,8 +11454,8 @@
       },
       {
         "id": "6813841208",
-        "name": "Sollus: Controle Financeiro",
-        "url": "https://apps.apple.com/br/app/sollus-controle-financeiro/id6813841208?uo=4"
+        "name": "Sollus: Expense Tracker",
+        "url": "https://apps.apple.com/ua/app/sollus-expense-tracker/id6813841208?uo=4"
       },
       {
         "id": "6768180136",
@@ -11528,6 +11468,11 @@
         "url": "https://apps.apple.com/id/app/solotax-receipt-organizer/id6759558568?uo=4"
       },
       {
+        "id": "6760371775",
+        "name": "Solvio – Manage Subscriptions",
+        "url": "https://apps.apple.com/sa/app/solvio-manage-subscriptions/id6760371775?uo=4"
+      },
+      {
         "id": "6761313037",
         "name": "Som16 – Harcama ve Bütçe",
         "url": "https://apps.apple.com/tr/app/som16-harcama-ve-b%C3%BCt%C3%A7e/id6761313037?uo=4"
@@ -11538,9 +11483,9 @@
         "url": "https://apps.apple.com/ua/app/somino-budget-expenses/id6755626143?uo=4"
       },
       {
-        "id": "1595389624",
-        "name": "Sono: Debt tracker and manager",
-        "url": "https://apps.apple.com/ua/app/sono-debt-tracker-and-manager/id1595389624?uo=4"
+        "id": "6695762902",
+        "name": "Somosfin",
+        "url": "https://apps.apple.com/es/app/somosfin/id6695762902?uo=4"
       },
       {
         "id": "1559426535",
@@ -11561,11 +11506,6 @@
         "id": "6802032903",
         "name": "Soroka: Shared Family Expenses",
         "url": "https://apps.apple.com/ua/app/soroka-shared-family-expenses/id6802032903?uo=4"
-      },
-      {
-        "id": "6802687131",
-        "name": "Sova: Budget & Split Expenses",
-        "url": "https://apps.apple.com/ua/app/sova-budget-split-expenses/id6802687131?uo=4"
       },
       {
         "id": "6825599702",
@@ -11608,14 +11548,19 @@
         "url": "https://apps.apple.com/gb/app/spend-wisely-expense-tracker/id6446032459?uo=4"
       },
       {
+        "id": "1528115172",
+        "name": "Spend-Trend: Spending Tracker",
+        "url": "https://apps.apple.com/gb/app/spend-trend-spending-tracker/id1528115172?uo=4"
+      },
+      {
         "id": "6760961137",
         "name": "Spendaq: Expense Tracker",
         "url": "https://apps.apple.com/us/app/spendaq-expense-tracker/id6760961137?uo=4"
       },
       {
         "id": "1639150541",
-        "name": "Spendar - Control de Gastos",
-        "url": "https://apps.apple.com/es/app/spendar-control-de-gastos/id1639150541?uo=4"
+        "name": "Spendar - Traccia Spese",
+        "url": "https://apps.apple.com/it/app/spendar-traccia-spese/id1639150541?uo=4"
       },
       {
         "id": "6742356962",
@@ -11651,6 +11596,11 @@
         "id": "6476791324",
         "name": "SpendFit Controle de gastos",
         "url": "https://apps.apple.com/br/app/spendfit-controle-de-gastos/id6476791324?uo=4"
+      },
+      {
+        "id": "6771418134",
+        "name": "SpendFlex: Control de Gastos",
+        "url": "https://apps.apple.com/es/app/spendflex-control-de-gastos/id6771418134?uo=4"
       },
       {
         "id": "6760630364",
@@ -11723,6 +11673,11 @@
         "url": "https://apps.apple.com/gb/app/spending-tracker-finza/id6756966167?uo=4"
       },
       {
+        "id": "6806290220",
+        "name": "Spending Tracker - FullWallet",
+        "url": "https://apps.apple.com/ua/app/spending-tracker-fullwallet/id6806290220?uo=4"
+      },
+      {
         "id": "6758917375",
         "name": "Spending Tracker - Mochi Money",
         "url": "https://apps.apple.com/gb/app/spending-tracker-mochi-money/id6758917375?uo=4"
@@ -11735,7 +11690,7 @@
       {
         "id": "6474729130",
         "name": "Spending Tracker - Paisa",
-        "url": "https://apps.apple.com/gb/app/spending-tracker-paisa/id6474729130?uo=4"
+        "url": "https://apps.apple.com/ua/app/spending-tracker-paisa/id6474729130?uo=4"
       },
       {
         "id": "6797351835",
@@ -11746,11 +11701,6 @@
         "id": "6800057866",
         "name": "Spending Tracker - WasteLvl",
         "url": "https://apps.apple.com/ua/app/spending-tracker-wastelvl/id6800057866?uo=4"
-      },
-      {
-        "id": "6787469549",
-        "name": "Spending Tracker - YouSpend",
-        "url": "https://apps.apple.com/gb/app/spending-tracker-youspend/id6787469549?uo=4"
       },
       {
         "id": "6477726438",
@@ -11793,14 +11743,19 @@
         "url": "https://apps.apple.com/gb/app/spending-tracker-money-manager/id865818973?uo=4"
       },
       {
-        "id": "6450136724",
-        "name": "Spending Tracker: Bill Split",
-        "url": "https://apps.apple.com/gb/app/spending-tracker-bill-split/id6450136724?uo=4"
-      },
-      {
         "id": "6449218651",
         "name": "Spending Tracker: Budget App",
         "url": "https://apps.apple.com/gb/app/spending-tracker-budget-app/id6449218651?uo=4"
+      },
+      {
+        "id": "6762517856",
+        "name": "Spending Tracker: Budget Pro",
+        "url": "https://apps.apple.com/gb/app/spending-tracker-budget-pro/id6762517856?uo=4"
+      },
+      {
+        "id": "6794938868",
+        "name": "Spending Tracker: Budgets",
+        "url": "https://apps.apple.com/gb/app/spending-tracker-budgets/id6794938868?uo=4"
       },
       {
         "id": "6760102114",
@@ -11848,19 +11803,9 @@
         "url": "https://apps.apple.com/us/app/spendjar-expense-tracker/id6787101923?uo=4"
       },
       {
-        "id": "6762673414",
-        "name": "SpendLens — Expense Tracker",
-        "url": "https://apps.apple.com/sa/app/spendlens-expense-tracker/id6762673414?uo=4"
-      },
-      {
         "id": "6760784989",
         "name": "Spendler: Control de Gastos",
         "url": "https://apps.apple.com/mx/app/spendler-control-de-gastos/id6760784989?uo=4"
-      },
-      {
-        "id": "6826088394",
-        "name": "Spendlet: Expense Tracker",
-        "url": "https://apps.apple.com/sa/app/spendlet-expense-tracker/id6826088394?uo=4"
       },
       {
         "id": "6749477307",
@@ -11899,13 +11844,13 @@
       },
       {
         "id": "1643069871",
-        "name": "Spendmori: Expense Tracker",
-        "url": "https://apps.apple.com/ua/app/spendmori-expense-tracker/id1643069871?uo=4"
+        "name": "Spendmori: Suivi des dépenses",
+        "url": "https://apps.apple.com/fr/app/spendmori-suivi-des-d%C3%A9penses/id1643069871?uo=4"
       },
       {
         "id": "1505752740",
         "name": "SpendNotes - Budget Tracker",
-        "url": "https://apps.apple.com/gb/app/spendnotes-budget-tracker/id1505752740?uo=4"
+        "url": "https://apps.apple.com/us/app/spendnotes-budget-tracker/id1505752740?uo=4"
       },
       {
         "id": "6816113512",
@@ -11924,8 +11869,8 @@
       },
       {
         "id": "6754893380",
-        "name": "Spendry: Presupuesto y Deudas",
-        "url": "https://apps.apple.com/es/app/spendry-presupuesto-y-deudas/id6754893380?uo=4"
+        "name": "Spendry: Budget & Debt Payoff",
+        "url": "https://apps.apple.com/pl/app/spendry-budget-debt-payoff/id6754893380?uo=4"
       },
       {
         "id": "6763090146",
@@ -11975,7 +11920,7 @@
       {
         "id": "6787472760",
         "name": "Spenso: Control de gastos",
-        "url": "https://apps.apple.com/es/app/spenso-control-de-gastos/id6787472760?uo=4"
+        "url": "https://apps.apple.com/mx/app/spenso-control-de-gastos/id6787472760?uo=4"
       },
       {
         "id": "6449729260",
@@ -11984,8 +11929,13 @@
       },
       {
         "id": "6451388338",
-        "name": "Spent Pro: Spending Tracker",
-        "url": "https://apps.apple.com/gb/app/spent-pro-spending-tracker/id6451388338?uo=4"
+        "name": "Spent Pro: Control de Gastos",
+        "url": "https://apps.apple.com/mx/app/spent-pro-control-de-gastos/id6451388338?uo=4"
+      },
+      {
+        "id": "6762553615",
+        "name": "Spent. — Spending Tracker",
+        "url": "https://apps.apple.com/gb/app/spent-spending-tracker/id6762553615?uo=4"
       },
       {
         "id": "6790070790",
@@ -12055,7 +12005,7 @@
       {
         "id": "6501984581",
         "name": "Splital - Gastos compartidos",
-        "url": "https://apps.apple.com/mx/app/splital-gastos-compartidos/id6501984581?uo=4"
+        "url": "https://apps.apple.com/es/app/splital-gastos-compartidos/id6501984581?uo=4"
       },
       {
         "id": "6752357166",
@@ -12093,11 +12043,6 @@
         "url": "https://apps.apple.com/gb/app/standard-life/id485692917?uo=4"
       },
       {
-        "id": "6774798741",
-        "name": "Stash: Ahorro y Presupuesto",
-        "url": "https://apps.apple.com/es/app/stash-ahorro-y-presupuesto/id6774798741?uo=4"
-      },
-      {
         "id": "6792222351",
         "name": "SteerLog: Car Maintenance Log",
         "url": "https://apps.apple.com/id/app/steerlog-car-maintenance-log/id6792222351?uo=4"
@@ -12109,13 +12054,8 @@
       },
       {
         "id": "6443617088",
-        "name": "Stippl: Planeador de viagens",
-        "url": "https://apps.apple.com/br/app/stippl-planeador-de-viagens/id6443617088?uo=4"
-      },
-      {
-        "id": "6743198415",
-        "name": "Subbie: control de gastos",
-        "url": "https://apps.apple.com/es/app/subbie-control-de-gastos/id6743198415?uo=4"
+        "name": "Stippl: Planificador de viajes",
+        "url": "https://apps.apple.com/es/app/stippl-planificador-de-viajes/id6443617088?uo=4"
       },
       {
         "id": "6793098783",
@@ -12141,6 +12081,11 @@
         "id": "6741497228",
         "name": "Subflow",
         "url": "https://apps.apple.com/fr/app/subflow/id6741497228?uo=4"
+      },
+      {
+        "id": "6759504706",
+        "name": "SubGuard: Subs & Bill Tracker",
+        "url": "https://apps.apple.com/sa/app/subguard-subs-bill-tracker/id6759504706?uo=4"
       },
       {
         "id": "6773185995",
@@ -12178,6 +12123,11 @@
         "url": "https://apps.apple.com/pl/app/subscard-subscriptions/id6772262004?uo=4"
       },
       {
+        "id": "6761388691",
+        "name": "Subscription Manager - Subi",
+        "url": "https://apps.apple.com/sa/app/subscription-manager-subi/id6761388691?uo=4"
+      },
+      {
         "id": "6593692260",
         "name": "Subscription Manager:SubTracky",
         "url": "https://apps.apple.com/gb/app/subscription-manager-subtracky/id6593692260?uo=4"
@@ -12208,6 +12158,16 @@
         "url": "https://apps.apple.com/in/app/subscription-tracker-subaxe/id6762475711?uo=4"
       },
       {
+        "id": "6791034748",
+        "name": "Subscription Tracker: Subwize",
+        "url": "https://apps.apple.com/sa/app/subscription-tracker-subwize/id6791034748?uo=4"
+      },
+      {
+        "id": "6771217083",
+        "name": "Subscriptions: SubscSmart",
+        "url": "https://apps.apple.com/sa/app/subscriptions-subscsmart/id6771217083?uo=4"
+      },
+      {
         "id": "1499253615",
         "name": "Subsee - Suivi des abonnements",
         "url": "https://apps.apple.com/fr/app/subsee-suivi-des-abonnements/id1499253615?uo=4"
@@ -12223,9 +12183,14 @@
         "url": "https://apps.apple.com/ua/app/subsi-budget-subscriptions/id6831991844?uo=4"
       },
       {
+        "id": "6775276401",
+        "name": "Subside: Subscription Tracker",
+        "url": "https://apps.apple.com/sa/app/subside-subscription-tracker/id6775276401?uo=4"
+      },
+      {
         "id": "6770454914",
         "name": "SubTap - control de gastos",
-        "url": "https://apps.apple.com/es/app/subtap-control-de-gastos/id6770454914?uo=4"
+        "url": "https://apps.apple.com/mx/app/subtap-control-de-gastos/id6770454914?uo=4"
       },
       {
         "id": "6799461719",
@@ -12236,11 +12201,6 @@
         "id": "6743262488",
         "name": "Subtrack - 訂閱管理器",
         "url": "https://apps.apple.com/tw/app/subtrack-%E8%A8%82%E9%96%B1%E7%AE%A1%E7%90%86%E5%99%A8/id6743262488?uo=4"
-      },
-      {
-        "id": "6758315517",
-        "name": "Subty: Subscription Tracker",
-        "url": "https://apps.apple.com/sa/app/subty-subscription-tracker/id6758315517?uo=4"
       },
       {
         "id": "6751438405",
@@ -12288,14 +12248,14 @@
         "url": "https://apps.apple.com/fr/app/suivi-des-d%C3%A9penses-pennyway/id6818782789?uo=4"
       },
       {
-        "id": "6814659277",
-        "name": "Suivi des dépenses - PLYVA",
-        "url": "https://apps.apple.com/fr/app/suivi-des-d%C3%A9penses-plyva/id6814659277?uo=4"
+        "id": "6747969419",
+        "name": "Suivi des Dépenses - Ulik",
+        "url": "https://apps.apple.com/fr/app/suivi-des-d%C3%A9penses-ulik/id6747969419?uo=4"
       },
       {
-        "id": "6770228480",
-        "name": "Suivi des dépenses : Finances",
-        "url": "https://apps.apple.com/fr/app/suivi-des-d%C3%A9penses-finances/id6770228480?uo=4"
+        "id": "6446326708",
+        "name": "Suivi des dépenses: ColorMoney",
+        "url": "https://apps.apple.com/fr/app/suivi-des-d%C3%A9penses-colormoney/id6446326708?uo=4"
       },
       {
         "id": "6497716781",
@@ -12314,8 +12274,8 @@
       },
       {
         "id": "6757820811",
-        "name": "SUM+= Control de Gastos Simple",
-        "url": "https://apps.apple.com/es/app/sum-control-de-gastos-simple/id6757820811?uo=4"
+        "name": "SUM+= Einfaches Haushaltsbuch",
+        "url": "https://apps.apple.com/de/app/sum-einfaches-haushaltsbuch/id6757820811?uo=4"
       },
       {
         "id": "6785626803",
@@ -12344,8 +12304,8 @@
       },
       {
         "id": "6746765324",
-        "name": "Summa: Presupuesto y Gastos",
-        "url": "https://apps.apple.com/es/app/summa-presupuesto-y-gastos/id6746765324?uo=4"
+        "name": "Summa: Budget & Suivi Dépenses",
+        "url": "https://apps.apple.com/fr/app/summa-budget-suivi-d%C3%A9penses/id6746765324?uo=4"
       },
       {
         "id": "6788836198",
@@ -12459,8 +12419,8 @@
       },
       {
         "id": "6799991777",
-        "name": "Talvo : Budget, Suivi Dépenses",
-        "url": "https://apps.apple.com/fr/app/talvo-budget-suivi-d%C3%A9penses/id6799991777?uo=4"
+        "name": "Talvo: Control de Gastos",
+        "url": "https://apps.apple.com/es/app/talvo-control-de-gastos/id6799991777?uo=4"
       },
       {
         "id": "6760482727",
@@ -12469,8 +12429,8 @@
       },
       {
         "id": "6799651154",
-        "name": "TaoBook: Controle de gastos",
-        "url": "https://apps.apple.com/br/app/taobook-controle-de-gastos/id6799651154?uo=4"
+        "name": "TaoBook: Expense Tracker",
+        "url": "https://apps.apple.com/ua/app/taobook-expense-tracker/id6799651154?uo=4"
       },
       {
         "id": "6769601354",
@@ -12489,8 +12449,8 @@
       },
       {
         "id": "6779922633",
-        "name": "Tappel — control de gastos",
-        "url": "https://apps.apple.com/es/app/tappel-control-de-gastos/id6779922633?uo=4"
+        "name": "Tappel — suivi des dépenses",
+        "url": "https://apps.apple.com/fr/app/tappel-suivi-des-d%C3%A9penses/id6779922633?uo=4"
       },
       {
         "id": "6777520962",
@@ -12528,11 +12488,6 @@
         "url": "https://apps.apple.com/us/app/tdf-tracker/id290803600?uo=4"
       },
       {
-        "id": "947434621",
-        "name": "Telepass Business",
-        "url": "https://apps.apple.com/it/app/telepass-business/id947434621?uo=4"
-      },
-      {
         "id": "6747688177",
         "name": "Temfy - Daily Budget & Expense",
         "url": "https://apps.apple.com/id/app/temfy-daily-budget-expense/id6747688177?uo=4"
@@ -12549,8 +12504,8 @@
       },
       {
         "id": "6476141161",
-        "name": "The Budget: Spending Tracker",
-        "url": "https://apps.apple.com/gb/app/the-budget-spending-tracker/id6476141161?uo=4"
+        "name": "The Budget: Suivi des dépenses",
+        "url": "https://apps.apple.com/fr/app/the-budget-suivi-des-d%C3%A9penses/id6476141161?uo=4"
       },
       {
         "id": "6451038723",
@@ -12559,8 +12514,8 @@
       },
       {
         "id": "6772835632",
-        "name": "Thor: Controle de Gastos",
-        "url": "https://apps.apple.com/es/app/thor-controle-de-gastos/id6772835632?uo=4"
+        "name": "Thor: Haushaltsbuch mit KI",
+        "url": "https://apps.apple.com/de/app/thor-haushaltsbuch-mit-ki/id6772835632?uo=4"
       },
       {
         "id": "6779286706",
@@ -12595,17 +12550,32 @@
       {
         "id": "6807088867",
         "name": "Topf: Expense Tracker",
-        "url": "https://apps.apple.com/pl/app/topf-expense-tracker/id6807088867?uo=4"
+        "url": "https://apps.apple.com/ua/app/topf-expense-tracker/id6807088867?uo=4"
       },
       {
         "id": "921590251",
-        "name": "Toshl Finance - Best Budget",
-        "url": "https://apps.apple.com/us/app/toshl-finance-best-budget/id921590251?uo=4"
+        "name": "Toshl Finanzas - mis cuentas",
+        "url": "https://apps.apple.com/es/app/toshl-finanzas-mis-cuentas/id921590251?uo=4"
       },
       {
         "id": "673659438",
         "name": "Trabee: Holiday Budget Tracker",
         "url": "https://apps.apple.com/gb/app/trabee-holiday-budget-tracker/id673659438?uo=4"
+      },
+      {
+        "id": "1503981425",
+        "name": "Track & Control Your Spending",
+        "url": "https://apps.apple.com/gb/app/track-control-your-spending/id1503981425?uo=4"
+      },
+      {
+        "id": "6760190421",
+        "name": "Track Budget – Money Tracker",
+        "url": "https://apps.apple.com/tr/app/track-budget-money-tracker/id6760190421?uo=4"
+      },
+      {
+        "id": "1636232810",
+        "name": "Track Spending - Numi",
+        "url": "https://apps.apple.com/id/app/track-spending-numi/id1636232810?uo=4"
       },
       {
         "id": "1465336706",
@@ -12631,6 +12601,11 @@
         "id": "6762465344",
         "name": "Trackle: Gastos y presupuesto",
         "url": "https://apps.apple.com/es/app/trackle-gastos-y-presupuesto/id6762465344?uo=4"
+      },
+      {
+        "id": "6753102351",
+        "name": "TrackMyCafe: Easy Cafe Book",
+        "url": "https://apps.apple.com/ua/app/trackmycafe-easy-cafe-book/id6753102351?uo=4"
       },
       {
         "id": "6742431318",
@@ -12684,18 +12659,13 @@
       },
       {
         "id": "6745130463",
-        "name": "Trente - Presupuesto 50/30/20",
-        "url": "https://apps.apple.com/es/app/trente-presupuesto-50-30-20/id6745130463?uo=4"
+        "name": "Trente - Budget 50/30/20",
+        "url": "https://apps.apple.com/fr/app/trente-budget-50-30-20/id6745130463?uo=4"
       },
       {
         "id": "6462230497",
         "name": "TrenteVingt, Presupuesto Fácil",
         "url": "https://apps.apple.com/es/app/trentevingt-presupuesto-f%C3%A1cil/id6462230497?uo=4"
-      },
-      {
-        "id": "6766937646",
-        "name": "Trevo – Gastos Organizados",
-        "url": "https://apps.apple.com/es/app/trevo-gastos-organizados/id6766937646?uo=4"
       },
       {
         "id": "6789192865",
@@ -12758,11 +12728,6 @@
         "url": "https://apps.apple.com/br/app/trudget-controle-de-gastos/id6760552476?uo=4"
       },
       {
-        "id": "1474062907",
-        "name": "TS Facturas (antes Billin)",
-        "url": "https://apps.apple.com/es/app/ts-facturas-antes-billin/id1474062907?uo=4"
-      },
-      {
         "id": "6793529272",
         "name": "Tutar – Voice Expense Tracker",
         "url": "https://apps.apple.com/tr/app/tutar-voice-expense-tracker/id6793529272?uo=4"
@@ -12784,8 +12749,8 @@
       },
       {
         "id": "1464366693",
-        "name": "uBudget: Planificador Financie",
-        "url": "https://apps.apple.com/es/app/ubudget-planificador-financie/id1464366693?uo=4"
+        "name": "uBudget: Suivi Des Finances",
+        "url": "https://apps.apple.com/fr/app/ubudget-suivi-des-finances/id1464366693?uo=4"
       },
       {
         "id": "6803240983",
@@ -12836,6 +12801,11 @@
         "id": "6773009781",
         "name": "Veyno: Haushaltsbuch & Budget",
         "url": "https://apps.apple.com/de/app/veyno-haushaltsbuch-budget/id6773009781?uo=4"
+      },
+      {
+        "id": "6787737771",
+        "name": "Veyro: Expense Tracker",
+        "url": "https://apps.apple.com/ua/app/veyro-expense-tracker/id6787737771?uo=4"
       },
       {
         "id": "6759209810",
@@ -12953,11 +12923,6 @@
         "url": "https://apps.apple.com/tr/app/waia-ai-wealth-assistant/id6759988527?uo=4"
       },
       {
-        "id": "6829154354",
-        "name": "Waleeta - Budget Planner",
-        "url": "https://apps.apple.com/sa/app/waleeta-budget-planner/id6829154354?uo=4"
-      },
-      {
         "id": "6761514471",
         "name": "WalleK: Expenses & Budget",
         "url": "https://apps.apple.com/tr/app/wallek-expenses-budget/id6761514471?uo=4"
@@ -13011,11 +12976,6 @@
         "id": "6814272695",
         "name": "Wallet: Spending Tracker",
         "url": "https://apps.apple.com/sa/app/wallet-spending-tracker/id6814272695?uo=4"
-      },
-      {
-        "id": "6745623612",
-        "name": "WalletBar - costs and budget",
-        "url": "https://apps.apple.com/ua/app/walletbar-costs-and-budget/id6745623612?uo=4"
       },
       {
         "id": "1562232508",
@@ -13083,11 +13043,6 @@
         "url": "https://apps.apple.com/id/app/wangku-wangku-money-tracker/id6817650644?uo=4"
       },
       {
-        "id": "6772315841",
-        "name": "Warden Tycoon: Prison Manager",
-        "url": "https://apps.apple.com/sa/app/warden-tycoon-prison-manager/id6772315841?uo=4"
-      },
-      {
         "id": "1550575031",
         "name": "Warikani - ふたり専用の割り勘・家計簿アプリ",
         "url": "https://apps.apple.com/jp/app/warikani-%E3%81%B5%E3%81%9F%E3%82%8A%E5%B0%82%E7%94%A8%E3%81%AE%E5%89%B2%E3%82%8A%E5%8B%98-%E5%AE%B6%E8%A8%88%E7%B0%BF%E3%82%A2%E3%83%97%E3%83%AA/id1550575031?uo=4"
@@ -13096,6 +13051,16 @@
         "id": "6752341613",
         "name": "Wasted - 예산 관리",
         "url": "https://apps.apple.com/kr/app/wasted-%EC%98%88%EC%82%B0-%EA%B4%80%EB%A6%AC/id6752341613?uo=4"
+      },
+      {
+        "id": "6781432747",
+        "name": "Waypoint Bill & Budget Planner",
+        "url": "https://apps.apple.com/us/app/waypoint-bill-budget-planner/id6781432747?uo=4"
+      },
+      {
+        "id": "6760236870",
+        "name": "Wazen",
+        "url": "https://apps.apple.com/sa/app/wazen/id6760236870?uo=4"
       },
       {
         "id": "6767637324",
@@ -13131,6 +13096,11 @@
         "id": "6753893326",
         "name": "WeBudget: Haushaltsbuch",
         "url": "https://apps.apple.com/de/app/webudget-haushaltsbuch/id6753893326?uo=4"
+      },
+      {
+        "id": "6820069066",
+        "name": "Weddea: organiza tu boda",
+        "url": "https://apps.apple.com/es/app/weddea-organiza-tu-boda/id6820069066?uo=4"
       },
       {
         "id": "1499066315",
@@ -13198,11 +13168,6 @@
         "url": "https://apps.apple.com/pl/app/wesele-love-planer-wesela/id6833496285?uo=4"
       },
       {
-        "id": "6760176874",
-        "name": "WeSpend - Snap or chat to log",
-        "url": "https://apps.apple.com/ua/app/wespend-snap-or-chat-to-log/id6760176874?uo=4"
-      },
-      {
         "id": "6764534444",
         "name": "WeStash: Budget & Savings",
         "url": "https://apps.apple.com/ua/app/westash-budget-savings/id6764534444?uo=4"
@@ -13260,7 +13225,7 @@
       {
         "id": "6502789158",
         "name": "WiseWallet – Expense Tracker",
-        "url": "https://apps.apple.com/ua/app/wisewallet-expense-tracker/id6502789158?uo=4"
+        "url": "https://apps.apple.com/gb/app/wisewallet-expense-tracker/id6502789158?uo=4"
       },
       {
         "id": "6755149953",
@@ -13325,7 +13290,12 @@
       {
         "id": "6670318981",
         "name": "X-Money: All Your Money Moves",
-        "url": "https://apps.apple.com/sa/app/x-money-all-your-money-moves/id6670318981?uo=4"
+        "url": "https://apps.apple.com/es/app/x-money-all-your-money-moves/id6670318981?uo=4"
+      },
+      {
+        "id": "6752243476",
+        "name": "xBudget: Budget Planner",
+        "url": "https://apps.apple.com/us/app/xbudget-budget-planner/id6752243476?uo=4"
       },
       {
         "id": "1566375439",
@@ -13364,13 +13334,8 @@
       },
       {
         "id": "6758277598",
-        "name": "Yavo: Haushaltsbuch & Budget",
-        "url": "https://apps.apple.com/de/app/yavo-haushaltsbuch-budget/id6758277598?uo=4"
-      },
-      {
-        "id": "6797014022",
-        "name": "Yearn: Paycheck Budget Planner",
-        "url": "https://apps.apple.com/us/app/yearn-paycheck-budget-planner/id6797014022?uo=4"
+        "name": "Yavo: Voice Budget Tracker",
+        "url": "https://apps.apple.com/ua/app/yavo-voice-budget-tracker/id6758277598?uo=4"
       },
       {
         "id": "6819653146",
@@ -13383,6 +13348,11 @@
         "url": "https://apps.apple.com/tr/app/yetiyor-b%C3%BCt%C3%A7e-harcama-takibi/id6816652219?uo=4"
       },
       {
+        "id": "1637487132",
+        "name": "Yimi TPV Hostelería y Comercio",
+        "url": "https://apps.apple.com/es/app/yimi-tpv-hosteler%C3%ADa-y-comercio/id1637487132?uo=4"
+      },
+      {
         "id": "1010865877",
         "name": "YNAB",
         "url": "https://apps.apple.com/us/app/ynab/id1010865877?uo=4"
@@ -13391,11 +13361,6 @@
         "id": "1480083742",
         "name": "Yoaso - 夜遊び記録・支出管理",
         "url": "https://apps.apple.com/jp/app/yoaso-%E5%A4%9C%E9%81%8A%E3%81%B3%E8%A8%98%E9%8C%B2-%E6%94%AF%E5%87%BA%E7%AE%A1%E7%90%86/id1480083742?uo=4"
-      },
-      {
-        "id": "6758911454",
-        "name": "YoBudget",
-        "url": "https://apps.apple.com/ua/app/yobudget/id6758911454?uo=4"
       },
       {
         "id": "6757447181",
@@ -13434,8 +13399,8 @@
       },
       {
         "id": "6791092293",
-        "name": "Zeebro: Controla tus gastos",
-        "url": "https://apps.apple.com/es/app/zeebro-controla-tus-gastos/id6791092293?uo=4"
+        "name": "Zeebro: Controle seus gastos",
+        "url": "https://apps.apple.com/br/app/zeebro-controle-seus-gastos/id6791092293?uo=4"
       },
       {
         "id": "6748863539",
@@ -13481,6 +13446,11 @@
         "id": "6824071195",
         "name": "Zhyto",
         "url": "https://apps.apple.com/ua/app/zhyto/id6824071195?uo=4"
+      },
+      {
+        "id": "413017364",
+        "name": "Zoho Invoice: facturación",
+        "url": "https://apps.apple.com/es/app/zoho-invoice-facturaci%C3%B3n/id413017364?uo=4"
       },
       {
         "id": "1555277097",
@@ -13658,11 +13628,6 @@
         "url": "https://apps.apple.com/sa/app/%D8%B1%D9%8A%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9/id6802085115?uo=4"
       },
       {
-        "id": "6829485340",
-        "name": "صرفك - Sarfak",
-        "url": "https://apps.apple.com/sa/app/%D8%B5%D8%B1%D9%81%D9%83-sarfak/id6829485340?uo=4"
-      },
-      {
         "id": "6744869473",
         "name": "عريف: تتبع المصاريف",
         "url": "https://apps.apple.com/sa/app/%D8%B9%D8%B1%D9%8A%D9%81-%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%B1%D9%8A%D9%81/id6744869473?uo=4"
@@ -13771,11 +13736,6 @@
         "id": "6760277519",
         "name": "يوم ذكي - smart day",
         "url": "https://apps.apple.com/sa/app/%D9%8A%D9%88%D9%85-%D8%B0%D9%83%D9%8A-smart-day/id6760277519?uo=4"
-      },
-      {
-        "id": "1051218771",
-        "name": "‎Bookkeeping",
-        "url": "https://apps.apple.com/tr/app/bookkeeping/id1051218771?uo=4"
       },
       {
         "id": "6807061647",
@@ -14551,11 +14511,6 @@
         "id": "6820410202",
         "name": "封筒貯金 袋分け貯金",
         "url": "https://apps.apple.com/jp/app/%E5%B0%81%E7%AD%92%E8%B2%AF%E9%87%91-%E8%A2%8B%E5%88%86%E3%81%91%E8%B2%AF%E9%87%91/id6820410202?uo=4"
-      },
-      {
-        "id": "1550552151",
-        "name": "小商業會計 - 理財記帳管家",
-        "url": "https://apps.apple.com/tw/app/%E5%B0%8F%E5%95%86%E6%A5%AD%E6%9C%83%E8%A8%88-%E7%90%86%E8%B2%A1%E8%A8%98%E5%B8%B3%E7%AE%A1%E5%AE%B6/id1550552151?uo=4"
       },
       {
         "id": "6781158050",
@@ -15386,6 +15341,11 @@
         "id": "6751098031",
         "name": "목표 저축 달력: 돈 모으기, 용돈 관리와 작은 저금통",
         "url": "https://apps.apple.com/kr/app/%EB%AA%A9%ED%91%9C-%EC%A0%80%EC%B6%95-%EB%8B%AC%EB%A0%A5-%EB%8F%88-%EB%AA%A8%EC%9C%BC%EA%B8%B0-%EC%9A%A9%EB%8F%88-%EA%B4%80%EB%A6%AC%EC%99%80-%EC%9E%91%EC%9D%80-%EC%A0%80%EA%B8%88%ED%86%B5/id6751098031?uo=4"
+      },
+      {
+        "id": "6823374558",
+        "name": "몽글가계부 - 귀여운 지출 달력",
+        "url": "https://apps.apple.com/kr/app/%EB%AA%BD%EA%B8%80%EA%B0%80%EA%B3%84%EB%B6%80-%EA%B7%80%EC%97%AC%EC%9A%B4-%EC%A7%80%EC%B6%9C-%EB%8B%AC%EB%A0%A5/id6823374558?uo=4"
       },
       {
         "id": "6805264271",
